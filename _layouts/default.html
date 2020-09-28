@@ -80,7 +80,10 @@
     </div>
   </div>
 
-  {% if page_version_number != site.latest_version_number %}
+  {%- assign oldest_stable_version = site.oldest_stable_version
+    | default: site.latest_version_number -%}
+  {% if page_version_number < oldest_stable_version or
+    page_version_number > site.latest_version_number %}
   {%- if page_version_number > site.latest_version_number -%}
   {%- capture wip_class -%}wip{%- endcapture -%}
   {%- endif -%}

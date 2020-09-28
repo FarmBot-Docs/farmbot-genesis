@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 baseurl: /farmbot-genesis
 color: '#783f04'
+oldest_stable_version: 1.2
 latest_version_number: 1.5
 version_factor: 10.0
 plugins:
