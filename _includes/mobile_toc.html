@@ -1,0 +1,27 @@
+{%- for item in include.toc -%}
+{% if item.top %}
+<optgroup label="{{ item.title }}">
+  {% else %}
+  {%- capture v_url -%}
+  v{{ include.version }}{{ include.path }}/{{ item.url }}
+  {%- endcapture -%}
+  <option value="{%- if item.external -%}
+  {{ item.url }}
+  {%- else -%}
+  {{ v_url | relative_url }}
+  {%- endif -%}">
+    {%- assign
+      depth_int = include.path | split: '/' | join: ' ' | number_of_words -%}
+    {%- if depth_int > 1 -%}&nbsp;&nbsp;&nbsp;{%- endif -%}
+    {{ item.title }}
+    {%- if item.external -%}&nbsp;(external link){%- endif -%}
+  </option>
+  {% endif %}
+  {%- if item.pages -%}
+  {%- capture path -%}{{ include.path }}/{{ item.url }}{%- endcapture -%}
+  {%- include mobile_toc.html toc=item.pages path=path version=include.version -%}
+  {%- endif -%}
+  {%- if item.top -%}
+</optgroup>
+{%- endif -%}
+{%- endfor -%}

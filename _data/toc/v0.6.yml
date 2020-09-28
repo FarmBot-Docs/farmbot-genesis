@@ -1,0 +1,40 @@
+version_number: 0.6
+status: deprecated
+home: FarmBot-Genesis-Overview/getting-started
+contents:
+  - title: Farmbot Genesis Overview
+    url: FarmBot-Genesis-Overview
+    top: true
+    pages:
+      - title: Intro
+        url: getting-started
+      - title: High Level Architecture
+        url: high-level-architecture
+      - title: Raised Tracks vs Low Tracks
+        url: raised-tracks-vs-low-tracks
+      - title: Versions
+        url: versions
+  - title: V0 6 Documentation
+    url: V0-6-Documentation
+    top: true
+    pages:
+      - title: What's New in V0.6
+        url: intro
+      - title: Tracks
+        url: tracks
+      - title: Gantry
+        url: gantry
+      - title: Cross-Slide
+        url: cross-slide
+      - title: Z-Axis
+        url: z-axis
+      - title: Tools
+        url: tools
+      - title: Electronics
+        url: electronics
+      - title: Universal Tool Mount
+        url: universal-tool-mount
+      - title: CAD Files
+        url: cad-files
+      - title: Bill of Materials
+        url: bill-of-materials

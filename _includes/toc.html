@@ -1,0 +1,26 @@
+<ul class="{% if item.pages and item.top != true %}pages{% endif %}">
+  {%- for item in include.toc -%}
+  {%- if item.top -%}
+  <h3>{{ item.title }}</h3>
+  {%- else -%}
+  <li class="{% if item.pages %}parent{% endif %}">
+    {%- if item.external -%}
+    <a href="{{ item.url }}">{{ item.title }}
+      <i class="fa fa-external-link-square"></i>
+    </a>
+    {%- else -%}
+    {%- capture v_url -%}
+    v{{ include.version }}{{ include.path }}/{{ item.url }}
+    {%- endcapture -%}
+    <a class="{%- if include.current contains v_url -%}current{%- endif -%}"
+      href="{{ v_url | relative_url }}">{{ item.title }}</a>
+    {% endif %}
+  </li>
+  {%- endif -%}
+  {% if item.pages %}
+  {% capture path %}{{ include.path }}/{{ item.url }}{% endcapture %}
+  {% include toc.html toc=item.pages path=path current=include.current
+    version=include.version %}
+  {% endif %}
+  {%- endfor -%}
+</ul>

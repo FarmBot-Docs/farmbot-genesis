@@ -1,0 +1,140 @@
+version_number: 1.0
+status: deprecated
+home: FarmBot-Genesis-V1-0/intro
+contents:
+  - title: Farmbot Genesis V1 0
+    url: FarmBot-Genesis-V1-0
+    top: true
+    pages:
+      - title: Intro to FarmBot Genesis
+        url: intro
+      - title: Supporting Infrastructure
+        url: supporting-infrastructure
+        pages:
+          - title: Building a Raised Bed
+            url: building-a-raised-bed
+          - title: Setting up Wooden Posts Only
+            url: setting-up-wooden-posts-only
+      - title: Tracks
+        url: tracks
+        pages:
+          - title: Track Maintenance
+            url: track-maintenance
+          - title: Assemble the Tracks
+            url: assemble-the-tracks
+      - title: Gantry
+        url: gantry
+        pages:
+          - title: Construct the Gantry Structure
+            url: construct-the-gantry-structure
+          - title: Attach the Drivetrain
+            url: attach-the-drivetrain
+          - title: Feed and Secure the Belts
+            url: feed-and-secure-the-belts
+          - title: Assemble the Gantry Plates
+            url: assemble-the-gantry-plates
+      - title: Cross-Slide
+        url: cross-slide
+        pages:
+          - title: Install the Cross-Slide on the Gantry
+            url: install-the-cross-slide-on-the-gantry
+          - title: Cross-Slide Assembly
+            url: cross-slide-assembly
+      - title: Z-Axis
+        url: z-axis
+        pages:
+          - title: Assemble the Z-Axis
+            url: assemble-the-z-axis
+          - title: Install the Z-Axis
+            url: install-the-z-axis
+      - title: Tools
+        url: tools
+        pages:
+          - title: Camera
+            url: camera
+          - title: Seed Injector
+            url: seed-injector
+          - title: Watering Nozzle
+            url: watering-nozzle
+          - title: Weeder
+            url: weeder
+          - title: Soil Sensor
+            url: soil-sensor
+          - title: Tool Bay
+            url: tool-bay
+      - title: Electronics
+        url: electronics
+        pages:
+          - title: Install the cables and tubing
+            url: install-the-cables-and-tubing
+          - title: Assemble the Electronics Plate
+            url: assemble-the-electronics-plate
+          - title: Plug Everything In
+            url: plug-everything-in
+      - title: Universal Tool Mount
+        url: universal-tool-mount
+        pages:
+          - title: Assemble the UTM
+            url: assemble-the-utm
+          - title: Install the UTM and Cover
+            url: install-the-utm-and-cover
+      - title: Mods and Add-Ons
+        url: mods-and-add-ons
+        pages:
+          - title: Capture and Use Rainwater
+            url: capture-and-use-rainwater
+          - title: Power FarmBot with Solar
+            url: power-farmbot-with-solar
+          - title: Turn FarmBot into a Weather Station
+            url: turn-farmbot-into-a-weather-station
+          - title: Monitor Resource Usage
+            url: monitor-resource-usage
+          - title: Use FarmBot as a 3D CNC Camera Rig
+            url: use-farmbot-as-a-3d-cnc-camera-rig
+          - title: Complete the Cycle with Compost
+            url: complete-the-cycle-with-compost
+          - title: Bees, Worms, Chickens, and More!
+            url: bees-worms-chickens-and-more
+          - title: Take Time Lapse Plant Photography
+            url: take-time-lapse-plant-photography
+          - title: Put FarmBot in a Greenhouse
+            url: put-farmbot-in-a-greenhouse
+          - title: Control Lights with FarmBot
+            url: control-lights-with-farmbot
+          - title: Add a Webcam to FarmBot
+            url: add-a-webcam-to-farmbot
+  - title: Reference Docs
+    url: Reference-Docs
+    top: true
+    pages:
+      - title: Assembly Preparation
+        url: assembly-preparation
+      - title: Belt Clip Installation
+        url: belt-clip-installation
+      - title: CAD Models
+        url: cad-models
+      - title: Assemble the V-Wheels
+        url: assemble-the-v-wheels-1
+      - title: Bill of Materials
+        url: bill-of-materials
+        pages:
+          - title: Extrusions
+            url: extrusions
+          - title: Fasteners and Hardware
+            url: fasteners-and-hardware
+          - title: Drivetrain
+            url: drivetrain
+          - title: Electronics and Wiring
+            url: electronics-and-wiring
+          - title: Tubing
+            url: tubing
+          - title: Shopping List
+            url: shopping-list
+          - title: Plates
+            url: plates
+          - title: 3D Prints
+            url: 3d-prints
+          - title: Miscellaneous
+            url: miscellaneous
+      - title: Maintenance Guide
+        url: maintenance-guide

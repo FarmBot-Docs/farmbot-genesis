@@ -1,0 +1,171 @@
+version_number: 1.3
+status: deprecated
+home: FarmBot-Genesis-V1-3/intro
+contents:
+  - title: Farmbot Genesis V1 3
+    url: FarmBot-Genesis-V1-3
+    top: true
+    pages:
+      - title: Intro to FarmBot Genesis
+        url: intro
+        pages:
+          - title: High Level Overview
+            url: high-level-overview
+          - title: Change Log
+            url: change-log
+          - title: Assembly Preparation
+            url: assembly-preparation
+          - title: Past Versions
+            url: past-versions
+      - title: Tracks
+        url: tracks
+        pages:
+          - title: Building a Raised Bed
+            url: building-a-raised-bed
+          - title: Setting up Wooden Posts Only
+            url: setting-up-wooden-posts-only
+          - title: Assemble the Tracks
+            url: assemble-the-tracks
+      - title: Gantry
+        url: gantry
+        pages:
+          - title: Assemble the Gantry Wheel Plates
+            url: assemble-the-gantry-wheel-plates
+          - title: Construct the Gantry Structure
+            url: construct-the-gantry-structure
+          - title: Attach the Drivetrain
+            url: attach-the-drivetrain
+          - title: Feed and Secure the Belts
+            url: feed-and-secure-the-belts
+      - title: Cross-Slide
+        url: cross-slide
+        pages:
+          - title: Install the Cross-Slide on the Gantry
+            url: install-the-cross-slide-on-the-gantry
+          - title: Cross-Slide Assembly
+            url: cross-slide-assembly
+      - title: Z-Axis
+        url: z-axis
+        pages:
+          - title: Assemble the Z-Axis
+            url: assemble-the-z-axis
+          - title: Install the Z-Axis
+            url: install-the-z-axis
+      - title: Cables and Tubing
+        url: cables-and-tubing
+        pages:
+          - title: X-Axis Cable Carrier
+            url: x-axis-cable-carrier
+          - title: Y-Axis Cable Carrier
+            url: y-axis-cable-carrier
+          - title: Z-Axis Cable Carrier
+            url: z-axis-cable-carrier
+          - title: X-Axis Motors
+            url: x-axis-motors
+          - title: Lighting
+            url: lighting
+      - title: Tools
+        url: tools
+        pages:
+          - title: Camera
+            url: camera
+          - title: Seed Injector
+            url: seed-injector
+          - title: Watering Nozzle
+            url: watering-nozzle
+          - title: Weeder
+            url: weeder
+          - title: Soil Sensor
+            url: soil-sensor
+          - title: Toolbays
+            url: toolbays
+      - title: Universal Tool Mount
+        url: utm
+        pages:
+          - title: Assemble the UTM
+            url: assemble-the-utm
+          - title: Wire up the UTM
+            url: wire-up-the-utm
+      - title: Electronics
+        url: electronics
+        pages:
+          - title: Assemble the Electronics Box
+            url: assemble-the-electronics-box
+          - title: Plug Everything In
+            url: plug-everything-in
+          - title: Attach the Electronics Box
+            url: attach-the-electronics-box
+      - title: Reference Docs
+        url: reference
+        pages:
+          - title: Assemble the V-Wheels
+            url: assemble-the-v-wheels
+          - title: Basic Tool Hardware
+            url: basic-tool-hardware
+          - title: Eccentric Spacer Adjustment
+            url: eccentric-spacer-adjustment
+          - title: Farmduino Peripheral Pin Numbers
+            url: farmduino-peripheral-pin-numbers
+          - title: Seeds
+            url: seeds
+          - title: Belt Clip Installation
+            url: belt-clip-installation
+          - title: Using Teflon Tape
+            url: using-teflon-tape
+  - title: Extras
+    url: Extras
+    top: true
+    pages:
+      - title: CAD Models and Drawings
+        url: cad
+      - title: Maintenance Guide
+        url: maintenance
+      - title: Bill of Materials
+        url: bom
+        pages:
+          - title: Extrusions
+            url: extrusions
+          - title: Plates and Brackets
+            url: plates-and-brackets
+          - title: Plastic Parts
+            url: plastic-parts
+          - title: Fasteners and Hardware
+            url: fasteners-and-hardware
+          - title: Drivetrain
+            url: drivetrain
+          - title: Electronics and Wiring
+            url: electronics-and-wiring
+          - title: Tubing
+            url: tubing
+          - title: Miscellaneous
+            url: miscellaneous
+      - title: Mods and Add-Ons
+        url: mods
+        pages:
+          - title: Capture and Use Rainwater
+            url: capture-and-use-rainwater
+          - title: Power FarmBot with Solar
+            url: power-farmbot-with-solar
+          - title: Turn FarmBot into a Weather Station
+            url: turn-farmbot-into-a-weather-station
+          - title: Monitor Resource Usage
+            url: monitor-resource-usage
+          - title: Use FarmBot as a 3D CNC Camera Rig
+            url: use-farmbot-as-a-3d-cnc-camera-rig
+          - title: Complete the Cycle with Compost
+            url: complete-the-cycle-with-compost
+          - title: Monitor FarmBot with a Webcam
+            url: monitor-farmbot-with-a-webcam
+          - title: Bees, Worms, Chickens, and More!
+            url: bees-worms-chickens-and-more
+          - title: Take Time Lapse Plant Photography
+            url: take-time-lapse-plant-photography
+          - title: Put FarmBot in a Greenhouse
+            url: put-farmbot-in-a-greenhouse
+          - title: Tool Spec
+            url: tool-spec
+          - title: Control Lights with FarmBot
+            url: control-lights-with-farmbot
+      - title: Order FarmBot
+        url: https://farm.bot/shop
+        external: true

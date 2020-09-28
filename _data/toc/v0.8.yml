@@ -1,0 +1,76 @@
+version_number: 0.8
+status: deprecated
+home: V0-8-Documentation/intro
+contents:
+  - title: V0 8 Documentation
+    url: V0-8-Documentation
+    top: true
+    pages:
+      - title: What's New in V0.8
+        url: intro
+      - title: Tracks
+        url: tracks
+      - title: Gantry
+        url: gantry
+      - title: Cross-Slide
+        url: cross-slide
+      - title: Z-Axis
+        url: z-axis
+      - title: Tools
+        url: tools
+      - title: Electronics
+        url: electronics
+      - title: Intro to FarmBot Genesis
+        url: getting-started
+      - title: Universal Tool Mount
+        url: universal-tool-mount
+      - title: CAD Files
+        url: cad-files
+      - title: Bill of Materials
+        url: bill-of-materials
+  - title: V0 8 Assembly Instructions
+    url: V0-8-Assembly-Instructions
+    top: true
+    pages:
+      - title: Assembly Preparation
+        url: assembly-preparation
+      - title: Supporting Infrastructure
+        url: supporting-infrastructure
+      - title: Tracks Assembly
+        url: tracks-assembly
+      - title: Cross-Slide Assembly
+        url: cross-slide-assembly
+      - title: Gantry Assembly
+        url: gantry-assembly
+      - title: Universal Tool Mount Assembly
+        url: universal-tool-mount-assembly
+      - title: Watering Nozzle Assembly
+        url: watering-nozzle-assembly
+      - title: Seed Injector Assembly
+        url: seed-injector-assembly
+      - title: Z-Axis Assembly
+        url: z-axis-assembly
+      - title: Electronics Assembly
+        url: electronics-assembly
+  - title: V0 8 Maintenance And Troubleshooting
+    url: V0-8-Maintenance-and-Troubleshooting
+    top: true
+    pages:
+      - title: General Maintenance
+        url: general-maintenance
+      - title: Track Maintenance
+        url: track-maintenance
+  - title: V0 8 Software Setup
+    url: V0-8-Software-Setup
+    top: true
+    pages:
+      - title: High Level Software Overview
+        url: high-level-software-overview
+      - title: The FarmBot Web App
+        url: the-farmbot-web-app
+      - title: WiFi Configurator
+        url: wifi-configurator
+      - title: Raspberry Pi Software
+        url: raspberry-pi-controller
+      - title: Arduino Firmware
+        url: arduino-firmware

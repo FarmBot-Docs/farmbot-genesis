@@ -1,0 +1,77 @@
+version_number: 0.9
+status: deprecated
+home: FarmBot-Genesis-V0-9-Docs/intro
+contents:
+  - title: Farmbot Genesis V0 9 Docs
+    url: FarmBot-Genesis-V0-9-Docs
+    top: true
+    pages:
+      - title: Intro to FarmBot Genesis
+        url: intro
+      - title: Assembly Preparation
+        url: assembly-preparation
+      - title: Supporting Infrastructure
+        url: supporting-infrastructure
+      - title: Tracks
+        url: tracks
+      - title: Gantry
+        url: gantry
+      - title: Cross-Slide
+        url: cross-slide
+      - title: Z-Axis
+        url: z-axis
+      - title: Seed Injector
+        url: seed-injector
+      - title: Watering Nozzle
+        url: watering-nozzle
+      - title: Electronics
+        url: electronics
+      - title: Tool Spec
+        url: tool-spec
+      - title: Universal Tool Mount
+        url: universal-tool-mount
+      - title: Weed Suppressor
+        url: weed-suppressor
+      - title: Tool Bay
+        url: tool-bay
+      - title: Bill of Materials
+        url: bill-of-materials
+      - title: Maintenance Guide
+        url: maintenance-guide
+  - title: Farmbot Mods And Add Ons
+    url: FarmBot-Mods-and-Add-Ons
+    top: true
+    pages:
+      - title: Capture and Use Rainwater
+        url: capture-and-use-rainwater
+      - title: Power FarmBot with Solar
+        url: power-farmbot-with-solar
+      - title: Turn FarmBot into a Weather Station
+        url: turn-farmbot-into-a-weather-station
+      - title: Monitor Resource Usage
+        url: monitor-resource-usage
+      - title: Complete the Cycle with Compost
+        url: complete-the-cycle-with-compost
+      - title: Take Time Lapse Plant Photography
+        url: take-time-lapse-plant-photography
+      - title: Add a Webcam to FarmBot
+        url: add-a-webcam-to-farmbot
+  - title: Other Resources
+    url: Other-Resources
+    top: true
+    pages:
+      - title: Software Docs
+        url: https://software.farm.bot
+        external: true
+      - title: GitHub
+        url: https://github.com/FarmBot
+        external: true
+      - title: Community Forum
+        url: http://forum.farmbot.cc
+        external: true
+      - title: Community Wiki
+        url: http://wiki.farmbot.cc
+        external: true
+      - title: Team Chatroom
+        url: https://gitter.im/FarmBot/chat
+        external: true
