@@ -41,7 +41,7 @@ Over time, it is possible for your wheels to wear down slightly which can cause 
 include callout.html
 type="success"
 title="Every three months"
-content="Check your eccentric spacers for proper adjustment, and make adjustments as necessary using the [eccentric spacer adjustment reference guide](../FarmBot-Genesis-V1-2/reference/eccentric-spacer-adjustment.md)."
+content="Check your eccentric spacers for proper adjustment, and make adjustments as necessary using the [eccentric spacer adjustment reference guide](../FarmBot-Genesis-V1.2/reference/eccentric-spacer-adjustment.md)."
 %}
 
 # Keep belts tensioned
@@ -69,7 +69,7 @@ content="The belts should not be under extreme tension. If they are, FarmBot's m
 include callout.html
 type="warning"
 title="Not done yet"
-content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../FarmBot-Genesis-V1-2/gantry/feed-and-secure-the-belts.md#step-3-equalize-the-gantry) to prevent binding."
+content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../FarmBot-Genesis-V1.2/gantry/feed-and-secure-the-belts.md#step-3-equalize-the-gantry) to prevent binding."
 %}
 
 # Inspect for damage

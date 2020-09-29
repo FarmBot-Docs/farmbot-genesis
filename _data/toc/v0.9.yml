@@ -1,9 +1,9 @@
 version_number: 0.9
 status: deprecated
-home: FarmBot-Genesis-V0-9-Docs/intro
+home: FarmBot-Genesis-V0.9-Docs/intro
 contents:
-  - title: Farmbot Genesis V0 9 Docs
-    url: FarmBot-Genesis-V0-9-Docs
+  - title: FarmBot Genesis V0.9 Docs
+    url: FarmBot-Genesis-V0.9-Docs
     top: true
     pages:
       - title: Intro to FarmBot Genesis
@@ -38,7 +38,7 @@ contents:
         url: bill-of-materials
       - title: Maintenance Guide
         url: maintenance-guide
-  - title: Farmbot Mods And Add Ons
+  - title: FarmBot Mods And Add Ons
     url: FarmBot-Mods-and-Add-Ons
     top: true
     pages:

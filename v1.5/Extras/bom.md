@@ -18,7 +18,7 @@ The table below lists all of the components used in FarmBot Genesis grouped by c
 |[Drivetrain](bom/drivetrain.md)  |39                            |$346.00                       |39                            |$416.00                       |39                            |$646.00
 |[Electronics and Wiring](bom/electronics-and-wiring.md)|67                            |$1,186.00                     |67                            |$1,336.00                     |67                            |$1,466.00
 |[Tubing](bom/tubing.md)          |26                            |$111.50                       |26                            |$120.50                       |26                            |$140.50
-|[Supporting Infrastructure](../FarmBot-Genesis-V1-5/supporting-infrastructure.md) *****|50                            |$200.00                       |80                            |$500.00                       |200                           |$1200.00
+|[Supporting Infrastructure](../FarmBot-Genesis-V1.5/supporting-infrastructure.md) *****|50                            |$200.00                       |80                            |$500.00                       |200                           |$1200.00
 |**GRAND TOTAL**               |**931**                       |**$2,893.70**                 |**1,136**                     |**$3,964.70**                 |**1,1687**                    |**$6,138.15**
 
 ***** Supporting infrastructure is not included in FarmBot kits, but has been included here for estimation purposes. Part quantity and price will vary.

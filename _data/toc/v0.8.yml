@@ -1,9 +1,9 @@
 version_number: 0.8
 status: deprecated
-home: V0-8-Documentation/intro
+home: V0.8-Documentation/intro
 contents:
-  - title: V0 8 Documentation
-    url: V0-8-Documentation
+  - title: V0.8 Documentation
+    url: V0.8-Documentation
     top: true
     pages:
       - title: What's New in V0.8
@@ -28,8 +28,8 @@ contents:
         url: cad-files
       - title: Bill of Materials
         url: bill-of-materials
-  - title: V0 8 Assembly Instructions
-    url: V0-8-Assembly-Instructions
+  - title: V0.8 Assembly Instructions
+    url: V0.8-Assembly-Instructions
     top: true
     pages:
       - title: Assembly Preparation
@@ -52,16 +52,16 @@ contents:
         url: z-axis-assembly
       - title: Electronics Assembly
         url: electronics-assembly
-  - title: V0 8 Maintenance And Troubleshooting
-    url: V0-8-Maintenance-and-Troubleshooting
+  - title: V0.8 Maintenance And Troubleshooting
+    url: V0.8-Maintenance-and-Troubleshooting
     top: true
     pages:
       - title: General Maintenance
         url: general-maintenance
       - title: Track Maintenance
         url: track-maintenance
-  - title: V0 8 Software Setup
-    url: V0-8-Software-Setup
+  - title: V0.8 Software Setup
+    url: V0.8-Software-Setup
     top: true
     pages:
       - title: High Level Software Overview

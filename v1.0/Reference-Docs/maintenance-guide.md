@@ -91,7 +91,7 @@ content="The belts should not be under extreme tension. If they are, FarmBot's m
 include callout.html
 type="warning"
 title="Not done yet"
-content="If you had to re-tension one or both of the belts along the tracks, the you must re-equalize and synchronize the gantry to prevent binding. Follow the instructions for this in the assembly instructions section on the [gantry page](../FarmBot-Genesis-V1-0/gantry.md)."
+content="If you had to re-tension one or both of the belts along the tracks, the you must re-equalize and synchronize the gantry to prevent binding. Follow the instructions for this in the assembly instructions section on the [gantry page](../FarmBot-Genesis-V1.0/gantry.md)."
 %}
 
 ## Inspect for Damage
@@ -123,7 +123,7 @@ It is possible for the gantry to become twisted such that is not perpendicular t
 
 If a belt is loose, follow the maintenance tip above for tightening the belts.
 
-If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../FarmBot-Genesis-V1-0/gantry.md).
+If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../FarmBot-Genesis-V1.0/gantry.md).
 
 {%
 include callout.html

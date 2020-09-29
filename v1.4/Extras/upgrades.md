@@ -10,7 +10,7 @@ Many people wish to upgrade their FarmBots with new hardware as new versions are
 
 While there are many possible ways to upgrade a FarmBot, some ways will be inexpensive, easy, and offer great benefit, while other ways may not be worthwhile depending on your needs. In the sections below, we outline several popular upgrade paths from older versions to v1.4 hardware. This is not an exhaustive list of ways you can upgrade, but instead reflects the most worthwhile ways considering benefit, cost, and difficulty.
 
-For more upgrade ideas, consider browsing the [change log](../FarmBot-Genesis-V1-4/intro/change-log.md) to see exactly what’s been changed from version to version.
+For more upgrade ideas, consider browsing the [change log](../FarmBot-Genesis-V1.4/intro/change-log.md) to see exactly what’s been changed from version to version.
 
 {%
 include callout.html

@@ -1,9 +1,9 @@
 version_number: 1.0
 status: deprecated
-home: FarmBot-Genesis-V1-0/intro
+home: FarmBot-Genesis-V1.0/intro
 contents:
-  - title: Farmbot Genesis V1 0
-    url: FarmBot-Genesis-V1-0
+  - title: FarmBot Genesis V1.0
+    url: FarmBot-Genesis-V1.0
     top: true
     pages:
       - title: Intro to FarmBot Genesis

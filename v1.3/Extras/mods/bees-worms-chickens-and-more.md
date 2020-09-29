@@ -23,7 +23,7 @@ The GrowSquare is a simple, easy to assemble raised bed. It’s a great entry-le
 include callout.html
 type="success"
 title="I spy"
-content="The GrowSquare is perfect for using as the [supporting infrastructure](../../FarmBot-Genesis-V1-3/tracks.md) for a FarmBot!"
+content="The GrowSquare is perfect for using as the [supporting infrastructure](../../FarmBot-Genesis-V1.3/tracks.md) for a FarmBot!"
 %}
 
 Learn more and purchase the GrowSquare [here](http://akerkits.com).

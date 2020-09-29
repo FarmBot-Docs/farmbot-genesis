@@ -2,7 +2,7 @@ version_number: 0.2
 status: deprecated
 home: FarmBot-Genesis-Overview/getting-started
 contents:
-  - title: Farmbot Genesis Overview
+  - title: FarmBot Genesis Overview
     url: FarmBot-Genesis-Overview
     top: true
     pages:
@@ -14,8 +14,8 @@ contents:
         url: raised-tracks-vs-low-tracks
       - title: Versions
         url: versions
-  - title: V0 2 Documentation
-    url: V0-2-Documentation
+  - title: V0.2 Documentation
+    url: V0.2-Documentation
     top: true
     pages:
       - title: What's New in V0.2

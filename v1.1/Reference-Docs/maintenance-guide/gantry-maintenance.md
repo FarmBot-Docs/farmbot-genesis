@@ -11,7 +11,7 @@ It is possible for the gantry to become twisted such that is not perpendicular t
 
 If a belt is loose, follow the maintenance tip above for tightening the belts.
 
-If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../../FarmBot-Genesis-V1-1/gantry.md).
+If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../../FarmBot-Genesis-V1.1/gantry.md).
 
 {%
 include callout.html

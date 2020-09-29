@@ -1,9 +1,9 @@
 version_number: 1.5
 status: stable
-home: FarmBot-Genesis-V1-5/intro
+home: FarmBot-Genesis-V1.5/intro
 contents:
-  - title: Farmbot Genesis V1 5
-    url: FarmBot-Genesis-V1-5
+  - title: FarmBot Genesis V1.5
+    url: FarmBot-Genesis-V1.5
     top: true
     pages:
       - title: Intro to FarmBot Genesis

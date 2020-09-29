@@ -89,7 +89,7 @@ content="The belts should not be under extreme tension. If they are, FarmBot's m
 include callout.html
 type="warning"
 title="Not done yet"
-content="If you had to re-tension one or both of the belts along the tracks, the you must re-equalize and synchronize the gantry to prevent binding. Follow the instructions for this in the assembly instructions section on the [gantry page](../FarmBot-Genesis-V1-1/gantry.md)."
+content="If you had to re-tension one or both of the belts along the tracks, the you must re-equalize and synchronize the gantry to prevent binding. Follow the instructions for this in the assembly instructions section on the [gantry page](../FarmBot-Genesis-V1.1/gantry.md)."
 %}
 
 # Inspect for Damage
