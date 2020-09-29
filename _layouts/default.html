@@ -112,7 +112,7 @@
     <div class="content">
       <header class="page-header" role="banner">
         <h1 class="page-name">{{ page.title | default: site.title }}</h1>
-        <h2 class="page-description">{{ page.excerpt | markdownify }}</h2>
+        <div class="page-description">{{ page.excerpt | markdownify }}</div>
       </header>
       <main id="content" class="main-content" role="main">
         <h2 class="markdown-toc-header">Page Contents</h2>

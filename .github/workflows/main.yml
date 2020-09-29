@@ -12,4 +12,4 @@ jobs:
       - name: install deps
         run: sudo apt install tree
       - name: tree
-        run: tree v11
+        run: tree v1.5

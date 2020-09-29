@@ -8,6 +8,8 @@ contents:
     pages:
       - title: What's New in V0.8
         url: intro
+      - title: Intro to FarmBot Genesis
+        url: getting-started
       - title: Tracks
         url: tracks
       - title: Gantry
@@ -20,8 +22,6 @@ contents:
         url: tools
       - title: Electronics
         url: electronics
-      - title: Intro to FarmBot Genesis
-        url: getting-started
       - title: Universal Tool Mount
         url: universal-tool-mount
       - title: CAD Files
