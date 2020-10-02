@@ -66,7 +66,7 @@ content="This is the estimated time it will take to assemble the weeder.."
 |1                             |[Weeder](../../Extras/bom/plastic-parts.md#weeder)
 |4                             |[Medium Weeder Blades](../../Extras/bom/plastic-parts.md#medium-weeder-blades)
 |4                             |[M3 x 6mm Screws](../../Extras/bom/fasteners-and-hardware.md#m3-x-6mm-screws)
-|2                             |[M3 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m3-x-10mm-screws)
+|2                             |[M3 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m3-x-12mm-screws)
 |2                             |[M3 Locknuts](../../Extras/bom/fasteners-and-hardware.md#m3-locknuts)
 |3                             |[M5 x 16mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-x-16mm-screws)
 |3                             |[M5 Locknuts](../../Extras/bom/fasteners-and-hardware.md#m5-locknuts)
@@ -101,3 +101,7 @@ content="The weeding tool is customizable so you can optimize it for your soil c
 Come up with something effective and easy to make? Share your creation in the [FarmBot forum](http://forum.farmbot.org)!"
 %}
 
+
+# What's next?
+
+ * [Soil Sensor](../tools/soil-sensor.md)

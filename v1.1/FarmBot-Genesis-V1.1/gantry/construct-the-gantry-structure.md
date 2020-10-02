@@ -81,3 +81,7 @@ Ensure that the gantry columns are vertical and then tighten the 16 **M5 x 10mm 
 
 _Example gantry where the main beam extends beyond the corner brackets_
 
+
+# What's next?
+
+ * [Attach the Drivetrain](../gantry/attach-the-drivetrain.md)

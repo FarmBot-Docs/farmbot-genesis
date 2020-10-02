@@ -62,3 +62,7 @@ title="Congrats! 🎉"
 content="You're now done building your FarmBot's gantry."
 %}
 
+
+# What's next?
+
+ * [Cross-Slide](../../FarmBot-Genesis-V1.3/cross-slide.md)

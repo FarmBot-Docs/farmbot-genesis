@@ -61,3 +61,7 @@ Attach the **vacuum pump housing** to the **z-axis extrusion** using two **M5 x 
 
 ![vacuum pump cover.JPG](vacuum_pump_cover.JPG)
 
+
+# What's next?
+
+ * [Install the Z-Axis](../z-axis/install-the-z-axis.md)

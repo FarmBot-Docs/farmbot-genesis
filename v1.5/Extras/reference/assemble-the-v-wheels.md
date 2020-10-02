@@ -8,9 +8,9 @@ excerpt: "All of our full FarmBot kits come with pre-assembled V-wheels"
 {:toc}
 
 Each V-Wheel actually consists of four components:
-* One [V-wheel](../bom/drivetrain.md#v-wheels)
-* Two [bearings](../bom/drivetrain.md#bearings)
-* One [M5 shim](../bom/drivetrain.md#m5-shims)
+* One [V-wheel](../bom/drivetrain.md#v-wheel)
+* Two [bearings](../bom/drivetrain.md#v-wheel)
+* One [M5 shim](../bom/drivetrain.md#v-wheel)
 
 ![IMG_0276.JPG](IMG_0276.JPG)
 

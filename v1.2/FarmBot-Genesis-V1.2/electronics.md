@@ -29,3 +29,7 @@ excerpt: "Documentation for FarmBot Genesis electronics"
 
 
 
+
+# What's next?
+
+ * [Assemble the Electronics Box](../FarmBot-Genesis-V1.2/electronics/assemble-the-electronics-box.md)

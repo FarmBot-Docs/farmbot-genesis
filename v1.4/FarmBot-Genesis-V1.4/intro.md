@@ -51,3 +51,7 @@ Interested in helping develop FarmBot? Share your ideas on the [FarmBot forum](h
 
 # License
 Please see our [licensing page](https://meta.farm.bot/docs/licensing) to understand how our various works (hardware, software, documentation, etc) are licensed.
+
+# What's next?
+
+ * [High Level Overview](../FarmBot-Genesis-V1.4/intro/high-level-overview.md)

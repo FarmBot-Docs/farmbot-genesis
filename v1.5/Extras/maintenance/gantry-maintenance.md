@@ -11,9 +11,9 @@ slug: "gantry-maintenance"
 ## Equalize and synchronize the gantry
 It is possible for the gantry to become twisted such that is not perpendicular to the tracks. This is usually caused by an obstruction on one track that stalls that side of the gantry and misaligns the system, or a loose belt on one track.
 
-If a belt is loose, tighten according to [these instructions](../maintenance.md#keep-belts-tensioned).
+If a belt is loose, tighten according to [these instructions](general-maintenance.md#keep-belts-tensioned).
 
-If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../../FarmBot-Genesis-V1.5/gantry/attach-the-drivetrain.md#step-3-equalize-the-gantry).
+If the belts are tight and the gantry is twisted, re-equalize and synchronize the gantry using instructions on the [gantry page](../../FarmBot-Genesis-V1.5/gantry/attach-the-drivetrain.md#step-4-equalize-the-gantry).
 
 {%
 include callout.html
@@ -46,3 +46,7 @@ title="Every 6 months"
 content="Wipe the leadscrew clean with a damp rag or sponge. Applying a small amount of high quality synthetic lubricant to the leadscrew can help make motion through the delrin leadscrew block smoother and quieter. We recommend high quality synthetic lubricant such as that used for bicycle chains."
 %}
 
+
+# What's next?
+
+ * [UTM and Tool Maintenance](utm-and-tool-maintenance.md)

@@ -104,3 +104,7 @@ If you do not plan on stopping the assembly process now, you can skip this step 
 
 ![d524c5f-Screen_Shot_2020-02-17_at_1.42.09_PM.png](Screen_Shot_2020-02-17_at_1.42.09_PM.png)
 
+
+# What's next?
+
+ * [Cables and Tubing](../FarmBot-Genesis-V1.5/cables-and-tubing.md)

@@ -36,3 +36,7 @@ Secure the belt at the other end of the gantry with another **belt clip**, **M5 
 
 ![Screen Shot 2017-02-12 at 4.09.16 PM.png](Screen_Shot_2017-02-12_at_4.09.16_PM.png)
 
+
+# What's next?
+
+ * [Z-Axis](../../FarmBot-Genesis-V1.2/z-axis.md)

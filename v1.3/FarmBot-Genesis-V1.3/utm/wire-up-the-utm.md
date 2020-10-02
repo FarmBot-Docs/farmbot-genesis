@@ -92,3 +92,7 @@ title="Woo hoo!"
 content="You just finished the most tedious and arguably difficult part of building your FarmBot. Take a deep breath, do a stretch, and grab a snack - you deserve it!"
 %}
 
+
+# What's next?
+
+ * [Electronics](../../FarmBot-Genesis-V1.3/electronics.md)

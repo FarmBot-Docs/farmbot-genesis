@@ -129,3 +129,7 @@ Lightly screw together four **M5 x 16mm screws** and **M5 tee nuts** into the mo
 
 ![Screen Shot 2017-02-12 at 9.16.50 PM.png](Screen_Shot_2017-02-12_at_9.16.50_PM.png)
 
+
+# What's next?
+
+ * [Wire up the UTM](../utm/wire-up-the-utm.md)

@@ -32,3 +32,7 @@ title="Want to make your own UTM compatible tools?"
 content="Check out the [tool spec](../Extras/mods/tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
 %}
 
+
+# What's next?
+
+ * [Assemble the UTM](../FarmBot-Genesis-V1.2/utm/assemble-the-utm.md)

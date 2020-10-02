@@ -100,3 +100,7 @@ Repeat for other guides.
 
 ![IMG_6698.jpg](IMG_6698.jpg)
 
+
+# What's next?
+
+ * [Install the Z-Axis](../z-axis/install-the-z-axis.md)

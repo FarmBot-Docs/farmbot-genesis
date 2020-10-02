@@ -25,3 +25,7 @@ Connect the **X2 motor and encoder cables** to the **X2 motor and encoder** on t
 
 _(highlighted in orange)_
 
+
+# What's next?
+
+ * [Lighting](../cables-and-tubing/lighting.md)

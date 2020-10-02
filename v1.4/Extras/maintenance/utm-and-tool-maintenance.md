@@ -56,3 +56,7 @@ title="Every 3 months"
 content="Clean the tools of any debris using a damp rag. Ensure that the soil sensor PCB is dry before using it after cleaning."
 %}
 
+
+# What's next?
+
+ * [Storing FarmBot for Winter](storing-farmbot-for-winter.md)

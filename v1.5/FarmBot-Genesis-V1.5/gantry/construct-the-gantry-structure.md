@@ -197,3 +197,7 @@ Use two **M5 x 10mm screws** and **drop-in tee nuts** to attach the aluminum **5
 
 ![Screen Shot 2020-05-04 at 3.54.42 PM.png](Screen_Shot_2020-05-04_at_3.54.42_PM.png)
 
+
+# What's next?
+
+ * [Attach the Drivetrain](../gantry/attach-the-drivetrain.md)

@@ -92,3 +92,7 @@ All V-wheels now come pre-assembled to reduce the time required by the user to p
 * The motors are now mounted with 12mm long M3 screws (up from 10mm) to ensure proper thread engagement.
 * All kits now include a small outdoor extension cord connection protector.
 * The red plugs have been removed in favor of red stakes that can be inserted into the soil.
+
+# What's next?
+
+ * [Assembly Preparation](../intro/assembly-preparation.md)

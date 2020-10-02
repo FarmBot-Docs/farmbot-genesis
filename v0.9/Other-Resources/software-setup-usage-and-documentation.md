@@ -9,3 +9,7 @@ link_external: true
 * toc
 {:toc}
 
+
+# What's next?
+
+ * [Getting Started](../FarmBot-Genesis-V0.9-Docs/intro.md)

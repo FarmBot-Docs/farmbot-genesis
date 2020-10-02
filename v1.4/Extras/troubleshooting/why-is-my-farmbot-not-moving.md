@@ -39,9 +39,9 @@ An equalized gantry is one that is exactly perpendicular to the tracks such that
 
 ![ddb550d-d9de2b2-completed_tracks.JPG](d9de2b2-completed_tracks.JPG)
 
-The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](https://genesis.farm.bot/docs/building-a-raised-bed)
+The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](../../FarmBot-Genesis-V1.4/supporting-infrastructure/building-a-raised-bed.md)
 
- The detailed instructions to install the tracks on the raised bed supporting infrastructure for the FarmBot are located [here](https://genesis.farm.bot/docs/tracks)
+ The detailed instructions to install the tracks on the raised bed supporting infrastructure for the FarmBot are located [here](../../FarmBot-Genesis-V1.4/tracks.md)
 
 ## Test the gantry
 
@@ -62,7 +62,7 @@ title="Alignment is key"
 content="For track plates that join two track extrusions together, position the extrusions tightly together at the middle of the plate. Make sure the top and bottom of the extrusions are flush so that the gantry can move across the tracks smoothly. Also make sure that the extrusions are straight, so there is no 'kink' in the tracks at the joint."
 %}
 
-Review the track assembly procedure [here](https://genesis.farm.bot/v0.7/docs/tracks-assembly).
+Review the track assembly procedure [here](../../FarmBot-Genesis-V1.4/tracks.md).
 
 # 3. Adjust the belt tension
 
@@ -89,7 +89,7 @@ Eccentric spacers are used for making fine adjustments to the spacing between th
 
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or there will be significant friction when moving. If the spacing is too great, then the connection will be wobbly and loose.
 
-Follow our guide for [adjusting the eccentric spacers](eccentric-spacer-adjustment). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../FarmBot-Genesis-V1.4/gantry/feed-and-secure-the-belts.md), and secure the belts back into place for normal operation.
+Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../FarmBot-Genesis-V1.4/gantry/feed-and-secure-the-belts.md), and secure the belts back into place for normal operation.
 
 
 
@@ -220,4 +220,4 @@ Model A4988 Stepper Motor Driver Datasheet
 
 # What about the encoders not working?
 
-Learn how to interpret and diagnose common encoder issues, what causes them and how to fix them in the troubleshooting document ["Are my encoders working?](https://genesis.farm.bot/docs/are-my-encoders-working)
+Learn how to interpret and diagnose common encoder issues, what causes them and how to fix them in the troubleshooting document ["Are my encoders working?](are-my-encoders-working.md)

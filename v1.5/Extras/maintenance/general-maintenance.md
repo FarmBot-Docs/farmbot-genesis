@@ -75,7 +75,7 @@ content="Applying a lubricant to the belts may cause a chemical reaction that ra
 include callout.html
 type="warning"
 title="Not done yet"
-content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../../FarmBot-Genesis-V1.5/gantry/attach-the-drivetrain.md#step-3-equalize-the-gantry) to prevent binding."
+content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../../FarmBot-Genesis-V1.5/gantry/attach-the-drivetrain.md#step-4-equalize-the-gantry) to prevent binding."
 %}
 
 # Inspect for damage
@@ -96,3 +96,7 @@ title="Let us know"
 content="If you suspect damage has occurred as a fault of our design or manufacturing, let us know. We're here to work with you to make it right and improve future FarmBot hardware for everyone. Get in touch with us at [support@farmbot.io](mailto:support@farmbot.io)."
 %}
 
+
+# What's next?
+
+ * [Track Maintenance](track-maintenance.md)

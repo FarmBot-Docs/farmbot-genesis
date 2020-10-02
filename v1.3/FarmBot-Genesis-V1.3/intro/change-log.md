@@ -96,3 +96,7 @@ The new power supply is a 12V, 12.5A (150W) IP67 rated waterproof power supply. 
 * The 8mm wrench is now a small, thin wrench that allows it to be used more effectively when adjusting eccentric spacers.
 * The belt lengths are more appropriately​ sized.
 * The gantry corner brackets and toolbays now feature small notches to help with vertical alignment (just like the track plates and gantry wheel plates).
+
+# What's next?
+
+ * [Assembly Preparation](../intro/assembly-preparation.md)

@@ -197,3 +197,7 @@ content="Your mobile raised bed is now ready for your FarmBot installation."
 
 ![Soil.JPG](Soil.JPG)
 
+
+# What's next?
+
+ * [Tracks](../../FarmBot-Genesis-V1.5/tracks.md)

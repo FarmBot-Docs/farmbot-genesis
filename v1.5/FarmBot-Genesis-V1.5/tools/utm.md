@@ -108,3 +108,7 @@ Then push the **inline air filter** onto the other end of that tube. Then connec
 
 ![3f5b49f-Air_Filter_Configuration.jpg](Air_Filter_Configuration.jpg)
 
+
+# What's next?
+
+ * [Camera](../tools/camera.md)

@@ -56,3 +56,7 @@ FarmBot Genesis is a complex machine with over 1,000 components in total. Be pre
 |Tools                         |1 hour                        |1 hour                        |1 hour
 |**TOTAL**                     |**18 hours**                  |**25 hours**                  |**29 hours**
 
+
+# What's next?
+
+ * [Supporting Infrastructure](../../FarmBot-Genesis-V1.5/supporting-infrastructure.md)

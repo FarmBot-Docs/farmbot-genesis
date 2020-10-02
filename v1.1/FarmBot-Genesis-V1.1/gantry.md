@@ -51,3 +51,7 @@ content="This is the estimated time it will take to assemble the Gantry."
 |2                             |20 tooth GT2 Pulleys
 |1                             |2m GT2 Timing Belt
 
+
+# What's next?
+
+ * [Assemble the Gantry Wheel Plates](../FarmBot-Genesis-V1.1/gantry/assemble-the-gantry-wheel-plates.md)

@@ -38,3 +38,7 @@ Attach both **cable guides** to the back side of the left **gantry column** usin
 
 _Note: the cables and tubing are not shown in this image._
 
+
+# What's next?
+
+ * [Plug Everything In](../electronics/plug-everything-in.md)

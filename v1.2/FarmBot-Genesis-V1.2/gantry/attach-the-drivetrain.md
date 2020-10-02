@@ -39,3 +39,7 @@ Attach one more **horizontal cable carrier support** to the left-side **gantry c
 
 ![Screen Shot 2017-02-27 at 12.01.45 PM.png](Screen_Shot_2017-02-27_at_12.01.45_PM.png)
 
+
+# What's next?
+
+ * [Feed and Secure the Belts](../gantry/feed-and-secure-the-belts.md)

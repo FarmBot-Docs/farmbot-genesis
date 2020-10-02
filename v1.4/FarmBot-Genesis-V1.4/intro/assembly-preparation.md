@@ -64,3 +64,7 @@ FarmBot Genesis is a complex machine with over 1,000 components in total. Be pre
 |Tools                         |1 hour                        |1 hour
 |**TOTAL**                     |**18 hours with raised bed**<br>**10 hours for just FarmBot**|**25 hours with raised bed**<br>**13 hours for just FarmBot**
 
+
+# What's next?
+
+ * [Tracks](../../FarmBot-Genesis-V1.4/tracks.md)

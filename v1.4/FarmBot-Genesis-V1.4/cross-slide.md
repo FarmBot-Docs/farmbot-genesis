@@ -31,7 +31,7 @@ _View of the cross-slide from the back of FarmBot_
 |14                            |[M5 Washers](../Extras/bom/fasteners-and-hardware.md#m5-washers)
 |18                            |[M5 Locknuts](../Extras/bom/fasteners-and-hardware.md#m5-locknuts)
 |12                            |[V-wheels](../Extras/bom/drivetrain.md#v-wheels)
-|1                             |[Horizontal Motor Housing](../Extras/bom/plastic-parts.md#horizontal-motor-housing)
+|1                             |[Horizontal Motor Housing](../Extras/bom/plastic-parts.md#horizontal-motor-housings)
 |1                             |[Long Cable Carrier Mount](../Extras/bom/plates-and-brackets.md#long-cable-carrier-mount)
 |1                             |[Leadscrew Block](../Extras/bom/drivetrain.md#leadscrew-block)
 |1                             |[NEMA 17 Stepper Motor with Rotary Encoder](../Extras/bom/electronics-and-wiring.md#nema-17-stepper-motors-with-rotary-encoders)
@@ -160,3 +160,7 @@ Secure the belt at the other end of the gantry with another **belt clip**, **M5 
 
 ![ybelt.JPG](ybelt.JPG)
 
+
+# What's next?
+
+ * [Z-Axis](../FarmBot-Genesis-V1.4/z-axis.md)

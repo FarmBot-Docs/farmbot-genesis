@@ -46,3 +46,7 @@ Attach the other **z-axis hardstop** onto the backside of the **z-axis extrusion
 
 ![zhard2.JPG](zhard2.JPG)
 
+
+# What's next?
+
+ * [Cables and Tubing](../../FarmBot-Genesis-V1.3/cables-and-tubing.md)

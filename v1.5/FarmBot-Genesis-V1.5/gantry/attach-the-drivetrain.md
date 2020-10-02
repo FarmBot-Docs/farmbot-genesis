@@ -82,3 +82,7 @@ content=""
 Sometimes during normal operation the FarmBot is not able to move around because the set screws come loose on the X1,X2, and Y axis motors. This means that although the motors are turning the motor shaft, the power is not transferred to the pulley because the set screws are not engaged and the shaft is spinning around inside the pulley.  Double check the tightness of the set screws and we recommend using some blue Loctite to glue the fix the set screws in place.
 
 When applying the Locktite glue, back out the set screw as far as possible. Apply the Locktite glue on the threads of the set screws and not in the top key portion of the screw.
+
+# What's next?
+
+ * [Cross-Slide](../../FarmBot-Genesis-V1.5/cross-slide.md)

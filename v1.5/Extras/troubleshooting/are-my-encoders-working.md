@@ -13,7 +13,7 @@ A rotary encoder, also called a shaft encoder, is an electro-mechanical device t
 
 _FarmBot Genesis v1.4 NEMA 17 Stepper Motor with  pre-mounted rotary encoders_
 
-In this case you have enabled the encoders in the Hardware widget on the Device page and are experiencing movement issues. For movement issues with encoders disabled, see the troubleshooting document [Why is my FarmBot not moving?](https://genesis.farm.bot/docs/why-is-my-farmbot-not-moving). Make sure movement works well with encoders disabled before proceeding with this troubleshooting guide.
+In this case you have enabled the encoders in the Hardware widget on the Device page and are experiencing movement issues. For movement issues with encoders disabled, see the troubleshooting document [Why is my FarmBot not moving?](why-is-my-farmbot-not-moving.md). Make sure movement works well with encoders disabled before proceeding with this troubleshooting guide.
 
 
 

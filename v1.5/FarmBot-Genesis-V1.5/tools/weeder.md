@@ -40,3 +40,7 @@ Attach the four **medium weeder blades** to the **weeder** using **M3 x 6mm scre
 
 # Customizing the weeder
 The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. Feel free to reconfigure the implements or just use some of them. You can also create new implements of your own design with a 3D printer or out of household materials.
+
+# What's next?
+
+ * [Soil Sensor](../tools/soil-sensor.md)

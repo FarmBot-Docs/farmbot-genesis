@@ -166,3 +166,7 @@ content="You've just finished installing your FarmBot's tracks - arguably one of
 Onward!"
 %}
 
+
+# What's next?
+
+ * [Gantry](../../FarmBot-Genesis-V1.1/gantry.md)

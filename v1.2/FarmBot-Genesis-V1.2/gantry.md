@@ -38,7 +38,7 @@ content="This is the estimated time it will take to assemble the Gantry."
 |2                             |[Gantry Corner Brackets](../Extras/bom/plates-and-brackets.md#gantry-corner-brackets)
 |4                             |[Belt Clips](../Extras/bom/plates-and-brackets.md#belt-clips)
 |8                             |[M3 x 10mm Screws](../Extras/bom/fasteners-and-hardware.md#m3-screws)
-|4                             |[M3 x 5mm Setscrew](../Extras/bom/fasteners-and-hardware.md#m3-setscrews)
+|4                             |[M3 x 5mm Setscrew](../Extras/bom/fasteners-and-hardware.md#m3-screws)
 |48                            |[M5 x 10mm Screws](../Extras/bom/fasteners-and-hardware.md#m5-screws)
 |28                            |[M5 x 30mm Screws](../Extras/bom/fasteners-and-hardware.md#m5-screws)
 |10                            |[M5 x 6mm Spacers](../Extras/bom/fasteners-and-hardware.md#m5-spacers)
@@ -53,3 +53,7 @@ content="This is the estimated time it will take to assemble the Gantry."
 |2                             |[20 tooth GT2 Pulleys](../Extras/bom/drivetrain.md#gt2-pulleys)
 |1                             |2m long [GT2 Timing Belt](../Extras/bom/drivetrain.md#gt2-timing-belt)
 
+
+# What's next?
+
+ * [Assemble the Gantry Wheel Plates](../FarmBot-Genesis-V1.2/gantry/assemble-the-gantry-wheel-plates.md)

@@ -90,3 +90,12 @@ title="Let us know"
 content="If you suspect damage has occurred as a fault of our design or manufacturing, let us know. We're here to work with you to make it right and improve future FarmBot hardware for everyone. Get in touch with us at [support@farmbot.io](mailto:support@farmbot.io)."
 %}
 
+
+# What's next?
+
+ * [Track Maintenance](maintenance/track-maintenance.md)
+ * [Gantry Maintenance](maintenance/gantry-maintenance.md)
+ * [Cross-Slide Maintenance](maintenance/cross-slide-maintenance.md)
+ * [Z-Axis Maintenance](maintenance/z-axis-maintenance.md)
+ * [UTM Maintenance](maintenance/utm-maintenance.md)
+ * [Tools Maintenance](maintenance/tools-maintenance.md)

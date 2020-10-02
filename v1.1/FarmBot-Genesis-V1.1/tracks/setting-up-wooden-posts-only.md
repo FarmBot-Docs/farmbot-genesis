@@ -28,3 +28,7 @@ content="This is the estimated time it will take to setup wood posts."
   * If you are setting up multiple track extrusions (more than 1500mm in total length), it is best to install the end posts first and tie a guide string in between these two posts to ensure your tracks are installed in a straight line.
   * Depending on the width of your FarmBot, space the second track’s posts the appropriate distance away from the first track’s. It is critical that the distance between the two tracks is consistent, if it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across.
   * You can use shims or other spacers to better align track plates in case your posts are not perfect.
+
+# What's next?
+
+ * [Assemble the Tracks](../tracks/assemble-the-tracks.md)

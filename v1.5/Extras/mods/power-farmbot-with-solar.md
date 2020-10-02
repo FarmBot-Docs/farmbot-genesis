@@ -76,9 +76,6 @@ On a sunny day, your solar panel will need to produce more power than FarmBot us
 
 As a rule of thumb, you should be able to get about 5 hours of usable sun each day on your solar panel if it is properly positioned and the skies are clear. For our installation in San Luis Obispo, we're going to use a medium sized 100 watt solar panel. This means that we can expect to generate 500 watt-hours of energy each day that it is sunny. This will be able to power our FarmBot for one day (250 watt-hours) as well as put an additional 250 watt-hours of energy into our battery, which will be good for one day's worth of operation.
 
-![61Y22PoEB%2BL._SL1000_.jpg](61Y22PoEB%2BL._SL1000_.jpg)
-
-_100 Watt, 12 Volt Monocrystalline Solar Panel, Charge Controller, and Wiring Harness_
 
 ## Sizing the battery
 Because it doesn't rain or get cloudy often in San Luis Obispo, we're going to plan to store enough energy for just two days no sun. This means we'll need at most 500 watt-hours of battery capacity - the amount of energy our FarmBot uses in two days. Considering that solar panels produce a small amount of power even on a rainy or cloudy day (10-25% of their rated power), we can count on getting at least 50 watt-hours of recharge on each day of bad weather. This means that we should be able to operate our FarmBot for our two day goal with about 400 watt-hours of battery capacity.

@@ -16,7 +16,7 @@ Plug in the **motor and encoder cables** to the **RAMPS shield** according to th
 ![RAMPS_wiring.png](RAMPS_wiring.png)
 
 # Step 4: Plug in the UTM Cable's Connectors
-Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](https://genesis.farm.bot/docs/v1.1/wire-up-the-utm)
+Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](../../FarmBot-Genesis-V1.1/universal-tool-mount/wire-up-the-utm.md)
 
 # Step 5: Connect the peripherals
 Connect the **solenoid valve cable** to the positive and negative terminals labelled **D9** on the **RAMPS shield**.
@@ -49,3 +49,7 @@ title="The mark of success"
 content="If all has gone well, your Raspberry Pi should boot up, there should be no smoke, and you should revel in the little blinking red and green lights!"
 %}
 
+
+# What's next?
+
+ * [Tools](../../FarmBot-Genesis-V1.1/tools.md)

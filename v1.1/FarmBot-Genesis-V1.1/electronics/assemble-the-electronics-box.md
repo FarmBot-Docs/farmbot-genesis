@@ -181,3 +181,7 @@ Plug the **buck adapter** into the top right three GPIO pins of the Raspberry Pi
 
 ![IMG_6819.JPG](IMG_6819.JPG)
 
+
+# What's next?
+
+ * [Plug Everything In](../electronics/plug-everything-in.md)

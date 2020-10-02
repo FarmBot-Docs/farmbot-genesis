@@ -146,3 +146,7 @@ content="Once you snap-in the remaining tabs, it will become impossible to adjus
 
 # Step 10: Connect the y-axis motor and encoder cables
 Connect the **y-axis motor and encoder cables** to the **y-axis motor**.
+
+# What's next?
+
+ * [X-Axis Cable Carrier](../cables-and-tubing/x-axis-cable-carrier.md)

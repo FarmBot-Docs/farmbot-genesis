@@ -134,3 +134,7 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 |Genesis XL                    |6m                            |3m                            |18m<sup>2</sup>               |~$4,000                       |$222
 |Genesis MAX                   |18m                           |3m                            |54m<sup>2</sup>               |~$6,000                       |$111
 
+
+# What's next?
+
+ * [Change Log](../intro/change-log.md)

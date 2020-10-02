@@ -35,3 +35,7 @@ title="We'll make it right"
 content="If anything is missing or damaged from your box of components, let us know right away. We'll ship out replacement parts as soon as we can."
 %}
 
+
+# What's next?
+
+ * [Tracks](../../FarmBot-Genesis-V1.1/tracks.md)

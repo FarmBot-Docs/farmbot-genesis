@@ -107,3 +107,7 @@ Ensure that the gantry columns are vertical and then tighten the 16 **M5 x 10mm 
 
 _This image is from the front of FarmBot_
 
+
+# What's next?
+
+ * [Attach the Drivetrain](../gantry/attach-the-drivetrain.md)

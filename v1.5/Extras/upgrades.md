@@ -21,3 +21,11 @@ content="Please note that our [official warranty](http://warranty.farm.bot) cove
 Please do your research before embarking on an upgrade and ask questions on the [forum](http://forum.farm.bot) if you are unsure of anything."
 %}
 
+
+# What's next?
+
+ * [Vacuum Pump Relocation](upgrades.md)
+ * [Solenoid Valve Relocation](upgrades.md)
+ * [New Electronics](upgrades.md)
+ * [New UTM](upgrades.md)
+ * [Add LED Lights](upgrades.md)

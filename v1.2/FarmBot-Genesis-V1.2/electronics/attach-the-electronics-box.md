@@ -48,3 +48,7 @@ Add **M5 x 10mm screws** and **tee-nuts** to the **Cable Guides** and attach the
 
 ![cable_clips.png](cable_clips.png)
 
+
+# What's next?
+
+ * [Plug Everything In](../electronics/plug-everything-in.md)

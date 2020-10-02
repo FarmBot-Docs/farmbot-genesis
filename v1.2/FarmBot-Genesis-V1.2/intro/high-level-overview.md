@@ -109,3 +109,7 @@ img {
 }
 </style>
 
+
+# What's next?
+
+ * [Change Log](../intro/change-log.md)

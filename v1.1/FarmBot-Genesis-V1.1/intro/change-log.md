@@ -67,3 +67,7 @@ _Bent back edge does not sit well against the extrusion_
 ![bad corner.jpg](bad_corner.jpg)
 
  * The Z-axis motor mount needed to be welded together for the gussets to actually add strength to it because of the direction of the forces from the z-axis extrusion and leadscrew. However, welding this component was difficult because of the geometry, thickness, and need to prevent the component from warping.
+
+# What's next?
+
+ * [Assembly Preparation](../intro/assembly-preparation.md)

@@ -83,3 +83,7 @@ Press the **heatsinks** onto the **black chips** on the **stepper drivers**. Mak
 
 ![Screen Shot 2017-10-09 at 10.38.49 AM.png](Screen_Shot_2017-10-09_at_10.38.49_AM.png)
 
+
+# What's next?
+
+ * [Attach the Electronics Box](../electronics/attach-the-electronics-box.md)

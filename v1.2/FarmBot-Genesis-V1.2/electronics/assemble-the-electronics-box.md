@@ -206,3 +206,7 @@ content="It can be easy to accidentally connect wires incorrectly or insert some
 
 ![Screen Shot 2017-02-27 at 10.37.20 PM.png](Screen_Shot_2017-02-27_at_10.37.20_PM.png)
 
+
+# What's next?
+
+ * [Attach the Electronics Box](../electronics/attach-the-electronics-box.md)

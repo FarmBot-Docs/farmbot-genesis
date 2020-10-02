@@ -37,7 +37,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 |20                            |[25mm Wood Screws](../../Extras/bom/fasteners-and-hardware.md#wood-screws)
 |42                            |[M5 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-x-10mm-screws)
 |42                            |[M5 Tee Nuts](../../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)
-|11                            |[Horizontal Cable Carrier Supports](../../Extras/bom/plates-and-brackets.md#horizontal-cable-carrier-supports)
+|11                            |[Horizontal Cable Carrier Supports](../../Extras/bom/plastic-parts.md#horizontal-cable-carrier-supports)
 
 # Step 2: Lay out the track extrusions
 Lay out all of the **track extrusions** in the location that you want to attach them to your **supporting infrastructure**. Make sure that extrusions are fully butted against each other. This will help you attach the plates in the correct location.
@@ -175,3 +175,7 @@ Onward!"
 
 ![completed tracks.JPG](completed_tracks.JPG)
 
+
+# What's next?
+
+ * [Gantry](../../FarmBot-Genesis-V1.3/gantry.md)

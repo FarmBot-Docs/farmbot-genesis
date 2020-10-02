@@ -57,3 +57,7 @@ title="Smooth to the touch"
 content="If you can feel one extrusion noticeably higher than another, then loosen the M5 screws attaching it to the track plate, realign the extrusion by hand, and re-tighten the screws."
 %}
 
+
+# What's next?
+
+ * [Gantry Maintenance](../maintenance-guide/gantry-maintenance.md)

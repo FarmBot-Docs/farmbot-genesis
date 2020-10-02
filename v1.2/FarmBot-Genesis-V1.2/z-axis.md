@@ -29,3 +29,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 |1                             |[5mm to 8mm Flex Coupling](../Extras/bom/drivetrain.md#5mm-to-8mm-flex-coupling)
 |1                             |[8 x 800mm Leadscrew](../Extras/bom/drivetrain.md#8mm-acme-leadscrew)
 
+
+# What's next?
+
+ * [Assemble the Z-Axis](../FarmBot-Genesis-V1.2/z-axis/assemble-the-z-axis.md)

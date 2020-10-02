@@ -106,3 +106,7 @@ title="Congrats!"
 content="You're now finished assembling the cross-slide."
 %}
 
+
+# What's next?
+
+ * [Install the Cross-Slide on the Gantry](../cross-slide/install-the-cross-slide-on-the-gantry.md)

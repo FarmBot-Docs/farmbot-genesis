@@ -78,3 +78,7 @@ Repeat the above steps for the second gantry wheel plate assembly. You should en
 The eccentric spacers on the lower wheels of each gantry wheel plate assembly are used for making fine adjustments to the spacing between the lower wheels and the upper wheels. Adjusting this spacing is the key to having your gantry move smoothly and wobble-free across the tracks.
 
 If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the eccentric spacers using the [eccentric spacer adjustment reference guide](../../Extras/reference/eccentric-spacer-adjustment.md).
+
+# What's next?
+
+ * [Construct the Gantry Structure](../gantry/construct-the-gantry-structure.md)

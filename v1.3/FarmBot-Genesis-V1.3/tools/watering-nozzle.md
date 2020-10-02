@@ -109,3 +109,7 @@ Connect the **solenoid valve cable** to the **solenoid valve's** terminals.
 
 ![Screen Shot 2017-10-04 at 4.07.43 PM.png](Screen_Shot_2017-10-04_at_4.07.43_PM.png)
 
+
+# What's next?
+
+ * [Weeder](../tools/weeder.md)

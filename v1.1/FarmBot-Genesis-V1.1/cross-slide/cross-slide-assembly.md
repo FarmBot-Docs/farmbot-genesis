@@ -114,3 +114,7 @@ content="You're now finished assembling the cross-slide."
 
 ![IMG_6577.jpg](IMG_6577.jpg)
 
+
+# What's next?
+
+ * [Install the Cross-Slide on the Gantry](../cross-slide/install-the-cross-slide-on-the-gantry.md)

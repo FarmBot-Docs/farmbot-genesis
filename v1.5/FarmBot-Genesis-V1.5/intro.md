@@ -44,3 +44,7 @@ Our kits include everything you need in one box and are backed by our customer s
 
 # License
 Please see our [licensing page](http://licensing.farm.bot) to understand how our various works (hardware, software, documentation, etc) are licensed.
+
+# What's next?
+
+ * [High Level Overview](../FarmBot-Genesis-V1.5/intro/high-level-overview.md)

@@ -44,3 +44,7 @@ _Note: Not all required parts are shown in this image._
 |1                             |Y-Axis Belt
 |2                             |M3 x 10mm Screws
 
+
+# What's next?
+
+ * [Cross-Slide Assembly](../FarmBot-Genesis-V1.1/cross-slide/cross-slide-assembly.md)

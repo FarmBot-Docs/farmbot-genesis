@@ -15,3 +15,11 @@ title="We're here to help"
 content="Still having issues? Please email support@farm.bot or consider posting in the [community forum](https://forum.farmbot.org)."
 %}
 
+
+# What's next?
+
+ * [Picking Up Seeds](troubleshooting/picking-up-seeds.md)
+ * [Z-Axis Movements](troubleshooting/z-axis-movements.md)
+ * [Track Tolerance](troubleshooting/track-tolerance.md)
+ * [Why is my FarmBot not moving?](troubleshooting/why-is-my-farmbot-not-moving.md)
+ * [Are my encoders working?](troubleshooting/are-my-encoders-working.md)

@@ -52,3 +52,7 @@ Use two **M5 x 10mm screws** and **M5 tee nuts** to attach each of the five **ve
 
 ![Screen Shot 2017-02-12 at 6.44.17 PM.png](Screen_Shot_2017-02-12_at_6.44.17_PM.png)
 
+
+# What's next?
+
+ * [Install the Z-Axis](../z-axis/install-the-z-axis.md)

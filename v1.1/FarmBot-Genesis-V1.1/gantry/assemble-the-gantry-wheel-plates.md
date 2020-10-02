@@ -111,3 +111,7 @@ You would rather have a wobbly wheel that you can tighten than damaged component
 Don't expect your Gantry to roll like a ball down a hill. A well fitted gantry will have a little bit of friction. Again, just play around with the spacing and use your best judgement."
 %}
 
+
+# What's next?
+
+ * [Construct the Gantry Structure](../gantry/construct-the-gantry-structure.md)

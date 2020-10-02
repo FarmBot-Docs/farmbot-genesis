@@ -157,3 +157,7 @@ title="Need to make changes?"
 content="If you need to add, remove, or change any of the wiring now or in the future, you **MUST** unplug the power supply from the wall first. This will minimize the risk of electrical shock and the potential to permanently damage your electronics."
 %}
 
+
+# What's next?
+
+ * [Tools](../../FarmBot-Genesis-V1.3/tools.md)

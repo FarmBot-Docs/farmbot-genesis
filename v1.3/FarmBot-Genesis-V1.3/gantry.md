@@ -46,10 +46,14 @@ content="This is the estimated time it will take to assemble the Gantry."
 |18                            |[M5 Washers](../Extras/bom/fasteners-and-hardware.md#m5-washers)
 |72                            |[M5 Tee Nuts](../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)
 |18                            |[M5 Locknuts](../Extras/bom/fasteners-and-hardware.md#m5-locknuts)
-|2                             |[Horizontal Motor Housings](../Extras/bom/plastic-parts.md#horizontal-motor-housing)
-|7                             |[Horizontal Cable Carrier Supports](../Extras/bom/plates-and-brackets.md#horizontal-cable-carrier-supports)
+|2                             |[Horizontal Motor Housings](../Extras/bom/plastic-parts.md#horizontal-motor-housings)
+|7                             |[Horizontal Cable Carrier Supports](../Extras/bom/plastic-parts.md#horizontal-cable-carrier-supports)
 |18                            |Complete V-Wheels (one [v-wheel](../Extras/bom/drivetrain.md#v-wheels), two [bearings](../Extras/bom/drivetrain.md#bearings), and one [M5 shim](../Extras/bom/drivetrain.md#m5-shims))
 |2                             |[NEMA 17 Stepper Motor with Rotary Encoders](../Extras/bom/electronics-and-wiring.md#nema-17-stepper-motors-with-rotary-encoders)
 |2                             |[20 tooth GT2 Pulleys with setscrews](../Extras/bom/drivetrain.md#gt2-pulleys)
 |2                             |X-Axis [GT2 Timing Belts](../Extras/bom/drivetrain.md#gt2-timing-belt)
 
+
+# What's next?
+
+ * [Assemble the Gantry Wheel Plates](../FarmBot-Genesis-V1.3/gantry/assemble-the-gantry-wheel-plates.md)

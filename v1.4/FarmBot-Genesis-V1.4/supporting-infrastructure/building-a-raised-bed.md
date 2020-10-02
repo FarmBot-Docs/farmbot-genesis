@@ -182,3 +182,7 @@ title="Congrats!"
 content="Your raised bed is now ready for your FarmBot installation."
 %}
 
+
+# What's next?
+
+ * [Assemble the Tracks](../../FarmBot-Genesis-V1.4/tracks.md)

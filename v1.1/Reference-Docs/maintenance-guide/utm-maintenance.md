@@ -26,3 +26,7 @@ title="Once per year"
 content="Inspect the UTM's magnets for debris. If any is found, remove the M5 locknut and screw holding the magnet in place and remove the magnet for cleaning."
 %}
 
+
+# What's next?
+
+ * [Tools Maintenance](../maintenance-guide/tools-maintenance.md)

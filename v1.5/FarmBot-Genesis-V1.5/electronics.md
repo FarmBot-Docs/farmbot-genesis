@@ -174,3 +174,7 @@ title="Smell smoke or heard a loud pop?"
 content="If anything seems suspicious or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
 %}
 
+
+# What's next?
+
+ * [Tools](../FarmBot-Genesis-V1.5/tools.md)

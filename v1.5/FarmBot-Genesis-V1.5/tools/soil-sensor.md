@@ -55,3 +55,7 @@ Attach a **jumper link** to positions **B** and **C** using two **M3 x 12mm scre
 
 ![Screen Shot 2020-02-18 at 12.35.49 PM.png](Screen_Shot_2020-02-18_at_12.35.49_PM.png)
 
+
+# What's next?
+
+ * [Camera](../tools/camera.md)

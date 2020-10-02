@@ -134,3 +134,7 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 |Genesis XL                    |6m                            |3m                            |18m<sup>2</sup>               |~$4,000                       |$222
 
 ** indicates tracks that are shorter from the stock kit. Please note that at this time we do not sell kits with shorter tracks, so these calculations are for someone who does not utilize all of the components in their kit.*
+
+# What's next?
+
+ * [Change Log](../intro/change-log.md)

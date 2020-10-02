@@ -34,7 +34,7 @@ content="This is the estimated time it will take to assemble the Watering Nozzle
 |------------------------------|------------------------------|
 |1                             |[Watering Nozzle Bottom](../../Extras/bom/plastic-parts.md#watering-nozzle)
 |1                             |[Watering Nozzle Top](../../Extras/bom/plastic-parts.md#watering-nozzle)
-|2                             |[M3 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m3-x-10mm-screws)
+|2                             |[M3 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m3-x-12mm-screws)
 |2                             |[M3 Locknuts](../../Extras/bom/fasteners-and-hardware.md#m3-locknuts)
 |3                             |[M5 x 30mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-x-30mm-screws)
 |3                             |[M5 Washers](../../Extras/bom/fasteners-and-hardware.md#m5-washers)
@@ -46,7 +46,7 @@ content="This is the estimated time it will take to assemble the Watering Nozzle
 |1                             |[Garden Hose Adapter](../../Extras/bom/tubing.md#garden-hose-adapter)
 |1                             |[Solenoid Valve](../../Extras/bom/electronics-and-wiring.md#solenoid-valve)
 |1                             |[Barbed Adapter](../../Extras/bom/tubing.md#barbed-adapter)
-|1                             |[Coupler](../../Extras/bom/tubing.md#coupler)
+|1                             |[Coupler](../../Extras/bom/tubing.md#barbs)
 
 
 
@@ -132,3 +132,7 @@ Push the **water tube** coming from the **x-axis cable carrier** (where it is mo
 
 ![Screen Shot 2018-08-08 at 5.20.17 PM.png](Screen_Shot_2018-08-08_at_5.20.17_PM.png)
 
+
+# What's next?
+
+ * [Weeder](../tools/weeder.md)

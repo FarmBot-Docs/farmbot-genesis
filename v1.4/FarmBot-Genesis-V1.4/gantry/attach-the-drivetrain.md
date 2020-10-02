@@ -9,7 +9,7 @@ slug: "attach-the-drivetrain"
 # Step 1: Attach the gantry motors
 For this step you will need:
 * Two [NEMA 17 stepper motors with rotary encoders](../../Extras/bom/electronics-and-wiring.md#nema-17-stepper-motors-with-rotary-encoders)
-* Two [horizontal motor housings](../../Extras/bom/plastic-parts.md#horizontal-motor-housing)
+* Two [horizontal motor housings](../../Extras/bom/plastic-parts.md#horizontal-motor-housings)
 * Eight [M3 x 12mm screws](../../Extras/bom/fasteners-and-hardware.md#m3-screws)
 * [2mm hex driver](../../Extras/bom/miscellaneous.md#2mm-hex-driver)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
@@ -39,3 +39,7 @@ Attach the last **horizontal cable carrier support** to the left-side **gantry c
 
 ![cc support lone.JPG](cc_support_lone.JPG)
 
+
+# What's next?
+
+ * [Feed and Secure the Belts](../gantry/feed-and-secure-the-belts.md)

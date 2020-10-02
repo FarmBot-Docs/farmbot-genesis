@@ -20,3 +20,7 @@ title="Preventative > Reactive"
 content="Even if your belts are tight and the gantry moves across the tracks fine, the gantry could still be twisted and causing unnecessary stress and wear to the components. It is recommended to re-equalize and synchronize the gantry twice a year to ensure that it stays perpendicular to the tracks, even if it is not noticeably twisted."
 %}
 
+
+# What's next?
+
+ * [Cross-Slide Maintenance](../maintenance-guide/cross-slide-maintenance.md)

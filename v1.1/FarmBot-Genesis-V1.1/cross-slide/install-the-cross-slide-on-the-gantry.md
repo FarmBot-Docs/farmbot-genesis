@@ -25,3 +25,7 @@ Take the back half of the belt and feed it along the gantry beam extrusion.
 Secure the belt at the other end of the gantry with another belt clip, M5 x 10mm screw, and M5 tee nut. Put a small amount of tension on the belt as you tighten the M5 screw.
 
 
+
+# What's next?
+
+ * [Z-Axis](../../FarmBot-Genesis-V1.1/z-axis.md)

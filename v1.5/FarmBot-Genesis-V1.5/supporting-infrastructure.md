@@ -25,3 +25,9 @@ title="Be prepared"
 content="If you recently ordered a FarmBot kit, you may want to begin building your supporting infrastructure while your FarmBot is in the mail. This way you'll be prepared for a faster assembly time when your package arrives."
 %}
 
+
+# What's next?
+
+ * [Fixed Raised Bed](../FarmBot-Genesis-V1.5/supporting-infrastructure/raised-bed.md)
+ * [Mobile Raised Bed](../FarmBot-Genesis-V1.5/supporting-infrastructure/mobile-raised-bed.md)
+ * [Pier Block Supports](../FarmBot-Genesis-V1.5/supporting-infrastructure/pier-block-supports.md)

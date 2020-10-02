@@ -94,3 +94,7 @@ Place your tools and seed containers in any slot you want. Just remember that yo
 
 ![toolbays with tools.JPG](toolbays_with_tools.JPG)
 
+
+# What's next?
+
+ * [Electronics](../../FarmBot-Genesis-V1.5/electronics.md)

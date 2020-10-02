@@ -25,17 +25,21 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 |Qty.                          |Component                     |
 |------------------------------|------------------------------|
 |16                            |[M2.5 x 4mm Screws](../Extras/bom/fasteners-and-hardware.md#m2-5-screws)
-|4                             |[M2.5 x 6mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m2-5-standoffs)
-|4                             |[M2.5 x 16mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m2-5-standoffs)
+|4                             |[M2.5 x 6mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m2-5-x-6mm-standoffs)
+|4                             |[M2.5 x 16mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m2-5-x-6mm-standoffs)
 |6                             |[M3 x 5mm Screws](../Extras/bom/fasteners-and-hardware.md#m3-screws)
 |2                             |[M5 x 10mm Screws](../Extras/bom/fasteners-and-hardware.md#m5-screws)
 |2                             |[M5 Tee Nuts](../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)
 |1                             |[Electronics Box](../Extras/bom/electronics-and-wiring.md#electronics-box)
-|1                             |[Electronics Mounting Plate](../Extras/bom/plastic-parts.md#electronics-mounting-plate)
+|1                             |[Electronics Mounting Plate](../Extras/bom/electronics-and-wiring.md#electronics-mounting-plate)
 |1                             |[Raspberry Pi 3](../Extras/bom/electronics-and-wiring.md#raspberry-pi-3)
 |1                             |[MicroSD Card](../Extras/bom/electronics-and-wiring.md#microsd-card)
 |1                             |[Farmduino](../Extras/bom/electronics-and-wiring.md#farmduino)
 |1                             |[Raspberry Pi Power Cable](../Extras/bom/electronics-and-wiring.md#raspberry-pi-power-cable)
 |1                             |[Farmduino Data Cable](../Extras/bom/electronics-and-wiring.md#farmduino-data-cable)
-|1                             |[USB Adapter Cable](../Extras/bom/electronics-and-wiring.md#usb--adapter-cable)
+|1                             |[USB Adapter Cable](../Extras/bom/electronics-and-wiring.md#usb-adapter-cable)
 
+
+# What's next?
+
+ * [Assemble the Electronics Box](../FarmBot-Genesis-V1.3/electronics/assemble-the-electronics-box.md)

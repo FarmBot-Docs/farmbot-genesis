@@ -39,10 +39,14 @@ To prepare for assembly, gather all the components from the table below and lay 
 |14                            |[M5 Washers](../Extras/bom/fasteners-and-hardware.md#m5-washers)
 |18                            |[M5 Locknuts](../Extras/bom/fasteners-and-hardware.md#m5-locknuts)
 |12                            |Complete V-Wheels (one [v-wheel](../Extras/bom/drivetrain.md#v-wheels), two [bearings](../Extras/bom/drivetrain.md#bearings), and one [M5 shim](../Extras/bom/drivetrain.md#m5-shims))
-|1                             |[Horizontal Motor Housing](../Extras/bom/plastic-parts.md#horizontal-motor-housing)
+|1                             |[Horizontal Motor Housing](../Extras/bom/plastic-parts.md#horizontal-motor-housings)
 |1                             |[Long Cable Carrier Mount](../Extras/bom/plates-and-brackets.md#long-cable-carrier-mount)
 |1                             |[Leadscrew Block](../Extras/bom/drivetrain.md#leadscrew-block)
 |1                             |[NEMA 17 Stepper Motor with Rotary Encoder](../Extras/bom/electronics-and-wiring.md#nema-17-stepper-motors-with-rotary-encoders)
 |1                             |[20 tooth GT2 Pulley](../Extras/bom/drivetrain.md#gt2-pulleys) (with setscrews)
 |1                             |Y-Axis [GT2 Timing Belt](../Extras/bom/drivetrain.md#gt2-timing-belt)
 
+
+# What's next?
+
+ * [Cross-Slide Assembly](../FarmBot-Genesis-V1.3/cross-slide/cross-slide-assembly.md)

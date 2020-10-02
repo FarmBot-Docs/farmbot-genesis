@@ -24,7 +24,7 @@ If the vacuum pump tube is kinked, then airflow will be restricted and suction p
 include callout.html
 type="info"
 title="Consider relocating the vacuum pump (v1.2 kit owners only)"
-content="The v1.2 kit design had the vacuum pump placed on the ground, requiring several meters of tubing between the vacuum pump and the UTM. With v1.3, we relocated the pump to the z-axis, significantly reducing the amount of tubing needed and thereby decreasing the amount of suction power lost due to friction inside the tube. If you have a v1.2 kit, consider [relocating the pump to the z-axis](https://genesis.farm.bot/docs/vacuum-pump-relocation) with custom components or [this upgrade kit](https://farm.bot/products/vacuum-pump-v1-2-to-v1-3-upgrade-kit)."
+content="The v1.2 kit design had the vacuum pump placed on the ground, requiring several meters of tubing between the vacuum pump and the UTM. With v1.3, we relocated the pump to the z-axis, significantly reducing the amount of tubing needed and thereby decreasing the amount of suction power lost due to friction inside the tube. If you have a v1.2 kit, consider [relocating the pump to the z-axis](../upgrades/vacuum-pump-relocation.md) with custom components or [this upgrade kit](https://farm.bot/products/vacuum-pump-v1-2-to-v1-3-upgrade-kit)."
 %}
 
 # 4. Check the needle and vacuum system for clogs and contamination

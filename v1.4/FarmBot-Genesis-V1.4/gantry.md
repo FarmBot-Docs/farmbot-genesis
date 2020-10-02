@@ -30,8 +30,8 @@ _Note: This image is of the back side of the gantry._
 |[M5 Washers](../Extras/bom/fasteners-and-hardware.md#m5-washers)|18                            |18
 |[M5 Tee Nuts](../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)|72                            |100
 |[M5 Locknuts](../Extras/bom/fasteners-and-hardware.md#m5-locknuts)|18                            |18
-|[Horizontal Motor Housings](../Extras/bom/plastic-parts.md#horizontal-motor-housing)|2                             |2
-|[Horizontal Cable Carrier Supports](../Extras/bom/plates-and-brackets.md#horizontal-cable-carrier-supports)|7                             |13
+|[Horizontal Motor Housings](../Extras/bom/plastic-parts.md#horizontal-motor-housings)|2                             |2
+|[Horizontal Cable Carrier Supports](../Extras/bom/plastic-parts.md#horizontal-cable-carrier-supports)|7                             |13
 |[V-wheels](../Extras/bom/drivetrain.md#v-wheels)|18                            |18
 |[NEMA 17 Stepper Motor with Rotary Encoders](../Extras/bom/electronics-and-wiring.md#nema-17-stepper-motors-with-rotary-encoders)|2                             |2
 |[20 tooth GT2 Pulleys with setscrews](../Extras/bom/drivetrain.md#gt2-pulleys)|2                             |2
@@ -46,3 +46,7 @@ title="2 hours"
 content="This is the estimated time it will take to assemble the Gantry."
 %}
 
+
+# What's next?
+
+ * [Assemble the Gantry Wheel Plates](../FarmBot-Genesis-V1.4/gantry/assemble-the-gantry-wheel-plates.md)

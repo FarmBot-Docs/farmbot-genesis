@@ -71,3 +71,7 @@ title="Infrastructure complete!"
 content="Your wooden posts are now ready for FarmBot installation!"
 %}
 
+
+# What's next?
+
+ * [Tracks](../../FarmBot-Genesis-V1.5/tracks.md)

@@ -37,7 +37,7 @@ Gather all the soil sensor parts from the table below and lay them out in a logi
 |------------------------------|------------------------------|
 |1                             |[Soil Sensor](../../Extras/bom/plastic-parts.md#soil-sensor)
 |3                             |[Soil Sensor Jumpers](../../Extras/bom/electronics-and-wiring.md#soil-sensor-jumpers)
-|1                             |[Soil Sensor PCB](../../Extras/bom/electronics-and-wiring.md#soil-sensor)
+|1                             |[Soil Sensor PCB](../../Extras/bom/electronics-and-wiring.md#soil-sensor-pcb)
 |3                             |[Ring Magnets](../../Extras/bom/miscellaneous.md#ring-magnets)
 |3                             |[M5 x 16mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-x-16mm-screws)
 |3                             |[M5 Washers](../../Extras/bom/fasteners-and-hardware.md#m5-washers)
@@ -73,3 +73,7 @@ Attach the jumper link to positions **B** and **C** using two **M3 x 10mm screws
 
 ![Screen Shot 2017-10-04 at 5.58.24 PM.png](Screen_Shot_2017-10-04_at_5.58.24_PM.png)
 
+
+# What's next?
+
+ * [Camera](../tools/camera.md)

@@ -30,7 +30,7 @@ To prepare for assembly, gather all the components from the table below and lay 
 |Qty.                          |Component                     |
 |------------------------------|------------------------------|
 |1                             |[Cross-Slide Plate](../Extras/bom/plates-and-brackets.md#cross-slide-plate)
-|2                             |[M3 x 5mm Setscrews](../Extras/bom/fasteners-and-hardware.md#m3-setscrews)
+|2                             |[M3 x 5mm Setscrews](../Extras/bom/fasteners-and-hardware.md#m3-screws)
 |4                             |[M5 x 16mm Screws](../Extras/bom/fasteners-and-hardware.md#m5-screws)
 |12                            |[M5 x 30mm Screws](../Extras/bom/fasteners-and-hardware.md#m5-screws)
 |6                             |[M5 x 6mm Spacers](../Extras/bom/fasteners-and-hardware.md#m5-spacers)
@@ -46,3 +46,7 @@ To prepare for assembly, gather all the components from the table below and lay 
 |1                             |[Y-Axis Belt](../Extras/bom/drivetrain.md#gt2-timing-belt)
 |2                             |[M3 x 10mm Screws](../Extras/bom/fasteners-and-hardware.md#m3-screws)
 
+
+# What's next?
+
+ * [Cross-Slide Assembly](../FarmBot-Genesis-V1.2/cross-slide/cross-slide-assembly.md)

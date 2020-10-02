@@ -119,3 +119,7 @@ Insert four **rubber seals** into the **UTM cover**.
 
 ![IMG_20160324_182106.jpg](IMG_20160324_182106.jpg)
 
+
+# What's next?
+
+ * [Wire up the UTM](../universal-tool-mount/wire-up-the-utm.md)

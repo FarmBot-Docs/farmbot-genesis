@@ -106,3 +106,7 @@ content="The weeding tool is customizable so you can optimize it for your soil c
 Come up with something effective and easy to make? Share your creation in the [FarmBot forum](http://forum.farmbot.org)!"
 %}
 
+
+# What's next?
+
+ * [Soil Sensor](../tools/soil-sensor.md)

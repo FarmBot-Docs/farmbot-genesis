@@ -94,3 +94,7 @@ Previous Tools used a short jumper wire zip-tied between two of the electronics 
 
 ![Screen Shot 2017-02-11 at 6.04.36 PM.png](Screen_Shot_2017-02-11_at_6.04.36_PM.png)
 
+
+# What's next?
+
+ * [Assembly Preparation](../intro/assembly-preparation.md)

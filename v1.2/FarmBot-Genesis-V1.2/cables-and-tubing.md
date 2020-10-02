@@ -23,3 +23,7 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 |Z                             |4.5m
 
 _It is recommended to set out the motor and encoder cables in the table above and mark both ends of each cable with the axis using a marker or tape before proceeding._
+
+# What's next?
+
+ * [Z-Axis Cable Carrier](../FarmBot-Genesis-V1.2/cables-and-tubing/z-axis-cable-carrier.md)

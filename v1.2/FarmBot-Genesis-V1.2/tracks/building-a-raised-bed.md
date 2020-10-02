@@ -127,3 +127,7 @@ title="Congrats!"
 content="Your raised bed is now ready for your FarmBot installation."
 %}
 
+
+# What's next?
+
+ * [Assemble the Tracks](../tracks/assemble-the-tracks.md)

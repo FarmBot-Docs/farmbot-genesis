@@ -96,3 +96,7 @@ title="Let us know"
 content="If you suspect damage has occurred as a fault of our design or manufacturing, let us know. We're here to work with you to make it right and improve future FarmBot hardware for everyone. Get in touch with us at [support@farmbot.io](mailto:support@farmbot.io)."
 %}
 
+
+# What's next?
+
+ * [Track Maintenance](track-maintenance.md)

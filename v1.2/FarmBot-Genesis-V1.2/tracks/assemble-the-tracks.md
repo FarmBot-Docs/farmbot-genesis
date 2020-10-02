@@ -158,3 +158,7 @@ Onward!"
 
 ![Screen Shot 2017-02-11 at 10.27.46 PM.png](Screen_Shot_2017-02-11_at_10.27.46_PM.png)
 
+
+# What's next?
+
+ * [Gantry](../../FarmBot-Genesis-V1.2/gantry.md)

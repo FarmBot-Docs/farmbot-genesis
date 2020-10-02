@@ -36,3 +36,7 @@ Attach one more **cable carrier support** to the left-side **gantry column** usi
 
 ![Screen Shot 2016-11-26 at 2.25.56 PM.png](Screen_Shot_2016-11-26_at_2.25.56_PM.png)
 
+
+# What's next?
+
+ * [Feed and Secure the Belts](../gantry/feed-and-secure-the-belts.md)

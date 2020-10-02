@@ -13,7 +13,7 @@ Want to light up your FarmBot at night so you can more easily harvest dinner-tim
 include callout.html
 type="success"
 title="Lights are included with v1.3+ kits"
-content="We have included a 1.5m long strip of white LED lights with all v1.3+ FarmBot Genesis kits, and a 3m long strip with Genesis XL kits. ([Connection instructions](../../FarmBot-Genesis-V1.4/electronics.md#step-1-connect-the-peripherals)) You might want to use these instructions for adding more lights on your own, if you're building a FarmBot on your own, or you have an older kit."
+content="We have included a 1.5m long strip of white LED lights with all v1.3+ FarmBot Genesis kits, and a 3m long strip with Genesis XL kits. ([Connection instructions](../../FarmBot-Genesis-V1.4/electronics.md#step-3-connect-the-peripherals)) You might want to use these instructions for adding more lights on your own, if you're building a FarmBot on your own, or you have an older kit."
 %}
 
 
