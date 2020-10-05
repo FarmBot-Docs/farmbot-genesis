@@ -1,7 +1,7 @@
 ---
 title: "Tool Bay"
 slug: "tool-bay"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Tool Bay"
+description: "Documentation and assembly instructions for the FarmBot Genesis Tool Bay"
 ---
 
 * toc

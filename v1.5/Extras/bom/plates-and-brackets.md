@@ -1,7 +1,7 @@
 ---
 title: "Plates and Brackets"
 slug: "plates-and-brackets"
-excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -46,11 +46,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Track End Plate 1.JPG](Track_End_Plate_1.JPG)
+![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
 
 
 
-![Track End Plates 3.JPG](Track_End_Plates_3.JPG)
+![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
 
 
 
@@ -69,7 +69,7 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Track Joining Plates.JPG](Track_Joining_Plates.JPG)
+![Track Joining Plates.JPG](_images/Track_Joining_Plates.JPG)
 
 
 
@@ -88,7 +88,7 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Gantry Wheel Plates 1.JPG](Gantry_Wheel_Plates_1.JPG)
+![Gantry Wheel Plates 1.JPG](_images/Gantry_Wheel_Plates_1.JPG)
 
 
 
@@ -107,11 +107,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![83ac568-Gantry_Corner_Brackets.jpeg](Gantry_Corner_Brackets.jpeg)
+![83ac568-Gantry_Corner_Brackets.jpeg](_images/Gantry_Corner_Brackets.jpeg)
 
 
 
-![a529504-Gantry_Corner_Brackets_2.jpeg](Gantry_Corner_Brackets_2.jpeg)
+![a529504-Gantry_Corner_Brackets_2.jpeg](_images/Gantry_Corner_Brackets_2.jpeg)
 
 
 
@@ -130,11 +130,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![594ebb7-Gantry_Joining_Bracket_2.jpeg](Gantry_Joining_Bracket_2.jpeg)
+![594ebb7-Gantry_Joining_Bracket_2.jpeg](_images/Gantry_Joining_Bracket_2.jpeg)
 
 
 
-![6deac68-Gantry_Joining_Bracket.jpeg](Gantry_Joining_Bracket.jpeg)
+![6deac68-Gantry_Joining_Bracket.jpeg](_images/Gantry_Joining_Bracket.jpeg)
 
 
 
@@ -153,7 +153,7 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Cross-Slide plate1.JPG](Cross-Slide_plate1.JPG)
+![Cross-Slide plate1.JPG](_images/Cross-Slide_plate1.JPG)
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -168,7 +168,7 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 
 
-![Zmotor1.JPG](Zmotor1.JPG)
+![Zmotor1.JPG](_images/Zmotor1.JPG)
 
 
 
@@ -191,15 +191,15 @@ Toolbays are available in both 1-slot and 3-slot versions.
 
 ## 1-Slot Toolbay
 
-![IMG_0479.jpg](IMG_0479.jpg)
+![IMG_0479.jpg](_images/IMG_0479.jpg)
 
 ## 3-Slot Toolbay
 
-![Toolbay.JPG](Toolbay.JPG)
+![Toolbay.JPG](_images/Toolbay.JPG)
 
 
 
-![Toolbay 2.JPG](Toolbay_2.JPG)
+![Toolbay 2.JPG](_images/Toolbay_2.JPG)
 
 # 50mm Cable Carrier Mount
 This part allows the x-axis cable carrier to be mounted to the gantry column.
@@ -214,7 +214,7 @@ This part allows the x-axis cable carrier to be mounted to the gantry column.
 
 
 
-![7703d60-50mm_CC_Mount.jpeg](50mm_CC_Mount.jpeg)
+![7703d60-50mm_CC_Mount.jpeg](_images/50mm_CC_Mount.jpeg)
 
 # 80mm Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -229,7 +229,7 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![Long Cable Carrier Support.JPG](Long_Cable_Carrier_Support.JPG)
+![Long Cable Carrier Support.JPG](_images/Long_Cable_Carrier_Support.JPG)
 
 
 
@@ -248,11 +248,11 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![875722e-Belt_Clips.jpeg](Belt_Clips.jpeg)
+![875722e-Belt_Clips.jpeg](_images/Belt_Clips.jpeg)
 
 
 
-![4ed0790-Belt_Clips_2.jpeg](Belt_Clips_2.jpeg)
+![4ed0790-Belt_Clips_2.jpeg](_images/Belt_Clips_2.jpeg)
 
 # Z-Axis Hardstop
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.
@@ -268,5 +268,5 @@ These components mount on the z-axis extrusion and physically limit how low and 
 
 
 
-![zhardstops.JPG](zhardstops.JPG)
+![zhardstops.JPG](_images/zhardstops.JPG)
 

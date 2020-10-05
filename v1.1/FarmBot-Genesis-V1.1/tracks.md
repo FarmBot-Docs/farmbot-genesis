@@ -1,7 +1,7 @@
 ---
 title: "Tracks"
 slug: "tracks"
-excerpt: "Documentation and Assembly Insructions for the FarmBot Genesis Tracks"
+description: "Documentation and Assembly Insructions for the FarmBot Genesis Tracks"
 ---
 
 * toc
@@ -13,7 +13,7 @@ FarmBot's tracks allow the gantry to move precisely along the x-axis. The tracks
 
 
 
-![IMG_4499.JPG](IMG_4499.JPG)
+![IMG_4499.JPG](_images/IMG_4499.JPG)
 
 
 

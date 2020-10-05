@@ -1,7 +1,7 @@
 ---
 title: "Extrusions"
 slug: "extrusions"
-excerpt: "Tech specs for the extrusions in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the extrusions in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -50,11 +50,11 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 
 
 
-![IMG_0544.jpg](IMG_0544.jpg)
+![IMG_0544.jpg](_images/IMG_0544.jpg)
 
 
 
-![IMG_0541.jpg](IMG_0541.jpg)
+![IMG_0541.jpg](_images/IMG_0541.jpg)
 
 
 
@@ -76,11 +76,11 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 
 
 
-![IMG_0532.jpg](IMG_0532.jpg)
+![IMG_0532.jpg](_images/IMG_0532.jpg)
 
 
 
-![IMG_0535.jpg](IMG_0535.jpg)
+![IMG_0535.jpg](_images/IMG_0535.jpg)
 
 
 
@@ -103,11 +103,11 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 
 
-![IMG_0547.jpg](IMG_0547.jpg)
+![IMG_0547.jpg](_images/IMG_0547.jpg)
 
 
 
-![IMG_0535.jpg](IMG_0535.jpg)
+![IMG_0535.jpg](_images/IMG_0535.jpg)
 
 
 
@@ -129,11 +129,11 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 
 
 
-![IMG_0542.jpg](IMG_0542.jpg)
+![IMG_0542.jpg](_images/IMG_0542.jpg)
 
 
 
-![IMG_0545.jpg](IMG_0545.jpg)
+![IMG_0545.jpg](_images/IMG_0545.jpg)
 
 
 

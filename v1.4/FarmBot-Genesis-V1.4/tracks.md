@@ -1,7 +1,7 @@
 ---
 title: "Tracks"
 slug: "tracks"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis tracks"
+description: "Documentation and assembly instructions for the FarmBot Genesis tracks"
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "Documentation and assembly instructions for the FarmBot Genesis tracks
 
 FarmBot's tracks allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](../FarmBot-Genesis-V1.4/supporting-infrastructure.md).
 
-![d9de2b2-completed_tracks.JPG](completed_tracks.JPG)
+![d9de2b2-completed_tracks.JPG](_images/completed_tracks.JPG)
 
 The tracks are composed of two 1.5m long aluminum extrusions butted up against each other end-to-end for a total track length of 3m on Genesis models, and four extrusions end-to-end for a total track length of 6m on Genesis XL models. The two tracks must be a parallel distance apart between 0.5m and 1.5m for Genesis, and 1.5m and 3m for Genesis XL so that the gantry may span the distance between them. If you position your tracks closer together than the maximum, you may consider cutting the gantry main beam so that it does not inconveniently extend beyond your tracks very far.
 
@@ -85,29 +85,29 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 
 
-![Screen Shot 2016-11-26 at 2.47.53 AM.png](Screen_Shot_2016-11-26_at_2.47.53_AM.png)
+![Screen Shot 2016-11-26 at 2.47.53 AM.png](_images/Screen_Shot_2016-11-26_at_2.47.53_AM.png)
 
 Lightly screw three **M5 x 10mm screws** and **tee nuts** to the **track end plate**.
 
-![Screen Shot 2017-02-27 at 10.39.15 AM.png](Screen_Shot_2017-02-27_at_10.39.15_AM.png)
+![Screen Shot 2017-02-27 at 10.39.15 AM.png](_images/Screen_Shot_2017-02-27_at_10.39.15_AM.png)
 
 Orient the tee nuts horizontally.
 
-![Screen Shot 2017-02-27 at 10.35.33 AM.png](Screen_Shot_2017-02-27_at_10.35.33_AM.png)
+![Screen Shot 2017-02-27 at 10.35.33 AM.png](_images/Screen_Shot_2017-02-27_at_10.35.33_AM.png)
 
 # Step 3: Attach a track joining plate
 Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
-![Screen Shot 2017-02-27 at 10.42.49 AM.png](Screen_Shot_2017-02-27_at_10.42.49_AM.png)
+![Screen Shot 2017-02-27 at 10.42.49 AM.png](_images/Screen_Shot_2017-02-27_at_10.42.49_AM.png)
 
 Lightly screw four **M5 x 10mm** screws and **tee nuts** to the **track joining plate**. Orient the tee nuts horizontally.
 
-![Screen Shot 2017-02-27 at 10.43.14 AM.png](Screen_Shot_2017-02-27_at_10.43.14_AM.png)
+![Screen Shot 2017-02-27 at 10.43.14 AM.png](_images/Screen_Shot_2017-02-27_at_10.43.14_AM.png)
 
 # Step 4: Attach the first track extrusion
 Lift the **track extrusion** and position the *lower* V-slot onto the **tee nuts** of the **track end plate**. Lightly tighten one of the **M5 x 10mm screws** using the **3mm hex driver** to prevent the extrusion from falling off, while still allowing it to move loosely.
 
-![Screen Shot 2017-02-27 at 10.45.57 AM.png](Screen_Shot_2017-02-27_at_10.45.57_AM.png)
+![Screen Shot 2017-02-27 at 10.45.57 AM.png](_images/Screen_Shot_2017-02-27_at_10.45.57_AM.png)
 
 
 
@@ -122,31 +122,31 @@ Note: The tee nuts are designed to only rotate 90 degrees, so in most cases you 
 
 
 
-![Tee nut.JPG](Tee_nut.JPG)
+![Tee nut.JPG](_images/Tee_nut.JPG)
 
 _This image shows a tee nut that has correctly rotated 90 degree and is gripping the inside faces of the extrusion slot._
 
 Lift the other end of the **track extrusion** and position the *lower* V-slot onto two of the **tee nuts** in the **track joining plate**. Verify that the track extrusion is positioned correctly, and then fully tighten all five of the **M5 x 10mm screws** that fasten the extrusion to the two plates.
 
-![Screen Shot 2017-02-11 at 10.35.30 PM.png](Screen_Shot_2017-02-11_at_10.35.30_PM.png)
+![Screen Shot 2017-02-11 at 10.35.30 PM.png](_images/Screen_Shot_2017-02-11_at_10.35.30_PM.png)
 
 # Step 5: Insert dowel pins
 Insert the slightly larger diameter half of a **dowel pin** half-way into a hole in the **track extrusion**. The pin should fit snugly, and require a small amount of force to be put in. If the pin is loose, try inserting it into the second hole in the extrusion. Be careful to not lose the pin inside the extrusion.
 
-![Dowel Pin.JPG](Dowel_Pin.JPG)
+![Dowel Pin.JPG](_images/Dowel_Pin.JPG)
 
 Insert the slightly larger diameter half of another **dowel pin** half-way into a hole in another **track extrusion**. Again, the pin should fit snugly and you may need to try the other hole to find the best fit.
 
-![Pin2.JPG](Pin2.JPG)
+![Pin2.JPG](_images/Pin2.JPG)
 
 # Step 6: Attach the next extrusion
 Lift the **track extrusion** that you just inserted a dowel pin into and position the *lower* V-slot onto the **tee nuts** of the **track joining plate**. The dowel pins should be in opposite positions of each other. Rotate the second extrusion upside down if needed.
 
-![Dowel Pins.JPG](Dowel_Pins.JPG)
+![Dowel Pins.JPG](_images/Dowel_Pins.JPG)
 
 Slide the **extrusion** so the exposed **dowel pins** from both extrusions are inserted into the other.
 
-![Screen Shot 2018-08-08 at 11.58.26 AM.png](Screen_Shot_2018-08-08_at_11.58.26_AM.png)
+![Screen Shot 2018-08-08 at 11.58.26 AM.png](_images/Screen_Shot_2018-08-08_at_11.58.26_AM.png)
 
 
 
@@ -159,7 +159,7 @@ content="At this time the two dowel pins will be keeping the two extrusions alig
 
 Lightly tighten the **M5 x 10mm screws** using the **3mm hex driver** to prevent the extrusion from falling off, while still allowing it to move loosely.
 
-![124d069-Screen_Shot_2017-02-11_at_10.32.02_PM.png](Screen_Shot_2017-02-11_at_10.32.02_PM.png)
+![124d069-Screen_Shot_2017-02-11_at_10.32.02_PM.png](_images/Screen_Shot_2017-02-11_at_10.32.02_PM.png)
 
 # Step 7: Attach the next track joining plate (XL kits only)
 
@@ -172,15 +172,15 @@ content=""
 
 Position another **track joining plate** such that one half of it will be able to attach to the free end of the **track extrusion** that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
-![9e9355b-Screen_Shot_2017-02-27_at_10.42.49_AM.png](Screen_Shot_2017-02-27_at_10.42.49_AM.png)
+![9e9355b-Screen_Shot_2017-02-27_at_10.42.49_AM.png](_images/Screen_Shot_2017-02-27_at_10.42.49_AM.png)
 
 Lightly screw four **M5 x 10mm** screws and **tee nuts** to the **track joining plate**. Orient the tee nuts horizontally.
 
-![8ba10b8-Screen_Shot_2017-02-27_at_10.43.14_AM.png](Screen_Shot_2017-02-27_at_10.43.14_AM.png)
+![8ba10b8-Screen_Shot_2017-02-27_at_10.43.14_AM.png](_images/Screen_Shot_2017-02-27_at_10.43.14_AM.png)
 
 Lift the free end of the loose **track extrusion** and position the *lower* V-slot onto two of the **tee nuts** in the **track joining plate**.
 
-![8f2270d-Screen_Shot_2017-02-11_at_10.35.30_PM.png](Screen_Shot_2017-02-11_at_10.35.30_PM.png)
+![8f2270d-Screen_Shot_2017-02-11_at_10.35.30_PM.png](_images/Screen_Shot_2017-02-11_at_10.35.30_PM.png)
 
 Verify that the track extrusion is positioned correctly, and butted up against the previous extrusion. Then fully tighten all of the **M5 x 10mm screws** that fasten the extrusion to the two plates.
 
@@ -193,7 +193,7 @@ content="Position your **track extrusions** tightly together at the middle of th
 
 
 
-![124d069-Screen_Shot_2017-02-11_at_10.32.02_PM.png](Screen_Shot_2017-02-11_at_10.32.02_PM.png)
+![124d069-Screen_Shot_2017-02-11_at_10.32.02_PM.png](_images/Screen_Shot_2017-02-11_at_10.32.02_PM.png)
 
 _Perfectly aligned track extrusions are key to smooth gantry movements!_
 
@@ -209,7 +209,7 @@ content="Sanding away any minor bumps will help the movements of the FarmBot and
 
 
 
-![SANDING_TRACKS.bmp](SANDING_TRACKS.bmp)
+![SANDING_TRACKS.bmp](_images/SANDING_TRACKS.bmp)
 
 _Sanding away any minor bumps will help the movements of the FarmBot and improve motor longevity._
 
@@ -218,12 +218,12 @@ Repeat Steps 5, 6, and 7 one time to install the third **track extrusion** and t
 # Step 8: Attach the second track end plate
 Follow the instructions in Step 2 to attach the second **track end plate** and final **track extrusion**. Securely tighten all screws.
 
-![Screen Shot 2017-02-11 at 10.15.29 PM.png](Screen_Shot_2017-02-11_at_10.15.29_PM.png)
+![Screen Shot 2017-02-11 at 10.15.29 PM.png](_images/Screen_Shot_2017-02-11_at_10.15.29_PM.png)
 
 # Step 9: Install the other track
 Repeat steps 2 through 8 for the track on the other side of the bed.
 
-![Screen Shot 2017-02-11 at 10.16.31 PM.png](Screen_Shot_2017-02-11_at_10.16.31_PM.png)
+![Screen Shot 2017-02-11 at 10.16.31 PM.png](_images/Screen_Shot_2017-02-11_at_10.16.31_PM.png)
 
 
 
@@ -239,11 +239,11 @@ You can use shims or other spacers to better align track plates in case your sup
 # Step 10: Add the horizontal cable carrier supports
 Insert two **M5 x 10mm screws** into a **horizontal cable carrier support** and lightly screw on two **M5 tee nuts**. Place the assembly into the lower slot of the left side **track**, near the end of the track. Use the **3mm driver** to tighten the screws.
 
-![track cc support.JPG](track_cc_support.JPG)
+![track cc support.JPG](_images/track_cc_support.JPG)
 
 For Genesis kits, add 10 more **horizontal cable carrier supports** evenly along the left side track so that there are 11 total installed. There should be five to six supports per **track extrusion**. For XL kits, add 22 more for a total of 23 installed.
 
-![all cc supports.JPG](all_cc_supports.JPG)
+![all cc supports.JPG](_images/all_cc_supports.JPG)
 
 
 

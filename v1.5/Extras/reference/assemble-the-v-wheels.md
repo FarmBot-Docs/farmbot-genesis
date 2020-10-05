@@ -1,7 +1,7 @@
 ---
 title: "Assemble the V-Wheels"
 slug: "assemble-the-v-wheels"
-excerpt: "All of our full FarmBot kits come with pre-assembled V-wheels"
+description: "All of our full FarmBot kits come with pre-assembled V-wheels"
 ---
 
 * toc
@@ -12,7 +12,7 @@ Each V-Wheel actually consists of four components:
 * Two [bearings](../bom/drivetrain.md#v-wheel)
 * One [M5 shim](../bom/drivetrain.md#v-wheel)
 
-![IMG_0276.JPG](IMG_0276.JPG)
+![IMG_0276.JPG](_images/IMG_0276.JPG)
 
 Pre-assembling all your v-wheels at once will save you assembly time later on. To do so, first press one bearing into the polycarbonate wheel.
 
@@ -25,11 +25,11 @@ content="It can be easy to accidentally press in a bearing crooked. Try your bes
 
 
 
-![IMG_0277.JPG](IMG_0277.JPG)
+![IMG_0277.JPG](_images/IMG_0277.JPG)
 
 
 
-![IMG_0278.JPG](IMG_0278.JPG)
+![IMG_0278.JPG](_images/IMG_0278.JPG)
 
 
 
@@ -42,15 +42,15 @@ content="If all goes well, you should here a satisfying 'pop' each time a bearin
 
 Then insert the precision shim such that it is resting on the first bearing on the inside of the wheel. Try to position the shim in the center of the wheel.
 
-![IMG_0279.JPG](IMG_0279.JPG)
+![IMG_0279.JPG](_images/IMG_0279.JPG)
 
  Then press in the second bearing.
 
-![IMG_0280.JPG](IMG_0280.JPG)
+![IMG_0280.JPG](_images/IMG_0280.JPG)
 
 
 
-![IMG_0281.JPG](IMG_0281.JPG)
+![IMG_0281.JPG](_images/IMG_0281.JPG)
 
 
 
@@ -63,5 +63,5 @@ content="If your second bearing doesn't seem to fit all the way into the wheel, 
 
 
 
-![IMG_0282.JPG](IMG_0282.JPG)
+![IMG_0282.JPG](_images/IMG_0282.JPG)
 

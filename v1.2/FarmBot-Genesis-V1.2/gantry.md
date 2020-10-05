@@ -1,14 +1,14 @@
 ---
 title: "Gantry"
 slug: "gantry"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis gantry"
+description: "Documentation and assembly instructions for the FarmBot Genesis gantry"
 ---
 
 * toc
 {:toc}
 
 
-![Screen Shot 2017-02-12 at 2.07.54 PM.png](Screen_Shot_2017-02-12_at_2.07.54_PM.png)
+![Screen Shot 2017-02-12 at 2.07.54 PM.png](_images/Screen_Shot_2017-02-12_at_2.07.54_PM.png)
 
 _Note: This image is of the back side of the gantry._
 

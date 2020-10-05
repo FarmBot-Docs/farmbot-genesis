@@ -1,7 +1,7 @@
 ---
 title: "Intro to FarmBot Genesis"
 slug: "intro"
-excerpt: "100% open-source, DIY, highly customizable FarmBot\n[Order yours here!](http://buy.farm.bot/)"
+description: "100% open-source, DIY, highly customizable FarmBot\n[Order yours here!](http://buy.farm.bot/)"
 ---
 
 * toc

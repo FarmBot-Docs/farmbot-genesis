@@ -1,7 +1,7 @@
 ---
 title: "Change Log"
 slug: "change-log"
-excerpt: "All of the changes we made to FarmBot Genesis since the last version"
+description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
 * toc

@@ -19,28 +19,28 @@ Attach the red (positive) wire from the **RAMPS power cable** to one of the avai
 
 Attach the black (negative) wire from the **RAMPS power cable** to one of the available negative outputs on the **power supply** and tighten the screw.
 
-![RAMPS_power.png](RAMPS_power.png)
+![RAMPS_power.png](_images/RAMPS_power.png)
 
 # Step 2: Attach the Raspberry Pi power cable to the power supply
 Attach the red (positive) wire from the **Raspberry Pi power cable** to one of the available positive outputs on the **power supply** and tighten the screw.
 
 Attach the black (negative) wire from the **Raspberry Pi power cable** to one of the available negative outputs on the **power supply** and tighten the screw.
 
-![RAMPS_and_Pi_power.png](RAMPS_and_Pi_power.png)
+![RAMPS_and_Pi_power.png](_images/RAMPS_and_Pi_power.png)
 
 # Step 3: Connect the peripherals
 Connect the **solenoid valve cable** to the positive and negative terminals labelled **D9** on the **RAMPS shield**.
 
-![Screen Shot 2017-02-27 at 11.12.33 PM.png](Screen_Shot_2017-02-27_at_11.12.33_PM.png)
+![Screen Shot 2017-02-27 at 11.12.33 PM.png](_images/Screen_Shot_2017-02-27_at_11.12.33_PM.png)
 
 Connect the **vacuum pump cable** to the positive and negative terminals labelled **D10** on the **RAMPS shield**.
 
-![Screen Shot 2017-02-27 at 11.13.48 PM.png](Screen_Shot_2017-02-27_at_11.13.48_PM.png)
+![Screen Shot 2017-02-27 at 11.13.48 PM.png](_images/Screen_Shot_2017-02-27_at_11.13.48_PM.png)
 
 # Step 4: Plug in the stepper motors and rotary encoders
 Plug in the **motor and encoder cables** to the **RAMPS shield** according to the following diagram.
 
-![RAMPS_wiring_diagram.png](RAMPS_wiring_diagram.png)
+![RAMPS_wiring_diagram.png](_images/RAMPS_wiring_diagram.png)
 
 
 
@@ -72,7 +72,7 @@ content="Only one x-axis encoder is currently implemented in the firmware, so th
 %}
 
 # Step 5: Plug in the UTM cable's connectors
-Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](../../FarmBot-Genesis-V1.2/utm/wire-up-the-utm.md).
+Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](../../FarmBot-Genesis-V1.2/utm.md).
 
 
 |UTM Pin/UTM Wire              |is connected to               |and used for                  |
@@ -94,11 +94,11 @@ content="As of the v4.0.0 software released on June 21, 2017, the UTM Pin/Wire A
 # Step 6: Add the power cord to the power supply
 Attach the **FarmBot power plug** to the **power supply** inputs according to the following image.
 
-![power cord.png](power_cord.png)
+![power cord.png](_images/power_cord.png)
 
 
 
-![power_supply_connections.png](power_supply_connections.png)
+![power_supply_connections.png](_images/power_supply_connections.png)
 
 # Step 7: Set the power supply input voltage
 The power supply can accept both 110V and 220V power input.
@@ -112,7 +112,7 @@ content="You **MUST** set the power supply's input voltage switch to the correct
 
 Set the switch to the correct input voltage. The voltage label you see must match your country's power infrastructure.
 
-![voltage_selector.png](voltage_selector.png)
+![voltage_selector.png](_images/voltage_selector.png)
 
 # Step 8: Plug in the power supply
 
@@ -165,11 +165,11 @@ content="If you need to add, remove, or change any of the wiring now or in the f
 
 The power supply lives inside the weatherproof **[SockitBox](http://www.sockitbox.com/size-option/285/#ad-image-3)**, along with the vacuum pump.
 
-![power_supply_box.png](power_supply_box.png)
+![power_supply_box.png](_images/power_supply_box.png)
 
 
 
-![box_location.png](box_location.png)
+![box_location.png](_images/box_location.png)
 
 
 # What's next?

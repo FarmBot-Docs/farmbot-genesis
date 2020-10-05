@@ -1,7 +1,7 @@
 ---
 title: "Why is my FarmBot not moving?"
 slug: "why-is-my-farmbot-not-moving"
-excerpt: "Problem description: FarmBot is having trouble with movements. This Troubleshooting document has been adapted from a post that was originally written by Marc Dingena on the FarmBot Community Forum."
+description: "Problem description: FarmBot is having trouble with movements. This Troubleshooting document has been adapted from a post that was originally written by Marc Dingena on the FarmBot Community Forum."
 ---
 
 * toc
@@ -27,7 +27,7 @@ Your FarmBot must be connected to the internet and the web app to receive comman
 
 The connectivity popup should show a [code 31 diagnosis code](https://software.farm.bot/docs/connectivity-codes#code-31) when communication is functioning. Refer to the [connectivity diagnosis codes](https://software.farm.bot/docs/connecting-farmbot-to-the-internet) page for additional help troubleshooting connectivity issues.
 
-![0c09c78-Connectivity_1024x1024.png](Connectivity_1024x1024.png)
+![0c09c78-Connectivity_1024x1024.png](_images/Connectivity_1024x1024.png)
 
 
 
@@ -37,7 +37,7 @@ An equalized gantry is one that is exactly perpendicular to the tracks such that
 
 
 
-![ddb550d-d9de2b2-completed_tracks.JPG](d9de2b2-completed_tracks.JPG)
+![ddb550d-d9de2b2-completed_tracks.JPG](_images/d9de2b2-completed_tracks.JPG)
 
 The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](../../FarmBot-Genesis-V1.5/supporting-infrastructure/raised-bed.md)
 
@@ -51,7 +51,7 @@ The detailed instructions to build the raised bed supporting infrastructure for 
 4. If you need to add a lubricant to lower the resistance at the V-wheels, use a **dry** lubricant such as powdered graphite. A dry lubricant will not collect dust or dirt and will not gum the wheels or bearings like liquid lubricants or grease will. **Do not use a liquid lubricant on the belts, pulleys, or v-wheels.**
 5. Once you have removed the resistance from the tracks, you will need to re-connect the motor and rotary encoder cables. Then you will re-calibrate your FarmBot from the web app.
 
-![Alignment.jpg](Alignment.jpg)
+![Alignment.jpg](_images/Alignment.jpg)
 
 
 
@@ -68,7 +68,7 @@ Review the track assembly procedure [here](../../FarmBot-Genesis-V1.5/tracks.md)
 
 It is possible for the belts to stretch or slip over time which can lead to missed steps, premature wearing, a gantry that binds on the tracks, as well as a loss of precision in FarmBot’s movements.
 
-![wN8vhxVIT3GVxso0S8ma_IMG_20160324_161818.jpg](IMG_20160324_161818.jpg)
+![wN8vhxVIT3GVxso0S8ma_IMG_20160324_161818.jpg](_images/IMG_20160324_161818.jpg)
 
 Procedure for adjusting the belt tension:
 
@@ -79,7 +79,7 @@ Procedure for adjusting the belt tension:
 The belts should not be under extreme tension. If they are, FarmBot’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
 5. [Re-equalize the gantry](#equalize-the-gantry) to prevent binding.
 
-![Belt_Tightening.png](Belt_Tightening.png)
+![Belt_Tightening.png](_images/Belt_Tightening.png)
 
 
 
@@ -93,7 +93,7 @@ Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-sp
 
 
 
-![f3db2da-Screen_Shot_2017-02-27_at_12.39.03_PM.png](Screen_Shot_2017-02-27_at_12.39.03_PM.png)
+![f3db2da-Screen_Shot_2017-02-27_at_12.39.03_PM.png](_images/Screen_Shot_2017-02-27_at_12.39.03_PM.png)
 
 
 
@@ -105,7 +105,7 @@ Another thing to remember when you are troubleshooting these NEMA 17 stepper mot
 
 The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the <span class="fb-tooltip">?</span> icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
 
-![Default_motor_settings_.bmp](Default_motor_settings_.bmp)
+![Default_motor_settings_.bmp](_images/Default_motor_settings_.bmp)
 
 If you are getting motor stalls the FarmBot will stop for a second and then continue. If you know that the track is dirty or there are small slopes or imperfections in the tracks the FarmBot will need more speed (power) to move through these track imperfections with ease. Increase the minimum speed in steps of 50mm/s until your FarmBot has the power to overcome these imperfections.
 

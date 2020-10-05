@@ -1,14 +1,14 @@
 ---
 title: "Z-Axis"
 slug: "z-axis"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis z-axis"
+description: "Documentation and assembly instructions for the FarmBot Genesis z-axis"
 ---
 
 * toc
 {:toc}
 
 
-![z-axis.JPG](z-axis.JPG)
+![z-axis.JPG](_images/z-axis.JPG)
 
 # Component List
 Gather all the parts from the table below and lay them out in a logical manner. To complete the assembly, you will also need the following tools:

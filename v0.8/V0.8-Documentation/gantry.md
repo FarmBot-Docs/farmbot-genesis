@@ -1,7 +1,7 @@
 ---
 title: "Gantry"
 slug: "gantry"
-excerpt: "Documentation for the FarmBot Genesis V0.8 Gantry"
+description: "Documentation for the FarmBot Genesis V0.8 Gantry"
 ---
 
 * toc
@@ -19,7 +19,7 @@ excerpt: "Documentation for the FarmBot Genesis V0.8 Gantry"
 
 
 
-![20150113_164911.jpg](20150113_164911.jpg)
+![20150113_164911.jpg](_images/20150113_164911.jpg)
 
 
 

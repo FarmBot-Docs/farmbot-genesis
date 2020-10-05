@@ -1,7 +1,7 @@
 ---
 title: "Bill of Materials"
 slug: "bill-of-materials"
-excerpt: "CAD models, prices, quatities, suppliers, and tech specs for each component in FarmBot Genesis"
+description: "CAD models, prices, quatities, suppliers, and tech specs for each component in FarmBot Genesis"
 ---
 
 * toc
@@ -190,7 +190,7 @@ Also note that the grand total does not include materials for supporting infrast
 ## Track Extrusions
 Track extrusions are the primary structural component of the tracks sub-assembly. They can be combined end-to-end in order to create longer tracks. The gantry v-wheels roll along the track extrusions, allowing FarmBot to move in the x-direction.
 
-![20150113_140302.jpg](20150113_140302.jpg)
+![20150113_140302.jpg](_images/20150113_140302.jpg)
 
 
 
@@ -207,7 +207,7 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 ## Gantry Columns
 The gantry columns are made from aluminum extrusions. They can be scaled to be taller or shorter to satisfy your needs. The two large spaces inside the columns are used to conceal and protect the GT2 timing belts that run along the tracks and up to the gantry pulleys.
 
-![IMG_1938.JPG](IMG_1938.JPG)
+![IMG_1938.JPG](_images/IMG_1938.JPG)
 
 
 
@@ -224,7 +224,7 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 ## Gantry Main Beam
 This aluminum extrusion serves as the gantry's primary structural element. The cross-slide's v-wheels move across this extrusion, allowing FarmBot to move in the y-direction. It is possible to make this extrusion longer or shorter to suit your needs.
 
-![IMG_1975.JPG](IMG_1975.JPG)
+![IMG_1975.JPG](_images/IMG_1975.JPG)
 
 
 
@@ -259,7 +259,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Track End Plates
 
-![IMG_4477.jpg](IMG_4477.jpg)
+![IMG_4477.jpg](_images/IMG_4477.jpg)
 
 
 
@@ -273,7 +273,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Track Joining Plates
 
-![IMG_4481.JPG](IMG_4481.JPG)
+![IMG_4481.JPG](_images/IMG_4481.JPG)
 
 
 
@@ -287,7 +287,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Gantry Main Plates
 
-![IMG_1930.JPG](IMG_1930.JPG)
+![IMG_1930.JPG](_images/IMG_1930.JPG)
 
 
 
@@ -301,7 +301,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Gantry Corner Plates
 
-![IMG_4504.jpg](IMG_4504.jpg)
+![IMG_4504.jpg](_images/IMG_4504.jpg)
 
 
 
@@ -315,7 +315,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Gantry Motor Mount Plate
 
-![IMG_1990.JPG](IMG_1990.JPG)
+![IMG_1990.JPG](_images/IMG_1990.JPG)
 
 
 
@@ -329,7 +329,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Gantry Driveshaft Bearing Plate
 
-![IMG_1983.JPG](IMG_1983.JPG)
+![IMG_1983.JPG](_images/IMG_1983.JPG)
 
 
 
@@ -343,7 +343,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## Cross-Slide Plate
 
-![IMG_0254.JPG](IMG_0254.JPG)
+![IMG_0254.JPG](_images/IMG_0254.JPG)
 
 
 
@@ -374,7 +374,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Screws
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -393,7 +393,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Setscrews
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -410,7 +410,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Locknuts
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -428,7 +428,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 ## M4 Setscrews
 These setscrews are used to secure the driveshaft flex coupling to the driveshaft and to the gantry motor's primary shaft.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -445,7 +445,7 @@ These setscrews are used to secure the driveshaft flex coupling to the driveshaf
 ## M5 Screws
 M5 screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually terminated with an M5 tee nut or an M5 locknut.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -465,7 +465,7 @@ M5 screws of various lengths are used throughout FarmBot to attach plates and 3D
 ## M5 Washers
 These washers are used throughout FarmBot in combination with M5 screws and M5 locknuts. They allow components to be attached to plates securely while preventing damage to the plate when tightening and loosening locknuts.
 
-![IMG_0288 (1).JPG](IMG_0288_(1).JPG)
+![IMG_0288 (1).JPG](_images/IMG_0288_(1).JPG)
 
 
 
@@ -479,7 +479,7 @@ These washers are used throughout FarmBot in combination with M5 screws and M5 l
 ## M5 x 6mm Spacers
 These spacers are used to offset V-wheels from plates so that they may engage extrusions.
 
-![quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg](quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg)
+![quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg](_images/quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg)
 
 
 
@@ -494,7 +494,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 
 ## M5 x 20mm Spacers
 
-![102_zoom_1409429568.jpg](102_zoom_1409429568.jpg)
+![102_zoom_1409429568.jpg](_images/102_zoom_1409429568.jpg)
 
 
 
@@ -510,7 +510,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 ## M5 x 6mm Eccentric Spacers
 When rotated, eccentric spacers accurately position V-wheels on a plate such that they can firmly engage V-slot aluminum extrusions. They are only used on wheels on one side of an extrusion. Adjustments are made by using a 10mm wrench on the spacer itself.
 
-![111_zoom_1411241121.jpg](111_zoom_1411241121.jpg)
+![111_zoom_1411241121.jpg](_images/111_zoom_1411241121.jpg)
 
 
 
@@ -528,7 +528,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 ## M5 Locknuts
 These nuts resist loosening because their nylon insert grips the screw that they are attached to.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -545,7 +545,7 @@ These nuts resist loosening because their nylon insert grips the screw that they
 ## M5 Tee Nuts
 Combined with M5 screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion.
 
-![IMG_0439.JPG](IMG_0439.JPG)
+![IMG_0439.JPG](_images/IMG_0439.JPG)
 
 
 
@@ -560,7 +560,7 @@ Combined with M5 screws, these drop-in style tee nuts allow components such as p
 ## Wood Screws
 These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised.
 
-![b70838c3-9d85-4078-9004-5d0110371e1d_1000.jpg](9d85-4078-9004-5d0110371e1d_1000.jpg)
+![b70838c3-9d85-4078-9004-5d0110371e1d_1000.jpg](_images/9d85-4078-9004-5d0110371e1d_1000.jpg)
 
 
 
@@ -580,11 +580,11 @@ These are used to attach the track end plates and track joining plates to suppor
 ## V-Wheels
 These polycarbonate V-wheels are precision machined to allow FarmBot to move in the X, Y, and Z directions smoothly and precisely. Each wheel requires two bearings and one precision shim to operate correctly.
 
-![IMG_0285.JPG](IMG_0285.JPG)
+![IMG_0285.JPG](_images/IMG_0285.JPG)
 
 
 
-![IMG_0290.JPG](IMG_0290.JPG)
+![IMG_0290.JPG](_images/IMG_0290.JPG)
 
 
 
@@ -602,7 +602,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 ## Bearings
 These stainless steel bearings resist corrosion and have rubber seals to keep debris out. Two of them are used in every V-wheel, and one is used to support the driveshaft in the driveshaft bearing plate.
 
-![IMG_0293 (1).JPG](IMG_0293_(1).JPG)
+![IMG_0293 (1).JPG](_images/IMG_0293_(1).JPG)
 
 
 
@@ -621,11 +621,11 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 ## Precision Shims
 These small washers are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
 
-![IMG_0283.JPG](IMG_0283.JPG)
+![IMG_0283.JPG](_images/IMG_0283.JPG)
 
 
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -658,7 +658,7 @@ The driveshaft is used to transfer power from the gantry motor such that both ga
 ## M5 Lock Collar
 The M5 lock collar is used in combination with a GT2 pulley to "capture" and hold in place the driveshaft bearing inside the driveshaft bearing plate.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -674,7 +674,7 @@ The M5 lock collar is used in combination with a GT2 pulley to "capture" and hol
 
 ## GT2 Timing Belt
 
-![GT2-Belt.jpg](Belt.jpg)
+![GT2-Belt.jpg](_images/Belt.jpg)
 
 
 
@@ -691,7 +691,7 @@ The M5 lock collar is used in combination with a GT2 pulley to "capture" and hol
 ## GT2 Pulleys
 These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the driveshaft. They transfer power from the motor to the belt such that FarmBot can move in the X and Y directions.
 
-![DSC02013__78099.1372088407.1280.1280.JPG](DSC02013__78099.1372088407.1280.1280.JPG)
+![DSC02013__78099.1372088407.1280.1280.JPG](_images/DSC02013__78099.1372088407.1280.1280.JPG)
 
 
 
@@ -711,7 +711,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 ## 5mm to 5mm Flex Coupling
 This aluminum coupling connects the gantry stepper motor to the driveshaft. It is secured with two setscrews on each shaft.
 
-![1175-01.jpg](01.jpg)
+![1175-01.jpg](_images/01.jpg)
 
 
 
@@ -727,7 +727,7 @@ This aluminum coupling connects the gantry stepper motor to the driveshaft. It i
 ## 5mm to 8mm Flex Coupling
 This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction.
 
-![1176-02.jpg](02.jpg)
+![1176-02.jpg](_images/02.jpg)
 
 
 
@@ -743,7 +743,7 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 ## 8mm ACME Leadscrew
 This stainless steel leadscrew allows FarmBot to move in the Z direction.
 
-![DSC03575__26013.1394590131.1280.1280.JPG](DSC03575__26013.1394590131.1280.1280.JPG)
+![DSC03575__26013.1394590131.1280.1280.JPG](_images/DSC03575__26013.1394590131.1280.1280.JPG)
 
 
 
@@ -761,11 +761,11 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 ## Leadscrew Block
 This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction.
 
-![DSC03591__35062.1394590651.1280.1280.JPG](DSC03591__35062.1394590651.1280.1280.JPG)
+![DSC03591__35062.1394590651.1280.1280.JPG](_images/DSC03591__35062.1394590651.1280.1280.JPG)
 
 
 
-![VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg](VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg)
+![VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg](_images/VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg)
 
 
 
@@ -804,7 +804,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 ## Power Supply
 
-![Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg](Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg)
+![Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg](_images/Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg)
 
 
 
@@ -827,7 +827,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 ## Raspberry Pi 2
 
-![2358-01.jpg](01.jpg)
+![2358-01.jpg](_images/01.jpg)
 
 
 
@@ -842,7 +842,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 ## Arduino Mega 2560
 This is the microcontroller that powers FarmBot. It receives G-code commands from the Raspberry Pi and then sends signals to move motors, read sensors, activate peripherals, and more.
 
-![2_33_18.jpg](2_33_18.jpg)
+![2_33_18.jpg](_images/2_33_18.jpg)
 
 
 
@@ -865,7 +865,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 ## RAMPS Shield
 
-![4_21_16.jpg](4_21_16.jpg)
+![4_21_16.jpg](_images/4_21_16.jpg)
 
 
 
@@ -877,7 +877,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 ## Pololu Stepper Drivers
 
-![6_3_47.jpg](6_3_47.jpg)
+![6_3_47.jpg](_images/6_3_47.jpg)
 
 
 
@@ -928,7 +928,7 @@ Connects the Raspberry Pi to the Arduino.
 
 ## 15 x 30mm Cable Carrier
 
-![11_Drag-Chain-30331-01.jpg](Chain-30331-01.jpg)
+![11_Drag-Chain-30331-01.jpg](_images/Chain-30331-01.jpg)
 
 
 
@@ -948,7 +948,7 @@ Connects the Raspberry Pi to the Arduino.
 
 ## 15 x 40mm Cable Carrier
 
-![Drag-Chain-30331-03.jpg](Chain-30331-03.jpg)
+![Drag-Chain-30331-03.jpg](_images/Chain-30331-03.jpg)
 
 
 
@@ -1148,7 +1148,7 @@ Connects the Raspberry Pi to the Arduino.
 
 ## Z-Axis Motor Mount
 
-![V5_Z-Axis_2.jpg](Axis_2.jpg)
+![V5_Z-Axis_2.jpg](_images/Axis_2.jpg)
 
 
 
@@ -1159,7 +1159,7 @@ Connects the Raspberry Pi to the Arduino.
 
 ## Horizontal Motor Cover
 
-![IMG_0228.JPG](IMG_0228.JPG)
+![IMG_0228.JPG](_images/IMG_0228.JPG)
 
 
 
@@ -1214,7 +1214,7 @@ Connects the Raspberry Pi to the Arduino.
 
 ## Ring Magnets
 
-![magnet15x5x5mmring.jpg](magnet15x5x5mmring.jpg)
+![magnet15x5x5mmring.jpg](_images/magnet15x5x5mmring.jpg)
 
 
 

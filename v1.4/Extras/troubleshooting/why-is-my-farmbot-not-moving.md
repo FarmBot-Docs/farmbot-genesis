@@ -1,7 +1,7 @@
 ---
 title: "Why is my FarmBot not moving?"
 slug: "why-is-my-farmbot-not-moving"
-excerpt: "Problem description: FarmBot is having trouble with movements. This Troubleshooting document has been adapted from a post that was originally written by Marc Dingena on the FarmBot Community Forum."
+description: "Problem description: FarmBot is having trouble with movements. This Troubleshooting document has been adapted from a post that was originally written by Marc Dingena on the FarmBot Community Forum."
 ---
 
 * toc
@@ -27,7 +27,7 @@ Your FarmBot must be connected to the internet and the web app to receive comman
 
 The connectivity popup should show a [code 31 diagnosis code](https://software.farm.bot/docs/connectivity-codes#code-31) when communication is functioning. Refer to the [connectivity diagnosis codes](https://software.farm.bot/docs/connecting-farmbot-to-the-internet) page for additional help troubleshooting connectivity issues.
 
-![0c09c78-Connectivity_1024x1024.png](Connectivity_1024x1024.png)
+![0c09c78-Connectivity_1024x1024.png](_images/Connectivity_1024x1024.png)
 
 
 
@@ -37,7 +37,7 @@ An equalized gantry is one that is exactly perpendicular to the tracks such that
 
 
 
-![ddb550d-d9de2b2-completed_tracks.JPG](d9de2b2-completed_tracks.JPG)
+![ddb550d-d9de2b2-completed_tracks.JPG](_images/d9de2b2-completed_tracks.JPG)
 
 The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](../../FarmBot-Genesis-V1.4/supporting-infrastructure/building-a-raised-bed.md)
 
@@ -51,7 +51,7 @@ The detailed instructions to build the raised bed supporting infrastructure for 
 4. If you need to add a lubricant to lower the resistance at the V-wheels, use a **dry** lubricant such as powdered graphite. A dry lubricant will not collect dust or dirt and will not gum the wheels or bearings like liquid lubricants or grease will. **Do not use a liquid lubricant on the belts, pulleys, or v-wheels.**
 5. Once you have removed the resistance from the tracks, you will need to re-connect the motor and rotary encoder cables. Then you will re-calibrate your FarmBot from the web app.
 
-![Alignment.jpg](Alignment.jpg)
+![Alignment.jpg](_images/Alignment.jpg)
 
 
 
@@ -68,7 +68,7 @@ Review the track assembly procedure [here](../../FarmBot-Genesis-V1.4/tracks.md)
 
 It is possible for the belts to stretch or slip over time which can lead to missed steps, premature wearing, a gantry that binds on the tracks, as well as a loss of precision in FarmBot’s movements.
 
-![wN8vhxVIT3GVxso0S8ma_IMG_20160324_161818.jpg](IMG_20160324_161818.jpg)
+![wN8vhxVIT3GVxso0S8ma_IMG_20160324_161818.jpg](_images/IMG_20160324_161818.jpg)
 
 Procedure for adjusting the belt tension:
 
@@ -79,7 +79,7 @@ Procedure for adjusting the belt tension:
 The belts should not be under extreme tension. If they are, FarmBot’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
 5. [Re-equalize the gantry](#equalize-the-gantry) to prevent binding.
 
-![Belt_Tightening.png](Belt_Tightening.png)
+![Belt_Tightening.png](_images/Belt_Tightening.png)
 
 
 
@@ -93,7 +93,7 @@ Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-sp
 
 
 
-![f3db2da-Screen_Shot_2017-02-27_at_12.39.03_PM.png](Screen_Shot_2017-02-27_at_12.39.03_PM.png)
+![f3db2da-Screen_Shot_2017-02-27_at_12.39.03_PM.png](_images/Screen_Shot_2017-02-27_at_12.39.03_PM.png)
 
 
 
@@ -105,7 +105,7 @@ Another thing to remember when you are troubleshooting these NEMA 17 stepper mot
 
 The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the <span class="fb-tooltip">?</span> icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
 
-![Default_motor_settings_.bmp](Default_motor_settings_.bmp)
+![Default_motor_settings_.bmp](_images/Default_motor_settings_.bmp)
 
 If you are getting motor stalls the FarmBot will stop for a second and then continue. If you know that the track is dirty or there are small slopes or imperfections in the tracks the FarmBot will need more speed (power) to move through these track imperfections with ease. Increase the minimum speed in steps of 50mm/s until your FarmBot has the power to overcome these imperfections.
 
@@ -151,7 +151,7 @@ Adjustability: Current control lets you set the maximum current output with a po
 Connectors: 0.1″ male header pins
 
 
-![STEPPER_DRIVERS_.bmp](STEPPER_DRIVERS_.bmp)
+![STEPPER_DRIVERS_.bmp](_images/STEPPER_DRIVERS_.bmp)
 
 _The stepper drivers are located on the Farmduino board._
 
@@ -161,7 +161,7 @@ It’s possible that your motors do not rotate at all, or that they are trying t
 
 
 
-![Stepper_Drivers_Farmduino.jpg](Stepper_Drivers_Farmduino.jpg)
+![Stepper_Drivers_Farmduino.jpg](_images/Stepper_Drivers_Farmduino.jpg)
 
 1. If none of your motors are responding at all, check your cable carriers and all wiring to and from the motors. Make sure you have connected the motors to the Farmduino correctly.
 2. If your motors are responding but struggling:
@@ -178,7 +178,7 @@ It is possible for a stepper driver module to become damaged which may result in
 
 
 
-![Burnt_Stepper_Driver.jpg](Burnt_Stepper_Driver.jpg)
+![Burnt_Stepper_Driver.jpg](_images/Burnt_Stepper_Driver.jpg)
 
 If you suspect that one of your stepper drivers has been damaged, you can replace it with the extra 5th stepper driver module included in all kits. You can also order replacement stepper drivers.
 
@@ -196,16 +196,16 @@ The following YouTube video was produced by the manufacturers of the Pololu A498
 Your system needs to be powered while you perform these steps, so be careful.
 Set your multimeter to read the appropriate DC voltage. The setting on your multimeter usually indicates the maximum voltage readout it will give. Your stepper drivers shouldn’t read out more than approximately 2 Volts, so set your multimeter appropriate for that.
 
-![bd750a449a62ea998fae93fafbd9b9252ac64ec2.jpg](bd750a449a62ea998fae93fafbd9b9252ac64ec2.jpg)
+![bd750a449a62ea998fae93fafbd9b9252ac64ec2.jpg](_images/bd750a449a62ea998fae93fafbd9b9252ac64ec2.jpg)
 
 Put the black reading pin of your multimeter on the screw of the negative RAMPS power cable. If you wired it up as instructed in the FarmBot assembly manual, this should be the far-right screw, holding the black wire. This wire should be connected to the negative output on your power supply.
 
-![1954334-Screen_Shot_2017-02-27_at_10.31.02_PM.png](Screen_Shot_2017-02-27_at_10.31.02_PM.png)
+![1954334-Screen_Shot_2017-02-27_at_10.31.02_PM.png](_images/Screen_Shot_2017-02-27_at_10.31.02_PM.png)
 
 Put the red reading pin of your multimeter on the stepper driver’s adjust screw.
 Depending on your motors’ requirements, you may increase or decrease the current on the stepper drivers using that same screw you used to read the current.
 
-![54b1854c42f63ebb35cbc1a426bab89424e47135.jpg](54b1854c42f63ebb35cbc1a426bab89424e47135.jpg)
+![54b1854c42f63ebb35cbc1a426bab89424e47135.jpg](_images/54b1854c42f63ebb35cbc1a426bab89424e47135.jpg)
 
 Itrip = Vref / (8xRs)
 Rs is 0.1R, so with Vref at 0.6V, Itrip is 0.75A. This is reduced to 0.525A by the A4988 chip for full step operation. The motors are rated at 1.7A, which equates to a Vref of 1.36V (actually 1.9V when you allow for the full step current compensation by the A4988). So you have plenty of room to increase the Vref.

@@ -1,7 +1,7 @@
 ---
 title: "Fasteners and Hardware"
 slug: "fasteners-and-hardware"
-excerpt: "Tech specs for the fasteners and hardware in FarmBot Genesis"
+description: "Tech specs for the fasteners and hardware in FarmBot Genesis"
 ---
 
 * toc
@@ -40,7 +40,7 @@ excerpt: "Tech specs for the fasteners and hardware in FarmBot Genesis"
 
 # M2.5 Screws
 
-![M2.5x4.jpg](M2.5x4.jpg)
+![M2.5x4.jpg](_images/M2.5x4.jpg)
 
 
 
@@ -54,13 +54,13 @@ excerpt: "Tech specs for the fasteners and hardware in FarmBot Genesis"
 # M2.5 Standoffs
 These standoffs are used to offset the Arduino and the Raspberry Pi from the electronics mounting plate.
 
-![Standoffs sm.jpg](Standoffs_sm.jpg)
+![Standoffs sm.jpg](_images/Standoffs_sm.jpg)
 
 _6mm length_
 
 
 
-![standoofs lg.jpg](standoofs_lg.jpg)
+![standoofs lg.jpg](_images/standoofs_lg.jpg)
 
 _16mm length_
 
@@ -76,31 +76,31 @@ _16mm length_
 
 # M3 Screws
 
-![M3x5.jpg](M3x5.jpg)
+![M3x5.jpg](_images/M3x5.jpg)
 
 _5mm length_
 
 
 
-![Msx10.jpg](Msx10.jpg)
+![Msx10.jpg](_images/Msx10.jpg)
 
 _10mm length_
 
 
 
-![M3x12.jpg](M3x12.jpg)
+![M3x12.jpg](_images/M3x12.jpg)
 
 _12mm length_
 
 
 
-![M3x25.jpg](M3x25.jpg)
+![M3x25.jpg](_images/M3x25.jpg)
 
 _25mm length_
 
 
 
-![M3xlong.jpg](M3xlong.jpg)
+![M3xlong.jpg](_images/M3xlong.jpg)
 
 _30mm length_
 
@@ -123,7 +123,7 @@ _30mm length_
 # M3 Locknuts
 Twelve of these locknuts are used to secure the UTM electronic pin screws in place. The nylon insert allows them to resist loosening when subjected to vibration.
 
-![M3 locknuts.jpg](M3_locknuts.jpg)
+![M3 locknuts.jpg](_images/M3_locknuts.jpg)
 
 
 
@@ -141,7 +141,7 @@ Twelve of these locknuts are used to secure the UTM electronic pin screws in pla
 # M4 Screws
 Six of these screws are used to secure the electronics box cover to its base.
 
-![M4 2.jpg](M4_2.jpg)
+![M4 2.jpg](_images/M4_2.jpg)
 
 
 
@@ -157,31 +157,31 @@ Six of these screws are used to secure the electronics box cover to its base.
 # M5 Screws
 M5 button-head screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually used in combination with M5 washers, and terminated with an M5 tee nut or locknut. The button head provides a wide bearing surface, a low-profile head, and a finished appearance. Length is measured from under the head.
 
-![M5x 6mm.jpg](M5x_6mm.jpg)
+![M5x 6mm.jpg](_images/M5x_6mm.jpg)
 
 _6mm length_
 
 
 
-![M5x10.jpg](M5x10.jpg)
+![M5x10.jpg](_images/M5x10.jpg)
 
 _10mm length_
 
 
 
-![M5x16.jpg](M5x16.jpg)
+![M5x16.jpg](_images/M5x16.jpg)
 
 _16mm length_
 
 
 
-![M5x30.jpg](M5x30.jpg)
+![M5x30.jpg](_images/M5x30.jpg)
 
 _30mm length_
 
 
 
-![M5x45.jpg](M5x45.jpg)
+![M5x45.jpg](_images/M5x45.jpg)
 
 _45mm length_
 
@@ -204,7 +204,7 @@ _45mm length_
 # M5 Washers
 These washers are used throughout FarmBot in combination with M5 screws and M5 locknuts. They allow nuts to be tightened on plastic components and plates while preventing damage and distributing load.
 
-![M5 Washer.jpg](M5_Washer.jpg)
+![M5 Washer.jpg](_images/M5_Washer.jpg)
 
 
 
@@ -222,7 +222,7 @@ These washers are used throughout FarmBot in combination with M5 screws and M5 l
 # M5 Spacers
 These spacers are used to offset V-wheels from plates so that they may engage extrusions.
 
-![M5 Spacer.jpg](M5_Spacer.jpg)
+![M5 Spacer.jpg](_images/M5_Spacer.jpg)
 
 
 
@@ -239,7 +239,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 # M5 x 6mm Eccentric Spacers
 When rotated, eccentric spacers accurately position V-wheels on a plate such that they can firmly engage V-slot aluminum extrusions. They are only used on wheels on one side of an extrusion. Adjustments are made by using a 8mm wrench on the spacer itself.
 
-![Eccentric `.jpg](Eccentric_.jpg)
+![Eccentric `.jpg](_images/Eccentric_.jpg)
 
 
 
@@ -258,7 +258,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 # M5 Locknuts
 These nuts resist loosening because their nylon insert grips the screw that they are attached to. They are used in combination with M5 screws throughout FarmBot.
 
-![M5locknuts.jpg](M5locknuts.jpg)
+![M5locknuts.jpg](_images/M5locknuts.jpg)
 
 
 
@@ -277,7 +277,7 @@ These nuts resist loosening because their nylon insert grips the screw that they
 # M5 Tee Nuts
 Combined with M5 screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion.
 
-![Tee Nuts.jpg](Tee_Nuts.jpg)
+![Tee Nuts.jpg](_images/Tee_Nuts.jpg)
 
 
 
@@ -293,7 +293,7 @@ Combined with M5 screws, these drop-in style tee nuts allow components such as p
 # Wood Screws
 These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised.
 
-![Wood Screws.jpg](Wood_Screws.jpg)
+![Wood Screws.jpg](_images/Wood_Screws.jpg)
 
 
 
@@ -310,7 +310,7 @@ These are used to attach the track end plates and track joining plates to suppor
 # Camera Mounts
 These stainless steel loop clamps are used to secure the camera to the z-axis.
 
-![Camer Mounts.jpg](Camer_Mounts.jpg)
+![Camer Mounts.jpg](_images/Camer_Mounts.jpg)
 
 
 

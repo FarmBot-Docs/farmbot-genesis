@@ -19,7 +19,7 @@ Gather all the UTM parts from the table below and lay them out in a logical mann
 
 * [2mm hex driver](../../Extras/bom/miscellaneous.md#2mm-hex-driver)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
-* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#5-5mm-box-wrench)
+* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#55mm-box-wrench)
 * [8mm box wrench](../../Extras/bom/miscellaneous.md#8mm-box-wrench)
 
 |Qty.                          |Component                     |
@@ -61,15 +61,15 @@ Which side is North and which is South does not matter. The important part is th
 
 Insert an **M5 x 16mm screw** through one of the **ring magnets**. For the first magnet, the orientation of the magnet does not matter.
 
-![Screen Shot 2017-02-12 at 8.59.37 PM.png](Screen_Shot_2017-02-12_at_8.59.37_PM.png)
+![Screen Shot 2017-02-12 at 8.59.37 PM.png](_images/Screen_Shot_2017-02-12_at_8.59.37_PM.png)
 
 Insert the magnet and screw into the bottom of the UTM as shown.
 
-![Screen Shot 2017-02-12 at 9.00.53 PM.png](Screen_Shot_2017-02-12_at_9.00.53_PM.png)
+![Screen Shot 2017-02-12 at 9.00.53 PM.png](_images/Screen_Shot_2017-02-12_at_9.00.53_PM.png)
 
 Use the **3mm hex driver** and the **8mm wrench** to tighten an **M5 locknut** onto the screw.
 
-![Screen Shot 2017-02-12 at 9.02.08 PM.png](Screen_Shot_2017-02-12_at_9.02.08_PM.png)
+![Screen Shot 2017-02-12 at 9.02.08 PM.png](_images/Screen_Shot_2017-02-12_at_9.02.08_PM.png)
 
 Repeat the process above for the two remaining UTM magnets.
 
@@ -82,52 +82,52 @@ content="Ensure that the polar orientation of all the UTM magnets are the same. 
 
 
 
-![Screen Shot 2017-02-12 at 9.03.38 PM.png](Screen_Shot_2017-02-12_at_9.03.38_PM.png)
+![Screen Shot 2017-02-12 at 9.03.38 PM.png](_images/Screen_Shot_2017-02-12_at_9.03.38_PM.png)
 
 # Step 3: Install the barbs
 Use the **8mm wrench** to screw in the three **barbs** into the top of the **UTM**. The barbs should be inserted in the holes labelled 1, 2, and 3.
 
-![Screen Shot 2017-02-12 at 9.04.36 PM.png](Screen_Shot_2017-02-12_at_9.04.36_PM.png)
+![Screen Shot 2017-02-12 at 9.04.36 PM.png](_images/Screen_Shot_2017-02-12_at_9.04.36_PM.png)
 
 # Step 4: Install the o-rings
 Slide three **o-rings** onto the **UTM** 1, 2, and 3 port cones. Each o-ring should be "seated" at the base of the port cone.
 
-![Screen Shot 2017-02-12 at 9.05.39 PM.png](Screen_Shot_2017-02-12_at_9.05.39_PM.png)
+![Screen Shot 2017-02-12 at 9.05.39 PM.png](_images/Screen_Shot_2017-02-12_at_9.05.39_PM.png)
 
 # Step 5: Install the electronic contact screws
 Place a **spring** on an **M3 x 30mm screw** and then insert the screw into the **UTM**.
 
-![Screen Shot 2017-02-12 at 9.07.39 PM.png](Screen_Shot_2017-02-12_at_9.07.39_PM.png)
+![Screen Shot 2017-02-12 at 9.07.39 PM.png](_images/Screen_Shot_2017-02-12_at_9.07.39_PM.png)
 
 
 
-![Screen Shot 2017-02-12 at 9.08.37 PM.png](Screen_Shot_2017-02-12_at_9.08.37_PM.png)
+![Screen Shot 2017-02-12 at 9.08.37 PM.png](_images/Screen_Shot_2017-02-12_at_9.08.37_PM.png)
 
 Using the **2mm hex driver** and the **5.5mm wrench**, attach an **M3 locknut** onto the screw. Tighten the locknut until the spring is slightly compressed.
 
-![Screen Shot 2017-02-12 at 9.09.35 PM.png](Screen_Shot_2017-02-12_at_9.09.35_PM.png)
+![Screen Shot 2017-02-12 at 9.09.35 PM.png](_images/Screen_Shot_2017-02-12_at_9.09.35_PM.png)
 
 Repeat for all holes labelled **A** through **L**.
 
-![Screen Shot 2017-02-12 at 9.10.40 PM.png](Screen_Shot_2017-02-12_at_9.10.40_PM.png)
+![Screen Shot 2017-02-12 at 9.10.40 PM.png](_images/Screen_Shot_2017-02-12_at_9.10.40_PM.png)
 
 
 
-![Screen Shot 2017-02-12 at 9.19.16 PM.png](Screen_Shot_2017-02-12_at_9.19.16_PM.png)
+![Screen Shot 2017-02-12 at 9.19.16 PM.png](_images/Screen_Shot_2017-02-12_at_9.19.16_PM.png)
 
 # Step 6: Add grommets to the UTM cover
 Insert four **grommets** into the **UTM cover**, ensuring that the grommet flanges are not folded or caught under themselves.
 
-![Screen Shot 2017-02-12 at 9.13.34 PM.png](Screen_Shot_2017-02-12_at_9.13.34_PM.png)
+![Screen Shot 2017-02-12 at 9.13.34 PM.png](_images/Screen_Shot_2017-02-12_at_9.13.34_PM.png)
 
 
 
-![Screen Shot 2017-02-12 at 9.13.56 PM.png](Screen_Shot_2017-02-12_at_9.13.56_PM.png)
+![Screen Shot 2017-02-12 at 9.13.56 PM.png](_images/Screen_Shot_2017-02-12_at_9.13.56_PM.png)
 
 # Step 7: Add mounting hardware
 Lightly screw together four **M5 x 16mm screws** and **M5 tee nuts** into the mounting flanges of both the **UTM** and **UTM cover**.
 
-![Screen Shot 2017-02-12 at 9.16.50 PM.png](Screen_Shot_2017-02-12_at_9.16.50_PM.png)
+![Screen Shot 2017-02-12 at 9.16.50 PM.png](_images/Screen_Shot_2017-02-12_at_9.16.50_PM.png)
 
 
 # What's next?

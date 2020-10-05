@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous"
 slug: "miscellaneous"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the miscellaneous components in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the miscellaneous components in FarmBot Genesis"
 ---
 
 * toc
@@ -23,7 +23,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the misc
 # Ring Magnets
 These magnets keep tools attached to the UTM.
 
-![magnet15x5x5mmring.jpg](magnet15x5x5mmring.jpg)
+![magnet15x5x5mmring.jpg](_images/magnet15x5x5mmring.jpg)
 
 
 
@@ -44,11 +44,11 @@ These magnets keep tools attached to the UTM.
 # Compression Springs
 These springs keep the screws in the UTM in contact with screws in the tools for electrical connections.
 
-![61tw-EiZyJL._SL1500_.jpg](EiZyJL._SL1500_.jpg)
+![61tw-EiZyJL._SL1500_.jpg](_images/EiZyJL._SL1500_.jpg)
 
 
 
-![81bzWHpkXvL._SL1500_.jpg](81bzWHpkXvL._SL1500_.jpg)
+![81bzWHpkXvL._SL1500_.jpg](_images/81bzWHpkXvL._SL1500_.jpg)
 
 
 
@@ -85,7 +85,7 @@ These zip ties are used to attach wires to the UTM electrical connection screws 
 # Hex Drivers
 These high quality hex (allen) drivers are used to tighten all M5 and M3 screws on FarmBot as well as all setscrews. They are clearly labelled, color-coded for convenience, and coated with an ultra hard titanium nitride finish.
 
-![Hex Drivers.jpg](Hex_Drivers.jpg)
+![Hex Drivers.jpg](_images/Hex_Drivers.jpg)
 
 
 
@@ -103,7 +103,7 @@ These high quality hex (allen) drivers are used to tighten all M5 and M3 screws 
 # 8mm Socket
 This socket is used in combination with the ratchet wrench to tighten most of the M5 locknuts.
 
-![prod_1471778912.jpg](prod_1471778912.jpg)
+![prod_1471778912.jpg](_images/prod_1471778912.jpg)
 
 
 
@@ -118,7 +118,7 @@ This socket is used in combination with the ratchet wrench to tighten most of th
 # Ratchet Wrench
 This wrench is used incombination with the 8mm socket to tighten most of the M5 locknuts.
 
-![prod_1588648312.jpg](prod_1588648312.jpg)
+![prod_1588648312.jpg](_images/prod_1588648312.jpg)
 
 
 
@@ -135,7 +135,7 @@ This wrench is used incombination with the 8mm socket to tighten most of the M5 
 # 8mm Wrench
 The wrench is for the M5 locknuts that are in spaces too constrained for the socket wrench and to adjust eccentric spacers.
 
-![61zoh52GbjL._SL1500_.jpg](61zoh52GbjL._SL1500_.jpg)
+![61zoh52GbjL._SL1500_.jpg](_images/61zoh52GbjL._SL1500_.jpg)
 
 
 
@@ -151,7 +151,7 @@ The wrench is for the M5 locknuts that are in spaces too constrained for the soc
 # Wire Stripper
 This tool is used to remove the rubber insulation from wires so that they may be attached to peripherals and other terminals. The tool is also used to cut wires to length.
 
-![71vKDkX8xML._SL1500_.jpg](71vKDkX8xML._SL1500_.jpg)
+![71vKDkX8xML._SL1500_.jpg](_images/71vKDkX8xML._SL1500_.jpg)
 
 
 

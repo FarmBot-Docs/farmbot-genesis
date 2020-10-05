@@ -1,7 +1,7 @@
 ---
 title: "Put FarmBot in a Greenhouse"
 slug: "put-farmbot-in-a-greenhouse"
-excerpt: "Combine FarmBot with an affordable greenhouse for year-round food production"
+description: "Combine FarmBot with an affordable greenhouse for year-round food production"
 ---
 
 * toc
@@ -18,7 +18,7 @@ content="Please use the following information for inspiration only. The instruct
 
 
 
-![IMG_5931.JPG](IMG_5931.JPG)
+![IMG_5931.JPG](_images/IMG_5931.JPG)
 
 
 
@@ -30,11 +30,11 @@ Follow the greenhouse manufacturer's instructions to setup the greenhouse. In ge
 3. Pull the plastic sheeting over the frame
 4. Secure the sheeting to the frame
 
-![IMG_20160611_131330.jpg](IMG_20160611_131330.jpg)
+![IMG_20160611_131330.jpg](_images/IMG_20160611_131330.jpg)
 
 
 
-![IMG_5896.JPG](IMG_5896.JPG)
+![IMG_5896.JPG](_images/IMG_5896.JPG)
 
 
 

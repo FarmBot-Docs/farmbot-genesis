@@ -16,17 +16,17 @@ Lastly, the tool holder has been modified to accommodate the new tool design.
   * The custom bent brackets should be replaced with something not custom made. Moving the cable carrier to alongside the tracks as seen with the gantry’s cable carrier would allow the elimination of the custom bent brackets in favor of using more affordable screws and teenuts for support. For this to work, the track connecting plates would need to be lower profile, allowing the top half of the track extrusions to accommodate screws and the cable carrier. This would not work in situations where the track supporting posts extended upwards as in the case of using fence posts or the studs of a greenhouse. However, the possibility of installing FarmBot is such a situation is unlikely without major modifications because of other components like the gantry motor being in the way of these posts anyways.
   * The new tool bay plate needs to have longer “fingers” holding the tools in place. In the current design, there is the possibility of a tool vibrating or sliding down the fingers a very small amount and falling through the plate.
 
-![Genesis_V4_Tracks.jpg](Genesis_V4_Tracks.jpg)
+![Genesis_V4_Tracks.jpg](_images/Genesis_V4_Tracks.jpg)
 
 
 
-![V4_Tool_Holder.jpg](V4_Tool_Holder.jpg)
+![V4_Tool_Holder.jpg](_images/V4_Tool_Holder.jpg)
 
 
 
-![V4_Tool_Holder_2.jpg](V4_Tool_Holder_2.jpg)
+![V4_Tool_Holder_2.jpg](_images/V4_Tool_Holder_2.jpg)
 
 
 
-![V4_Tracks_1.jpg](V4_Tracks_1.jpg)
+![V4_Tracks_1.jpg](_images/V4_Tracks_1.jpg)
 

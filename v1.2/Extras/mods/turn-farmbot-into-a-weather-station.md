@@ -1,7 +1,7 @@
 ---
 title: "Turn FarmBot into a Weather Station"
 slug: "turn-farmbot-into-a-weather-station"
-excerpt: "DIY instructions for adding weather station capabilities to your FarmBot"
+description: "DIY instructions for adding weather station capabilities to your FarmBot"
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "DIY instructions for adding weather station capabilities to your FarmB
 
 FarmBot and the web application are a great hardware and software foundation that can be extended into a local weather station. In a nutshell, you simply need to add whatever sensors you want, wire them up to FarmBot's Arduino or Raspberry Pi, and then pipe the data to the FarmBot web app and/or to a service such as [Weather Underground](https://www.wunderground.com/).
 
-![IMG_20160304_160627 (1).jpg](IMG_20160304_160627_(1).jpg)
+![IMG_20160304_160627 (1).jpg](_images/IMG_20160304_160627_(1).jpg)
 
 
 
@@ -39,11 +39,11 @@ We're working hard on supporting digital sensors. Want to help out? Join us on [
 
 For about $80 you can purchase a combination [anemometer, wind vane, and rain gauge mini weather station from SparkFun](https://www.sparkfun.com/products/8942). This lightweight device can be easily hoseclamped onto your FarmBot's gantry or installed in a stationary location nearby with an extension of the wires. You can then hook the device up to FarmBot's Arduino or directly to the Pi.
 
-![08942-01.jpg](01.jpg)
+![08942-01.jpg](_images/01.jpg)
 
 
 
-![IMG_20160304_160856.jpg](IMG_20160304_160856.jpg)
+![IMG_20160304_160856.jpg](_images/IMG_20160304_160856.jpg)
 
 
 
@@ -51,7 +51,7 @@ For about $80 you can purchase a combination [anemometer, wind vane, and rain ga
 
 You can purchase a small anemometer wind speed sensor with an analog output from [Adafruit](https://www.adafruit.com/products/1733). This can be plugged into an analog input on the Arduino (as well as a +5v and ground) and allow you to gather real-time wind speed data.
 
-![1733-00.jpg](00.jpg)
+![1733-00.jpg](_images/00.jpg)
 
 
 
@@ -59,7 +59,7 @@ You can purchase a small anemometer wind speed sensor with an analog output from
 
 Purchase this [waterproof digital temperature sensor](https://www.adafruit.com/products/381) from Adafruit and connect it directly to your FarmBot's Arduino. This will then allow you to accurately read ambient air temperatures.
 
-![381-00.jpg](00.jpg)
+![381-00.jpg](_images/00.jpg)
 
 
 
@@ -67,7 +67,7 @@ Purchase this [waterproof digital temperature sensor](https://www.adafruit.com/p
 
 This [I2C combo temperature/humidity sensor](https://www.adafruit.com/products/1293) from Adafruit can connect directly to your FarmBot's Arduino I2C port. This will then allow you to accurately read ambient air temperatures and humidity.
 
-![1293-00.jpg](00.jpg)
+![1293-00.jpg](_images/00.jpg)
 
 
 
@@ -84,15 +84,15 @@ content="Note that this sensor should not be exposed to rain as it is not consid
 
 [AM2302 (wired DHT22) temperature-humidity sensor](https://www.adafruit.com/products/393) from Adafruit
 
-![393-00.jpg](00.jpg)
+![393-00.jpg](_images/00.jpg)
 
 [DHT22 temperature-humidity sensor + extras](https://www.adafruit.com/products/385) from Adafruit
 
-![385-00.jpg](00.jpg)
+![385-00.jpg](_images/00.jpg)
 
 [DHT11 basic temperature-humidity sensor + extras](https://www.adafruit.com/products/386) from Adafruit
 
-![386-00.jpg](00.jpg)
+![386-00.jpg](_images/00.jpg)
 
 
 
@@ -100,5 +100,5 @@ content="Note that this sensor should not be exposed to rain as it is not consid
 
 Check out the [Adafruit BMP280 I2C or SPI Barometric Pressure & Altitude Sensor](https://www.adafruit.com/products/2651)!
 
-![2651-00.jpg](00.jpg)
+![2651-00.jpg](_images/00.jpg)
 

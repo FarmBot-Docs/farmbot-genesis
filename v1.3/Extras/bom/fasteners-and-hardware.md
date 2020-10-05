@@ -1,7 +1,7 @@
 ---
 title: "Fasteners and Hardware"
 slug: "fasteners-and-hardware"
-excerpt: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -45,7 +45,7 @@ These screws are used to mount the electronics boards to the electronics mountin
 
 ## M2.5 x 4mm Screws
 
-![M2.5x4.jpg](M2.5x4.jpg)
+![M2.5x4.jpg](_images/M2.5x4.jpg)
 
 # M3 Screws
 M3 screws are used throughout FarmBot for mounting motors and other small electronic components on the tools.
@@ -65,15 +65,15 @@ M3 screws are used throughout FarmBot for mounting motors and other small electr
 
 ## M3 x 5mm Screws
 
-![M3x5.jpg](M3x5.jpg)
+![M3x5.jpg](_images/M3x5.jpg)
 
 ## M3 x 10mm Screws
 
-![Msx10.jpg](Msx10.jpg)
+![Msx10.jpg](_images/Msx10.jpg)
 
 ## M3 x 30mm Screws
 
-![M3xlong.jpg](M3xlong.jpg)
+![M3xlong.jpg](_images/M3xlong.jpg)
 
 # M5 Screws
 M5 button-head screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually used in combination with M5 washers, and terminated with an M5 tee nut or locknut. The button head provides a wide bearing surface, a low-profile head, and a finished appearance. Length is measured from under the head.
@@ -93,15 +93,15 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 
 ## M5 x 10mm Screws
 
-![M5x10.jpg](M5x10.jpg)
+![M5x10.jpg](_images/M5x10.jpg)
 
 ## M5 x 16mm Screws
 
-![M5x16.jpg](M5x16.jpg)
+![M5x16.jpg](_images/M5x16.jpg)
 
 ## M5 x 30mm Screws
 
-![M5x30.jpg](M5x30.jpg)
+![M5x30.jpg](_images/M5x30.jpg)
 
 # Locknuts
 Locknuts are used throughout FarmBot to secure M3 and M5 screws in place. The nylon insert allows the locknut to resist loosening when subjected to vibration.
@@ -118,11 +118,11 @@ Locknuts are used throughout FarmBot to secure M3 and M5 screws in place. The ny
 
 ## M3 Locknuts
 
-![M3 locknuts.jpg](M3_locknuts.jpg)
+![M3 locknuts.jpg](_images/M3_locknuts.jpg)
 
 ## M5 Locknuts
 
-![M5locknuts.jpg](M5locknuts.jpg)
+![M5locknuts.jpg](_images/M5locknuts.jpg)
 
 # Washers
 Washers are used throughout FarmBot in combination with screws and locknuts. They allow nuts to be tightened on plastic components and plates while preventing damage and distributing load.
@@ -138,7 +138,7 @@ Washers are used throughout FarmBot in combination with screws and locknuts. The
 
 ## M5 Washers
 
-![M5 Washer.jpg](M5_Washer.jpg)
+![M5 Washer.jpg](_images/M5_Washer.jpg)
 
 # Spacers
 These spacers are used to offset V-wheels from plates so that they may engage extrusions.
@@ -154,7 +154,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 
 ## M5 x 6mm Spacers
 
-![M5 Spacer.jpg](M5_Spacer.jpg)
+![M5 Spacer.jpg](_images/M5_Spacer.jpg)
 
 # Eccentric Spacers
 When rotated, eccentric spacers accurately position V-wheels on a plate such that they can firmly engage V-slot aluminum extrusions. They are only used on wheels on one side of an extrusion. Adjustments are made by using a 8mm wrench on the spacer itself.
@@ -172,7 +172,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 
 ## M5 x 6mm Eccentric Spacers
 
-![Eccentric `.jpg](Eccentric_.jpg)
+![Eccentric `.jpg](_images/Eccentric_.jpg)
 
 # Standoffs
 Standoffs are used to offset the electronics boards from the electronics mounting plate.
@@ -187,11 +187,11 @@ Standoffs are used to offset the electronics boards from the electronics mountin
 
 ## M2.5 x 6mm Standoffs
 
-![Standoffs sm.jpg](Standoffs_sm.jpg)
+![Standoffs sm.jpg](_images/Standoffs_sm.jpg)
 
 ## M2.5 x 16mm Standoffs
 
-![standoofs lg.jpg](standoofs_lg.jpg)
+![standoofs lg.jpg](_images/standoofs_lg.jpg)
 
 # Tee Nuts
 Combined with screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion.
@@ -207,7 +207,7 @@ Combined with screws, these drop-in style tee nuts allow components such as plat
 
 ## M5 Tee Nuts
 
-![Tee Nuts.jpg](Tee_Nuts.jpg)
+![Tee Nuts.jpg](_images/Tee_Nuts.jpg)
 
 # Wood Screws
 These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised.
@@ -223,7 +223,7 @@ These are used to attach the track end plates and track joining plates to suppor
 
 
 
-![Wood Screws.jpg](Wood_Screws.jpg)
+![Wood Screws.jpg](_images/Wood_Screws.jpg)
 
 
 

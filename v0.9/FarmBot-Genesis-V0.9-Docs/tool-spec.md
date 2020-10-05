@@ -1,7 +1,7 @@
 ---
 title: "Tool Spec"
 slug: "tool-spec"
-excerpt: "Specifications for creating tools that are compatible with FarmBot Genesis"
+description: "Specifications for creating tools that are compatible with FarmBot Genesis"
 ---
 
 * toc
@@ -18,7 +18,7 @@ content="These specs must be followed to ensure your tool works with a stock Far
 
 
 
-![IMG_20160310_133648.jpg](IMG_20160310_133648.jpg)
+![IMG_20160310_133648.jpg](_images/IMG_20160310_133648.jpg)
 
 
 

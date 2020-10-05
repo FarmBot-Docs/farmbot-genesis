@@ -15,7 +15,7 @@ Remove all of the snap-in **tabs** from the **y-axis cable carrier**. The y-axis
 
 There is only one orientation that the **y-axis cable carrier** mounts to the **cross-slide** and **gantry**, and it is determined by the orientation of the **end pieces**. Lay the cable carrier onto the gantry's **horizontal cable carrier supports** but do not attach it at this time.
 
-![ycc.JPG](ycc.JPG)
+![ycc.JPG](_images/ycc.JPG)
 
 _Not pictured: The cables and tube coming from the z-axis cable carrier._
 
@@ -25,7 +25,7 @@ _Not pictured: The cables and tube coming from the z-axis cable carrier._
 
 Feed the **y-axis motor and encoder cables** through the slot in the **cross-slide plate** such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this as they can be damaged if pulled on.
 
-![ycables.JPG](ycables.JPG)
+![ycables.JPG](_images/ycables.JPG)
 
 _Not pictured: The cables and tube coming from the z-axis cable carrier._
 
@@ -58,7 +58,7 @@ Reduce the amount of extra tubing and wiring between the end of the **y-axis cab
 
 Attach the **y-axis cable carrier** to the **long cable carrier mount** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
-![attach y cc.JPG](attach_y_cc.JPG)
+![attach y cc.JPG](_images/attach_y_cc.JPG)
 
 _Not pictured: The cables and tube._
 
@@ -68,7 +68,7 @@ _Not pictured: The cables and tube._
 
 Attach the **y-axis cable carrier** to the **horizontal cable carrier support** nearest the gantry using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
-![install y cc 2.JPG](install_y_cc_2.JPG)
+![install y cc 2.JPG](_images/install_y_cc_2.JPG)
 
 _Not pictured: The cables and tube._
 

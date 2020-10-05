@@ -22,5 +22,5 @@ A Cross-Slide moves in the Y-Direction across the Gantry. This motion provides t
 ## Z-Axis
 The Z-axis attaches to the Cross-Slide and provides the FarmBot with Z-Direction movement. It serves as the base for attaching the Universal Tool Mount and other Tools.
 
-![FarmBot_Coordinate_System_and_Major_Components.png](FarmBot_Coordinate_System_and_Major_Components.png)
+![FarmBot_Coordinate_System_and_Major_Components.png](_images/FarmBot_Coordinate_System_and_Major_Components.png)
 

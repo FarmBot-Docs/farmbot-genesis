@@ -1,7 +1,7 @@
 ---
 title: "Electronics"
 slug: "electronics"
-excerpt: "Documentation for FarmBot Genesis Electronics"
+description: "Documentation for FarmBot Genesis Electronics"
 ---
 
 * toc

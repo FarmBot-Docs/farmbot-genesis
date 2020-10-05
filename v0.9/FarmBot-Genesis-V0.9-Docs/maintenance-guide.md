@@ -1,7 +1,7 @@
 ---
 title: "Maintenance Guide"
 slug: "maintenance-guide"
-excerpt: "Use these techniques to keep your FarmBot running smooth for years to come"
+description: "Use these techniques to keep your FarmBot running smooth for years to come"
 ---
 
 * toc

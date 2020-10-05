@@ -1,7 +1,7 @@
 ---
 title: "Eccentric Spacer Adjustment"
 slug: "eccentric-spacer-adjustment"
-excerpt: "A reference guide for adjusting the spacing between FarmBot's V-wheels"
+description: "A reference guide for adjusting the spacing between FarmBot's V-wheels"
 ---
 
 * toc
@@ -23,7 +23,7 @@ content="If the wheel spacing is too small, do not force it on. Excessive force 
 
 
 
-![Screen Shot 2017-02-27 at 12.31.59 PM.png](Screen_Shot_2017-02-27_at_12.31.59_PM.png)
+![Screen Shot 2017-02-27 at 12.31.59 PM.png](_images/Screen_Shot_2017-02-27_at_12.31.59_PM.png)
 
 # Adjusting the eccentric spacer
 1. Separate the extrusion and the wheel/plate assembly
@@ -31,7 +31,7 @@ content="If the wheel spacing is too small, do not force it on. Excessive force 
 3. Once you have adjusted the spacer 1/32 of a turn, do another fit test.
 4. Continue the steps above for all eccentric spacers until your connections are smooth and wobble free.
 
-![Screen Shot 2017-02-27 at 12.39.03 PM.png](Screen_Shot_2017-02-27_at_12.39.03_PM.png)
+![Screen Shot 2017-02-27 at 12.39.03 PM.png](_images/Screen_Shot_2017-02-27_at_12.39.03_PM.png)
 
 _The eccentric spacers on this gantry wheel plate have been highlighted orange for clarity._
 

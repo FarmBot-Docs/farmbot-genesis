@@ -1,7 +1,7 @@
 ---
 title: "Raspberry Pi Software"
 slug: "raspberry-pi-controller"
-excerpt: "Step-by-step instructions for installing the necessary FarmBot software onto the Raspberry Pi"
+description: "Step-by-step instructions for installing the necessary FarmBot software onto the Raspberry Pi"
 ---
 
 * toc

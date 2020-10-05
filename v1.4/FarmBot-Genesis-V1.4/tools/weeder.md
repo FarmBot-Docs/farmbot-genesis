@@ -1,7 +1,7 @@
 ---
 title: "Weeder"
 slug: "weeder"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis weeder"
+description: "Documentation and assembly instructions for the FarmBot Genesis weeder"
 ---
 
 * toc
@@ -13,7 +13,7 @@ The weeding tool is a single 3D printable component magnetically mounts onto Far
 
 
 
-![Screen Shot 2017-10-04 at 5.07.25 PM.png](Screen_Shot_2017-10-04_at_5.07.25_PM.png)
+![Screen Shot 2017-10-04 at 5.07.25 PM.png](_images/Screen_Shot_2017-10-04_at_5.07.25_PM.png)
 
 
 
@@ -80,7 +80,7 @@ content="This is the estimated time it will take to assemble the weeder.."
 
 Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md).
 
-![Screen Shot 2017-10-04 at 5.08.21 PM.png](Screen_Shot_2017-10-04_at_5.08.21_PM.png)
+![Screen Shot 2017-10-04 at 5.08.21 PM.png](_images/Screen_Shot_2017-10-04_at_5.08.21_PM.png)
 
 
 
@@ -88,7 +88,7 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 Attach the four **medium weeder blades** to the **weeder** using **M3 x 6mm screws**.
 
-![Screen Shot 2017-10-04 at 5.10.55 PM.png](Screen_Shot_2017-10-04_at_5.10.55_PM.png)
+![Screen Shot 2017-10-04 at 5.10.55 PM.png](_images/Screen_Shot_2017-10-04_at_5.10.55_PM.png)
 
 
 

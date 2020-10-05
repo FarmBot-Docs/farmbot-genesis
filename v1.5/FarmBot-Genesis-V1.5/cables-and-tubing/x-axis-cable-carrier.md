@@ -15,7 +15,7 @@ Remove all of the snap-in **tabs** from the **x-axis cable carrier**.
 
 There is only one orientation that the **x-axis cable carrier** mounts to the **gantry** and **tracks**, and it is determined by the orientation of the **end pieces**. Lay the cable carrier onto the track's **horizontal cable carrier supports** but do not attach it at this time.
 
-![Screen Shot 2020-02-17 at 2.38.08 PM.png](Screen_Shot_2020-02-17_at_2.38.08_PM.png)
+![Screen Shot 2020-02-17 at 2.38.08 PM.png](_images/Screen_Shot_2020-02-17_at_2.38.08_PM.png)
 
 
 
@@ -25,7 +25,7 @@ Disconnect the **power supply cable** from the **power supply**.
 
 Lay the **x-axis water tube** and the **power supply cable** into the open **x-axis cable carrier**. The red connector of the **power supply cable** should extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
 
-![Screen Shot 2020-02-17 at 2.41.21 PM.png](Screen_Shot_2020-02-17_at_2.41.21_PM.png)
+![Screen Shot 2020-02-17 at 2.41.21 PM.png](_images/Screen_Shot_2020-02-17_at_2.41.21_PM.png)
 
 
 
@@ -46,7 +46,7 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and ten 
 
 Attach the **x-axis cable carrier** to the **40mm horizontal cable carrier mount** using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
-![Screen Shot 2020-02-17 at 2.44.06 PM.png](Screen_Shot_2020-02-17_at_2.44.06_PM.png)
+![Screen Shot 2020-02-17 at 2.44.06 PM.png](_images/Screen_Shot_2020-02-17_at_2.44.06_PM.png)
 
 _Not pictured: The cable and tube._
 
@@ -56,7 +56,7 @@ _Not pictured: The cable and tube._
 
 Attach the other end of the **x-axis cable carrier** to the **40mm horizontal cable carrier support** nearest the middle of the **tracks** using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
-![Screen Shot 2020-02-17 at 2.43.40 PM.png](Screen_Shot_2020-02-17_at_2.43.40_PM.png)
+![Screen Shot 2020-02-17 at 2.43.40 PM.png](_images/Screen_Shot_2020-02-17_at_2.43.40_PM.png)
 
 _Not pictured: The cable and tube._
 

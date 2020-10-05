@@ -1,7 +1,7 @@
 ---
 title: "Cable and Tubing Box"
 slug: "cable-and-tubing-box"
-excerpt: "Packing details for the cable and tubing box inside each main carton"
+description: "Packing details for the cable and tubing box inside each main carton"
 ---
 
 * toc

@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous"
 slug: "miscellaneous"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the miscellaneous components in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the miscellaneous components in FarmBot Genesis"
 ---
 
 * toc
@@ -27,11 +27,11 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the misc
 # Ring Magnets
 These magnets keep tools attached to the UTM.
 
-![Magnets 1.jpg](Magnets_1.jpg)
+![Magnets 1.jpg](_images/Magnets_1.jpg)
 
 
 
-![Magnet2.jpg](Magnet2.jpg)
+![Magnet2.jpg](_images/Magnet2.jpg)
 
 
 
@@ -52,7 +52,7 @@ These magnets keep tools attached to the UTM.
 # Compression Springs
 These springs keep the screws in the UTM in contact with screws in the tools for electrical connections.
 
-![springs.jpg](springs.jpg)
+![springs.jpg](_images/springs.jpg)
 
 
 
@@ -71,7 +71,7 @@ These springs keep the screws in the UTM in contact with screws in the tools for
 
 # UTM Plug
 
-![UTM Plug.jpg](UTM_Plug.jpg)
+![UTM Plug.jpg](_images/UTM_Plug.jpg)
 
 
 
@@ -84,7 +84,7 @@ These springs keep the screws in the UTM in contact with screws in the tools for
 These zip ties are used to attach wires to the UTM electrical connection screws and for cable management.
 
 
-![Zip Ties.jpg](Zip_Ties.jpg)
+![Zip Ties.jpg](_images/Zip_Ties.jpg)
 
 
 
@@ -99,7 +99,7 @@ These zip ties are used to attach wires to the UTM electrical connection screws 
 # Red Markers
 Used to calibrate FarmBot's camera for pixel to coordinate conversion software.
 
-![Red plugs.jpg](Red_plugs.jpg)
+![Red plugs.jpg](_images/Red_plugs.jpg)
 
 
 
@@ -117,7 +117,7 @@ This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 
 
 
-![3mm Driver.JPG](3mm_Driver.JPG)
+![3mm Driver.JPG](_images/3mm_Driver.JPG)
 
 
 
@@ -132,7 +132,7 @@ This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 # 2mm Hex Driver
 This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 
-![2mm Driver.JPG](2mm_Driver.JPG)
+![2mm Driver.JPG](_images/2mm_Driver.JPG)
 
 
 
@@ -147,7 +147,7 @@ This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 # 8mm Box Wrench
 This box wrench is used to tighten all of the M5 screws on FarmBot.
 
-![8mm Box Wrench.JPG](8mm_Box_Wrench.JPG)
+![8mm Box Wrench.JPG](_images/8mm_Box_Wrench.JPG)
 
 
 
@@ -161,7 +161,7 @@ This box wrench is used to tighten all of the M5 screws on FarmBot.
 # 5.5mm Box Wrench
 This box wrench is used to tighten all of the M3 locknuts on FarmBot.
 
-![5.5mm Box Wrench.JPG](5.5mm_Box_Wrench.JPG)
+![5.5mm Box Wrench.JPG](_images/5.5mm_Box_Wrench.JPG)
 
 
 
@@ -175,7 +175,7 @@ This box wrench is used to tighten all of the M3 locknuts on FarmBot.
 # 8mm Wrench
 The wrench is for tightening M5 locknuts and adjusting eccentric spacers throughout FarmBot.
 
-![8mm Wrench.JPG](8mm_Wrench.JPG)
+![8mm Wrench.JPG](_images/8mm_Wrench.JPG)
 
 
 
@@ -187,7 +187,7 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 
 # Phillips Screwdriver
 
-![Phillips Screwdriver.JPG](Phillips_Screwdriver.JPG)
+![Phillips Screwdriver.JPG](_images/Phillips_Screwdriver.JPG)
 
 
 
@@ -199,7 +199,7 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 
 # Bladed Screwdriver
 
-![Bladed Screwdriver.JPG](Bladed_Screwdriver.JPG)
+![Bladed Screwdriver.JPG](_images/Bladed_Screwdriver.JPG)
 
 
 

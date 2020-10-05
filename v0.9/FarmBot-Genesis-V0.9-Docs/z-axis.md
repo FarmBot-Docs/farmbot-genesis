@@ -1,7 +1,7 @@
 ---
 title: "Z-Axis"
 slug: "z-axis"
-excerpt: "Documentation and Assembly Instructions for the FarmBot Genesis Z-Axis"
+description: "Documentation and Assembly Instructions for the FarmBot Genesis Z-Axis"
 ---
 
 * toc
@@ -51,19 +51,19 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 ## Step 2: Attach the Stepper Motor to the Z-Axis motor bracket
 Partially screw two **M5x10mm screws** and **tee nuts** into the **z-axis motor bracket**.
 
-![V5_Z-Axis_1.jpg](Axis_1.jpg)
+![V5_Z-Axis_1.jpg](_images/Axis_1.jpg)
 
 Route the **stepper motor’s cable** through the slot opening on the top of the **z-axis motor bracket**.
 
-![V5_Z-Axis_2.jpg](Axis_2.jpg)
+![V5_Z-Axis_2.jpg](_images/Axis_2.jpg)
 
 
 
-![V5_Z-Axis_3.jpg](Axis_3.jpg)
+![V5_Z-Axis_3.jpg](_images/Axis_3.jpg)
 
 Attach the **stepper motor** to the **z-axis motor bracket** with four **M3 x 10mm screws**.
 
-![V5_Z-Axis_4.jpg](Axis_4.jpg)
+![V5_Z-Axis_4.jpg](_images/Axis_4.jpg)
 
 
 

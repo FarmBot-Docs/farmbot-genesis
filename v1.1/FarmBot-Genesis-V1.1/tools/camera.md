@@ -1,7 +1,7 @@
 ---
 title: "Camera"
 slug: "camera"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Camera"
+description: "Documentation and assembly instructions for the FarmBot Genesis Camera"
 ---
 
 * toc
@@ -11,13 +11,13 @@ The camera is not a typical FarmBot tool in the sense that it does not mount ont
 
 The camera itself is the [v2 Raspberry Pi Camera](https://www.raspberrypi.org/products/camera-module-v2/). It is connected directly to the raspberry pi and can take photos for weed detection, [time lapse photography](../../FarmBot-Genesis-V1.1/mods-and-add-ons/take-time-lapse-plant-photography.md) of your plants growing, and video for live streaming what is happening at the UTM.
 
-![Screen Shot 2016-11-26 at 4.55.48 PM.png](Screen_Shot_2016-11-26_at_4.55.48_PM.png)
+![Screen Shot 2016-11-26 at 4.55.48 PM.png](_images/Screen_Shot_2016-11-26_at_4.55.48_PM.png)
 
 _Simulation of weed detection software_
 
 
 
-![giphy.gif](giphy.gif)
+![giphy.gif](_images/giphy.gif)
 
 _Idea for how you could use the camera to make time lapses of your plants growing_
 
@@ -47,7 +47,7 @@ Gather all the camera parts from the table below and lay them out in a logical m
 ## Step 2: Attach the Camera to the Mount
 Use the four **M2 screws** and **M2 nuts** to attach the **Raspberry Pi camera** to the **camera mount**.
 
-![camera_uncovered.png](camera_uncovered.png)
+![camera_uncovered.png](_images/camera_uncovered.png)
 
 ## Step 3: Wire it up
 Insert a **ribbon cable** into the **camera** and one of the **ribbon cable to HDMI adapters**.
@@ -68,5 +68,5 @@ Align the **camera cover** and the **camera mount**.
 
 Use two **M5 x 10mm screws** and **M5 tee nuts** to attach the **camera cover** and **camera mount** to the **Z-axis extrusion**
 
-![camera_view_2.png](camera_view_2.png)
+![camera_view_2.png](_images/camera_view_2.png)
 

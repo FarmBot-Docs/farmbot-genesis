@@ -1,7 +1,7 @@
 ---
 title: "Building a Raised Bed"
 slug: "building-a-raised-bed"
-excerpt: "Step-by-step instructions for building a raised bed for your FarmBot"
+description: "Step-by-step instructions for building a raised bed for your FarmBot"
 ---
 
 * toc
@@ -17,7 +17,7 @@ Building a raised bed is the recommended method for installing a FarmBot. In the
 3. **Hefty** Heavy duty (1.5 to 4 inch) walls will last a lifetime and resist bowing under soil expansion pressures.
 4. **Filled to the brim** Fill your bed with rich, soft soil and compost. Leave out rocks and branches.
 
-![raised_bed_drawing.png](raised_bed_drawing.png)
+![raised_bed_drawing.png](_images/raised_bed_drawing.png)
 
 _Dimensions are in mm. Dimensions are approximate.
 Posts and hardware not shown._
@@ -36,38 +36,38 @@ content="This is the estimated time it will take to build a raised."
   * You'll also need to pick up some hardware for fastening your raised bed together. I selected 3/8" x 3" lag bolts, and some rustic looking washers.
   * Depending on your climate, you'll likely want to put some type of sealer, stain, or polyurethane on your wood to protect its color and water resistance. I chose Thompson's water sealer.
 
-![IMG_20141203_125632.jpg](IMG_20141203_125632.jpg)
+![IMG_20141203_125632.jpg](_images/IMG_20141203_125632.jpg)
 
 # Step 2: Dig Post Holes
 Setup your lumber roughly where your bed will be so that you may find out where to dig your post holes.
 
-![IMG_20141203_131420.jpg](IMG_20141203_131420.jpg)
+![IMG_20141203_131420.jpg](_images/IMG_20141203_131420.jpg)
 
 Dig your post holes. A post hole digger and pick axe can help greatly.
 
-![IMG_20141203_151353.jpg](IMG_20141203_151353.jpg)
+![IMG_20141203_151353.jpg](_images/IMG_20141203_151353.jpg)
 
 # Step 3: Prepare Your Materials
 Sand your wood to remove any weird markings and splinters.
 
-![IMG_20141203_134314.jpg](IMG_20141203_134314.jpg)
+![IMG_20141203_134314.jpg](_images/IMG_20141203_134314.jpg)
 
 Stain your wood.
 
-![IMG_20141203_151418.jpg](IMG_20141203_151418.jpg)
+![IMG_20141203_151418.jpg](_images/IMG_20141203_151418.jpg)
 
 Setup your lumber upside down on a flat surface. We'll drill holes and screw together our bed in this orientation and then flip it over and position it in our holes.
 
-![IMG_20141203_160452.jpg](IMG_20141203_160452.jpg)
+![IMG_20141203_160452.jpg](_images/IMG_20141203_160452.jpg)
 
 # Step 4: Assemble Your Raised Bed
 Measure out and mark where your posts will be. Remember this must correspond to where you dug your post holes!
 
-![IMG_20141203_160442.jpg](IMG_20141203_160442.jpg)
+![IMG_20141203_160442.jpg](_images/IMG_20141203_160442.jpg)
 
 Clamp your posts into place, making sure they are square with the bed sides.
 
-![IMG_20141203_161309.jpg](IMG_20141203_161309.jpg)
+![IMG_20141203_161309.jpg](_images/IMG_20141203_161309.jpg)
 
 Mark locations where you will drill holes and fasten your boards to your posts. I used 2 lag bolts and washers per board/post interface.
 
@@ -80,11 +80,11 @@ content="On your corner posts, make sure to stagger your bolts slightly so that 
 
 
 
-![IMG_20141203_161836.jpg](IMG_20141203_161836.jpg)
+![IMG_20141203_161836.jpg](_images/IMG_20141203_161836.jpg)
 
 Pre-drill the holes for your lag bolts.
 
-![IMG_20141203_161544.jpg](IMG_20141203_161544.jpg)
+![IMG_20141203_161544.jpg](_images/IMG_20141203_161544.jpg)
 
 Use a ratcheting socket wrench to quickly screw in your lag bolts.
 
@@ -97,17 +97,17 @@ content="If you are using fancy washers like me, orient them all in the same dir
 
 
 
-![IMG_20141203_162606.jpg](IMG_20141203_162606.jpg)
+![IMG_20141203_162606.jpg](_images/IMG_20141203_162606.jpg)
 
 Notice how the corner bolts are staggered so that they do not hit each other, and the washers are oriented the same way.
 
-![IMG_20141203_165123.jpg](IMG_20141203_165123.jpg)
+![IMG_20141203_165123.jpg](_images/IMG_20141203_165123.jpg)
 
 # Step 5: Install Your Raised Bed
 * Once your bed is assembled, flip it over and position it in your holes. You may need to pull it out and dig out some of your holes a little more. Use a level to make sure the bed is level.
 * Fill it with a mix of soil and compost.
 
-![20150113_140811 (1).jpg](20150113_140811_(1).jpg)
+![20150113_140811 (1).jpg](_images/20150113_140811_(1).jpg)
 
 
 

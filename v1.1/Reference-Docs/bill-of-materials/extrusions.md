@@ -1,7 +1,7 @@
 ---
 title: "Extrusions"
 slug: "extrusions"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the extrusions in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the extrusions in FarmBot Genesis"
 ---
 
 * toc
@@ -19,7 +19,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the extr
 # Track Extrusions
 Track extrusions are the primary structural component of the tracks sub-assembly. They can be combined end-to-end in order to create longer tracks. The gantry v-wheels roll along the track extrusions, allowing FarmBot to move in the x-direction.
 
-![SslZOK4lTJSp3DjzzcvN_20150113_140302.jpg](20150113_140302.jpg)
+![SslZOK4lTJSp3DjzzcvN_20150113_140302.jpg](_images/20150113_140302.jpg)
 
 
 
@@ -42,7 +42,7 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 # Gantry Columns
 The gantry columns are made from aluminum extrusions. They can be scaled to be taller or shorter to satisfy your needs. The two large spaces inside the columns are used to conceal and protect the GT2 timing belts that run along the tracks and up to the gantry pulleys.
 
-![0ac9eh6eRWnHpUhpK6xQ_IMG_1938.JPG](IMG_1938.JPG)
+![0ac9eh6eRWnHpUhpK6xQ_IMG_1938.JPG](_images/IMG_1938.JPG)
 
 
 
@@ -65,7 +65,7 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 # Gantry Main Beam
 This aluminum extrusion serves as the gantry's primary structural element. The cross-slide's v-wheels move across this extrusion, allowing FarmBot to move in the y-direction. It is possible to make this extrusion longer or shorter to suit your needs.
 
-![dTUrgZKIR021wPUWyvJC_IMG_1975.JPG](IMG_1975.JPG)
+![dTUrgZKIR021wPUWyvJC_IMG_1975.JPG](_images/IMG_1975.JPG)
 
 
 
@@ -88,7 +88,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 # Z-Axis Extrusion
 The aluminum extrusion allows FarmBot to accurately position the UTM and tools in the z-direction. It slides through the vertically aligned wheels on the front of the cross-slide.
 
-![IMG_20160316_143818.jpg](IMG_20160316_143818.jpg)
+![IMG_20160316_143818.jpg](_images/IMG_20160316_143818.jpg)
 
 
 

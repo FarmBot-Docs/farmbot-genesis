@@ -17,37 +17,37 @@ FarmBot Genesis V0.1 was assembled and left standing in a backyard in the Centra
   * Plant matter and spider webs covered many of the components, but did not seem to negatively impact it in any way
   * All extrusions and plates were in good condition
 
-![V1-10month-9-1.jpg](10month-9-1.jpg)
+![V1-10month-9-1.jpg](_images/10month-9-1.jpg)
 
 
 
-![V1-10month-1-1.jpg](10month-1-1.jpg)
+![V1-10month-1-1.jpg](_images/10month-1-1.jpg)
 
 
 
-![V1-10month-2-1.jpg](10month-2-1.jpg)
+![V1-10month-2-1.jpg](_images/10month-2-1.jpg)
 
 
 
-![V1-10month-3-1.jpg](10month-3-1.jpg)
+![V1-10month-3-1.jpg](_images/10month-3-1.jpg)
 
 
 
-![V1-10month-4-1.jpg](10month-4-1.jpg)
+![V1-10month-4-1.jpg](_images/10month-4-1.jpg)
 
 
 
-![V1-10month-5-1.jpg](10month-5-1.jpg)
+![V1-10month-5-1.jpg](_images/10month-5-1.jpg)
 
 
 
-![V1-10month-6-1.jpg](10month-6-1.jpg)
+![V1-10month-6-1.jpg](_images/10month-6-1.jpg)
 
 
 
-![V1-10month-7-1.jpg](10month-7-1.jpg)
+![V1-10month-7-1.jpg](_images/10month-7-1.jpg)
 
 
 
-![V1-10month-8-1.jpg](10month-8-1.jpg)
+![V1-10month-8-1.jpg](_images/10month-8-1.jpg)
 

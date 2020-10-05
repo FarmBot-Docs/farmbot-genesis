@@ -1,7 +1,7 @@
 ---
 title: "Universal Tool Mount"
 slug: "universal-tool-mount"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Universal Tool Mount"
+description: "Documentation and assembly instructions for the FarmBot Genesis Universal Tool Mount"
 ---
 
 * toc
@@ -13,7 +13,7 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
   * Most tools need to be the “lowest” thing on the z-axis in order to work. Having multiple tools competing for the lowest position (ex: a temperature probe and a seed injector) would not be ideal and may not work at all. The use of individual tool raising and lowering mechanisms, or a turret style mechanism would be complex, heavy, bulky, and limited in the number of tools it could support.
   * The x-axis’s size must be kept to a minimum in order for it to have minimal impact on the plants, especially when there is not very much space between them.
 
-![Screen Shot 2016-11-26 at 5.01.06 PM.png](Screen_Shot_2016-11-26_at_5.01.06_PM.png)
+![Screen Shot 2016-11-26 at 5.01.06 PM.png](_images/Screen_Shot_2016-11-26_at_5.01.06_PM.png)
 
 The UTM is a single 3D-printed component that mounts to the z-axis aluminum extrusion using two M5 screws and tee nuts.
 It features:

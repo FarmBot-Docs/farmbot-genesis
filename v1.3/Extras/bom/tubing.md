@@ -1,7 +1,7 @@
 ---
 title: "Tubing"
 slug: "tubing"
-excerpt: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -50,7 +50,7 @@ These ultra flexible tubes carry water to the UTM and suck vacuum air.
 
 
 
-![Tubing.JPG](Tubing.JPG)
+![Tubing.JPG](_images/Tubing.JPG)
 
 # Barbs
 These brass barbs screw into the UTM's three liquid/gas ports and accept the three liquid/gas lines coming from the z-axis cable carrier.
@@ -71,11 +71,11 @@ These brass barbs screw into the UTM's three liquid/gas ports and accept the thr
 
 
 
-![Barb 1.jpg](Barb_1.jpg)
+![Barb 1.jpg](_images/Barb_1.jpg)
 
 
 
-![Barb2.jpg](Barb2.jpg)
+![Barb2.jpg](_images/Barb2.jpg)
 
 # Barbed Adapter
 This adapter threads into the coupler and is connected to the water tube leading to the UTM.
@@ -92,7 +92,7 @@ This adapter threads into the coupler and is connected to the water tube leading
 
 
 
-![Barbed Adapter.jpg](Barbed_Adapter.jpg)
+![Barbed Adapter.jpg](_images/Barbed_Adapter.jpg)
 
 # Coupler
 
@@ -105,7 +105,7 @@ This adapter threads into the coupler and is connected to the water tube leading
 
 
 
-![Coupler.jpg](Coupler.jpg)
+![Coupler.jpg](_images/Coupler.jpg)
 
 # Garden Hose Adapter
 This adapter connects standard US garden hoses to the solenoid valve.
@@ -123,11 +123,11 @@ This adapter connects standard US garden hoses to the solenoid valve.
 
 
 
-![Hose Adapter 1.JPG](Hose_Adapter_1.JPG)
+![Hose Adapter 1.JPG](_images/Hose_Adapter_1.JPG)
 
 
 
-![Hose Adapter 2.JPG](Hose_Adapter_2.JPG)
+![Hose Adapter 2.JPG](_images/Hose_Adapter_2.JPG)
 
 # O-rings
 These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted.
@@ -146,7 +146,7 @@ These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when t
 
 
 
-![O-rings.jpg](O-rings.jpg)
+![O-rings.jpg](_images/O-rings.jpg)
 
 # Grommets
 These grommets fit onto the UTM cover and allow the liquid/gas tubes and the UTM cable to pass into the UTM assembly while keeping water and dust out.
@@ -165,7 +165,7 @@ These grommets fit onto the UTM cover and allow the liquid/gas tubes and the UTM
 
 
 
-![Grommets.jpg](Grommets.jpg)
+![Grommets.jpg](_images/Grommets.jpg)
 
 # Pressure Regulator
 This pressure regulator reduces the pressure from a municipal water supply down to 15 PSI (103 kpa, 1.03 bar) so that FarmBot can more easily control the amount of water it disperses.
@@ -185,11 +185,11 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 
 
 
-![Pressure2.JPG](Pressure2.JPG)
+![Pressure2.JPG](_images/Pressure2.JPG)
 
 
 
-![Pressure1.JPG](Pressure1.JPG)
+![Pressure1.JPG](_images/Pressure1.JPG)
 
 # Luer Lock Adapter
 
@@ -200,11 +200,11 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 
 
 
-![Luer Lock Adapter.jpg](Luer_Lock_Adapter.jpg)
+![Luer Lock Adapter.jpg](_images/Luer_Lock_Adapter.jpg)
 
 
 
-![Luer2.jpg](Luer2.jpg)
+![Luer2.jpg](_images/Luer2.jpg)
 
 # Luer Lock Needles
 
@@ -217,11 +217,11 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 
 
 
-![Luer.jpg](Luer.jpg)
+![Luer.jpg](_images/Luer.jpg)
 
 
 
-![Luer1.jpg](Luer1.jpg)
+![Luer1.jpg](_images/Luer1.jpg)
 
 # Teflon Tape
 This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system.
@@ -236,5 +236,5 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 
 
 
-![Teflon Tape.JPG](Teflon_Tape.JPG)
+![Teflon Tape.JPG](_images/Teflon_Tape.JPG)
 

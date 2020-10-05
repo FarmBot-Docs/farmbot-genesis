@@ -24,15 +24,15 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 
 ## Photos
 
-![IMG_20141113_182531.jpg](IMG_20141113_182531.jpg)
+![IMG_20141113_182531.jpg](_images/IMG_20141113_182531.jpg)
 
 
 
-![IMG_20141113_131722.jpg](IMG_20141113_131722.jpg)
+![IMG_20141113_131722.jpg](_images/IMG_20141113_131722.jpg)
 
 
 
-![IMG_20141113_153956.jpg](IMG_20141113_153956.jpg)
+![IMG_20141113_153956.jpg](_images/IMG_20141113_153956.jpg)
 
 ## A note about Tools, Power, and Data
 Tim Evers and Rory Aronson had a lengthy discussion in email regarding how to handle communication between the tools and the Arduino/RAMPS board. This discussion can be seen on the [Universal Tool Mount wiki page](http://wiki.farmbot.cc/wiki/Universal_Tool_Mount). The summary:

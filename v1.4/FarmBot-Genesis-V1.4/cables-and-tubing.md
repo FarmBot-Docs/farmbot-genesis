@@ -36,13 +36,13 @@ content="All of FarmBot's motor and encoder cables are labelled with a small whi
 
 
 
-![v1.3-Motor-Cables.jpg](v1.3-Motor-Cables.jpg)
+![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
 
 _Motor cables_
 
 
 
-![v1.3-Encoder-Cables.jpg](v1.3-Encoder-Cables.jpg)
+![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
 
 _Encoder cables_
 

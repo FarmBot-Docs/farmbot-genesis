@@ -1,7 +1,7 @@
 ---
 title: "Seed Injector"
 slug: "seed-injector"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Seed Injector"
+description: "Documentation and assembly instructions for the FarmBot Genesis Seed Injector"
 ---
 
 * toc
@@ -100,9 +100,9 @@ The seed canister would simply be many seed pucks stacked inside a canister. Eac
 
 * The vacuum pump based seed injector by design will always have difficulty in balancing vacuum power to safely hold seeds, while not having so much suction that too many seeds are picked up at once. A solution to control seed quantities is to separate seeds into smaller bins, with each bin holding the appropriate number of seeds for one "trip" of the seeder.
 
-![IMG_20160422_135837.jpg](IMG_20160422_135837.jpg)
+![IMG_20160422_135837.jpg](_images/IMG_20160422_135837.jpg)
 
 * Small seeds and other debris can become lodged into the seeder's opening. Small debris can also be sucked all the way through to the vacuum pump and cause deteriorated performance or complete malfunction. This could be prevented by integrating a fine fabric or other mesh over the seeder's opening such that air can pass through the membrane while seeds and other debris stay out. However, a filtering mesh could also become clogged with finer particles. Another solution is to use a standard vacuum, instead of a vacuum pump. This would allow debris and seeds to be accidentally sucked up without risk of malfunction, though it would not prevent seeds from becoming stuck. This could be alleviated with a different tip design.
 
-![IMG_20160422_131914.jpg](IMG_20160422_131914.jpg)
+![IMG_20160422_131914.jpg](_images/IMG_20160422_131914.jpg)
 

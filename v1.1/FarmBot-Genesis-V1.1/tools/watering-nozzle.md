@@ -1,7 +1,7 @@
 ---
 title: "Watering Nozzle"
 slug: "watering-nozzle"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Watering Nozzle"
+description: "Documentation and assembly instructions for the FarmBot Genesis Watering Nozzle"
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "Documentation and assembly instructions for the FarmBot Genesis Wateri
 
 The watering nozzle is a single 3D printed component with a few extra parts for magnetic coupling and electronic verification with the UTM. It works as a simple diffuser nozzle by accepting a concentrated stream of water coming from the UTM and turning it into a gentle shower.
 
-![IMG_5911.JPG](IMG_5911.JPG)
+![IMG_5911.JPG](_images/IMG_5911.JPG)
 
 
 
@@ -79,7 +79,7 @@ Use **scissors** to cut 25mm worth of **jumper wire**. Then use **wire strippers
 
 Attach the **jumper wire** to the bottom of each of the **M3 screws** using the two **zipties**.
 
-![water.png](water.png)
+![water.png](_images/water.png)
 
 ## Step 5: Connect FarmBot to the water source
 Screw the **inline pressure regulator** onto the **faucet** you will be using to supply FarmBot with municipal water.

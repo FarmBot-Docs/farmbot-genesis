@@ -1,7 +1,7 @@
 ---
 title: "Universal Tool Hardware"
 slug: "universal-tool-hardware"
-excerpt: "This reference guide applies to all of FarmBot's tools"
+description: "This reference guide applies to all of FarmBot's tools"
 ---
 
 * toc
@@ -41,11 +41,11 @@ content="Make sure you do not accidentally mount the magnets using the liquid/ga
 
 
 
-![Screen Shot 2017-02-27 at 4.06.45 PM.png](Screen_Shot_2017-02-27_at_4.06.45_PM.png)
+![Screen Shot 2017-02-27 at 4.06.45 PM.png](_images/Screen_Shot_2017-02-27_at_4.06.45_PM.png)
 
 
 
-![Screen Shot 2017-02-27 at 4.06.52 PM.png](Screen_Shot_2017-02-27_at_4.06.52_PM.png)
+![Screen Shot 2017-02-27 at 4.06.52 PM.png](_images/Screen_Shot_2017-02-27_at_4.06.52_PM.png)
 
 
 
@@ -53,9 +53,9 @@ content="Make sure you do not accidentally mount the magnets using the liquid/ga
 
 Insert two **M3 x 25mm screws** into the holes labelled C and B on the top of the **tool**.
 
-![Screen Shot 2017-02-27 at 4.07.36 PM.png](Screen_Shot_2017-02-27_at_4.07.36_PM.png)
+![Screen Shot 2017-02-27 at 4.07.36 PM.png](_images/Screen_Shot_2017-02-27_at_4.07.36_PM.png)
 
 Secure the **jumper link** to the bottom of the screws with two **M3 locknuts**.
 
-![Screen Shot 2017-02-27 at 4.08.01 PM.png](Screen_Shot_2017-02-27_at_4.08.01_PM.png)
+![Screen Shot 2017-02-27 at 4.08.01 PM.png](_images/Screen_Shot_2017-02-27_at_4.08.01_PM.png)
 

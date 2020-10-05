@@ -1,7 +1,7 @@
 ---
 title: "Motor Box"
 slug: "motor-box"
-excerpt: "Packing details for the motor box inside each main carton"
+description: "Packing details for the motor box inside each main carton"
 ---
 
 * toc

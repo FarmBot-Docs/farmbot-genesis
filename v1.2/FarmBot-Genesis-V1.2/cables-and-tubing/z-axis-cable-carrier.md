@@ -18,11 +18,11 @@ Remove all of the snap-in **tabs** from the **z-axis cable carrier**. The z-axis
 
 There is only one orientation that the **z-axis cable carrier** mounts to the **cross-slide** and **z-axis**, and it is determined by the orientation of the **end pieces**. Inspect the images below to see how the cable carrier will be mounted, but do not attach it at this time.
 
-![z-axis cable carrier lower mount.png](z-axis_cable_carrier_lower_mount.png)
+![z-axis cable carrier lower mount.png](_images/z-axis_cable_carrier_lower_mount.png)
 
 
 
-![z cable carrier upper mount and bend.png](z_cable_carrier_upper_mount_and_bend.png)
+![z cable carrier upper mount and bend.png](_images/z_cable_carrier_upper_mount_and_bend.png)
 
 
 
@@ -36,7 +36,7 @@ Keeping the mounting orientation of the cable carrier in mind, lay the **UTM cab
   * The end of the z-axis motor cable with the white plug that connects to the motor should extend 100cm beyond the end of the cable carrier.
   * The end of the z-axis encoder cable with the white plug that connects to the encoder should extend 100cm beyond the end of the cable carrier.
 
-![z-axis_cables.png](z-axis_cables.png)
+![z-axis_cables.png](_images/z-axis_cables.png)
 
 _Image of the extra lengths_
 
@@ -68,11 +68,11 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and five
 
 Carefully lift the cable carrier assembly and drape it over the cross-slide.
 
-![z cable carrier bend.png](z_cable_carrier_bend.png)
+![z cable carrier bend.png](_images/z_cable_carrier_bend.png)
 
 Attach the **cable carrier** to the **cross-slide** using two **M5 x 45mm screws**, **M5 washers**, **M5 locknuts**, and the **cable carrier spacer block**. The screws should thread firmly through the cable carrier end pieces.
 
-![z cc mount upper.png](z_cc_mount_upper.png)
+![z cc mount upper.png](_images/z_cc_mount_upper.png)
 
 
 
@@ -80,11 +80,11 @@ Attach the **cable carrier** to the **cross-slide** using two **M5 x 45mm screws
 
 Use two **M5 x 10mm screws** and **M5 tee nuts** to attach each of the five **vertical cable carrier supports** to the **z-axis extrusion**. Space the supports evenly along the extrusion as shown.
 
-![vertical cc support.png](vertical_cc_support.png)
+![vertical cc support.png](_images/vertical_cc_support.png)
 
 
 
-![vertical cc supports.png](vertical_cc_supports.png)
+![vertical cc supports.png](_images/vertical_cc_supports.png)
 
 
 
@@ -92,7 +92,7 @@ Use two **M5 x 10mm screws** and **M5 tee nuts** to attach each of the five **ve
 
 Attach the **cable carrier** to the lowest **vertical cable carrier support** using two **M5 x 16mm screws**, **M5 washers**, **M5 locknuts**. The screws should thread firmly through the cable carrier end pieces. The mount should be about 100mm or more away from the UTM, but the location can be adjusted as necessary to aid cable installation.
 
-![z cable carrier mount back.png](z_cable_carrier_mount_back.png)
+![z cable carrier mount back.png](_images/z_cable_carrier_mount_back.png)
 
 
 
@@ -100,7 +100,7 @@ Attach the **cable carrier** to the lowest **vertical cable carrier support** us
 
 Feed the **z-axis motor and encoder cables** up through the slots in the **vertical cable carrier supports**, and then through the slot in the **z-axis motor mount**.
 
-![z motor guide.png](z_motor_guide.png)
+![z motor guide.png](_images/z_motor_guide.png)
 
 Connect the cables to the **z-axis motor and encoder**.
 
@@ -111,7 +111,7 @@ Connect the cables to the **z-axis motor and encoder**.
 
 Attach the **vertical motor housing** to the **z-axis extrusion** using two **M5 x 10mm screws** and **M5 tee nuts**.
 
-![vertical housing.png](vertical_housing.png)
+![vertical housing.png](_images/vertical_housing.png)
 
 
 

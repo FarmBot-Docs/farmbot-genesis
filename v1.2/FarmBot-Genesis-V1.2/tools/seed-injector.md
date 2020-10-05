@@ -1,7 +1,7 @@
 ---
 title: "Seed Injector"
 slug: "seed-injector"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis seed injector"
+description: "Documentation and assembly instructions for the FarmBot Genesis seed injector"
 ---
 
 * toc
@@ -13,7 +13,7 @@ The seed injector works by using a strong vacuum pump to suction-hold a single s
 
 
 
-![Seeder.jpg](Seeder.jpg)
+![Seeder.jpg](_images/Seeder.jpg)
 
 
 
@@ -32,7 +32,7 @@ Gather all the seed injector parts from the table below and lay them out in a lo
 
 * [2mm hex driver](../../Extras/bom/miscellaneous.md#2mm-hex-driver)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
-* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#5-5mm-box-wrench)
+* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#55mm-box-wrench)
 * [8mm box wrench](../../Extras/bom/miscellaneous.md#8mm-box-wrench)
 
 |Qty.                          |Component                     |
@@ -54,7 +54,7 @@ Gather all the seed injector parts from the table below and lay them out in a lo
 
 Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md).
 
-![Screen Shot 2017-02-27 at 4.22.46 PM.png](Screen_Shot_2017-02-27_at_4.22.46_PM.png)
+![Screen Shot 2017-02-27 at 4.22.46 PM.png](_images/Screen_Shot_2017-02-27_at_4.22.46_PM.png)
 
 
 
@@ -62,7 +62,7 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 Screw the **1/4" 28 UNF to luer lock adapter** into the bottom of the **seed injector's** liquid/gas port labelled "1".
 
-![Screen Shot 2017-02-27 at 4.21.54 PM.png](Screen_Shot_2017-02-27_at_4.21.54_PM.png)
+![Screen Shot 2017-02-27 at 4.21.54 PM.png](_images/Screen_Shot_2017-02-27_at_4.21.54_PM.png)
 
 
 
@@ -78,7 +78,7 @@ We've shipped all of the FarmBots with three different **luer lock needle** size
 
 Once you've selected a needle, attach it to the **1/4" 28 UNF to luer lock adapter** with a 1/4 turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
 
-![Screen Shot 2017-02-27 at 4.49.44 PM.png](Screen_Shot_2017-02-27_at_4.49.44_PM.png)
+![Screen Shot 2017-02-27 at 4.49.44 PM.png](_images/Screen_Shot_2017-02-27_at_4.49.44_PM.png)
 
 
 
@@ -86,7 +86,7 @@ Once you've selected a needle, attach it to the **1/4" 28 UNF to luer lock adapt
 
 Slide the **vacuum tube** onto the inlet barb of the **vacuum pump**.
 
-![pump_tube.png](pump_tube.png)
+![pump_tube.png](_images/pump_tube.png)
 
 
 
@@ -103,7 +103,7 @@ content="Note that the **vacuum pump cable** has **gray heat shrink tubing** aro
 
 
 
-![wired_pump.png](wired_pump.png)
+![wired_pump.png](_images/wired_pump.png)
 
 
 
@@ -118,18 +118,18 @@ We offer the following types of seed containers, each optimized for different pu
 ## Seed bins
 The **seed bins** are for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply slide it into the **toolbay** and fill it with seeds. Then run a planting sequence from the web app with the corresponding seed bin sequence and location.
 
-![Seed Bin.jpg](Seed_Bin.jpg)
+![Seed Bin.jpg](_images/Seed_Bin.jpg)
 
 If desired, you can mix a variety of seed types into one seed bin and have FarmBot plant whatever it happens to grab. Keep in mind though that FarmBot will have no way of knowing which seeds it grabs, so only use this technique when you will be taking care of all those plants identically. An example for this again might be when growing microgreens - you can grow three different types in the same area at the same time, all in the same way, without having to do three planting sequences or otherwise treat them differently.
 
 ## Seed trays
 The **seed trays** have 16 small area for holding seeds. They are best used when planting many different crops, and when the number of seeds per hole needs to be strictly controlled.
 
-![7046e4f-Seed_Trays_3.JPG](Seed_Trays_3.JPG)
+![7046e4f-Seed_Trays_3.JPG](_images/Seed_Trays_3.JPG)
 
 
 
-![Seed Tray.jpg](Seed_Tray.jpg)
+![Seed Tray.jpg](_images/Seed_Tray.jpg)
 
 Coming soon: software features that allow you to more easily program and use the different locations of the 16 seed areas.
 

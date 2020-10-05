@@ -1,7 +1,7 @@
 ---
 title: "Tubing"
 slug: "tubing"
-excerpt: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -43,7 +43,7 @@ These ultra flexible silicone tubes carry water to the UTM and suck vacuum air.
 
 
 
-![IMG_0470.jpg](IMG_0470.jpg)
+![IMG_0470.jpg](_images/IMG_0470.jpg)
 
 # Barbs
 These brass barbs screw into the UTM's three liquid/gas ports and accept the three liquid/gas lines coming from the z-axis cable carrier.
@@ -60,7 +60,7 @@ These brass barbs screw into the UTM's three liquid/gas ports and accept the thr
 
 
 
-![IMG_0487.jpg](IMG_0487.jpg)
+![IMG_0487.jpg](_images/IMG_0487.jpg)
 
 # Barbed Adapter
 These adapters are used throughout the water tubing system.
@@ -76,11 +76,11 @@ These adapters are used throughout the water tubing system.
 
 
 
-![IMG_0498.jpg](IMG_0498.jpg)
+![IMG_0498.jpg](_images/IMG_0498.jpg)
 
 
 
-![IMG_0499.jpg](IMG_0499.jpg)
+![IMG_0499.jpg](_images/IMG_0499.jpg)
 
 # Garden Hose Adapter
 This adapter connects standard US garden hoses to a barbed adapter.
@@ -95,11 +95,11 @@ This adapter connects standard US garden hoses to a barbed adapter.
 
 
 
-![IMG_0501.jpg](IMG_0501.jpg)
+![IMG_0501.jpg](_images/IMG_0501.jpg)
 
 
 
-![IMG_0502.jpg](IMG_0502.jpg)
+![IMG_0502.jpg](_images/IMG_0502.jpg)
 
 # O-rings
 These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted.
@@ -118,7 +118,7 @@ These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when t
 
 
 
-![O-rings.jpg](O-rings.jpg)
+![O-rings.jpg](_images/O-rings.jpg)
 
 # Pressure Regulator
 This pressure regulator reduces the pressure from a municipal water supply down to 15 PSI (103 kpa, 1.03 bar) so that FarmBot can more easily control the amount of water it disperses.
@@ -137,11 +137,11 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 
 
 
-![Pressure2.JPG](Pressure2.JPG)
+![Pressure2.JPG](_images/Pressure2.JPG)
 
 
 
-![Pressure1.JPG](Pressure1.JPG)
+![Pressure1.JPG](_images/Pressure1.JPG)
 
 # Luer Lock Adapter
 This adapter screws into the tool head and allows various luer lock needles to be quickly attached for seed injection.
@@ -156,7 +156,7 @@ This adapter screws into the tool head and allows various luer lock needles to b
 
 
 
-![9ca0945-Luer_Lock_Adapter.jpeg](Luer_Lock_Adapter.jpeg)
+![9ca0945-Luer_Lock_Adapter.jpeg](_images/Luer_Lock_Adapter.jpeg)
 
 # Luer Lock Needles
 These needles are used for seed injection.
@@ -173,7 +173,7 @@ These needles are used for seed injection.
 
 
 
-![IMG_0530.jpg](IMG_0530.jpg)
+![IMG_0530.jpg](_images/IMG_0530.jpg)
 
 # Teflon Tape
 This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system.
@@ -189,5 +189,5 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 
 
 
-![Teflon Tape.JPG](Teflon_Tape.JPG)
+![Teflon Tape.JPG](_images/Teflon_Tape.JPG)
 

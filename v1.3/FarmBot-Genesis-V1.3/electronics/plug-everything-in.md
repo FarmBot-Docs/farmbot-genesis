@@ -27,14 +27,14 @@ When plugging in cables in the following steps, ensure that you pass **every cab
 
 Note: the electronics box will look like the following image when everything is completed.
 
-![IMG_20170923_131922.jpg](IMG_20170923_131922.jpg)
+![IMG_20170923_131922.jpg](_images/IMG_20170923_131922.jpg)
 
 # Step 1: Connect the peripherals
 * Connect the **LED lights** to the **Farmduino** peripheral connector labelled `LIGHTING` (the top right connector on Farmduino). The connector will only fit in one direction.
 * Connect the **solenoid valve cable** (with blue heat shrink) to the **Farmduino** peripheral connector labelled `WATER` (directly underneath the lighting connector). The connector will only fit in one direction.
 * Connect the **vacuum pump cable** (with gray heat shrink) to the **Farmduino** peripheral connector labelled `VACUUM` (directly underneath the water connector). The connector will only fit in one direction.
 
-![Screen Shot 2017-10-03 at 11.58.06 PM.png](Screen_Shot_2017-10-03_at_11.58.06_PM.png)
+![Screen Shot 2017-10-03 at 11.58.06 PM.png](_images/Screen_Shot_2017-10-03_at_11.58.06_PM.png)
 
 _The peripheral connectors are highlighted in orange_
 
@@ -50,7 +50,7 @@ content="See [Farmduino Peripheral Pin Numbers](../../FarmBot-Genesis-V1.3/refer
 # Step 2: Plug in the stepper motors and rotary encoders
 Plug in the **motor and encoder cables** to the **Farmduino**. Each cable is labelled with a white sleeve, which corresponds to the connectors on the Farmduino. From left to right, the connectors on Farmduino are `X1`, `X2`, `Y`, and `Z`. Each connector can only be inserted in one direction, and has a locking tab to prevent it from falling out.
 
-![Screen Shot 2017-10-03 at 11.57.22 PM.png](Screen_Shot_2017-10-03_at_11.57.22_PM.png)
+![Screen Shot 2017-10-03 at 11.57.22 PM.png](_images/Screen_Shot_2017-10-03_at_11.57.22_PM.png)
 
 _The motor and encoder connectors are highlighted in orange_
 
@@ -68,21 +68,21 @@ We recommend slightly pushing the connector away from the locking tab (while you
 # Step 3: Plug in the camera
 Plug in the **camera** to the **USB adapter cable**.
 
-![Screen Shot 2017-10-03 at 11.58.46 PM.png](Screen_Shot_2017-10-03_at_11.58.46_PM.png)
+![Screen Shot 2017-10-03 at 11.58.46 PM.png](_images/Screen_Shot_2017-10-03_at_11.58.46_PM.png)
 
 _The USB adapter cable is highlighted in orange_
 
 # Step 4: Plug in the UTM cable
 Plug in the **UTM cable** to the **Farmduino**. The connector will only fit in one direction.
 
-![Screen Shot 2017-10-03 at 11.55.56 PM.png](Screen_Shot_2017-10-03_at_11.55.56_PM.png)
+![Screen Shot 2017-10-03 at 11.55.56 PM.png](_images/Screen_Shot_2017-10-03_at_11.55.56_PM.png)
 
 _The UTM connector is highlighted in orange_
 
 # Step 5: Plug the power supply into the Farmduino
 Connect the **4-pin power supply connector** to the **Farmduino's power input**. The connector will only fit in one direction.
 
-![Screen Shot 2017-10-03 at 11.58.21 PM.png](Screen_Shot_2017-10-03_at_11.58.21_PM.png)
+![Screen Shot 2017-10-03 at 11.58.21 PM.png](_images/Screen_Shot_2017-10-03_at_11.58.21_PM.png)
 
 _The power input connector is highlighted in orange_
 
@@ -102,12 +102,12 @@ content="Do not pull any cables away from the electronics box during this proces
 
 
 
-![IMG_20170923_131922.jpg](IMG_20170923_131922.jpg)
+![IMG_20170923_131922.jpg](_images/IMG_20170923_131922.jpg)
 
 # Step 7: Mount the power supply
 Mount the **power supply** to your **supporting infrastructure** using four **25mm wood screws**. The power supply is IP67 rated, so it can withstand rain and the elements.
 
-![Mounted PSU.JPG](Mounted_PSU.JPG)
+![Mounted PSU.JPG](_images/Mounted_PSU.JPG)
 
 # Step 8: Plug the power supply into the wall
 Plug the power supply plug into a waterproof GFCI outlet. If an appropriate outlet is not close enough to plug in directly, use an extension cord and a waterproof connection box such as the [Sockit Box](http://www.sockitbox.com/size-option/size-200/).

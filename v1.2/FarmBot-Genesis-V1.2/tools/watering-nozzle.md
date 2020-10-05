@@ -1,7 +1,7 @@
 ---
 title: "Watering Nozzle"
 slug: "watering-nozzle"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis watering nozzle"
+description: "Documentation and assembly instructions for the FarmBot Genesis watering nozzle"
 ---
 
 * toc
@@ -13,11 +13,11 @@ The watering nozzle is a single 3D printed component with a few extra parts for 
 
 
 
-![Water.jpg](Water.jpg)
+![Water.jpg](_images/Water.jpg)
 
 
 
-![IMG_5911.JPG](IMG_5911.JPG)
+![IMG_5911.JPG](_images/IMG_5911.JPG)
 
 
 
@@ -36,7 +36,7 @@ Gather all the watering nozzle parts from the table below and lay them out in a 
 
 * [2mm hex driver](../../Extras/bom/miscellaneous.md#2mm-hex-driver)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
-* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#5-5mm-box-wrench)
+* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#55mm-box-wrench)
 * [8mm box wrench](../../Extras/bom/miscellaneous.md#8mm-box-wrench)
 
 |Qty.                          |Component                     |
@@ -71,15 +71,15 @@ content="These holes are missing to allow the incoming concentrated water stream
 
 
 
-![Screen Shot 2017-02-27 at 7.37.43 PM.png](Screen_Shot_2017-02-27_at_7.37.43_PM.png)
+![Screen Shot 2017-02-27 at 7.37.43 PM.png](_images/Screen_Shot_2017-02-27_at_7.37.43_PM.png)
 
 Press the **watering nozzle bottom** into the **watering nozzle top**. The two components will be secured in the next step.
 
-![Screen Shot 2017-02-27 at 7.38.17 PM.png](Screen_Shot_2017-02-27_at_7.38.17_PM.png)
+![Screen Shot 2017-02-27 at 7.38.17 PM.png](_images/Screen_Shot_2017-02-27_at_7.38.17_PM.png)
 
 
 
-![Screen Shot 2017-02-27 at 7.35.06 PM.png](Screen_Shot_2017-02-27_at_7.35.06_PM.png)
+![Screen Shot 2017-02-27 at 7.35.06 PM.png](_images/Screen_Shot_2017-02-27_at_7.35.06_PM.png)
 
 
 
@@ -87,11 +87,11 @@ Press the **watering nozzle bottom** into the **watering nozzle top**. The two c
 
 Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
-![Screen Shot 2017-02-27 at 7.33.49 PM.png](Screen_Shot_2017-02-27_at_7.33.49_PM.png)
+![Screen Shot 2017-02-27 at 7.33.49 PM.png](_images/Screen_Shot_2017-02-27_at_7.33.49_PM.png)
 
 
 
-![Screen Shot 2017-02-27 at 7.34.05 PM.png](Screen_Shot_2017-02-27_at_7.34.05_PM.png)
+![Screen Shot 2017-02-27 at 7.34.05 PM.png](_images/Screen_Shot_2017-02-27_at_7.34.05_PM.png)
 
 
 
@@ -99,31 +99,31 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 
 
-![valve_overview.png](valve_overview.png)
+![valve_overview.png](_images/valve_overview.png)
 
 Screw the **pressure regulator** onto the **faucet** you will be using to supply FarmBot with municipal water.
 
-![water_regulator.png](water_regulator.png)
+![water_regulator.png](_images/water_regulator.png)
 
 Screw the **garden hose** onto the **pressure regulator**. *Note that you will need to provide a hose of the appropriate length for your installation - one is not provided with FarmBot kits.*
 
-![water_hose.png](water_hose.png)
+![water_hose.png](_images/water_hose.png)
 
 Screw the **garden hose adapter** onto the other end of the **garden hose**.
 
-![hose_adapter.png](hose_adapter.png)
+![hose_adapter.png](_images/hose_adapter.png)
 
 Screw the **solenoid valve** onto the other end of the **garden hose adapter**.
 
-![solenoid_valve.png](solenoid_valve.png)
+![solenoid_valve.png](_images/solenoid_valve.png)
 
 Screw the **barbed adapter** onto the **solenoid valve**.
 
-![barbed_valve.png](barbed_valve.png)
+![barbed_valve.png](_images/barbed_valve.png)
 
 Push the **water tube** onto the **barbed adapter** and secure it with a **zip tie**.
 
-![connected_valve.png](connected_valve.png)
+![connected_valve.png](_images/connected_valve.png)
 
 
 
@@ -140,5 +140,5 @@ content="Note that the **solenoid valve cable** has **blue heat shrink tubing** 
 
 
 
-![wired_solenoid_valve.png](wired_solenoid_valve.png)
+![wired_solenoid_valve.png](_images/wired_solenoid_valve.png)
 

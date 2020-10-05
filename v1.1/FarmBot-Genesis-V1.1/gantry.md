@@ -1,14 +1,14 @@
 ---
 title: "Gantry"
 slug: "gantry"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis gantry"
+description: "Documentation and assembly instructions for the FarmBot Genesis gantry"
 ---
 
 * toc
 {:toc}
 
 
-![gantry.png](gantry.png)
+![gantry.png](_images/gantry.png)
 
 
 

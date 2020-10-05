@@ -1,7 +1,7 @@
 ---
 title: "Plastic Parts Box"
 slug: "plastic-parts-box"
-excerpt: "Packing details for the plastic parts box inside each main carton"
+description: "Packing details for the plastic parts box inside each main carton"
 ---
 
 * toc

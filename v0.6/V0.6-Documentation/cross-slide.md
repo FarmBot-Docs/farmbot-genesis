@@ -9,9 +9,9 @@ slug: "cross-slide"
 ## Change Log
 * No changes were made.
 
-![V5_Cross-Slide_1.jpg](Slide_1.jpg)
+![V5_Cross-Slide_1.jpg](_images/Slide_1.jpg)
 
 
 
-![V5_Cross-Slide_Render_2.jpg](Slide_Render_2.jpg)
+![V5_Cross-Slide_Render_2.jpg](_images/Slide_Render_2.jpg)
 

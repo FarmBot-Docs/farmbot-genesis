@@ -87,14 +87,14 @@ content="The UTM cable's outer insulation must maintain contact with the UTM cov
 
 Insert two **M5 x 10mm screws** through the **UTM cover** mounting holes and then lightly thread an **M5 tee nut** onto each. Repeat for the **UTM**.
 
-![UTM_top.png](UTM_top.png)
+![UTM_top.png](_images/UTM_top.png)
 
 Slide the **UTM cover** and **UTM** onto the **z-axis** extrusion. The plastic brackets should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion, and the bottom of the UTM cover should be flush with the top of the UTM.
 
 
 Tighten all four **M5 screws** with the **3mm hex driver**.
 
-![UTM.png](UTM.png)
+![UTM.png](_images/UTM.png)
 
 
 

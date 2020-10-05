@@ -1,7 +1,7 @@
 ---
 title: "Watering Nozzle"
 slug: "watering-nozzle"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis watering nozzle"
+description: "Documentation and assembly instructions for the FarmBot Genesis watering nozzle"
 ---
 
 * toc
@@ -13,7 +13,7 @@ The watering nozzle accepts a concentrated stream of water coming from the UTM a
 
 
 
-![IMG_5911.JPG](IMG_5911.JPG)
+![IMG_5911.JPG](_images/IMG_5911.JPG)
 
 
 
@@ -54,7 +54,7 @@ content="This is the estimated time it will take to assemble the Watering Nozzle
 
 Press the **watering nozzle bottom** into the **watering nozzle top**. The two pieces only fit together in one orientation.
 
-![Screen Shot 2017-10-04 at 2.45.17 PM.png](Screen_Shot_2017-10-04_at_2.45.17_PM.png)
+![Screen Shot 2017-10-04 at 2.45.17 PM.png](_images/Screen_Shot_2017-10-04_at_2.45.17_PM.png)
 
 
 
@@ -62,11 +62,11 @@ Press the **watering nozzle bottom** into the **watering nozzle top**. The two p
 
 Install the **magnets** and tool verification **jumper link** using **M5 x 30mm screws** and **M3 x 10mm screws** and the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
-![Screen Shot 2017-10-04 at 2.41.38 PM.png](Screen_Shot_2017-10-04_at_2.41.38_PM.png)
+![Screen Shot 2017-10-04 at 2.41.38 PM.png](_images/Screen_Shot_2017-10-04_at_2.41.38_PM.png)
 
 
 
-![Screen Shot 2017-10-04 at 2.41.50 PM.png](Screen_Shot_2017-10-04_at_2.41.50_PM.png)
+![Screen Shot 2017-10-04 at 2.41.50 PM.png](_images/Screen_Shot_2017-10-04_at_2.41.50_PM.png)
 
 
 
@@ -74,15 +74,15 @@ Install the **magnets** and tool verification **jumper link** using **M5 x 30mm 
 
 Screw one of the **barbed adapters** onto the **solenoid valve** inlet.
 
-![Screen Shot 2018-08-08 at 2.05.13 PM.png](Screen_Shot_2018-08-08_at_2.05.13_PM.png)
+![Screen Shot 2018-08-08 at 2.05.13 PM.png](_images/Screen_Shot_2018-08-08_at_2.05.13_PM.png)
 
 Screw the **pressure regulator** onto the **solenoid valve** outlet. Use **teflon tape** to seal the threads according to the [reference guide](../../Extras/reference/using-teflon-tape.md).
 
-![Screen Shot 2018-08-08 at 2.05.21 PM.png](Screen_Shot_2018-08-08_at_2.05.21_PM.png)
+![Screen Shot 2018-08-08 at 2.05.21 PM.png](_images/Screen_Shot_2018-08-08_at_2.05.21_PM.png)
 
 Screw one of the **barbed adapters** onto the **pressure regulator**.
 
-![Screen Shot 2018-08-08 at 2.05.30 PM.png](Screen_Shot_2018-08-08_at_2.05.30_PM.png)
+![Screen Shot 2018-08-08 at 2.05.30 PM.png](_images/Screen_Shot_2018-08-08_at_2.05.30_PM.png)
 
 
 
@@ -90,11 +90,11 @@ Screw one of the **barbed adapters** onto the **pressure regulator**.
 
 Attach one of the **peripheral mount plates** to the left **gantry column** using three **M5 x 16mm screws** and **tee nuts**.
 
-![Screen Shot 2018-08-08 at 2.15.32 PM.png](Screen_Shot_2018-08-08_at_2.15.32_PM.png)
+![Screen Shot 2018-08-08 at 2.15.32 PM.png](_images/Screen_Shot_2018-08-08_at_2.15.32_PM.png)
 
 Attach the **solenoid valve assembly** to the **peripheral mount plate** using two **200mm zip ties**. The **pressure regulator** should be on top of the **solenoid valve** when mounted.
 
-![Screen Shot 2018-08-08 at 2.18.25 PM.png](Screen_Shot_2018-08-08_at_2.18.25_PM.png)
+![Screen Shot 2018-08-08 at 2.18.25 PM.png](_images/Screen_Shot_2018-08-08_at_2.18.25_PM.png)
 
 
 
@@ -102,7 +102,7 @@ Attach the **solenoid valve assembly** to the **peripheral mount plate** using t
 
 Connect the **solenoid valve cable** to the **solenoid valve's** terminals. Note: in a few steps from now, you will connect the other end of the cable to the Farmduino.
 
-![Screen Shot 2018-08-08 at 2.19.17 PM.png](Screen_Shot_2018-08-08_at_2.19.17_PM.png)
+![Screen Shot 2018-08-08 at 2.19.17 PM.png](_images/Screen_Shot_2018-08-08_at_2.19.17_PM.png)
 
 
 
@@ -110,11 +110,11 @@ Connect the **solenoid valve cable** to the **solenoid valve's** terminals. Note
 
 Push the **water tube** coming from the **y-axis cable carrier** onto the top **barbed adapter**.
 
-![Screen Shot 2018-08-08 at 5.21.26 PM.png](Screen_Shot_2018-08-08_at_5.21.26_PM.png)
+![Screen Shot 2018-08-08 at 5.21.26 PM.png](_images/Screen_Shot_2018-08-08_at_5.21.26_PM.png)
 
 Push the **water tube** coming from the **x-axis cable carrier** (where it is mounted to the gantry) onto the bottom **barbed adapter**.
 
-![Screen Shot 2018-08-08 at 5.21.49 PM.png](Screen_Shot_2018-08-08_at_5.21.49_PM.png)
+![Screen Shot 2018-08-08 at 5.21.49 PM.png](_images/Screen_Shot_2018-08-08_at_5.21.49_PM.png)
 
 
 
@@ -122,15 +122,15 @@ Push the **water tube** coming from the **x-axis cable carrier** (where it is mo
 
 Screw the **garden hose adapter** onto the **garden hose**. *Note that you will need to provide a garden hose of the appropriate length to connect FarmBot to your municipal water source - one is not provided with the FarmBot kits.*
 
-![Screen Shot 2018-08-08 at 2.27.02 PM.png](Screen_Shot_2018-08-08_at_2.27.02_PM.png)
+![Screen Shot 2018-08-08 at 2.27.02 PM.png](_images/Screen_Shot_2018-08-08_at_2.27.02_PM.png)
 
 Screw the final **barbed adapter** onto the **garden hose adapter**.
 
-![Screen Shot 2018-08-08 at 2.27.09 PM.png](Screen_Shot_2018-08-08_at_2.27.09_PM.png)
+![Screen Shot 2018-08-08 at 2.27.09 PM.png](_images/Screen_Shot_2018-08-08_at_2.27.09_PM.png)
 
 Push the **water tube** coming from the **x-axis cable carrier** (where it is mounted to the tracks) onto the **barbed adapter** connected to the hose.
 
-![Screen Shot 2018-08-08 at 5.20.17 PM.png](Screen_Shot_2018-08-08_at_5.20.17_PM.png)
+![Screen Shot 2018-08-08 at 5.20.17 PM.png](_images/Screen_Shot_2018-08-08_at_5.20.17_PM.png)
 
 
 # What's next?

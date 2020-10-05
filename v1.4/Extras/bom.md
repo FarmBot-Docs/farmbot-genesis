@@ -1,7 +1,7 @@
 ---
 title: "Bill of Materials"
 slug: "bom"
-excerpt: "Top-level BOM for all components in FarmBot Genesis, grouped by category. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Top-level BOM for all components in FarmBot Genesis, grouped by category. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc

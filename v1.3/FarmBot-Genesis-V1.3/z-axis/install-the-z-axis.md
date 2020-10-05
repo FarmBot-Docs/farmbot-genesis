@@ -20,11 +20,11 @@ content="In order to slide the z-axis through the v-wheels you will need to adju
 
 
 
-![zbarely.JPG](zbarely.JPG)
+![zbarely.JPG](_images/zbarely.JPG)
 
 
 
-![zlead.JPG](zlead.JPG)
+![zlead.JPG](_images/zlead.JPG)
 
 
 
@@ -32,7 +32,7 @@ content="In order to slide the z-axis through the v-wheels you will need to adju
 
 Hand rotate the **leadscrew** clockwise so that it threads into the **leadscrew block**. Continue to hand rotate the leadscrew until the z-axis is halfway down.
 
-![z installed.JPG](z_installed.JPG)
+![z installed.JPG](_images/z_installed.JPG)
 
 
 
@@ -40,11 +40,11 @@ Hand rotate the **leadscrew** clockwise so that it threads into the **leadscrew 
 
 Attach a **z-axis hardstop** onto the backside of the **z-axis extrusion** approximately 200mm from the top of the extrusion using an **M5 x 10mm screw** and **tee nut**. Later, you can quickly adjust this to physically prevent FarmBot from ever moving too low within its working space, which could damage something.
 
-![zhard.JPG](zhard.JPG)
+![zhard.JPG](_images/zhard.JPG)
 
 Attach the other **z-axis hardstop** onto the backside of the **z-axis extrusion** approximately 100mm from the bottom of the extrusion. This prevents the z-axis from moving too high.
 
-![zhard2.JPG](zhard2.JPG)
+![zhard2.JPG](_images/zhard2.JPG)
 
 
 # What's next?

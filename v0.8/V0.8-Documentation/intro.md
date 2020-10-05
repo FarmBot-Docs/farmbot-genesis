@@ -1,7 +1,7 @@
 ---
 title: "What's New in V0.8"
 slug: "intro"
-excerpt: "Improvements from V0.7 hardware"
+description: "Improvements from V0.7 hardware"
 ---
 
 * toc
@@ -26,5 +26,5 @@ Genesis V0.8 is nearly a production ready device. In this version, we sourced al
 
 
 
-![20150305_145838.jpg](20150305_145838.jpg)
+![20150305_145838.jpg](_images/20150305_145838.jpg)
 

@@ -16,13 +16,13 @@ Genesis V0.5 exhibits the following changes from Genesis V0.4
   * The water valve and Watering Tool were built for the first time
   * Rotary encoders were 3D modeled into the system
 
-![V5_1.jpg](V5_1.jpg)
+![V5_1.jpg](_images/V5_1.jpg)
 
 
 
-![V5_Render_1.jpg](V5_Render_1.jpg)
+![V5_Render_1.jpg](_images/V5_Render_1.jpg)
 
 
 
-![V5_Render_2.jpg](V5_Render_2.jpg)
+![V5_Render_2.jpg](_images/V5_Render_2.jpg)
 

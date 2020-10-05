@@ -1,7 +1,7 @@
 ---
 title: "Weeder"
 slug: "weeder"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis weeder"
+description: "Documentation and assembly instructions for the FarmBot Genesis weeder"
 ---
 
 * toc
@@ -13,7 +13,7 @@ The weeding tool is a single 3D printable component magnetically mounts onto Far
 
 
 
-![Weeder.jpg](Weeder.jpg)
+![Weeder.jpg](_images/Weeder.jpg)
 
 
 
@@ -63,7 +63,7 @@ Gather all the weeding tool parts from the table below and lay them out in a log
 
 * [2mm hex driver](../../Extras/bom/miscellaneous.md#2mm-hex-driver)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
-* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#5-5mm-box-wrench)
+* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#55mm-box-wrench)
 * [8mm box wrench](../../Extras/bom/miscellaneous.md#8mm-box-wrench)
 
 |Qty.                          |Component                     |
@@ -83,7 +83,7 @@ Gather all the weeding tool parts from the table below and lay them out in a log
 
 Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md).
 
-![none.png](none.png)
+![none.png](_images/none.png)
 
 
 
@@ -91,11 +91,11 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 Attach the **weeding blade** to the **weeder** using a **M3 x 25mm screw**. Make sure not to over-tighten the screw as you could strip the plastic of the blade.
 
-![blade.png](blade.png)
+![blade.png](_images/blade.png)
 
 Attach the three **weeding spikes** to the **weeder** using **M3 x 25mm screws**. Make sure not to over-tighten the screw as you could strip the plastic of the spikes.
 
-![all.png](all.png)
+![all.png](_images/all.png)
 
 
 

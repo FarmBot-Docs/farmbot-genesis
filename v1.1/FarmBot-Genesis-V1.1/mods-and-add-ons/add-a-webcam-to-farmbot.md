@@ -1,7 +1,7 @@
 ---
 title: "Add a Webcam to FarmBot"
 slug: "add-a-webcam-to-farmbot"
-excerpt: "DIY instructions for adding a webcam to your FarmBot + usage examples"
+description: "DIY instructions for adding a webcam to your FarmBot + usage examples"
 ---
 
 * toc
@@ -20,7 +20,7 @@ The Raspberry Pi supports small 5MP cameras, called **Raspberry Pi Camera Module
 
 There are two types of camera modules available: one with a [regular camera](https://www.adafruit.com/products/1367), and one with an [infrared camera](https://www.adafruit.com/products/1567) that can be used at night in combination with infrared LEDs for a nice night vision ability. The camera modules need to be mounted on your FarmBot in a rain proof location. This could be done with a [small plastic bracket](https://www.adafruit.com/products/1434) and a 3D printed roof structure, or other materials. How and where you mount your camera is up to you.
 
-![1367-07.jpg](07.jpg)
+![1367-07.jpg](_images/07.jpg)
 
 FarmBot OS webcam support coming soon. See [Camera](../../FarmBot-Genesis-V1.1/tools/camera.md) for tool camera installation instructions, with FarmBot OS support for taking photos.
 

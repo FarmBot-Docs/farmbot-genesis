@@ -1,7 +1,7 @@
 ---
 title: "Picking Up Seeds"
 slug: "picking-up-seeds"
-excerpt: "The FarmBot fails to pick up seeds entirely, frequently drops seeds when moving, or sucks seeds fully into the needle or vacuum system."
+description: "The FarmBot fails to pick up seeds entirely, frequently drops seeds when moving, or sucks seeds fully into the needle or vacuum system."
 ---
 
 * toc

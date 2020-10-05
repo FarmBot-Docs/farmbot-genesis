@@ -1,7 +1,7 @@
 ---
 title: "Mods and Add-Ons"
 slug: "mods"
-excerpt: "Ideas for changing and extending the capabilities of your FarmBot"
+description: "Ideas for changing and extending the capabilities of your FarmBot"
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "Ideas for changing and extending the capabilities of your FarmBot"
 
 FarmBot Genesis has been designed to be a platform for growing plants in any way you want. What comes out-of-the-box is just the beginning of what is possible. In the following documentation pages we share just a handful of ideas for what more you can do with your FarmBot. Go ahead and explore!
 
-![Dk34L2QuQdGK7gf7SKl6_IMG_20160304_160627 (1).jpg](IMG_20160304_160627_1.jpg)
+![Dk34L2QuQdGK7gf7SKl6_IMG_20160304_160627 (1).jpg](_images/IMG_20160304_160627_1.jpg)
 
 _This FarmBot has been augmented with a weather station_
 

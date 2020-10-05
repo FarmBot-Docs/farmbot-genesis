@@ -1,7 +1,7 @@
 ---
 title: "Soil Sensor"
 slug: "soil-sensor"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Soil Sensor"
+description: "Documentation and assembly instructions for the FarmBot Genesis Soil Sensor"
 ---
 
 * toc

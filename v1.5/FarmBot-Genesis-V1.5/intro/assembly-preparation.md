@@ -1,7 +1,7 @@
 ---
 title: "Assembly Preparation"
 slug: "assembly-preparation"
-excerpt: "Shorten the time it takes to assemble your FarmBot by following these preliminary steps"
+description: "Shorten the time it takes to assemble your FarmBot by following these preliminary steps"
 ---
 
 * toc

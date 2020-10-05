@@ -1,7 +1,7 @@
 ---
 title: "Assembly Preparation"
 slug: "assembly-preparation"
-excerpt: "Preliminary steps to take before assembling the major components of your FarmBot"
+description: "Preliminary steps to take before assembling the major components of your FarmBot"
 ---
 
 * toc
@@ -24,7 +24,7 @@ When you first open up your FarmBot hardware package, pull out all of the compon
 
 For many, grouping parts by type helps with locating them quickly later on. For example: place all your screws in one area, all your plates in another, all your electronics in another, etc.
 
-![20150113_124656.jpg](20150113_124656.jpg)
+![20150113_124656.jpg](_images/20150113_124656.jpg)
 
 
 
@@ -44,7 +44,7 @@ Each V-Wheel actually consists of four components:
 * Two 16mm x 5mm x 5mm stainless steel, rubber sealed ball bearings
 * One stainless steel precision shim that fits between the two bearings, inside the wheel
 
-![IMG_0276.JPG](IMG_0276.JPG)
+![IMG_0276.JPG](_images/IMG_0276.JPG)
 
 Pre-assembling all your v-wheels at once will save you assembly time later on. To do so, first press one bearing into the polycarbonate wheel.
 
@@ -57,11 +57,11 @@ content="It can be easy to accidentally press in a bearing crooked. Try your bes
 
 
 
-![IMG_0277.JPG](IMG_0277.JPG)
+![IMG_0277.JPG](_images/IMG_0277.JPG)
 
 
 
-![IMG_0278.JPG](IMG_0278.JPG)
+![IMG_0278.JPG](_images/IMG_0278.JPG)
 
 
 
@@ -74,15 +74,15 @@ content="If all goes well, you should here a satisfying 'pop' each time a bearin
 
 Then insert the precision shim such that it is resting on the first bearing on the inside of the wheel. Try to position the shim in the center of wheel.
 
-![IMG_0279.JPG](IMG_0279.JPG)
+![IMG_0279.JPG](_images/IMG_0279.JPG)
 
  Then press in the second bearing.
 
-![IMG_0280.JPG](IMG_0280.JPG)
+![IMG_0280.JPG](_images/IMG_0280.JPG)
 
 
 
-![IMG_0281.JPG](IMG_0281.JPG)
+![IMG_0281.JPG](_images/IMG_0281.JPG)
 
 
 
@@ -95,5 +95,5 @@ content="If your second bearing doesn't seem to fit all the way into the wheel, 
 
 
 
-![IMG_0282.JPG](IMG_0282.JPG)
+![IMG_0282.JPG](_images/IMG_0282.JPG)
 

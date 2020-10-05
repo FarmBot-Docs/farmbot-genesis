@@ -1,7 +1,7 @@
 ---
 title: "Tracks"
 slug: "tracks"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis tracks"
+description: "Documentation and assembly instructions for the FarmBot Genesis tracks"
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "Documentation and assembly instructions for the FarmBot Genesis tracks
 
 FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](../FarmBot-Genesis-V1.5/supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models, 6m for Genesis XL, and 18m for Genesis MAX.
 
-![Screen Shot 2020-02-15 at 6.27.12 PM.png](Screen_Shot_2020-02-15_at_6.27.12_PM.png)
+![Screen Shot 2020-02-15 at 6.27.12 PM.png](_images/Screen_Shot_2020-02-15_at_6.27.12_PM.png)
 
 
 
@@ -58,15 +58,15 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 # Step 2: Attach the horizontal cable carrier supports
 Attach six **40mm horizontal cable carrier supports** to the *lower slot* of a **track extrusion** using **40mm nut bars** and **M5 x 10mm screws**. The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
 
-![Screen Shot 2020-02-15 at 10.29.10 PM.png](Screen_Shot_2020-02-15_at_10.29.10_PM.png)
+![Screen Shot 2020-02-15 at 10.29.10 PM.png](_images/Screen_Shot_2020-02-15_at_10.29.10_PM.png)
 
 
 
-![Screen Shot 2020-02-15 at 10.29.37 PM.png](Screen_Shot_2020-02-15_at_10.29.37_PM.png)
+![Screen Shot 2020-02-15 at 10.29.37 PM.png](_images/Screen_Shot_2020-02-15_at_10.29.37_PM.png)
 
 Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis XL, and 12 for Genesis MAX).
 
-![Screen Shot 2020-02-15 at 10.31.35 PM.png](Screen_Shot_2020-02-15_at_10.31.35_PM.png)
+![Screen Shot 2020-02-15 at 10.31.35 PM.png](_images/Screen_Shot_2020-02-15_at_10.31.35_PM.png)
 
 _Two extrusions with cable carrier supports - enough for Genesis._
 
@@ -84,25 +84,25 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 
 
-![Screen Shot 2020-02-15 at 6.32.13 PM.png](Screen_Shot_2020-02-15_at_6.32.13_PM.png)
+![Screen Shot 2020-02-15 at 6.32.13 PM.png](_images/Screen_Shot_2020-02-15_at_6.32.13_PM.png)
 
 # Step 4: Attach a track joining plate
 Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
-![Screen Shot 2020-02-15 at 6.36.55 PM.png](Screen_Shot_2020-02-15_at_6.36.55_PM.png)
+![Screen Shot 2020-02-15 at 6.36.55 PM.png](_images/Screen_Shot_2020-02-15_at_6.36.55_PM.png)
 
 # Step 5: Attach the first track extrusion
 Attach the first **track extrusion** to the **track end plate** and **track joining plate** using a **60mm nut bar**, **40mm nut bar**, and **M5 x 10mm screws**.
 
-![Screen Shot 2020-02-15 at 6.39.39 PM.png](Screen_Shot_2020-02-15_at_6.39.39_PM.png)
+![Screen Shot 2020-02-15 at 6.39.39 PM.png](_images/Screen_Shot_2020-02-15_at_6.39.39_PM.png)
 
 
 
-![Screen Shot 2020-02-15 at 10.59.20 PM.png](Screen_Shot_2020-02-15_at_10.59.20_PM.png)
+![Screen Shot 2020-02-15 at 10.59.20 PM.png](_images/Screen_Shot_2020-02-15_at_10.59.20_PM.png)
 
 
 
-![Screen Shot 2020-02-15 at 11.00.05 PM.png](Screen_Shot_2020-02-15_at_11.00.05_PM.png)
+![Screen Shot 2020-02-15 at 11.00.05 PM.png](_images/Screen_Shot_2020-02-15_at_11.00.05_PM.png)
 
 # Step 6: Attach the next extrusion
 
@@ -124,7 +124,7 @@ content="Don't use a mallet directly on the extrusions because you can easily be
 
 
 
-![DAMAGED_TRACKS.jpg](DAMAGED_TRACKS.jpg)
+![DAMAGED_TRACKS.jpg](_images/DAMAGED_TRACKS.jpg)
 
 _This is an example of damaged tracks caused by hammering the tracks together. Avoid hammering the tracks together._
 
@@ -141,11 +141,11 @@ Keep in mind that using the dowel pins is **optional**. If they are causing you 
 
 
 
-![Screen Shot 2020-02-15 at 6.45.22 PM.png](Screen_Shot_2020-02-15_at_6.45.22_PM.png)
+![Screen Shot 2020-02-15 at 6.45.22 PM.png](_images/Screen_Shot_2020-02-15_at_6.45.22_PM.png)
 
 Lightly screw a **40mm nut bar** into the **track joining plate** using two **M5 x 10mm screws**. Then slide the *lower* V-slot of the **second track extrusion** onto the nut bar. Use a piece of wood or the help of another person to support the free end of the extrusion.
 
-![Screen Shot 2020-02-15 at 6.59.56 PM.png](Screen_Shot_2020-02-15_at_6.59.56_PM.png)
+![Screen Shot 2020-02-15 at 6.59.56 PM.png](_images/Screen_Shot_2020-02-15_at_6.59.56_PM.png)
 
 Push the free **extrusion** so the **dowel pins** insert into the fixed extrusion. Push until there is no gap between the extrusions. You may need to use a mallet and block of wood to tap the end of the free extrusion.
 
@@ -169,7 +169,7 @@ Keep in mind that using the dowel pins is **optional**. If they are causing you 
 
 
 
-![Screen Shot 2020-02-15 at 7.01.05 PM.png](Screen_Shot_2020-02-15_at_7.01.05_PM.png)
+![Screen Shot 2020-02-15 at 7.01.05 PM.png](_images/Screen_Shot_2020-02-15_at_7.01.05_PM.png)
 
 
 
@@ -182,7 +182,7 @@ content="At this time the two dowel pins and nut bar will be keeping the two ext
 
 
 
-![fc79a83-Screen_Shot_2020-02-15_at_9.49.00_PM.png](Screen_Shot_2020-02-15_at_9.49.00_PM.png)
+![fc79a83-Screen_Shot_2020-02-15_at_9.49.00_PM.png](_images/Screen_Shot_2020-02-15_at_9.49.00_PM.png)
 
 _Perfectly aligned track extrusions are key to smooth gantry movements!_
 
@@ -206,19 +206,19 @@ content=""
 
 Position another **track joining plate** such that one half of it will be able to attach to the free end of the **track extrusion** that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**, and then secure the **extrusion** with another **40mm nut bar** and tighten all screws.
 
-![4f8e877-Screen_Shot_2020-02-15_at_10.59.20_PM.png](Screen_Shot_2020-02-15_at_10.59.20_PM.png)
+![4f8e877-Screen_Shot_2020-02-15_at_10.59.20_PM.png](_images/Screen_Shot_2020-02-15_at_10.59.20_PM.png)
 
 Repeat to install subsequent **track joining plates** and **track extrusions**.
 
 # Step 8: Attach the second track end plate
 Position the second **track end plate** and secure it to the **supporting infrastructure** with three **wood screws**. Then fasten the final **track extrusion** to the plate using a **60mm nut bar** and **M5 x 10mm screws**.
 
-![Screen Shot 2020-02-15 at 11.01.15 PM.png](Screen_Shot_2020-02-15_at_11.01.15_PM.png)
+![Screen Shot 2020-02-15 at 11.01.15 PM.png](_images/Screen_Shot_2020-02-15_at_11.01.15_PM.png)
 
 # Step 9: Install the other track
 Repeat steps 3 through 8 for the track on the other side of the bed. Note that the second track will not have any horizontal cable carrier supports.
 
-![Screen Shot 2020-02-15 at 6.27.12 PM.png](Screen_Shot_2020-02-15_at_6.27.12_PM.png)
+![Screen Shot 2020-02-15 at 6.27.12 PM.png](_images/Screen_Shot_2020-02-15_at_6.27.12_PM.png)
 
 
 
@@ -234,7 +234,7 @@ You can use shims or other spacers to better align track plates in case your sup
 # Step 10: Sand away bumps
 If needed, use **150 grit sand paper** to sand away any bumps on the diagonal surfaces of the **extrusions** that the FarmBot wheels ride upon. This will ease the movements of the FarmBot and improve longevity. Make sure that both the upper surfaces and lower surfaces are smooth to the touch and that there is no bump or uneven edges in the transition from one extrusion to another.
 
-![SANDING_TRACKS.bmp](SANDING_TRACKS.bmp)
+![SANDING_TRACKS.bmp](_images/SANDING_TRACKS.bmp)
 
 _This photo shows that the aluminum tracks can be sanded down so that there is no bump on the transition between one section of track to another._
 

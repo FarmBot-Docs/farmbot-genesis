@@ -1,7 +1,7 @@
 ---
 title: "High Level Overview"
 slug: "high-level-overview"
-excerpt: "Bird's eye view of what FarmBot is all about"
+description: "Bird's eye view of what FarmBot is all about"
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "Bird's eye view of what FarmBot is all about"
 
 Genesis is a small scale FarmBot primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. Genesis is driven by NEMA 17 stepper motors, an Arduino MEGA with a RAMPS shield, and a Raspberry Pi 3 computer. These electronics were chosen for their great availability, support, and usage in the DIY 3D printer world. Genesis can vary in size from a planting area as little as 1m<sup>2</sup> to a maximum of 4.5m<sup>2</sup>, while accommodating a maximum plant height of about 1m. With additional hardware and modifications we anticipate the Genesis concept to be able to scale to approximately 50m<sup>2</sup> and a maximum plant height of 1.5m.
 
-![FarmBot Genesis v1.2.JPG](FarmBot_Genesis_v1.2.JPG)
+![FarmBot Genesis v1.2.JPG](_images/FarmBot_Genesis_v1.2.JPG)
 
 
 
@@ -42,7 +42,7 @@ The Cross-Slide moves in the Y-Direction across the Gantry. This motion provides
 The Z-axis attaches to the Cross-Slide and provides the FarmBot with Z-Direction movement. It serves as the base for attaching the Universal Tool Mount and other Tools.
 
 <div class="tracks-image">
-  <a href="FarmBot_Coordinate_System_and_Major_Components.png">
+  <a href="_images/FarmBot_Coordinate_System_and_Major_Components.png">
   <img src="https://cloud.githubusercontent.com/assets/12681652/15699379/4f90ce66-2781-11e6-8c02-f2d913ec1e2c.png" />
   </a>
   <p style="top:1%;left:35%;width:100px;background:#9fc5e8;border: 2px solid #0b5394;">Z-Axis</p>
@@ -83,7 +83,7 @@ For FarmBots to properly grow taller plants, the Gantry, Cross-Slide, Z-Axis, an
 In general, using low tracks with a tall gantry is the better design, especially for larger applications because it saves on material cost, is less of an eyesore, blocks less sunlight, and would be easier to maintenance. However, in the case of a FarmBot being installed in a greenhouse or other structure, utilizing the existing walls to support the tracks higher may be a better solution.
 
 <div class="hardware-overview-image">
-  <a href="Raised_Tracks_vs_Low_Tracks.png">
+  <a href="_images/Raised_Tracks_vs_Low_Tracks.png">
   <img src="https://cloud.githubusercontent.com/assets/12681652/15698343/672605a4-2778-11e6-9d69-5b27df2bab3a.png" />
   </a>
   <p style="top:5%;left:8%;width:350px;">Raised Tracks with Low-Profile Gantry</p>

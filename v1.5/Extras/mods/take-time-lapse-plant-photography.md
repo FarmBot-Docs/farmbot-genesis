@@ -1,7 +1,7 @@
 ---
 title: "Take Time Lapse Plant Photography"
 slug: "take-time-lapse-plant-photography"
-excerpt: "DIY instructions for using FarmBot to control camera equipment for time lapse photography of your plants growing"
+description: "DIY instructions for using FarmBot to control camera equipment for time lapse photography of your plants growing"
 ---
 
 * toc
@@ -22,7 +22,7 @@ content="Sharing stuff on social media? Make sure to use **#FarmBot**!"
 
 
 
-![giphy.gif](giphy.gif)
+![giphy.gif](_images/giphy.gif)
 
 
 
@@ -35,7 +35,7 @@ content="Use the sequence builder and event scheduler of the web app to easily a
 
 
 
-![Screen Shot 2017-02-14 at 10.27.19 AM.png](Screen_Shot_2017-02-14_at_10.27.19_AM.png)
+![Screen Shot 2017-02-14 at 10.27.19 AM.png](_images/Screen_Shot_2017-02-14_at_10.27.19_AM.png)
 
 
 

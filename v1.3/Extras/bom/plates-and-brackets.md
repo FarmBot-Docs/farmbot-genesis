@@ -1,7 +1,7 @@
 ---
 title: "Plates and Brackets"
 slug: "plates-and-brackets"
-excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -42,15 +42,15 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Track End Plate 1.JPG](Track_End_Plate_1.JPG)
+![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
 
 
 
-![Track End Plate 2.JPG](Track_End_Plate_2.JPG)
+![Track End Plate 2.JPG](_images/Track_End_Plate_2.JPG)
 
 
 
-![Track End Plates 3.JPG](Track_End_Plates_3.JPG)
+![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
 
 
 
@@ -71,11 +71,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Track Joining Plates.JPG](Track_Joining_Plates.JPG)
+![Track Joining Plates.JPG](_images/Track_Joining_Plates.JPG)
 
 
 
-![Track Joining Plates 2.JPG](Track_Joining_Plates_2.JPG)
+![Track Joining Plates 2.JPG](_images/Track_Joining_Plates_2.JPG)
 
 
 
@@ -96,11 +96,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Gantry Wheel Plates 1.JPG](Gantry_Wheel_Plates_1.JPG)
+![Gantry Wheel Plates 1.JPG](_images/Gantry_Wheel_Plates_1.JPG)
 
 
 
-![Gantry Wheel Plate 1.JPG](Gantry_Wheel_Plate_1.JPG)
+![Gantry Wheel Plate 1.JPG](_images/Gantry_Wheel_Plate_1.JPG)
 
 
 
@@ -121,15 +121,15 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Gantry Corner Brackets 0.JPG](Gantry_Corner_Brackets_0.JPG)
+![Gantry Corner Brackets 0.JPG](_images/Gantry_Corner_Brackets_0.JPG)
 
 
 
-![Gantry Corner Brackets 2.JPG](Gantry_Corner_Brackets_2.JPG)
+![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
 
 
 
-![Gantry Corner Brackets 2.JPG](Gantry_Corner_Brackets_2.JPG)
+![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
 
 
 
@@ -150,11 +150,11 @@ excerpt: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Vi
 
 
 
-![Cross-Slide plate1.JPG](Cross-Slide_plate1.JPG)
+![Cross-Slide plate1.JPG](_images/Cross-Slide_plate1.JPG)
 
 
 
-![Cross-Slide plate2.JPG](Cross-Slide_plate2.JPG)
+![Cross-Slide plate2.JPG](_images/Cross-Slide_plate2.JPG)
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -173,7 +173,7 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 
 
-![Zmotor1.JPG](Zmotor1.JPG)
+![Zmotor1.JPG](_images/Zmotor1.JPG)
 
 
 
@@ -198,15 +198,15 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 
 
-![Toolbay.JPG](Toolbay.JPG)
+![Toolbay.JPG](_images/Toolbay.JPG)
 
 
 
-![Toolbay 2.JPG](Toolbay_2.JPG)
+![Toolbay 2.JPG](_images/Toolbay_2.JPG)
 
 
 
-![Toolbay 3.JPG](Toolbay_3.JPG)
+![Toolbay 3.JPG](_images/Toolbay_3.JPG)
 
 # Long Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -225,7 +225,7 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![Long Cable Carrier Support.JPG](Long_Cable_Carrier_Support.JPG)
+![Long Cable Carrier Support.JPG](_images/Long_Cable_Carrier_Support.JPG)
 
 # Vacuum Pump Mount
 This component mounts the vacuum pump to the z-axis extrusion.
@@ -243,11 +243,11 @@ This component mounts the vacuum pump to the z-axis extrusion.
 
 
 
-![Vacuum Pump Mounting Plate 2.JPG](Vacuum_Pump_Mounting_Plate_2.JPG)
+![Vacuum Pump Mounting Plate 2.JPG](_images/Vacuum_Pump_Mounting_Plate_2.JPG)
 
 
 
-![Vacuum Pump Mounting Plate 1.JPG](Vacuum_Pump_Mounting_Plate_1.JPG)
+![Vacuum Pump Mounting Plate 1.JPG](_images/Vacuum_Pump_Mounting_Plate_1.JPG)
 
 
 
@@ -268,11 +268,11 @@ This component mounts the vacuum pump to the z-axis extrusion.
 
 
 
-![Belt Clips.JPG](Belt_Clips.JPG)
+![Belt Clips.JPG](_images/Belt_Clips.JPG)
 
 
 
-![Belt Clips 2.JPG](Belt_Clips_2.JPG)
+![Belt Clips 2.JPG](_images/Belt_Clips_2.JPG)
 
 # Z-Axis Hardstops
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.
@@ -290,7 +290,7 @@ These components mount on the z-axis extrusion and physically limit how low and 
 
 
 
-![zhardstops.JPG](zhardstops.JPG)
+![zhardstops.JPG](_images/zhardstops.JPG)
 
 
 

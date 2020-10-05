@@ -1,7 +1,7 @@
 ---
 title: "Soil Sensor"
 slug: "soil-sensor"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis soil sensor"
+description: "Documentation and assembly instructions for the FarmBot Genesis soil sensor"
 ---
 
 * toc
@@ -13,7 +13,7 @@ This single 3D printable component magnetically mounts onto FarmBot's UTM like a
 
 
 
-![Soil Sensor.jpg](Soil_Sensor.jpg)
+![Soil Sensor.jpg](_images/Soil_Sensor.jpg)
 
 
 
@@ -32,7 +32,7 @@ Gather all the soil sensor parts from the table below and lay them out in a logi
 
 * [2mm hex driver](../../Extras/bom/miscellaneous.md#2mm-hex-driver)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
-* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#5-5mm-box-wrench)
+* [5.5mm box wrench](../../Extras/bom/miscellaneous.md#55mm-box-wrench)
 * [8mm box wrench](../../Extras/bom/miscellaneous.md#8mm-box-wrench)
 
 |Qty.                          |Component                     |
@@ -55,7 +55,7 @@ Gather all the soil sensor parts from the table below and lay them out in a logi
 
 Attach the **moisture sensor** to the **soil sensor base** using two **M3 x 12mm screws** and **M3 locknuts**. The sensor should be on the front side of the base's mounting tabs. The heads of the screws should be on the sensor (front) side while the locknuts should be on the mounting tabs (back) side. Do not overtighten the screws as this could damage the soil sensor circuit board.
 
-![soil_sensor_PCB_attached.png](soil_sensor_PCB_attached.png)
+![soil_sensor_PCB_attached.png](_images/soil_sensor_PCB_attached.png)
 
 
 
@@ -67,7 +67,7 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 Use the **2mm hex driver** and **5.5mm wrench** to attach two **M3 x 25mm screws** and **M3 locknuts** into the holes labelled **A** and **D** on the **soil sensor base**. The screw heads should be on the same side of the base as the magnets.
 
-![soil_sensor_screws_attached.png](soil_sensor_screws_attached.png)
+![soil_sensor_screws_attached.png](_images/soil_sensor_screws_attached.png)
 
 
 
@@ -75,7 +75,7 @@ Use the **2mm hex driver** and **5.5mm wrench** to attach two **M3 x 25mm screws
 
 Use **zip ties** to secure the bare ends of the wires from the **moisture sensor** to the corresponding **electronic screws**. The black wire (ground) should be connected to  **B**. The red (signal) wire should be connected to  **D**. And the red (5V) wire should be connected to  **A**.
 
-![soil_sensor.png](soil_sensor.png)
+![soil_sensor.png](_images/soil_sensor.png)
 
 
 

@@ -48,7 +48,7 @@ Reduce the amount of extra tubing between the end of the **x-axis cable carrier*
 
 Attach the **x-axis cable carrier** to the **horizontal cable carrier mount** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
-![x axis cc gantry mount.png](x_axis_cc_gantry_mount.png)
+![x axis cc gantry mount.png](_images/x_axis_cc_gantry_mount.png)
 
 
 
@@ -56,7 +56,7 @@ Attach the **x-axis cable carrier** to the **horizontal cable carrier mount** us
 
 Attach the other end of the **x-axis cable carrier** to the **horizontal cable carrier support** nearest the middle of the **tracks** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
-![both x axis cc ends.png](both_x_axis_cc_ends.png)
+![both x axis cc ends.png](_images/both_x_axis_cc_ends.png)
 
 
 

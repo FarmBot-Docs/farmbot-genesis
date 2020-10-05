@@ -1,7 +1,7 @@
 ---
 title: "Bees, Worms, Chickens, and More!"
 slug: "bees-worms-chickens-and-more"
-excerpt: "Supplement your home food system with these other open source kits"
+description: "Supplement your home food system with these other open source kits"
 ---
 
 * toc
@@ -28,7 +28,7 @@ content="The GrowSquare is perfect for using as the [supporting infrastructure](
 
 Learn more and purchase the GrowSquare [here](http://akerkits.com).
 
-![store-preview-growsquare02.jpg](preview-growsquare02.jpg)
+![store-preview-growsquare02.jpg](_images/preview-growsquare02.jpg)
 
 
 
@@ -40,7 +40,7 @@ The EggHaus includes a roosting pole, open floor fertilizing feature and raised 
 
 Learn more and purchase the EggHaus [here](http://akerkits.com).
 
-![store-preview-egghaus02.jpg](preview-egghaus02.jpg)
+![store-preview-egghaus02.jpg](_images/preview-egghaus02.jpg)
 
 
 
@@ -52,7 +52,7 @@ The CTB embraces natural beekeeping methods, allowing bees to build â€œnaturalâ€
 
 Learn more and purchase the Colorado Top Bar [here](http://akerkits.com).
 
-![store-preview-ctb-02.jpg](preview-ctb-02.jpg)
+![store-preview-ctb-02.jpg](_images/preview-ctb-02.jpg)
 
 
 
@@ -64,5 +64,5 @@ The WormHaus can convert an amazing 3kg / 7lbs of food waste per week, making it
 
 Learn more and purchase a WormHause [here](http://akerkits.com).
 
-![store-preview-wormhaus-02.jpg](preview-wormhaus-02.jpg)
+![store-preview-wormhaus-02.jpg](_images/preview-wormhaus-02.jpg)
 

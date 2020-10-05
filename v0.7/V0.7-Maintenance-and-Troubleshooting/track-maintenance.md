@@ -1,7 +1,7 @@
 ---
 title: "Track Maintenance"
 slug: "track-maintenance"
-excerpt: "Keep your tracks straight and parallel for optimal FarmBot performace"
+description: "Keep your tracks straight and parallel for optimal FarmBot performace"
 ---
 
 * toc

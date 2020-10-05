@@ -1,7 +1,7 @@
 ---
 title: "Assembly Preparation"
 slug: "assembly-preparation"
-excerpt: "Preliminary steps to take before assembling the major components of your FarmBot"
+description: "Preliminary steps to take before assembling the major components of your FarmBot"
 ---
 
 * toc
@@ -15,7 +15,7 @@ When you first open up your FarmBot hardware package, pull out all of the compon
 
 For many, grouping parts by type helps with locating them quickly later on. For example: place all your screws in one area, all your plates in another, all your electronics in another, etc.
 
-![20150113_124656.jpg](20150113_124656.jpg)
+![20150113_124656.jpg](_images/20150113_124656.jpg)
 
 
 
@@ -35,7 +35,7 @@ Each V-Wheel actually consists of four components:
 * Two 16mm x 5mm x 5mm stainless steel, rubber sealed ball bearings
 * One stainless steel precision shim that fits between the two bearings, inside the wheel
 
-![20150113_134712.jpg](20150113_134712.jpg)
+![20150113_134712.jpg](_images/20150113_134712.jpg)
 
 Pre-assembling all your v-wheels at once will save you assembly time later on. To do so, first press one bearing into the polycarbonate wheel.
 
@@ -48,11 +48,11 @@ content="It can be easy to accidentally press in a bearing crooked. Try your bes
 
 
 
-![20150113_134729.jpg](20150113_134729.jpg)
+![20150113_134729.jpg](_images/20150113_134729.jpg)
 
 
 
-![20150113_134731.jpg](20150113_134731.jpg)
+![20150113_134731.jpg](_images/20150113_134731.jpg)
 
 
 
@@ -65,9 +65,9 @@ content="If all goes well, you should here a satisfying 'pop' each time a bearin
 
 Then insert the precision shim such that it is resting on the first bearing on the inside of the wheel.
 
-![20150113_134741.jpg](20150113_134741.jpg)
+![20150113_134741.jpg](_images/20150113_134741.jpg)
 
  Then press in the second bearing.
 
-![20150113_134756.jpg](20150113_134756.jpg)
+![20150113_134756.jpg](_images/20150113_134756.jpg)
 

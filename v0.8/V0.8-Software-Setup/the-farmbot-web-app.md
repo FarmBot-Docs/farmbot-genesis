@@ -1,7 +1,7 @@
 ---
 title: "The FarmBot Web App"
 slug: "the-farmbot-web-app"
-excerpt: "Step-by-step instructions for setting up the FarmBot Web App"
+description: "Step-by-step instructions for setting up the FarmBot Web App"
 ---
 
 * toc

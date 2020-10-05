@@ -1,7 +1,7 @@
 ---
 title: "Seed Injector"
 slug: "seed-injector"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Seed Injector"
+description: "Documentation and assembly instructions for the FarmBot Genesis Seed Injector"
 ---
 
 * toc

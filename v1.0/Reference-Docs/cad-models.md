@@ -1,7 +1,7 @@
 ---
 title: "CAD Models"
 slug: "cad-models"
-excerpt: "3D CAD models, 2D drawings, and manufacturing files for FarmBot Genesis"
+description: "3D CAD models, 2D drawings, and manufacturing files for FarmBot Genesis"
 ---
 
 * toc

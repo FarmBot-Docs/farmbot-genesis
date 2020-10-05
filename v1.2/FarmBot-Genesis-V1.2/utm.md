@@ -1,7 +1,7 @@
 ---
 title: "Universal Tool Mount"
 slug: "utm"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis universal tool mount"
+description: "Documentation and assembly instructions for the FarmBot Genesis universal tool mount"
 ---
 
 * toc
@@ -17,7 +17,7 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 
 
 
-![UTM.jpg](UTM.jpg)
+![UTM.jpg](_images/UTM.jpg)
 
 The UTM is a single 3D-printed component that mounts to the z-axis aluminum extrusion using two M5 screws and tee nuts.
 It features:

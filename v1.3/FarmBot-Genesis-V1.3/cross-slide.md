@@ -1,20 +1,20 @@
 ---
 title: "Cross-Slide"
 slug: "cross-slide"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis cross-slide"
+description: "Documentation and assembly instructions for the FarmBot Genesis cross-slide"
 ---
 
 * toc
 {:toc}
 
 
-![cross-slide1.JPG](cross-slide1.JPG)
+![cross-slide1.JPG](_images/cross-slide1.JPG)
 
 _View of the cross-slide from the front of FarmBot_
 
 
 
-![cross-slide2.JPG](cross-slide2.JPG)
+![cross-slide2.JPG](_images/cross-slide2.JPG)
 
 _View of the cross-slide from the back of FarmBot_
 

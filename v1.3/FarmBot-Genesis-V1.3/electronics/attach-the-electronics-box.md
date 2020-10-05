@@ -26,7 +26,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 
 Attach the **electronics box** to the middle slot on the outside of the **left gantry column** using two **M5 x 10mm screws** and **tee nuts**. The screws should be placed in the middle holes on the top and bottom mounting flanges of the electronics box. The top flange of the box should be butted against the bottom edge of the **gantry corner bracket**.
 
-![electronics.jpg](electronics.jpg)
+![electronics.jpg](_images/electronics.jpg)
 
 
 
@@ -34,7 +34,7 @@ Attach the **electronics box** to the middle slot on the outside of the **left g
 
 Attach both **cable guides** to the back side of the left **gantry column** using **M5 x 10mm screws** and **tee nuts** as shown. Adjust the guides so they secure the **motor and encoder cables**, **UTM cable**, **LED lights cable**, **vacuum pump cable**, **camera cable**, and the **water tube**. Ensure the water tube is not compressed.
 
-![Screen Shot 2017-10-04 at 12.28.04 PM.png](Screen_Shot_2017-10-04_at_12.28.04_PM.png)
+![Screen Shot 2017-10-04 at 12.28.04 PM.png](_images/Screen_Shot_2017-10-04_at_12.28.04_PM.png)
 
 _Note: the cables and tubing are not shown in this image._
 

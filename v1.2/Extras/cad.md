@@ -1,7 +1,7 @@
 ---
 title: "CAD Models and Drawings"
 slug: "cad"
-excerpt: "[Click here for the top-level assembly](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/d2c6c72fede33a22f49f90df)"
+description: "[Click here for the top-level assembly](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/d2c6c72fede33a22f49f90df)"
 ---
 
 * toc

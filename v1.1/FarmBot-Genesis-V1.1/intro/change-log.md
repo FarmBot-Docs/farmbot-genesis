@@ -1,7 +1,7 @@
 ---
 title: "Change Log"
 slug: "change-log"
-excerpt: "All of the changes we made to FarmBot Genesis since the last version"
+description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
 * toc
@@ -50,21 +50,21 @@ We're testing out a version of the cable clip that is a bent metal plate. This m
 In this version of FarmBot Genesis we experimented a lot with bent metal plates, particularly for the z-axis motor mount, the cable carrier supports and mounts, the tool bay, the cable clips, the gantry corner brackets, and the z-axis cable carrier guides. Some of the prototypes we had made were excellent, while others were less impressive. The main problems we had were as follows:
 * The parts with multiple bends (z-axis motor mount, cable carrier guides and supports) had poor dimensional tolerance and required welding in some cases. Machining will be a more reliable way to manufacture these parts, or reducing the need for multiple bends/welding.
 
-![Z motor mount.jpg](Z_motor_mount.jpg)
+![Z motor mount.jpg](_images/Z_motor_mount.jpg)
 
 
 
-![vertical CC support.jpg](vertical_CC_support.jpg)
+![vertical CC support.jpg](_images/vertical_CC_support.jpg)
 
 * The components that needed a flat mounting surface (cable carrier supports) had a bend that prevented them from sitting flush and square with the part they were mounted to. These rounded corners should not be bent, but instead will need to be machined.
 
-![bends.jpg](bends.jpg)
+![bends.jpg](_images/bends.jpg)
 
 _Bent back edge does not sit well against the extrusion_
 
 * Some of the gantry corner brackets did not have a tight enough inside bend corner. This prevented them from mounting flush to both the gantry column surfaces.
 
-![bad corner.jpg](bad_corner.jpg)
+![bad corner.jpg](_images/bad_corner.jpg)
 
  * The Z-axis motor mount needed to be welded together for the gussets to actually add strength to it because of the direction of the forces from the z-axis extrusion and leadscrew. However, welding this component was difficult because of the geometry, thickness, and need to prevent the component from warping.
 

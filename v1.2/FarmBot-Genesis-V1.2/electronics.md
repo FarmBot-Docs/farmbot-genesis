@@ -1,18 +1,18 @@
 ---
 title: "Electronics"
 slug: "electronics"
-excerpt: "Documentation for FarmBot Genesis electronics"
+description: "Documentation for FarmBot Genesis electronics"
 ---
 
 * toc
 {:toc}
 
 
-![0f9fa1f-Electronics-e1467249147751.jpg](Electronics-e1467249147751.jpg)
+![0f9fa1f-Electronics-e1467249147751.jpg](_images/Electronics-e1467249147751.jpg)
 
 
 
-![electronics_box.png](electronics_box.png)
+![electronics_box.png](_images/electronics_box.png)
 
 
 

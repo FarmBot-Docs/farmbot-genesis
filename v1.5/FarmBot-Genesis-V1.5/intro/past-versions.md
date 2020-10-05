@@ -1,7 +1,7 @@
 ---
 title: "Past Versions"
 slug: "past-versions"
-excerpt: "Abbreviated descriptions of what changed from version to version of FarmBot Genesis"
+description: "Abbreviated descriptions of what changed from version to version of FarmBot Genesis"
 ---
 
 * toc
@@ -44,13 +44,13 @@ content="FarmBot Genesis is always being improved and has undergone many iterati
 
 
 
-![c0bee16-FarmBot_Genesis_v1-4.jpg](FarmBot_Genesis_v1-4.jpg)
+![c0bee16-FarmBot_Genesis_v1-4.jpg](_images/FarmBot_Genesis_v1-4.jpg)
 
 _Genesis v1.4_
 
 
 
-![67b4ba1-FarmBot_Genesis_XL_v1-4.jpg](FarmBot_Genesis_XL_v1-4.jpg)
+![67b4ba1-FarmBot_Genesis_XL_v1-4.jpg](_images/FarmBot_Genesis_XL_v1-4.jpg)
 
 _Genesis XL v1.4_
 
@@ -79,7 +79,7 @@ _Genesis XL v1.4_
 
 
 
-![66e6338-Screen_Shot_2017-10-10_at_1.33.35_AM.png](Screen_Shot_2017-10-10_at_1.33.35_AM.png)
+![66e6338-Screen_Shot_2017-10-10_at_1.33.35_AM.png](_images/Screen_Shot_2017-10-10_at_1.33.35_AM.png)
 
 # [Genesis v1.2](http://genesis.farm.bot/v1.2)
 **Major changes**
@@ -106,7 +106,7 @@ _Genesis XL v1.4_
 
 
 
-![FarmBot Genesis v1.2.JPG](FarmBot_Genesis_v1.2.JPG)
+![FarmBot Genesis v1.2.JPG](_images/FarmBot_Genesis_v1.2.JPG)
 
 # [Genesis v1.1](http://genesis.farm.bot/v1.1)
 **Major changes**
@@ -125,7 +125,7 @@ _Genesis XL v1.4_
   * Improved watering nozzle design for SLA printing
   * Switched the entire CAD workflow from Solidworks to Onshape
 
-![v1.1.png](v1.1.png)
+![v1.1.png](_images/v1.1.png)
 
 # [Genesis v1.0](http://genesis.farm.bot/v1.0)
 **Major changes**
@@ -142,7 +142,7 @@ _Genesis XL v1.4_
   * Significant modifications to the UTM and UTM cover
   * Switched to button head M5 screws
 
-![v1.0.JPG](v1.0.JPG)
+![v1.0.JPG](_images/v1.0.JPG)
 
 # [Genesis v0.9](http://genesis.farm.bot/v0.9)
 **Major changes**
@@ -151,7 +151,7 @@ _Genesis XL v1.4_
   * Larger gantry extrusions for added rigidity
   * Introduced the weed suppressor tool
 
-![v0.9.jpg](v0.9.jpg)
+![v0.9.jpg](_images/v0.9.jpg)
 
 # [Genesis v0.8](http://genesis.farm.bot/v0.8)
 **Major changes**
@@ -159,7 +159,7 @@ _Genesis XL v1.4_
   * Upgraded to 5mm thick plates
   * Improvements to the UTM, cable carrier brackets, and electronics enclosure
 
-![v0.8.png](v0.8.png)
+![v0.8.png](_images/v0.8.png)
 
 # [Genesis v0.7](http://genesis.farm.bot/v0.7)
 **Major changes**
@@ -171,13 +171,13 @@ _Genesis XL v1.4_
   * Designed a quick access electronics enclosure
   * Now using larger cable carriers
 
-![v0.7.jpg](v0.7.jpg)
+![v0.7.jpg](_images/v0.7.jpg)
 
 # [Genesis v0.6](http://genesis.farm.bot/v0.6)
 **Major changes**
   * Reliability improvements to the universal tool mount
 
-![v0.6.jpg](v0.6.jpg)
+![v0.6.jpg](_images/v0.6.jpg)
 
 # [Genesis v0.5](http://genesis.farm.bot/v0.5)
 **Major changes**
@@ -185,7 +185,7 @@ _Genesis XL v1.4_
   * Integrated water, vacuum, and liquid amendments into universal tool mount
   * Part simplification
 
-![v0.5.jpg](v0.5.jpg)
+![v0.5.jpg](_images/v0.5.jpg)
 
 # [Genesis v0.4](http://genesis.farm.bot/v0.4)
 **Major changes**
@@ -193,14 +193,14 @@ _Genesis XL v1.4_
   * Cable carrier cable management
   * Magnetic universal tool mount design
 
-![v.04.jpg](v.04.jpg)
+![v.04.jpg](_images/v.04.jpg)
 
 # [Genesis v0.3](http://genesis.farm.bot/v0.3)
 **Major changes**
   * Wire and trolley cable management
   * Part simplification
 
-![v0.3.jpg](v0.3.jpg)
+![v0.3.jpg](_images/v0.3.jpg)
 
 # [Genesis v0.2](http://genesis.farm.bot/v0.2)
 **Major changes**
@@ -208,21 +208,21 @@ _Genesis XL v1.4_
   * Custom brackets and plates
   * Universal tool mount
 
-![v0.2.jpg](v0.2.jpg)
+![v0.2.jpg](_images/v0.2.jpg)
 
 # [Genesis v0.1](http://genesis.farm.bot/v0.1)
 Focused on being a quick and easy first prototype, v0.1 was constructed from all off-the-shelf components.
 
-![v0.1.jpg](v0.1.jpg)
+![v0.1.jpg](_images/v0.1.jpg)
 
 
 
-![v0.1 2.JPG](v0.1_2.JPG)
+![v0.1 2.JPG](_images/v0.1_2.JPG)
 
 # Genesis v0.0
 The very first physical FarmBot prototype was made from welded steel square stock, C-channel, angle iron, garage door wheels, and a trowel. It served primarily as a visual aid.
 
-![v0.0 3.JPG](v0.0_3.JPG)
+![v0.0 3.JPG](_images/v0.0_3.JPG)
 
 
 # What's next?

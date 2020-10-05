@@ -14,5 +14,5 @@ The V0.3 Universal Tool mount has been vertically flipped so that the solenoid l
   * All screw holes need to be enlarged slightly to allow screws to easily pass through even with the slight manufacturing variations that are expected with the 3D printing process.
   * There may be significant difficulty inserting and removing tools and locking them in place due to friction forces, rough 3D printed surfaces, and tolerances. A more simple concept may be perform better.
 
-![20140711_152307.jpg](20140711_152307.jpg)
+![20140711_152307.jpg](_images/20140711_152307.jpg)
 

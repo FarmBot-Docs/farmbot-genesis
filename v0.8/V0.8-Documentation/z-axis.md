@@ -1,7 +1,7 @@
 ---
 title: "Z-Axis"
 slug: "z-axis"
-excerpt: "Documentation for FarmBot Genesis V0.8 Z-Axis"
+description: "Documentation for FarmBot Genesis V0.8 Z-Axis"
 ---
 
 * toc
@@ -15,11 +15,11 @@ excerpt: "Documentation for FarmBot Genesis V0.8 Z-Axis"
 
 
 
-![V5_Z-Axis_Render_1.jpg](Axis_Render_1.jpg)
+![V5_Z-Axis_Render_1.jpg](_images/Axis_Render_1.jpg)
 
 
 
-![V5_Z-Axis_Render_2.jpg](Axis_Render_2.jpg)
+![V5_Z-Axis_Render_2.jpg](_images/Axis_Render_2.jpg)
 
 
 

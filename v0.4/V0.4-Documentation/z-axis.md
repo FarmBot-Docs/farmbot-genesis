@@ -13,9 +13,9 @@ slug: "z-axis"
   * The 3D printed bracket is too weak at the points where the screws attach it to the extrusion. The print has the tendency to crack along the layers when screws are tightened. Increasing the thickness here and ensuring there is adequate clearance for the screw to fit in the hole will solve the issue.
   * If the Z-Axis has a failure and attempts to plunge into the soil, the 3D printed bracket has a much greater chance of failure. Perhaps a custom metal bent bracket will be the only solution.
 
-![V4_Z-Axis_1.jpg](Axis_1.jpg)
+![V4_Z-Axis_1.jpg](_images/Axis_1.jpg)
 
 
 
-![Z_axis_V4_bracket_failure.jpg](Z_axis_V4_bracket_failure.jpg)
+![Z_axis_V4_bracket_failure.jpg](_images/Z_axis_V4_bracket_failure.jpg)
 

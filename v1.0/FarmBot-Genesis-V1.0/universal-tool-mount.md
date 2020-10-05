@@ -1,7 +1,7 @@
 ---
 title: "Universal Tool Mount"
 slug: "universal-tool-mount"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Universal Tool Mount"
+description: "Documentation and assembly instructions for the FarmBot Genesis Universal Tool Mount"
 ---
 
 * toc

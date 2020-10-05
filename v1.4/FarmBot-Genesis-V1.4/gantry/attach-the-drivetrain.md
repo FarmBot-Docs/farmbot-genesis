@@ -16,28 +16,28 @@ For this step you will need:
 
 Slide a **motor** into a **horizontal motor housing**, ensuring that the shaft of the motor is coming out of the housing and that the motor and encoder connectors are facing down through the open bottom of the housing.
 
-![Screen Shot 2016-11-26 at 2.11.26 PM.png](Screen_Shot_2016-11-26_at_2.11.26_PM.png)
+![Screen Shot 2016-11-26 at 2.11.26 PM.png](_images/Screen_Shot_2016-11-26_at_2.11.26_PM.png)
 
 Position the motor and housing onto the gantry corner bracket and attach it with four **M3 x 12mm screws**.
 
-![motor.JPG](motor.JPG)
+![motor.JPG](_images/motor.JPG)
 
 Slide a **GT2 pulley** onto the **motor shaft** and tighten the two **setscrews** with the 2mm hex driver. Make sure that the two setscrews contact the two *flat areas* on the motor shaft.
 
-![pulley.JPG](pulley.JPG)
+![pulley.JPG](_images/pulley.JPG)
 
 Repeat the above steps for the second motor on the other gantry corner bracket.
 
-![second motor.JPG](second_motor.JPG)
+![second motor.JPG](_images/second_motor.JPG)
 
 # Step 2: Install the horizontal cable carrier supports
 Attach six **horizontal cable carrier supports** to the back side of the **gantry main beam** using two **M5 x 10mm screws** and **M5 tee nuts** for each support. The supports should reside in the **middle slot** of the main beam extrusion and be equally spaced along its length.
 
-![cc supports gantry.JPG](cc_supports_gantry.JPG)
+![cc supports gantry.JPG](_images/cc_supports_gantry.JPG)
 
 Attach the last **horizontal cable carrier support** to the left-side **gantry column** using two **M5 x 10mm screws** and **M5 tee nuts**.
 
-![cc support lone.JPG](cc_support_lone.JPG)
+![cc support lone.JPG](_images/cc_support_lone.JPG)
 
 
 # What's next?

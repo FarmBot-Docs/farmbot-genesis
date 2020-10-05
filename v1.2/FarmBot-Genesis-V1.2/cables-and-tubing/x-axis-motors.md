@@ -11,7 +11,7 @@ slug: "x-axis-motors"
 
 Connect the shortest **motor and encoder cables** to the first **x-axis motor and encoder** on the right side of FarmBot (when looking at the device from the back). The electronics box will be attached to this side in a later step.
 
-![X1 motor cable from back.png](X1_motor_cable_from_back.png)
+![X1 motor cable from back.png](_images/X1_motor_cable_from_back.png)
 
 _(highlighted in orange)_
 
@@ -24,7 +24,7 @@ Connect the remaining middle length **motor and encoder cables** to the second *
 
 Feed the motor and encoder cables through the slots in all of the **horizontal cable carrier supports** along the **gantry main beam**.
 
-![X2 motor cable from back.png](X2_motor_cable_from_back.png)
+![X2 motor cable from back.png](_images/X2_motor_cable_from_back.png)
 
 _(highlighted in orange)_
 

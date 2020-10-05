@@ -1,7 +1,7 @@
 ---
 title: "Drivetrain"
 slug: "drivetrain"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the drivetrain components in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the drivetrain components in FarmBot Genesis"
 ---
 
 * toc
@@ -23,11 +23,11 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the driv
 # V-Wheels
 These polycarbonate V-wheels are precision machined to allow FarmBot to move in the X, Y, and Z directions smoothly and precisely. Each wheel requires two bearings and one precision shim to operate correctly.
 
-![IMG_0285.JPG](IMG_0285.JPG)
+![IMG_0285.JPG](_images/IMG_0285.JPG)
 
 
 
-![IMG_0290.JPG](IMG_0290.JPG)
+![IMG_0290.JPG](_images/IMG_0290.JPG)
 
 
 
@@ -46,7 +46,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 # Bearings
 These stainless steel bearings resist corrosion and have rubber seals to keep debris out. Two of them are used in every V-wheel, and one is used to support the driveshaft in the driveshaft bearing plate.
 
-![IMG_0293 (1).JPG](IMG_0293_(1).JPG)
+![IMG_0293 (1).JPG](_images/IMG_0293_(1).JPG)
 
 
 
@@ -65,11 +65,11 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 # Precision Shims
 These small washers are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
 
-![IMG_0283.JPG](IMG_0283.JPG)
+![IMG_0283.JPG](_images/IMG_0283.JPG)
 
 
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -85,7 +85,7 @@ These small washers are placed in between the two bearings in every V-wheel. The
 
 # GT2 Timing Belt
 
-![GT2-Belt.jpg](Belt.jpg)
+![GT2-Belt.jpg](_images/Belt.jpg)
 
 
 
@@ -103,7 +103,7 @@ These small washers are placed in between the two bearings in every V-wheel. The
 # GT2 Pulleys
 These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the driveshaft. They transfer power from the motor to the belt such that FarmBot can move in the X and Y directions.
 
-![DSC02013__78099.1372088407.1280.1280.JPG](DSC02013__78099.1372088407.1280.1280.JPG)
+![DSC02013__78099.1372088407.1280.1280.JPG](_images/DSC02013__78099.1372088407.1280.1280.JPG)
 
 
 
@@ -124,7 +124,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 # 5mm to 8mm Flex Coupling
 This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction.
 
-![1176-02.jpg](02.jpg)
+![1176-02.jpg](_images/02.jpg)
 
 
 
@@ -141,7 +141,7 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 # 8mm ACME Leadscrew
 This stainless steel leadscrew allows FarmBot to move in the Z direction.
 
-![DSC03575__26013.1394590131.1280.1280.JPG](DSC03575__26013.1394590131.1280.1280.JPG)
+![DSC03575__26013.1394590131.1280.1280.JPG](_images/DSC03575__26013.1394590131.1280.1280.JPG)
 
 
 
@@ -160,11 +160,11 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 # Leadscrew Block
 This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction.
 
-![DSC03591__35062.1394590651.1280.1280.JPG](DSC03591__35062.1394590651.1280.1280.JPG)
+![DSC03591__35062.1394590651.1280.1280.JPG](_images/DSC03591__35062.1394590651.1280.1280.JPG)
 
 
 
-![VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg](VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg)
+![VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg](_images/VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg)
 
 
 

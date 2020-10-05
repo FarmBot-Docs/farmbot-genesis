@@ -16,17 +16,17 @@ FarmBot Genesis V0.3 exhibits the following changes from Genesis V0.2:
   * Fixed issue with gantry belts running into screws be rearranging components
   * Added simpler endstop integration onto plates, no longer uses extra plates to hit the buttons, just screws and teenuts
 
-![FarmBotGenesisV3.jpg](FarmBotGenesisV3.jpg)
+![FarmBotGenesisV3.jpg](_images/FarmBotGenesisV3.jpg)
 
 
 
-![Genesis_V3.jpg](Genesis_V3.jpg)
+![Genesis_V3.jpg](_images/Genesis_V3.jpg)
 
 
 
-![Genesis_V3_Full_Assembly_2.jpg](Genesis_V3_Full_Assembly_2.jpg)
+![Genesis_V3_Full_Assembly_2.jpg](_images/Genesis_V3_Full_Assembly_2.jpg)
 
 
 
-![Genesis_V3_Full_Assembly_3.jpg](Genesis_V3_Full_Assembly_3.jpg)
+![Genesis_V3_Full_Assembly_3.jpg](_images/Genesis_V3_Full_Assembly_3.jpg)
 

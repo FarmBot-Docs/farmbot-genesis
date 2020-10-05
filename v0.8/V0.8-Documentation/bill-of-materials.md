@@ -1,7 +1,7 @@
 ---
 title: "Bill of Materials"
 slug: "bill-of-materials"
-excerpt: "List of all materials used in FarmBot Genesis V0.8"
+description: "List of all materials used in FarmBot Genesis V0.8"
 ---
 
 * toc

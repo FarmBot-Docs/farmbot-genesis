@@ -8,7 +8,7 @@ slug: "tracks"
 
 Genesis Tracks are built using V-Slot aluminum extrusions and hardware. They provide great strength and precision and are easy to construct. The V-Slot extrusions function as the linear guides for the Genesis Gantry to move across, and the design intention allows for easy scaling in the X direction. The tracks may be fixed to the ground by attaching them to concrete pilings, burying them in the ground, fastening them with large stakes, bolting them to a raised bed, or other methods. Once installed, it will be very cost effective to scale in the X-direction by simply adding more track sections. If scaling in the Y or Z direction is desired, it may require upgrading the main track beam to a larger size in order to reduce flex under the increased loads.
 
-![Genesis_V1_Tracks_Render.jpg](Genesis_V1_Tracks_Render.jpg)
+![Genesis_V1_Tracks_Render.jpg](_images/Genesis_V1_Tracks_Render.jpg)
 
 ## Bill of Materials
   * 2X 20x40mm V-Slot Extrusions (1.5m length) from OpenBuilds – $19.50 each
@@ -37,21 +37,21 @@ The Genesis X-Direction Drive System utilizes two NEMA 17 Stepper Motors with 20
 
 ## Photos
 
-![GenesisTracksConstruction.jpg](GenesisTracksConstruction.jpg)
+![GenesisTracksConstruction.jpg](_images/GenesisTracksConstruction.jpg)
 
 
 
-![Genesis_V1_Tracks_Image_3.jpg](Genesis_V1_Tracks_Image_3.jpg)
+![Genesis_V1_Tracks_Image_3.jpg](_images/Genesis_V1_Tracks_Image_3.jpg)
 
 
 
-![GenesisV1trackinstallation.jpg](GenesisV1trackinstallation.jpg)
+![GenesisV1trackinstallation.jpg](_images/GenesisV1trackinstallation.jpg)
 
 
 
-![GenesisV1belts.jpg](GenesisV1belts.jpg)
+![GenesisV1belts.jpg](_images/GenesisV1belts.jpg)
 
 
 
-![GenesisV1gantrycomplexity.jpg](GenesisV1gantrycomplexity.jpg)
+![GenesisV1gantrycomplexity.jpg](_images/GenesisV1gantrycomplexity.jpg)
 

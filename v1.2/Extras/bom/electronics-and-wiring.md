@@ -1,7 +1,7 @@
 ---
 title: "Electronics and Wiring"
 slug: "electronics-and-wiring"
-excerpt: "Tech specs for the electronics and wiring in FarmBot Genesis"
+description: "Tech specs for the electronics and wiring in FarmBot Genesis"
 ---
 
 * toc
@@ -43,15 +43,15 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 
 
-![Electronics Box.JPG](Electronics_Box.JPG)
+![Electronics Box.JPG](_images/Electronics_Box.JPG)
 
 
 
-![Electronics Box 2.JPG](Electronics_Box_2.JPG)
+![Electronics Box 2.JPG](_images/Electronics_Box_2.JPG)
 
 
 
-![Electronics Box 3.JPG](Electronics_Box_3.JPG)
+![Electronics Box 3.JPG](_images/Electronics_Box_3.JPG)
 
 
 
@@ -74,15 +74,15 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 
 
-![Power Supply.JPG](Power_Supply.JPG)
+![Power Supply.JPG](_images/Power_Supply.JPG)
 
 
 
-![Power Supply 2.JPG](Power_Supply_2.JPG)
+![Power Supply 2.JPG](_images/Power_Supply_2.JPG)
 
 
 
-![Power supply 3.JPG](Power_supply_3.JPG)
+![Power supply 3.JPG](_images/Power_supply_3.JPG)
 
 _The power supply works with both 110V and 220V AC power._
 
@@ -100,7 +100,7 @@ _The power supply works with both 110V and 220V AC power._
 
 # 5V Power Adapter
 
-![5V adapter 1.JPG](5V_adapter_1.JPG)
+![5V adapter 1.JPG](_images/5V_adapter_1.JPG)
 
 
 
@@ -116,7 +116,7 @@ _The power supply works with both 110V and 220V AC power._
 
 # Wire Nuts
 
-![Wire nuts.jpg](Wire_nuts.jpg)
+![Wire nuts.jpg](_images/Wire_nuts.jpg)
 
 
 
@@ -131,15 +131,15 @@ _The power supply works with both 110V and 220V AC power._
 
 
 
-![Pi.JPG](Pi.JPG)
+![Pi.JPG](_images/Pi.JPG)
 
 
 
-![Pi 2.JPG](Pi_2.JPG)
+![Pi 2.JPG](_images/Pi_2.JPG)
 
 
 
-![Pi 3.JPG](Pi_3.JPG)
+![Pi 3.JPG](_images/Pi_3.JPG)
 
 
 
@@ -159,7 +159,7 @@ _The power supply works with both 110V and 220V AC power._
 
 # MicroSD Card
 
-![MicroSD.JPG](MicroSD.JPG)
+![MicroSD.JPG](_images/MicroSD.JPG)
 
 
 
@@ -177,7 +177,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 
 
-![ARduino 1.JPG](ARduino_1.JPG)
+![ARduino 1.JPG](_images/ARduino_1.JPG)
 
 
 
@@ -200,11 +200,11 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # RAMPS Shield
 
-![RAMPS 1.JPG](RAMPS_1.JPG)
+![RAMPS 1.JPG](_images/RAMPS_1.JPG)
 
 
 
-![RAMPS 2.JPG](RAMPS_2.JPG)
+![RAMPS 2.JPG](_images/RAMPS_2.JPG)
 
 
 
@@ -216,7 +216,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # Stepper Drivers
 
-![Pololu.JPG](Pololu.JPG)
+![Pololu.JPG](_images/Pololu.JPG)
 
 
 
@@ -235,7 +235,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 # USB Cable
 Connects the Raspberry Pi to the Arduino.
 
-![USB Cable.JPG](USB_Cable.JPG)
+![USB Cable.JPG](_images/USB_Cable.JPG)
 
 
 
@@ -254,15 +254,15 @@ Connects the Raspberry Pi to the Arduino.
 
 
 
-![Motor1.JPG](Motor1.JPG)
+![Motor1.JPG](_images/Motor1.JPG)
 
 
 
-![Motor 2.JPG](Motor_2.JPG)
+![Motor 2.JPG](_images/Motor_2.JPG)
 
 
 
-![Motor3.JPG](Motor3.JPG)
+![Motor3.JPG](_images/Motor3.JPG)
 
 Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing).
 
@@ -285,38 +285,38 @@ Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1
 
 
 
-![Motor Cables.JPG](Motor_Cables.JPG)
+![Motor Cables.JPG](_images/Motor_Cables.JPG)
 
 _Motor cables_
 
 
 
-![Encoder cables.JPG](Encoder_cables.JPG)
+![Encoder cables.JPG](_images/Encoder_cables.JPG)
 
 _Encoder cables_
 
 
 
-![Encoder Cables2.JPG](Encoder_Cables2.JPG)
+![Encoder Cables2.JPG](_images/Encoder_Cables2.JPG)
 
 _Encoder cable connectors_
 
 # Cable Carrier
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing.
 
-![Cable Carriers.JPG](Cable_Carriers.JPG)
+![Cable Carriers.JPG](_images/Cable_Carriers.JPG)
 
 
 
-![Cable Carrier 3.JPG](Cable_Carrier_3.JPG)
+![Cable Carrier 3.JPG](_images/Cable_Carrier_3.JPG)
 
 
 
-![Cable Carrier 2.JPG](Cable_Carrier_2.JPG)
+![Cable Carrier 2.JPG](_images/Cable_Carrier_2.JPG)
 
 
 
-![Cable Carrier 1.JPG](Cable_Carrier_1.JPG)
+![Cable Carrier 1.JPG](_images/Cable_Carrier_1.JPG)
 
 
 
@@ -340,15 +340,15 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 
 
 
-![UTM Cable 1.JPG](UTM_Cable_1.JPG)
+![UTM Cable 1.JPG](_images/UTM_Cable_1.JPG)
 
 
 
-![UTM Cable 2.JPG](UTM_Cable_2.JPG)
+![UTM Cable 2.JPG](_images/UTM_Cable_2.JPG)
 
 
 
-![UTM Cable 3.JPG](UTM_Cable_3.JPG)
+![UTM Cable 3.JPG](_images/UTM_Cable_3.JPG)
 
 
 
@@ -369,11 +369,11 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 # Soil Sensor
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
 
-![Soil Sensor.jpg](Soil_Sensor.jpg)
+![Soil Sensor.jpg](_images/Soil_Sensor.jpg)
 
 
 
-![Soil Sensor 2.jpg](Soil_Sensor_2.jpg)
+![Soil Sensor 2.jpg](_images/Soil_Sensor_2.jpg)
 
 
 
@@ -393,15 +393,15 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 
 
-![Solenoid Valve.JPG](Solenoid_Valve.JPG)
+![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
 
 
 
-![Solenoid Valve 2.JPG](Solenoid_Valve_2.JPG)
+![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
 
 
 
-![Solenoid Valve 3.JPG](Solenoid_Valve_3.JPG)
+![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
 
 
 
@@ -421,11 +421,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum Pump
 
-![Vacuum Pump.JPG](Vacuum_Pump.JPG)
+![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
 
 
 
-![Vacuum Pump 2.JPG](Vacuum_Pump_2.JPG)
+![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
 
 
 
@@ -439,11 +439,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # RAMPS Power Cables
 
-![Ramps Power Cable 2.JPG](Ramps_Power_Cable_2.JPG)
+![Ramps Power Cable 2.JPG](_images/Ramps_Power_Cable_2.JPG)
 
 
 
-![RAMPS Power cable 1.JPG](RAMPS_Power_cable_1.JPG)
+![RAMPS Power cable 1.JPG](_images/RAMPS_Power_cable_1.JPG)
 
 
 
@@ -463,11 +463,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Raspberry Pi Power Cable
 
-![Raspberry Pi Cable 2.JPG](Raspberry_Pi_Cable_2.JPG)
+![Raspberry Pi Cable 2.JPG](_images/Raspberry_Pi_Cable_2.JPG)
 
 
 
-![Raspberry Pi Cable 1.JPG](Raspberry_Pi_Cable_1.JPG)
+![Raspberry Pi Cable 1.JPG](_images/Raspberry_Pi_Cable_1.JPG)
 
 
 
@@ -487,11 +487,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum Pump Cable
 
-![Vacuum Pump Cable 1.JPG](Vacuum_Pump_Cable_1.JPG)
+![Vacuum Pump Cable 1.JPG](_images/Vacuum_Pump_Cable_1.JPG)
 
 
 
-![Vacuum Pump Cable 2.JPG](Vacuum_Pump_Cable_2.JPG)
+![Vacuum Pump Cable 2.JPG](_images/Vacuum_Pump_Cable_2.JPG)
 
 
 
@@ -511,11 +511,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Solenoid Valve Cable
 
-![Solenoid valve cable 1.JPG](Solenoid_valve_cable_1.JPG)
+![Solenoid valve cable 1.JPG](_images/Solenoid_valve_cable_1.JPG)
 
 
 
-![Solenoid valve cable 2.JPG](Solenoid_valve_cable_2.JPG)
+![Solenoid valve cable 2.JPG](_images/Solenoid_valve_cable_2.JPG)
 
 
 
@@ -535,11 +535,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # FarmBot Power Cable
 
-![Power cable 2.JPG](Power_cable_2.JPG)
+![Power cable 2.JPG](_images/Power_cable_2.JPG)
 
 
 
-![Power cable 1.JPG](Power_cable_1.JPG)
+![Power cable 1.JPG](_images/Power_cable_1.JPG)
 
 
 
@@ -562,11 +562,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 
 
-![Camera.JPG](Camera.JPG)
+![Camera.JPG](_images/Camera.JPG)
 
 
 
-![Camera 2.JPG](Camera_2.JPG)
+![Camera 2.JPG](_images/Camera_2.JPG)
 
 
 
@@ -592,15 +592,15 @@ This rainproof box stores the power supply and vacuum pump, keeping them dry.
 
 
 
-![Sockit box 1.JPG](Sockit_box_1.JPG)
+![Sockit box 1.JPG](_images/Sockit_box_1.JPG)
 
 
 
-![Sockitbox 2.JPG](Sockitbox_2.JPG)
+![Sockitbox 2.JPG](_images/Sockitbox_2.JPG)
 
 
 
-![Sockit box 3.JPG](Sockit_box_3.JPG)
+![Sockit box 3.JPG](_images/Sockit_box_3.JPG)
 
 
 
@@ -613,7 +613,7 @@ This rainproof box stores the power supply and vacuum pump, keeping them dry.
 
 # Jumper Links
 
-![Jumper Links.jpg](Jumper_Links.jpg)
+![Jumper Links.jpg](_images/Jumper_Links.jpg)
 
 
 

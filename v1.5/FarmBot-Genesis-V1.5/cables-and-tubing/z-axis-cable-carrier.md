@@ -15,13 +15,13 @@ Remove all of the snap-in **tabs** from the **z-axis cable carrier**. The z-axis
 
 There is only one orientation that the **z-axis cable carrier** mounts to the **cross-slide** and **z-axis**, and it is determined by the orientation of the **end pieces**. Inspect the images below to see how the cable carrier will be mounted, but do not attach it at this time.
 
-![Screen Shot 2020-02-17 at 1.35.18 PM.png](Screen_Shot_2020-02-17_at_1.35.18_PM.png)
+![Screen Shot 2020-02-17 at 1.35.18 PM.png](_images/Screen_Shot_2020-02-17_at_1.35.18_PM.png)
 
 _The z-axis end_
 
 
 
-![Screen Shot 2020-02-17 at 1.32.54 PM.png](Screen_Shot_2020-02-17_at_1.32.54_PM.png)
+![Screen Shot 2020-02-17 at 1.32.54 PM.png](_images/Screen_Shot_2020-02-17_at_1.32.54_PM.png)
 
 _The cross-slide end_
 
@@ -38,7 +38,7 @@ Keeping the mounting orientation of the cable carrier in mind, lay the **UTM cab
   * The end of the **z-axis motor cable (z-axis section)** with the **white motor plug** should extend **100cm** beyond the **z-axis end** of the cable carrier.
   * The end of the **z-axis encoder cable (z-axis section)** with the **white encoder plug** should extend **100cm** beyond the **z-axis end** of the cable carrier.
 
-![fe5da86-IMG_2636_LAYING_OUT_THE_CABLES (2).jpg](IMG_2636_LAYING_OUT_THE_CABLES_2.jpg)
+![fe5da86-IMG_2636_LAYING_OUT_THE_CABLES (2).jpg](_images/IMG_2636_LAYING_OUT_THE_CABLES_2.jpg)
 
 _This photo shows what the cables will look like as they are measured out to scale._
 
@@ -53,13 +53,13 @@ content="When laying the cables and tube in the cable carrier, ensure that none 
 
 
 
-![IMG_2638.JPG](IMG_2638.JPG)
+![IMG_2638.JPG](_images/IMG_2638.JPG)
 
 _This photo shows the tubes and cables in the Z-Axis Cable carrier. (This is from a Genesis v1.4 so your bot may look slightly different.)_
 
 
 
-![Z-Axis_and_Y-Axis_Cable_Tray_Organization_.jpg](Z-Axis_and_Y-Axis_Cable_Tray_Organization_.jpg)
+![Z-Axis_and_Y-Axis_Cable_Tray_Organization_.jpg](_images/Z-Axis_and_Y-Axis_Cable_Tray_Organization_.jpg)
 
 _Z-axis and y-axis cable organization (This photo is from a Genesis v1.4 so your bot may look slightly different.)_
 
@@ -69,7 +69,7 @@ _Z-axis and y-axis cable organization (This photo is from a Genesis v1.4 so your
 
 Snap in three **cable carrier tabs** at both ends of the cable carrier, and five more spread throughout the middle of the cable carrier so that as you mount the assembly, the cables and tubing will stay in place. You do not want to snap in all of the tabs at this time because that will make it difficult to make adjustments if needed.
 
-![f8f36de-SNAP_IN_SOME_TABS_Z-AXIS.jpg](SNAP_IN_SOME_TABS_Z-AXIS.jpg)
+![f8f36de-SNAP_IN_SOME_TABS_Z-AXIS.jpg](_images/SNAP_IN_SOME_TABS_Z-AXIS.jpg)
 
 
 
@@ -77,11 +77,11 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and five
 
 Carefully lift the cable carrier assembly and drape it over the cross-slide.
 
-![Screen Shot 2020-02-17 at 1.36.11 PM.png](Screen_Shot_2020-02-17_at_1.36.11_PM.png)
+![Screen Shot 2020-02-17 at 1.36.11 PM.png](_images/Screen_Shot_2020-02-17_at_1.36.11_PM.png)
 
 Attach the cross-slide end of the **cable carrier** to the **cross-slide** using two **M5 x 30mm screws**, **M5 flange locknuts**, and the **60mm cable carrier spacer block**. The screws should thread firmly through the cable carrier end piece.
 
-![Screen Shot 2020-02-17 at 1.36.47 PM.png](Screen_Shot_2020-02-17_at_1.36.47_PM.png)
+![Screen Shot 2020-02-17 at 1.36.47 PM.png](_images/Screen_Shot_2020-02-17_at_1.36.47_PM.png)
 
 _Not pictured: The cables and tube coming from the z-axis cable carrier._
 
@@ -91,7 +91,7 @@ _Not pictured: The cables and tube coming from the z-axis cable carrier._
 
 Attach the z-axis end of the **cable carrier** to the lowest **vertical cable carrier support** on the **z-axis** using two **M5 x 16mm screws** and **M5 flange locknuts**. The screws should thread firmly through the cable carrier end piece.
 
-![Screen Shot 2020-02-17 at 1.39.20 PM.png](Screen_Shot_2020-02-17_at_1.39.20_PM.png)
+![Screen Shot 2020-02-17 at 1.39.20 PM.png](_images/Screen_Shot_2020-02-17_at_1.39.20_PM.png)
 
 _Not pictured: The cables and tube coming from the cable carrier._
 
@@ -101,7 +101,7 @@ _Not pictured: The cables and tube coming from the cable carrier._
 
 Feed the **z-axis motor and encoder cables** up through the slots in the **vertical cable carrier supports**, and then through the slot in the **z-axis motor mount**. Then connect the cables to the motor and encoder.
 
-![Screen Shot 2020-02-17 at 1.41.15 PM.png](Screen_Shot_2020-02-17_at_1.41.15_PM.png)
+![Screen Shot 2020-02-17 at 1.41.15 PM.png](_images/Screen_Shot_2020-02-17_at_1.41.15_PM.png)
 
 
 
@@ -109,7 +109,7 @@ Feed the **z-axis motor and encoder cables** up through the slots in the **verti
 
 Attach the **80mm vertical motor housing** to the **z-axis extrusion** using **M5 x 10mm screws** and **tee nuts**.
 
-![Screen Shot 2020-02-17 at 1.42.09 PM.png](Screen_Shot_2020-02-17_at_1.42.09_PM.png)
+![Screen Shot 2020-02-17 at 1.42.09 PM.png](_images/Screen_Shot_2020-02-17_at_1.42.09_PM.png)
 
 
 

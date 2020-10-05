@@ -1,14 +1,14 @@
 ---
 title: "Power FarmBot with Solar"
 slug: "power-farmbot-with-solar"
-excerpt: "DIY instructions for powering your FarmBot with a dedicated, off-grid solar energy system"
+description: "DIY instructions for powering your FarmBot with a dedicated, off-grid solar energy system"
 ---
 
 * toc
 {:toc}
 
 
-![FarmBot SOlar Compost.jpg](FarmBot_SOlar_Compost.jpg)
+![FarmBot SOlar Compost.jpg](_images/FarmBot_SOlar_Compost.jpg)
 
 
 
@@ -73,7 +73,7 @@ Because it doesn't rain or get cloudy often in San Luis Obispo, we're going to p
 
 For our application, we selected a 12 volt, 35  amp-hour deep cycle lead acid battery, which will hold 460 watt-hours of energy.
 
-![6132jOr5TAL._SL1000_.jpg](6132jOr5TAL._SL1000_.jpg)
+![6132jOr5TAL._SL1000_.jpg](_images/6132jOr5TAL._SL1000_.jpg)
 
 _12 Volt, 35 Amp-Hour Deep Cycle Sealed Lead Acid Battery_
 
@@ -133,7 +133,7 @@ Keep in mind that if you completely remove your FarmBot's power supply, you will
 
 
 
-![61Sw5fOvIRL._SL1000_.jpg](61Sw5fOvIRL._SL1000_.jpg)
+![61Sw5fOvIRL._SL1000_.jpg](_images/61Sw5fOvIRL._SL1000_.jpg)
 
 _Optional 400 Watt Power Inverter (12 Volts DC to 110 Volts AC)_
 
@@ -150,7 +150,7 @@ Alternatively, you can set up your power meter in between the battery and the ch
 
 
 
-![71BlDBxGLxL._SL1500_.jpg](71BlDBxGLxL._SL1500_.jpg)
+![71BlDBxGLxL._SL1500_.jpg](_images/71BlDBxGLxL._SL1500_.jpg)
 
 
 
@@ -172,7 +172,7 @@ Once you have a location chosen, proceed to install your panel. Some panels come
 
 For our example installation, we used the South facing side of the house to support one half of the panel, while the other half is supported by two aluminum extrusions and a few screws, tee nuts, corner brackets, and locknuts.
 
-![IMG_20160216_115513.jpg](IMG_20160216_115513.jpg)
+![IMG_20160216_115513.jpg](_images/IMG_20160216_115513.jpg)
 
 ### Optimize the panel angle
 Depending on your latitude, you will want to angle your panel towards the sun in order to get the most power out of it each day. The table below suggests optimum panel angles for different latitudes.
@@ -194,7 +194,7 @@ Depending on your latitude, you will want to angle your panel towards the sun in
 ## Step 2: Wire up the panel and the charge controller
 Follow the instructions provided by the manufacturer of your panel and controller kit. In general, this will simply entail connecting the output of the solar panel to the input of the charge controller. Remember: negative/ground to negative/ground, and positive to positive.
 
-![IMG_20160216_115552.jpg](IMG_20160216_115552.jpg)
+![IMG_20160216_115552.jpg](_images/IMG_20160216_115552.jpg)
 
 ## Step 3: Wire up the battery and the inverter
 You can do this in two ways. Both ways will function the same. One way might make more sense to you than the other, or one might work better with the lengths of your wires, the types of connectors you have available, and the location of your components. Choose only one method.
@@ -208,7 +208,7 @@ First connect the output of the charge controller to the input of the inverter. 
 ## Step 4: Rainproof the charge controller, battery, and inverter
 Make sure you position these components in a rainproof location. This can be under your panel, inside your house or a shed, or under some other type of roofing structure. There should be no possible way for rain to drip onto the components either directly or from creeping along a wall or edge. Plan accordingly for rain coming in at an angle due to high winds; as well as sprinklers, hoses, and other sources of water that might be present around the solar system
 
-![IMG_20160216_115718.jpg](IMG_20160216_115718.jpg)
+![IMG_20160216_115718.jpg](_images/IMG_20160216_115718.jpg)
 
 
 

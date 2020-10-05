@@ -1,7 +1,7 @@
 ---
 title: "Universal Tool Mount"
 slug: "utm"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis universal tool mount"
+description: "Documentation and assembly instructions for the FarmBot Genesis universal tool mount"
 ---
 
 * toc
@@ -21,11 +21,11 @@ content="As of the v1.4 hardware release, the UTM comes pre-assembled so all you
 
 
 
-![UTM 3.JPG](UTM_3.JPG)
+![UTM 3.JPG](_images/UTM_3.JPG)
 
 
 
-![UTM1.JPG](UTM1.JPG)
+![UTM1.JPG](_images/UTM1.JPG)
 
 # Pin mapping
 
@@ -65,7 +65,7 @@ content="Check out the [tool spec](../../Extras/mods/tool-spec.md) to learn how 
 # Step 1: Install the UTM onto the Z-axis
 Insert two **M5 x 16mm screws** and **tee nuts** into the **UTM**, and then position the UTM onto the **z-axis extrusion**. The mounting flanges should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion. Tighten the two screws with the **3mm hex driver**.
 
-![Screen Shot 2018-08-08 at 1.17.51 PM.png](Screen_Shot_2018-08-08_at_1.17.51_PM.png)
+![Screen Shot 2018-08-08 at 1.17.51 PM.png](_images/Screen_Shot_2018-08-08_at_1.17.51_PM.png)
 
 # Step 2: Connect the UTM Cable
 Insert the two UTM Cable Connectors into the top of the UTM. Note: The black and yellow connectors of the cable correspond to the black and yellow pin headers inside the UTM.
@@ -83,30 +83,30 @@ Use this information to ensure you insert both connectors in the correct orienta
 
 
 
-![Screen Shot 2018-08-08 at 1.45.27 PM.png](Screen_Shot_2018-08-08_at_1.45.27_PM.png)
+![Screen Shot 2018-08-08 at 1.45.27 PM.png](_images/Screen_Shot_2018-08-08_at_1.45.27_PM.png)
 
 
 
-![Screen Shot 2018-08-08 at 1.46.29 PM.png](Screen_Shot_2018-08-08_at_1.46.29_PM.png)
+![Screen Shot 2018-08-08 at 1.46.29 PM.png](_images/Screen_Shot_2018-08-08_at_1.46.29_PM.png)
 
 Slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the **UTM**.
 
-![Screen Shot 2018-08-08 at 1.46.59 PM.png](Screen_Shot_2018-08-08_at_1.46.59_PM.png)
+![Screen Shot 2018-08-08 at 1.46.59 PM.png](_images/Screen_Shot_2018-08-08_at_1.46.59_PM.png)
 
 Note: in a few steps from now, you will connect the other end of the cable to the Farmduino.
 
 # Step 3: Connect the Water and Vacuum Tubes
 Push the **water tube** onto the **barb** on top of the **UTM** that is closest to the **z-axis extrusion**.
 
-![Screen Shot 2018-08-08 at 5.16.58 PM.png](Screen_Shot_2018-08-08_at_5.16.58_PM.png)
+![Screen Shot 2018-08-08 at 5.16.58 PM.png](_images/Screen_Shot_2018-08-08_at_5.16.58_PM.png)
 
 Push one of the **vacuum pump tubes** onto the **barb** on top of the **UTM** that is closest to the FarmBot logo.
 
-![Screen Shot 2018-08-08 at 5.17.17 PM.png](Screen_Shot_2018-08-08_at_5.17.17_PM.png)
+![Screen Shot 2018-08-08 at 5.17.17 PM.png](_images/Screen_Shot_2018-08-08_at_5.17.17_PM.png)
 
 Then push the **inline air filter** onto the other end of that tube. Then connect the second vacuum pump tube between the inline air filter and the air intake on the **vacuum pump**. You may need to remove the vacuum pump cover to do this.
 
-![3f5b49f-Air_Filter_Configuration.jpg](Air_Filter_Configuration.jpg)
+![3f5b49f-Air_Filter_Configuration.jpg](_images/Air_Filter_Configuration.jpg)
 
 
 # What's next?

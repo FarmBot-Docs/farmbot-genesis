@@ -1,7 +1,7 @@
 ---
 title: "Fasteners and Hardware"
 slug: "fasteners-and-hardware"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the fasteners and hardware in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the fasteners and hardware in FarmBot Genesis"
 ---
 
 * toc
@@ -29,7 +29,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the fast
 
 # M3 Screws
 
-![M3 Screw.JPG](M3_Screw.JPG)
+![M3 Screw.JPG](_images/M3_Screw.JPG)
 
 
 
@@ -51,7 +51,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the fast
 # M3 Setscrews
 Two of these setscrews are used to secure each GT2 pulley to the motor's shaft. The cup edge is knurled for gripping strength so these screws resist loosening.
 
-![Knurl-Grip Cup Point Set Screw.JPG](Grip_Cup_Point_Set_Screw.JPG)
+![Knurl-Grip Cup Point Set Screw.JPG](_images/Grip_Cup_Point_Set_Screw.JPG)
 
 
 
@@ -72,7 +72,7 @@ Two of these setscrews are used to secure each GT2 pulley to the motor's shaft. 
 These setscrews are used to secure the Z-Axis flex coupling to the lead screw and to the Z-Axis motor's primary shaft. The cup edge is knurled for gripping strength so these screws resist loosening.
 
 
-![ULqcA2bRRtqhbWN9Lo9m_Capture.JPG](Capture.JPG)
+![ULqcA2bRRtqhbWN9Lo9m_Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -92,7 +92,7 @@ These setscrews are used to secure the Z-Axis flex coupling to the lead screw an
 # M3 Locknuts
 Twelve of these locknuts are used to secure the UTM electronic pin screws in place. The nylon insert allows them to resist loosening when subjected to vibration.
 
-![M3 Lokcnut.JPG](M3_Lokcnut.JPG)
+![M3 Lokcnut.JPG](_images/M3_Lokcnut.JPG)
 
 
 
@@ -111,7 +111,7 @@ Twelve of these locknuts are used to secure the UTM electronic pin screws in pla
 # M5 Screws
 M5 button-head screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually used in combination with M5 washers, and terminated with an M5 tee nut or locknut. The button head provides a wide bearing surface, a low-profile head, and a finished appearance. Length is measured from under the head.
 
-![M5 x 10mm Screws.JPG](M5_x_10mm_Screws.JPG)
+![M5 x 10mm Screws.JPG](_images/M5_x_10mm_Screws.JPG)
 
 
 
@@ -133,7 +133,7 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 # M5 Washers
 These washers are used throughout FarmBot in combination with M5 screws and M5 locknuts. They allow nuts to be tightened on plastic components and plates while preventing damage and distributing load.
 
-![M5 washers.JPG](M5_washers.JPG)
+![M5 washers.JPG](_images/M5_washers.JPG)
 
 
 
@@ -151,7 +151,7 @@ These washers are used throughout FarmBot in combination with M5 screws and M5 l
 # M5 Spacers
 These spacers are used to offset V-wheels from plates so that they may engage extrusions.
 
-![quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg](quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg)
+![quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg](_images/quarter_inch_aluminum_spacer__25068.1365305898.1280.1280.jpg)
 
 
 
@@ -168,7 +168,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 # M5 x 6mm Eccentric Spacers
 When rotated, eccentric spacers accurately position V-wheels on a plate such that they can firmly engage V-slot aluminum extrusions. They are only used on wheels on one side of an extrusion. Adjustments are made by using a 8mm wrench on the spacer itself.
 
-![DSC04248__09922.1432243766.1280.1280.jpg](DSC04248__09922.1432243766.1280.1280.jpg)
+![DSC04248__09922.1432243766.1280.1280.jpg](_images/DSC04248__09922.1432243766.1280.1280.jpg)
 
 
 
@@ -187,7 +187,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 # M5 Locknuts
 These nuts resist loosening because their nylon insert grips the screw that they are attached to. They are used in combination with M5 screws throughout FarmBot.
 
-![M5 Locknuts.JPG](M5_Locknuts.JPG)
+![M5 Locknuts.JPG](_images/M5_Locknuts.JPG)
 
 
 
@@ -206,7 +206,7 @@ These nuts resist loosening because their nylon insert grips the screw that they
 # M5 Tee Nuts
 Combined with M5 screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion.
 
-![IMG_0439.JPG](IMG_0439.JPG)
+![IMG_0439.JPG](_images/IMG_0439.JPG)
 
 
 
@@ -222,7 +222,7 @@ Combined with M5 screws, these drop-in style tee nuts allow components such as p
 # Wood Screws
 These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised.
 
-![b70838c3-9d85-4078-9004-5d0110371e1d_1000.jpg](9d85-4078-9004-5d0110371e1d_1000.jpg)
+![b70838c3-9d85-4078-9004-5d0110371e1d_1000.jpg](_images/9d85-4078-9004-5d0110371e1d_1000.jpg)
 
 
 

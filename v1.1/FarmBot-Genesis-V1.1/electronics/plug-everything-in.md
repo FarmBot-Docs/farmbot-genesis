@@ -13,7 +13,7 @@ Attach the wire from the negative/ground input on the RAMPS shield to the ground
 # Step 2: Plug in the Stepper Motors and Rotary Encoders
 Plug in the **motor and encoder cables** to the **RAMPS shield** according to the following diagram.
 
-![RAMPS_wiring.png](RAMPS_wiring.png)
+![RAMPS_wiring.png](_images/RAMPS_wiring.png)
 
 # Step 4: Plug in the UTM Cable's Connectors
 Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](../../FarmBot-Genesis-V1.1/universal-tool-mount/wire-up-the-utm.md)

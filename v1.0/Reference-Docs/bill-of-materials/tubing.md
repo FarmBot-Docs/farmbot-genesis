@@ -1,7 +1,7 @@
 ---
 title: "Tubing"
 slug: "tubing"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the tubing in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the tubing in FarmBot Genesis"
 ---
 
 * toc
@@ -43,7 +43,7 @@ This ultra flexible tubing carriers liquids and gases to and from the UTM includ
 # Barbs
 These stainless steel barbs screw into the UTM's three liquid/gas ports and accept the three liquid/gas lines coming from the z-axis cable carrier.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -65,7 +65,7 @@ These stainless steel barbs screw into the UTM's three liquid/gas ports and acce
 # Barbed Adapter
 This adapter threads onto the solenoid valve and is connected to the water tube leading to the UTM.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -83,7 +83,7 @@ This adapter threads onto the solenoid valve and is connected to the water tube 
 # Garden Hose Adapter
 This adapter connects standard US garden hoses to the solenoid valve.
 
-![Z165w-fo5oy.JPG](Z165w-fo5oy.JPG)
+![Z165w-fo5oy.JPG](_images/Z165w-fo5oy.JPG)
 
 
 
@@ -102,7 +102,7 @@ This adapter connects standard US garden hoses to the solenoid valve.
 # O-rings
 These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -122,7 +122,7 @@ These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when t
 # Grommets
 These grommets fit onto the UTM cover and allow the liquid/gas tubes and the UTM cable to pass into the UTM assembly while keeping water and dust out.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -144,7 +144,7 @@ These grommets fit onto the UTM cover and allow the liquid/gas tubes and the UTM
 # Pressure Regulator
 This pressure regulator reduces the pressure from a municipal water supply down to 25 PSI (172 kpa, 1.72 bar) so that FarmBot can more easily control the amount of water it disperses.
 
-![86cdff2a-7d8d-4982-a552-2c768db4eac3_1000.jpg](86cdff2a-7d8d-4982-a552-2c768db4eac3_1000.jpg)
+![86cdff2a-7d8d-4982-a552-2c768db4eac3_1000.jpg](_images/86cdff2a-7d8d-4982-a552-2c768db4eac3_1000.jpg)
 
 
 

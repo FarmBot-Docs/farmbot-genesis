@@ -1,7 +1,7 @@
 ---
 title: "Plastic Parts"
 slug: "plastic-parts"
-excerpt: "Tech specs for the plastic parts in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the plastic parts in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -48,15 +48,15 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 
 
 
-![HCCS0.JPG](HCCS0.JPG)
+![HCCS0.JPG](_images/HCCS0.JPG)
 
 
 
-![HCCS1.JPG](HCCS1.JPG)
+![HCCS1.JPG](_images/HCCS1.JPG)
 
 
 
-![HCCS2.JPG](HCCS2.JPG)
+![HCCS2.JPG](_images/HCCS2.JPG)
 
 # Vertical Cable Carrier Supports
 These parts are used to guide and support the z-axis cable carrier. The gusset also functions as an area for the z-axis motor's cables to be routed through.
@@ -73,11 +73,11 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 
 
 
-![VCCS1.JPG](VCCS1.JPG)
+![VCCS1.JPG](_images/VCCS1.JPG)
 
 
 
-![VCCS2.JPG](VCCS2.JPG)
+![VCCS2.JPG](_images/VCCS2.JPG)
 
 # Cable Carrier Spacer Block
 This component offsets the z-axis cable carrier from the cross-slide plate.
@@ -94,11 +94,11 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 
 
 
-![CCB1.JPG](CCB1.JPG)
+![CCB1.JPG](_images/CCB1.JPG)
 
 
 
-![CCB2.JPG](CCB2.JPG)
+![CCB2.JPG](_images/CCB2.JPG)
 
 # Cable Guides
 These simple components help organize and route the cables and tubes coming from the y-axis cable carrier.
@@ -115,11 +115,11 @@ These simple components help organize and route the cables and tubes coming from
 
 
 
-![cable guide 0.JPG](cable_guide_0.JPG)
+![cable guide 0.JPG](_images/cable_guide_0.JPG)
 
 
 
-![cable guide.JPG](cable_guide.JPG)
+![cable guide.JPG](_images/cable_guide.JPG)
 
 # Horizontal Motor Housings
 These housings protect the gantry and cross-slide motors and encoders from rain.
@@ -140,15 +140,15 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 
 
-![Horizontal Motor Housing 1.JPG](Horizontal_Motor_Housing_1.JPG)
+![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
 
 
 
-![Horizontal Motor Housing 2.JPG](Horizontal_Motor_Housing_2.JPG)
+![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
 
 
 
-![Horizontal Motor Housings.JPG](Horizontal_Motor_Housings.JPG)
+![Horizontal Motor Housings.JPG](_images/Horizontal_Motor_Housings.JPG)
 
 # Vertical Motor Housing
 This component protects the z-axis motor from rain.
@@ -165,11 +165,11 @@ This component protects the z-axis motor from rain.
 
 
 
-![z cove 1.JPG](z_cove_1.JPG)
+![z cove 1.JPG](_images/z_cove_1.JPG)
 
 
 
-![Z cover 2.JPG](Z_cover_2.JPG)
+![Z cover 2.JPG](_images/Z_cover_2.JPG)
 
 # Vacuum Pump Housing
 This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion.
@@ -186,11 +186,11 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 
 
 
-![Vacuum Cover 1.JPG](Vacuum_Cover_1.JPG)
+![Vacuum Cover 1.JPG](_images/Vacuum_Cover_1.JPG)
 
 
 
-![Vacuum Cover2.JPG](Vacuum_Cover2.JPG)
+![Vacuum Cover2.JPG](_images/Vacuum_Cover2.JPG)
 
 # Universal Tool Mount
 The UTM allows FarmBot to automatically switch tools for the task at hand. It features 12 electrical connections, three liquid/gas lines, and magnetic coupling.
@@ -212,19 +212,19 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 
 
-![UTM.JPG](UTM.JPG)
+![UTM.JPG](_images/UTM.JPG)
 
 
 
-![UTM 1.JPG](UTM_1.JPG)
+![UTM 1.JPG](_images/UTM_1.JPG)
 
 
 
-![UTM 2.JPG](UTM_2.JPG)
+![UTM 2.JPG](_images/UTM_2.JPG)
 
 
 
-![UTM 3.JPG](UTM_3.JPG)
+![UTM 3.JPG](_images/UTM_3.JPG)
 
 # Universal Tool Mount Cover
 This cover protects the top of the UTM from the rain and dust.
@@ -241,16 +241,16 @@ This cover protects the top of the UTM from the rain and dust.
 
 
 
-![UTM Cover.JPG](UTM_Cover.JPG)
+![UTM Cover.JPG](_images/UTM_Cover.JPG)
 
 
 
-![UTM Cover 2.JPG](UTM_Cover_2.JPG)
+![UTM Cover 2.JPG](_images/UTM_Cover_2.JPG)
 
 # UTM Plug
 This plug prevents water from entering the UTM cover in the third liquid/gas port.
 
-![UTM Plug.jpg](UTM_Plug.jpg)
+![UTM Plug.jpg](_images/UTM_Plug.jpg)
 
 
 
@@ -282,11 +282,11 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 
 
-![Seeder1.JPG](Seeder1.JPG)
+![Seeder1.JPG](_images/Seeder1.JPG)
 
 
 
-![Seeder2.JPG](Seeder2.JPG)
+![Seeder2.JPG](_images/Seeder2.JPG)
 
 # Watering Nozzle
 This two-part tool distributes the stream of water coming from the UTM into a gentle shower for your plants.
@@ -307,23 +307,23 @@ This two-part tool distributes the stream of water coming from the UTM into a ge
 
 
 
-![WaterNozzle.JPG](WaterNozzle.JPG)
+![WaterNozzle.JPG](_images/WaterNozzle.JPG)
 
 ## Watering Nozzle Top
 
-![Water Top 1.JPG](Water_Top_1.JPG)
+![Water Top 1.JPG](_images/Water_Top_1.JPG)
 
 
 
-![Water Top 2.JPG](Water_Top_2.JPG)
+![Water Top 2.JPG](_images/Water_Top_2.JPG)
 
 ## Watering Nozzle Bottom
 
-![Water Bottom.JPG](Water_Bottom.JPG)
+![Water Bottom.JPG](_images/Water_Bottom.JPG)
 
 
 
-![Water Bottom 0.JPG](Water_Bottom_0.JPG)
+![Water Bottom 0.JPG](_images/Water_Bottom_0.JPG)
 
 # Weeder
 The weeding tool allows FarmBot to smash weeds into the ground, thereby killing them via mechanical disruption. The tool consists of a base component and interchangeable implements that allow you to customize the tool for your soil conditions and types of weeds.
@@ -345,23 +345,23 @@ The weeding tool allows FarmBot to smash weeds into the ground, thereby killing 
 
 ## Weeder
 
-![weeder.JPG](weeder.JPG)
+![weeder.JPG](_images/weeder.JPG)
 
 
 
-![weeder2.JPG](weeder2.JPG)
+![weeder2.JPG](_images/weeder2.JPG)
 
 ## Wide Weeder Blades
 
-![wideblade1.JPG](wideblade1.JPG)
+![wideblade1.JPG](_images/wideblade1.JPG)
 
 ## Medium Weeder Blades
 
-![mediumblade2.JPG](mediumblade2.JPG)
+![mediumblade2.JPG](_images/mediumblade2.JPG)
 
 ## Narrow Weeder Blades
 
-![narrowblade1.JPG](narrowblade1.JPG)
+![narrowblade1.JPG](_images/narrowblade1.JPG)
 
 # Soil Sensor
 This tool acts as a mount for the soil sensor circuit board.
@@ -382,11 +382,11 @@ This tool acts as a mount for the soil sensor circuit board.
 
 
 
-![soil sensor base 1.JPG](soil_sensor_base_1.JPG)
+![soil sensor base 1.JPG](_images/soil_sensor_base_1.JPG)
 
 
 
-![soil sensor base.JPG](soil_sensor_base.JPG)
+![soil sensor base.JPG](_images/soil_sensor_base.JPG)
 
 # Seed Bin
 This plastic bin allows you to load many seeds of the same type into your FarmBot.
@@ -407,7 +407,7 @@ This plastic bin allows you to load many seeds of the same type into your FarmBo
 
 
 
-![Seeds.JPG](Seeds.JPG)
+![Seeds.JPG](_images/Seeds.JPG)
 
 # Seed Trays
 The seed trays feature 16 small bins allowing you to load 16 precise quantities/types of seeds into your FarmBot.
@@ -424,11 +424,11 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 
 
 
-![Seed Trays.JPG](Seed_Trays.JPG)
+![Seed Trays.JPG](_images/Seed_Trays.JPG)
 
 
 
-![Seed Tray.JPG](Seed_Tray.JPG)
+![Seed Tray.JPG](_images/Seed_Tray.JPG)
 
 # Camera Mounts
 These small plastic components fasten the borescope camera to the z-axis extrusion.
@@ -445,7 +445,7 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 
 
 
-![Camera Mounts.JPG](Camera_Mounts.JPG)
+![Camera Mounts.JPG](_images/Camera_Mounts.JPG)
 
 
 

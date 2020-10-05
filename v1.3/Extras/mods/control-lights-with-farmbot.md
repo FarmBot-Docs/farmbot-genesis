@@ -1,7 +1,7 @@
 ---
 title: "Control Lights with FarmBot"
 slug: "control-lights-with-farmbot"
-excerpt: "DIY instructions for installing and controlling LED or grow lights with FarmBot"
+description: "DIY instructions for installing and controlling LED or grow lights with FarmBot"
 ---
 
 * toc
@@ -27,7 +27,7 @@ content="Please use the following information for *inspiration* only. The instru
 
 
 
-![Lights.jpg](Lights.jpg)
+![Lights.jpg](_images/Lights.jpg)
 
 
 
@@ -66,7 +66,7 @@ In general there are two ways to use your newly installed LED lights:
 ## Method 1: Manually control the lights with the peripherals widget
 From the **FarmBot Web App**, navigate to the **Controls** page. Click the **Edit** button in the header of the **Peripherals** widget. Create a new peripheral named "Lights" and assign it the pin number that you hooked the LED wires to on the Farmduino. Then click the **Save** button in the widget header and you will now have a shiny new toggle switch to operate your lights!
 
-![Screen Shot 2017-02-27 at 2.47.36 PM.png](Screen_Shot_2017-02-27_at_2.47.36_PM.png)
+![Screen Shot 2017-02-27 at 2.47.36 PM.png](_images/Screen_Shot_2017-02-27_at_2.47.36_PM.png)
 
 
 
@@ -74,5 +74,5 @@ From the **FarmBot Web App**, navigate to the **Controls** page. Click the **Edi
 ## Method 2: Systematically use the lights in your sequences and regimens
 Because your lights are hooked up to a peripheral on the Farmduino, you can easily create sequences that utilized the lights. Simply add a **Write Pin** step into your sequence to turn the lights on with a *pin value* of "ON" and off with a *pin value* of "OFF". Make sure you set the *pin mode* to "DIGITAL" and the *pin number* to whichever peripheral pin number you hooked up the wires to on the Farmduino.
 
-![light_flash.png](light_flash.png)
+![light_flash.png](_images/light_flash.png)
 

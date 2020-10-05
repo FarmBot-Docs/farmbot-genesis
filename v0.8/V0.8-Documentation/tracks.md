@@ -1,7 +1,7 @@
 ---
 title: "Tracks"
 slug: "tracks"
-excerpt: "Documentation for the FarmBot Genesis V0.8 Tracks"
+description: "Documentation for the FarmBot Genesis V0.8 Tracks"
 ---
 
 * toc
@@ -15,7 +15,7 @@ excerpt: "Documentation for the FarmBot Genesis V0.8 Tracks"
 
 
 
-![20150113_140302.jpg](20150113_140302.jpg)
+![20150113_140302.jpg](_images/20150113_140302.jpg)
 
 
 

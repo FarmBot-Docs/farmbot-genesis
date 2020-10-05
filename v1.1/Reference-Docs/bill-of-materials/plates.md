@@ -1,7 +1,7 @@
 ---
 title: "Plates"
 slug: "plates"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plates in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the plates in FarmBot Genesis"
 ---
 
 * toc
@@ -22,7 +22,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 # Track End Plates
 
-![9ZSxw7SMSRvMRozwdfZA_IMG_4486.JPG](IMG_4486.JPG)
+![9ZSxw7SMSRvMRozwdfZA_IMG_4486.JPG](_images/IMG_4486.JPG)
 
 
 
@@ -30,7 +30,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 
 
-![Track End Plate Drawing.JPG](Track_End_Plate_Drawing.JPG)
+![Track End Plate Drawing.JPG](_images/Track_End_Plate_Drawing.JPG)
 
 
 
@@ -45,7 +45,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 # Track Joining Plates
 
-![bohZfmbgQ42Az9HHq6q3_IMG_4490.JPG](IMG_4490.JPG)
+![bohZfmbgQ42Az9HHq6q3_IMG_4490.JPG](_images/IMG_4490.JPG)
 
 
 
@@ -53,7 +53,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 
 
-![Track Joining Plate Drawing.JPG](Track_Joining_Plate_Drawing.JPG)
+![Track Joining Plate Drawing.JPG](_images/Track_Joining_Plate_Drawing.JPG)
 
 
 
@@ -68,7 +68,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 # Gantry Wheel Plates
 
-![baa3f4f-mirror_gantry_wheel_plates.jpg](mirror_gantry_wheel_plates.jpg)
+![baa3f4f-mirror_gantry_wheel_plates.jpg](_images/mirror_gantry_wheel_plates.jpg)
 
 
 
@@ -76,7 +76,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 
 
-![Gantry Plate Drawing.JPG](Gantry_Plate_Drawing.JPG)
+![Gantry Plate Drawing.JPG](_images/Gantry_Plate_Drawing.JPG)
 
 
 
@@ -119,7 +119,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 
 
-![Cross-Slide Plate.JPG](Slide_Plate.JPG)
+![Cross-Slide Plate.JPG](_images/Slide_Plate.JPG)
 
 
 
@@ -141,7 +141,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 
 
-![Z-Axis Cable Carrier Mount Drawing.JPG](Z-Axis_Cable_Carrier_Mount_Drawing.JPG)
+![Z-Axis Cable Carrier Mount Drawing.JPG](_images/Z-Axis_Cable_Carrier_Mount_Drawing.JPG)
 
 
 
@@ -184,7 +184,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the plat
 
 
 
-![Belt Clip Drawing.JPG](Belt_Clip_Drawing.JPG)
+![Belt Clip Drawing.JPG](_images/Belt_Clip_Drawing.JPG)
 
 
 

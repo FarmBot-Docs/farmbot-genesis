@@ -1,7 +1,7 @@
 ---
 title: "Extrusion and Leadscrew Packing"
 slug: "extrusion-and-leadscrew-packing"
-excerpt: "Instructions for packing Genesis and Genesis XL extrusion and leadscrew kits"
+description: "Instructions for packing Genesis and Genesis XL extrusion and leadscrew kits"
 ---
 
 * toc
@@ -32,7 +32,7 @@ The tables below show the items that should be packed into the **extrusion and l
 # Edge protectors and straps
 Add four cardboard **edge protectors** on the four longest edges of the box. Then add five black polystraps.
 
-![Screen Shot 2020-06-08 at 2.49.07 PM.png](Screen_Shot_2020-06-08_at_2.49.07_PM.png)
+![Screen Shot 2020-06-08 at 2.49.07 PM.png](_images/Screen_Shot_2020-06-08_at_2.49.07_PM.png)
 
 # Box specifications
 

@@ -1,7 +1,7 @@
 ---
 title: "Drivetrain"
 slug: "drivetrain"
-excerpt: "Tech specs for the drivetrain components in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the drivetrain components in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -42,7 +42,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 
 
 
-![IMG_0472.jpg](IMG_0472.jpg)
+![IMG_0472.jpg](_images/IMG_0472.jpg)
 
 # GT2 Timing Belt
 
@@ -63,7 +63,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 
 
 
-![IMG_0467.jpg](IMG_0467.jpg)
+![IMG_0467.jpg](_images/IMG_0467.jpg)
 
 _Pictured are 7.5m and 3.5m belts_
 
@@ -79,7 +79,7 @@ These sleeves secure the loose end of a belt to itself.
 
 
 
-![6ef99e4-Belt_Sleeves.jpeg](Belt_Sleeves.jpeg)
+![6ef99e4-Belt_Sleeves.jpeg](_images/Belt_Sleeves.jpeg)
 
 # GT2 Pulley
 These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the driveshaft. They transfer power from the motor to the belt such that FarmBot can move in the X and Y directions.
@@ -99,7 +99,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 
 
 
-![Pulley 2.jpg](Pulley_2.jpg)
+![Pulley 2.jpg](_images/Pulley_2.jpg)
 
 # 5mm to 8mm Shaft Coupling
 This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction.
@@ -116,11 +116,11 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 
 
 
-![305bd7c-Couplper_1.jpeg](Couplper_1.jpeg)
+![305bd7c-Couplper_1.jpeg](_images/Couplper_1.jpeg)
 
 
 
-![58a57cd-Coupler_2.jpeg](Coupler_2.jpeg)
+![58a57cd-Coupler_2.jpeg](_images/Coupler_2.jpeg)
 
 # Leadscrew
 This stainless steel leadscrew allows FarmBot to move in the Z direction.
@@ -142,11 +142,11 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 
 
 
-![Leadscrew 2.JPG](Leadscrew_2.JPG)
+![Leadscrew 2.JPG](_images/Leadscrew_2.JPG)
 
 
 
-![Leadscrew 1.JPG](Leadscrew_1.JPG)
+![Leadscrew 1.JPG](_images/Leadscrew_1.JPG)
 
 # Leadscrew Block
 This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction.
@@ -166,9 +166,9 @@ This delrin block attaches to the cross-slide plate so that the leadscrew can mo
 
 
 
-![Leadscrew Block 1.JPG](Leadscrew_Block_1.JPG)
+![Leadscrew Block 1.JPG](_images/Leadscrew_Block_1.JPG)
 
 
 
-![Leadscrew Block 2.JPG](Leadscrew_Block_2.JPG)
+![Leadscrew Block 2.JPG](_images/Leadscrew_Block_2.JPG)
 

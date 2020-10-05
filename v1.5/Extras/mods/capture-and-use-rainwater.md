@@ -1,7 +1,7 @@
 ---
 title: "Capture and Use Rainwater"
 slug: "capture-and-use-rainwater"
-excerpt: "DIY instructions for installing and using a rain barrel in conjunction with FarmBot"
+description: "DIY instructions for installing and using a rain barrel in conjunction with FarmBot"
 ---
 
 * toc
@@ -18,7 +18,7 @@ content="Please use the following information for *inspiration* only. The instru
 
 
 
-![943962_979991568755937_6771329722782099719_n.jpg](943962_979991568755937_6771329722782099719_n.jpg)
+![943962_979991568755937_6771329722782099719_n.jpg](_images/943962_979991568755937_6771329722782099719_n.jpg)
 
 
 
@@ -55,7 +55,7 @@ Your rain barrel should be within a few feet from a gutter downspout so that wat
 
 The area should also be flat, and have sufficient working room around it so that you can easily access the barrel's tap. Some people raise their barrel off the ground with cinder blocks, wood, or bricks so that the lower tap can be used with a hose bib.
 
-![IMG_20160225_112456.jpg](IMG_20160225_112456.jpg)
+![IMG_20160225_112456.jpg](_images/IMG_20160225_112456.jpg)
 
 
 
@@ -63,7 +63,7 @@ The area should also be flat, and have sufficient working room around it so that
 
 Follow the instructions provided with your rain barrel to complete the installation. This will often include drilling a few holes, installing the water diverter in your gutter downspout, and installing a hose bib in the barrel. Our barrel features a plant-able area in the top lid that we filled with potting soil and a variety of succulents.
 
-![IMG_20160225_111044.jpg](IMG_20160225_111044.jpg)
+![IMG_20160225_111044.jpg](_images/IMG_20160225_111044.jpg)
 
 
 
@@ -77,11 +77,11 @@ At this time we don't have detailed instructions for how to do this, though a lo
   * Connect the pump's output to the barrel output
   * Secure the pump in the bottom of the barrel
 
-![10455-01.jpg](01.jpg)
+![10455-01.jpg](_images/01.jpg)
 
 Then hook up FarmBot's hose to the hose bib on the rain barrel.
 
-![IMG_20160225_114105.jpg](IMG_20160225_114105.jpg)
+![IMG_20160225_114105.jpg](_images/IMG_20160225_114105.jpg)
 
 
 
@@ -93,35 +93,35 @@ The float valve will be inserted into the rain barrel and allow municipal water 
 
 To install the float valve, drill a 7/8" diameter hole in the rain barrel about 5cm *above* the hose bib that FarmBot is connected to.
 
-![IMG_20160225_113328.jpg](IMG_20160225_113328.jpg)
+![IMG_20160225_113328.jpg](_images/IMG_20160225_113328.jpg)
 
 Insert the float valve's threaded end out from the inside of the rain barrel and tighten on the **plastic retaining ring**.
 
-![IMG_20160225_113425.jpg](IMG_20160225_113425.jpg)
+![IMG_20160225_113425.jpg](_images/IMG_20160225_113425.jpg)
 
 
 
-![IMG_20160225_113501.jpg](IMG_20160225_113501.jpg)
+![IMG_20160225_113501.jpg](_images/IMG_20160225_113501.jpg)
 
 Wrap 5-7 layers of **teflon tape** to the **float valve** threads. Wrap in a clockwise direction so that when you screw on the garden hose adapter, the clockwise rotation does not unravel the tape.
 
-![IMG_20160226_140515.jpg](IMG_20160226_140515.jpg)
+![IMG_20160226_140515.jpg](_images/IMG_20160226_140515.jpg)
 
 Screw the **1/2" female NPT to female Garden Hose Adapter** onto the **float valve**.
 
-![IMG_20160226_140602.jpg](IMG_20160226_140602.jpg)
+![IMG_20160226_140602.jpg](_images/IMG_20160226_140602.jpg)
 
 Connect the **garden hose** to the **adapter**, and then connect the other end of this hose to your municipal water supply.
 
-![IMG_20160226_140822.jpg](IMG_20160226_140822.jpg)
+![IMG_20160226_140822.jpg](_images/IMG_20160226_140822.jpg)
 
 Open your home's municipal water valve so that the rain barrel starts filling with water. If all has gone well, the barrel should fill up until the float valve shuts off the water automatically.
 
-![IMG_20160225_113902.jpg](IMG_20160225_113902.jpg)
+![IMG_20160225_113902.jpg](_images/IMG_20160225_113902.jpg)
 
 The water level should be slightly higher than the point where FarmBot is connected such that water is always available for FarmBot to use. As soon as FarmBot pumps out some water, the float valve will open and allow municipal water to refill the barrel automatically. Test this by manually controlling FarmBot with the web app and having it water a few plants.
 
-![IMG_20160226_141300.jpg](IMG_20160226_141300.jpg)
+![IMG_20160226_141300.jpg](_images/IMG_20160226_141300.jpg)
 
 
 

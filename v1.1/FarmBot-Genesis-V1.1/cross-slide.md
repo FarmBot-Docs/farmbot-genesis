@@ -1,14 +1,14 @@
 ---
 title: "Cross-Slide"
 slug: "cross-slide"
-excerpt: "Documentation and Assembly Instructions for the FarmBot Genesis Cross-Slide"
+description: "Documentation and Assembly Instructions for the FarmBot Genesis Cross-Slide"
 ---
 
 * toc
 {:toc}
 
 
-![IMG_6577.jpg](IMG_6577.jpg)
+![IMG_6577.jpg](_images/IMG_6577.jpg)
 
 
 
@@ -18,7 +18,7 @@ To prepare for assembly, gather all the components from the table below and lay 
 * 3mm hex (allen) wrench
 * 8mm wrench
 
-![IMG_6616.jpg](IMG_6616.jpg)
+![IMG_6616.jpg](_images/IMG_6616.jpg)
 
 _Note: Not all required parts are shown in this image._
 

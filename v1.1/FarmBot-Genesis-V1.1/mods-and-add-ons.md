@@ -1,7 +1,7 @@
 ---
 title: "Mods and Add-Ons"
 slug: "mods-and-add-ons"
-excerpt: "Ideas for changing and extending the capabilities of your FarmBot"
+description: "Ideas for changing and extending the capabilities of your FarmBot"
 ---
 
 * toc

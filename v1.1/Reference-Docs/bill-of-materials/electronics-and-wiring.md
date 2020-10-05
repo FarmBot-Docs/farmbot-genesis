@@ -1,7 +1,7 @@
 ---
 title: "Electronics and Wiring"
 slug: "electronics-and-wiring"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the electronics and wiring in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the electronics and wiring in FarmBot Genesis"
 ---
 
 * toc
@@ -28,7 +28,7 @@ excerpt: "Tech specs, prices, quantities, and recommended suppliers for the elec
 # Electronics Housing
 This waterproof housing protects FarmBot's electronics from rain and debris. It has a clear front cover and keeps water out with a rubber gasket.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 
 
@@ -47,7 +47,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 # Power Supply
 
-![Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg](Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg)
+![Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg](_images/Power_supply_12V_30A_11__66927.1365351190.1280.1280.jpg)
 
 
 
@@ -62,7 +62,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 # 5V Power Adapter
 
-![1385-04.jpg](04.jpg)
+![1385-04.jpg](_images/04.jpg)
 
 
 
@@ -78,7 +78,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 # Raspberry Pi 3
 
-![3055-08.jpg](08.jpg)
+![3055-08.jpg](_images/08.jpg)
 
 
 
@@ -100,7 +100,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 # Arduino Mega 2560
 This is the microcontroller that powers FarmBot. It receives G-code commands from the Raspberry Pi and then sends signals to move motors, read sensors, activate peripherals, and more.
 
-![2_33_18.jpg](2_33_18.jpg)
+![2_33_18.jpg](_images/2_33_18.jpg)
 
 
 
@@ -124,7 +124,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # RAMPS Shield
 
-![4_21_16.jpg](4_21_16.jpg)
+![4_21_16.jpg](_images/4_21_16.jpg)
 
 
 
@@ -137,7 +137,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # Stepper Drivers
 
-![0J5804.600x480.jpg](0J5804.600x480.jpg)
+![0J5804.600x480.jpg](_images/0J5804.600x480.jpg)
 
 
 
@@ -156,7 +156,7 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # USB Cable
 
-![31G1lSlmR0L.jpg](31G1lSlmR0L.jpg)
+![31G1lSlmR0L.jpg](_images/31G1lSlmR0L.jpg)
 
 Connects the Raspberry Pi to the Arduino.
 
@@ -194,11 +194,11 @@ Connects the Raspberry Pi to the Arduino.
 
 # Rotary Encoders
 
-![e4t_webproduct_05.jpg](e4t_webproduct_05.jpg)
+![e4t_webproduct_05.jpg](_images/e4t_webproduct_05.jpg)
 
 
 
-![ca-mic6-sh-nc.jpg](mic6-sh-nc.jpg)
+![ca-mic6-sh-nc.jpg](_images/mic6-sh-nc.jpg)
 
 
 
@@ -217,7 +217,7 @@ Connects the Raspberry Pi to the Arduino.
 # Cable Carrier
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing.
 
-![Drag-Chain-30331-03.jpg](Chain-30331-03.jpg)
+![Drag-Chain-30331-03.jpg](_images/Chain-30331-03.jpg)
 
 
 
@@ -238,7 +238,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 
 # Universal Tool Mount Cable
 
-![7673k28p1-d01bl.png](d01bl.png)
+![7673k28p1-d01bl.png](_images/d01bl.png)
 
 
 
@@ -259,7 +259,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 # Soil Sensor
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
 
-![13322-01.jpg](13322-01.jpg)
+![13322-01.jpg](_images/13322-01.jpg)
 
 
 
@@ -275,7 +275,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Solenoid Valve
 
-![10456-01.jpg](10456-01.jpg)
+![10456-01.jpg](_images/10456-01.jpg)
 
 
 
@@ -294,7 +294,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum
 
-![61IVsCaLcGL._SL1315_.jpg](61IVsCaLcGL._SL1315_.jpg)
+![61IVsCaLcGL._SL1315_.jpg](_images/61IVsCaLcGL._SL1315_.jpg)
 
 
 
@@ -325,7 +325,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Peripheral Cable
 
-![9697t2p1-d01bl.png](d01bl.png)
+![9697t2p1-d01bl.png](_images/d01bl.png)
 
 
 

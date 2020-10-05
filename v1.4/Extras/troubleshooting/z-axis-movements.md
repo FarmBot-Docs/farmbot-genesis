@@ -1,7 +1,7 @@
 ---
 title: "Z-Axis Movements"
 slug: "z-axis-movements"
-excerpt: "The z-axis frequently stalls when moving upwards. Movements may fail to complete, and in some cases the z-axis may even stall and then begin moving in the opposite direction."
+description: "The z-axis frequently stalls when moving upwards. Movements may fail to complete, and in some cases the z-axis may even stall and then begin moving in the opposite direction."
 ---
 
 * toc

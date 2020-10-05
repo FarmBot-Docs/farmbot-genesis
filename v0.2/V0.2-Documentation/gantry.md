@@ -13,9 +13,9 @@ In addition, the belt and pinion system allows the drive motor to be positioned 
 
 The other major improvement is the use of custom brackets which greatly simplifies the construction while making the Gantry more rigid. In V0.2, 1 base bracket and 4 wheels at the track/gantry interface replaces the 1 extrusion, 3 brackets, and 8 wheels for this same interface in V0.1. The base plates also provide locations for the endstops to be mounted.
 
-![GenesisV2Plates.jpg](GenesisV2Plates.jpg)
+![GenesisV2Plates.jpg](_images/GenesisV2Plates.jpg)
 
 
 
-![Gantry_Belt_and_Pinion_System.jpg](Gantry_Belt_and_Pinion_System.jpg)
+![Gantry_Belt_and_Pinion_System.jpg](_images/Gantry_Belt_and_Pinion_System.jpg)
 

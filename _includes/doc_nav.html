@@ -1,0 +1,31 @@
+<div class="doc-nav">
+  <div class="version">
+    <select onchange="if (this.value) window.location.href=this.value">
+      {%- assign latest_number =
+        site.latest_version_number | times: include.version_factor | to_integer -%}
+      {% for v in (1..latest_number) %}
+      {%- assign v_number = v | divided_by: include.version_factor -%}
+      {%- if v_number <= site.latest_version_number -%}
+      {%- capture tag -%}v{{ v_number }}{%- endcapture -%}
+      {%- assign toc_key = tag | replace: '.', '' -%}
+      {%- assign toc = site.data.toc[toc_key] -%}
+      {%- if toc -%}
+      {%- capture target_doc_link -%}v{{ v_number }}/{{ toc.home }}{%- endcapture -%}
+      <option {% if include.page_version_number == v_number %}selected="selected" {% endif %}
+        value="{{ target_doc_link | relative_url }}">
+        v{{ toc.version_number }} ({{ toc.status }})
+      </option>
+      {%- endif -%}
+      {%- endif -%}
+      {%- endfor -%}
+    </select>
+
+    <div class="mobile-nav">
+      <select onchange="if (this.value) window.location.href=this.value">
+        <option value>Navigate the docs...</option>
+        {%- include mobile_toc.html toc=include.page_toc.contents
+          version=include.page_version_number -%}
+      </select>
+    </div>
+  </div>
+</div>

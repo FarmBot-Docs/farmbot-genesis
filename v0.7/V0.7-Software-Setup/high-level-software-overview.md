@@ -1,7 +1,7 @@
 ---
 title: "High Level Software Overview"
 slug: "high-level-software-overview"
-excerpt: "Description of the FarmBot Software Toolchain"
+description: "Description of the FarmBot Software Toolchain"
 ---
 
 * toc

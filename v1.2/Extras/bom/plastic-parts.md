@@ -1,7 +1,7 @@
 ---
 title: "Plastic Parts"
 slug: "plastic-parts"
-excerpt: "Tech specs, prices, and quantities for the plastic parts in FarmBot Genesis"
+description: "Tech specs, prices, and quantities for the plastic parts in FarmBot Genesis"
 ---
 
 * toc
@@ -31,15 +31,15 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 
 
 
-![Horizontal Motor Housing 1.JPG](Horizontal_Motor_Housing_1.JPG)
+![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
 
 
 
-![Horizontal Motor Housing 2.JPG](Horizontal_Motor_Housing_2.JPG)
+![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
 
 
 
-![Horizontal Motor Housings.JPG](Horizontal_Motor_Housings.JPG)
+![Horizontal Motor Housings.JPG](_images/Horizontal_Motor_Housings.JPG)
 
 
 
@@ -57,11 +57,11 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 # Vertical Motor Housing
 This component protects the z-axis motor from rain.
 
-![Vertical Motor Housing 1.JPG](Vertical_Motor_Housing_1.JPG)
+![Vertical Motor Housing 1.JPG](_images/Vertical_Motor_Housing_1.JPG)
 
 
 
-![Vertical Motor Housing 2.JPG](Vertical_Motor_Housing_2.JPG)
+![Vertical Motor Housing 2.JPG](_images/Vertical_Motor_Housing_2.JPG)
 
 
 
@@ -84,19 +84,19 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 
 
-![UTM.JPG](UTM.JPG)
+![UTM.JPG](_images/UTM.JPG)
 
 
 
-![UTM 1.JPG](UTM_1.JPG)
+![UTM 1.JPG](_images/UTM_1.JPG)
 
 
 
-![UTM 2.JPG](UTM_2.JPG)
+![UTM 2.JPG](_images/UTM_2.JPG)
 
 
 
-![UTM 3.JPG](UTM_3.JPG)
+![UTM 3.JPG](_images/UTM_3.JPG)
 
 
 
@@ -114,15 +114,15 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 # Universal Tool Mount Cover
 This cover protects the top of the UTM from the rain and dust.
 
-![UTM Cover 1.JPG](UTM_Cover_1.JPG)
+![UTM Cover 1.JPG](_images/UTM_Cover_1.JPG)
 
 
 
-![UTM Cover 2.JPG](UTM_Cover_2.JPG)
+![UTM Cover 2.JPG](_images/UTM_Cover_2.JPG)
 
 
 
-![UTM Cover 3.JPG](UTM_Cover_3.JPG)
+![UTM Cover 3.JPG](_images/UTM_Cover_3.JPG)
 
 
 
@@ -144,15 +144,15 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 
 
-![Seeder2.JPG](Seeder2.JPG)
+![Seeder2.JPG](_images/Seeder2.JPG)
 
 
 
-![Seeder1.JPG](Seeder1.JPG)
+![Seeder1.JPG](_images/Seeder1.JPG)
 
 
 
-![Seeder3.JPG](Seeder3.JPG)
+![Seeder3.JPG](_images/Seeder3.JPG)
 
 
 
@@ -174,23 +174,23 @@ This tool distributes the stream of water coming from the UTM into a gentle show
 
 
 
-![Water1.JPG](Water1.JPG)
+![Water1.JPG](_images/Water1.JPG)
 
 
 
-![Water.JPG](Water.JPG)
+![Water.JPG](_images/Water.JPG)
 
 
 
-![Water2.JPG](Water2.JPG)
+![Water2.JPG](_images/Water2.JPG)
 
 
 
-![Water3.JPG](Water3.JPG)
+![Water3.JPG](_images/Water3.JPG)
 
 
 
-![Water 4.JPG](Water_4.JPG)
+![Water 4.JPG](_images/Water_4.JPG)
 
 
 
@@ -212,27 +212,27 @@ This tool allows FarmBot to smash weeds into the ground, thereby killing them vi
 
 
 
-![Weeder 2.JPG](Weeder_2.JPG)
+![Weeder 2.JPG](_images/Weeder_2.JPG)
 
 
 
-![Weeder `.JPG](Weeder_.JPG)
+![Weeder `.JPG](_images/Weeder_.JPG)
 
 
 
-![Weeder 3.JPG](Weeder_3.JPG)
+![Weeder 3.JPG](_images/Weeder_3.JPG)
 
 
 
-![Weeder Implements.JPG](Weeder_Implements.JPG)
+![Weeder Implements.JPG](_images/Weeder_Implements.JPG)
 
 
 
-![Weeder Blade.JPG](Weeder_Blade.JPG)
+![Weeder Blade.JPG](_images/Weeder_Blade.JPG)
 
 
 
-![Weeder Spike.JPG](Weeder_Spike.JPG)
+![Weeder Spike.JPG](_images/Weeder_Spike.JPG)
 
 
 
@@ -254,15 +254,15 @@ This tool acts as a mount for the soil sensor circuit board.
 
 
 
-![Soil Sensor 2.JPG](Soil_Sensor_2.JPG)
+![Soil Sensor 2.JPG](_images/Soil_Sensor_2.JPG)
 
 
 
-![Soil Sensor1.JPG](Soil_Sensor1.JPG)
+![Soil Sensor1.JPG](_images/Soil_Sensor1.JPG)
 
 
 
-![Soil Sensor3.JPG](Soil_Sensor3.JPG)
+![Soil Sensor3.JPG](_images/Soil_Sensor3.JPG)
 
 
 
@@ -284,11 +284,11 @@ These plastic bins allow you to load many seeds of the same type into your FarmB
 
 
 
-![Seed Bin 2.JPG](Seed_Bin_2.JPG)
+![Seed Bin 2.JPG](_images/Seed_Bin_2.JPG)
 
 
 
-![Seed Bin 3.JPG](Seed_Bin_3.JPG)
+![Seed Bin 3.JPG](_images/Seed_Bin_3.JPG)
 
 
 
@@ -306,11 +306,11 @@ These plastic bins allow you to load many seeds of the same type into your FarmB
 # Seed Trays
 The seed trays feature 16 small bins allowing you to load 16 precise quantities/types of seeds into your FarmBot.
 
-![Seed Tray 1.JPG](Seed_Tray_1.JPG)
+![Seed Tray 1.JPG](_images/Seed_Tray_1.JPG)
 
 
 
-![Seed Trays 3.JPG](Seed_Trays_3.JPG)
+![Seed Trays 3.JPG](_images/Seed_Trays_3.JPG)
 
 
 
@@ -331,11 +331,11 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 
 
 
-![Electronics Plate 1.JPG](Electronics_Plate_1.JPG)
+![Electronics Plate 1.JPG](_images/Electronics_Plate_1.JPG)
 
 
 
-![Electronics Plate 2.JPG](Electronics_Plate_2.JPG)
+![Electronics Plate 2.JPG](_images/Electronics_Plate_2.JPG)
 
 
 

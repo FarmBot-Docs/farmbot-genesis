@@ -1,7 +1,7 @@
 ---
 title: "Use FarmBot as a 3D CNC Camera Rig"
 slug: "use-farmbot-as-a-3d-cnc-camera-rig"
-excerpt: "Use FarmBot to move a camera around in three dimensions for fun videography!"
+description: "Use FarmBot to move a camera around in three dimensions for fun videography!"
 ---
 
 * toc

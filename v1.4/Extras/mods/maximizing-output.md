@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Output"
 slug: "maximizing-output"
-excerpt: "Techniques for getting the most out of your FarmBot"
+description: "Techniques for getting the most out of your FarmBot"
 ---
 
 * toc
@@ -12,7 +12,7 @@ FarmBot is primarily designed for servicing the area defined by the tracks and g
 # Place vining crops at the ends of the bed
 Many crops such as Pumpkins, Tomatoes, Squash, and Beans need a substantial amount of area to spread their foliage and fruits over. If you plant a row of these crops at the X-minimum and X-maximum ends of your raised bed, you can train them (by hand) to grow away from the bed and the FarmBot, allowing them to utilize additional area beyond the bed.
 
-![Screen Shot 2019-06-18 at 3.19.15 PM.png](Screen_Shot_2019-06-18_at_3.19.15_PM.png)
+![Screen Shot 2019-06-18 at 3.19.15 PM.png](_images/Screen_Shot_2019-06-18_at_3.19.15_PM.png)
 
 As long as your FarmBot can continue to access the root location for watering, this technique can easily double or triple the amount of area your crops can utilize. This increased area allows for more sunlight to be absorbed, and more produce to be grown.
 

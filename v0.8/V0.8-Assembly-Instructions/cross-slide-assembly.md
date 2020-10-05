@@ -1,7 +1,7 @@
 ---
 title: "Cross-Slide Assembly"
 slug: "cross-slide-assembly"
-excerpt: "Step-by-step instructions for assembling your FarmBot Genesis V0.8 Cross-Slide"
+description: "Step-by-step instructions for assembling your FarmBot Genesis V0.8 Cross-Slide"
 ---
 
 * toc
@@ -37,7 +37,7 @@ Gather all the parts you will need for the Cross-Slide and lay them out in a log
 * Two M3x5mm setcrews
 * One 3D printed long cable carrier mounting bracket
 
-![IMG_0219.JPG](IMG_0219.JPG)
+![IMG_0219.JPG](_images/IMG_0219.JPG)
 
 _Note: Not all required parts are shown in this image._
 
@@ -56,7 +56,7 @@ content="Its pretty easy to orient your Cross-Slide Plate wrong and attach a bun
 
 
 
-![IMG_0223.JPG](IMG_0223.JPG)
+![IMG_0223.JPG](_images/IMG_0223.JPG)
 
 
 
@@ -64,19 +64,19 @@ content="Its pretty easy to orient your Cross-Slide Plate wrong and attach a bun
 
 Use four **M3x10mm screws** to attach the **stepper motor** and **motor housing** to the **Cross-Slide plate**. Make sure the motor and housing are on the same side of the Cross-Slide Plate as the delrin leadscrew block, and that the motor's wiring and the motor housing's open side are facing down towards the delrin leadscrew block.
 
-![IMG_0228.JPG](IMG_0228.JPG)
+![IMG_0228.JPG](_images/IMG_0228.JPG)
 
 
 
-![IMG_0229.JPG](IMG_0229.JPG)
+![IMG_0229.JPG](_images/IMG_0229.JPG)
 
 
 
-![IMG_0230.JPG](IMG_0230.JPG)
+![IMG_0230.JPG](_images/IMG_0230.JPG)
 
 
 
-![IMG_0231.JPG](IMG_0231.JPG)
+![IMG_0231.JPG](_images/IMG_0231.JPG)
 
 
 
@@ -84,11 +84,11 @@ Use four **M3x10mm screws** to attach the **stepper motor** and **motor housing*
 
 Using **M5x30mm screws**, attach two **V-wheels** with **normal 6mm spacers** to the corner holes of the **Cross-Slide Plate**. The V-wheels should be on the same side of the plate as the motor and the delrin leadscrew block. Secure these wheels with a **washer** and an **M5 locknut** on the other side of the plate.
 
-![20150114_120326.jpg](20150114_120326.jpg)
+![20150114_120326.jpg](_images/20150114_120326.jpg)
 
 Add a **V-wheel** with an **eccentric 6mm spacer** to the hole nearest the middle of the **Cross-Slide plate**. The V-wheel should be on the same side of the plate as the other components and secured with a **washer** and an **M5 locknut** on the other side.
 
-![20150114_120346.jpg](20150114_120346.jpg)
+![20150114_120346.jpg](_images/20150114_120346.jpg)
 
 
 
@@ -98,17 +98,17 @@ Flip the Cross-Slide over so that all of the components you have added so far ar
 
 Using **M5x30mm screws**, **washers**, and **M5 locknuts**, attach two **V-wheels** with **normal 6mm spacers** to the holes in the middle of the left and right edges of the **Cross-Slide plate**.
 
-![20150113_165827.jpg](20150113_165827.jpg)
+![20150113_165827.jpg](_images/20150113_165827.jpg)
 
 _Note: this picture does not show the other components attached yet. The other components should be facing away from you._
 
 Add a **V-wheel** with an **eccentric 6mm spacer** to the hole in the middle of the bottom edge of the **Cross-Slide plate**, nearest the **delrin block**.
 
-![20150113_165938.jpg](20150113_165938.jpg)
+![20150113_165938.jpg](_images/20150113_165938.jpg)
 
 
 
-![20150113_170023.jpg](20150113_170023.jpg)
+![20150113_170023.jpg](_images/20150113_170023.jpg)
 
 
 

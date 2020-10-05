@@ -1,7 +1,7 @@
 ---
 title: "Seeds"
 slug: "seeds"
-excerpt: "guide to help you select seeds to plant with FarmBot"
+description: "guide to help you select seeds to plant with FarmBot"
 ---
 
 * toc

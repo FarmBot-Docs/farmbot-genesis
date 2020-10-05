@@ -1,7 +1,7 @@
 ---
 title: "Camera"
 slug: "camera"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis camera"
+description: "Documentation and assembly instructions for the FarmBot Genesis camera"
 ---
 
 * toc
@@ -15,7 +15,7 @@ The camera itself is a borescope style camera that is fully waterproof. It can b
 
 
 
-![Camera.jpg](Camera.jpg)
+![Camera.jpg](_images/Camera.jpg)
 
 
 
@@ -38,11 +38,11 @@ Gather all the camera parts from the table below and lay them out in a logical m
 
 Slide the **camera** into the **camera mounts**.
 
-![camera_mount.png](camera_mount.png)
+![camera_mount.png](_images/camera_mount.png)
 
 Attach the **camera mounts** to the **z-axis** using the two **M5 x 6mm screws** and **M5 tee nuts**.
 
-![camera_mounted.png](camera_mounted.png)
+![camera_mounted.png](_images/camera_mounted.png)
 
 
 
@@ -50,5 +50,5 @@ Attach the **camera mounts** to the **z-axis** using the two **M5 x 6mm screws**
 
 Plug the **camera** into any free USB port on the **Raspberry Pi**.
 
-![Camera_USB.png](Camera_USB.png)
+![Camera_USB.png](_images/Camera_USB.png)
 

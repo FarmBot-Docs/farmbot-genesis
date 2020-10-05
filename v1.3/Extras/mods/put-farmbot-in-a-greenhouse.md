@@ -1,7 +1,7 @@
 ---
 title: "Put FarmBot in a Greenhouse"
 slug: "put-farmbot-in-a-greenhouse"
-excerpt: "Combine FarmBot with an affordable greenhouse for year-round food production"
+description: "Combine FarmBot with an affordable greenhouse for year-round food production"
 ---
 
 * toc
@@ -18,7 +18,7 @@ content="Please use the following information for inspiration only. The instruct
 
 
 
-![IMG_5931.JPG](IMG_5931.JPG)
+![IMG_5931.JPG](_images/IMG_5931.JPG)
 
 
 
@@ -30,11 +30,11 @@ Follow the greenhouse manufacturer's instructions to setup the greenhouse. In ge
 3. Pull the plastic sheeting over the frame
 4. Secure the sheeting to the frame
 
-![IMG_20160611_131330.jpg](IMG_20160611_131330.jpg)
+![IMG_20160611_131330.jpg](_images/IMG_20160611_131330.jpg)
 
 
 
-![IMG_5896.JPG](IMG_5896.JPG)
+![IMG_5896.JPG](_images/IMG_5896.JPG)
 
 
 
@@ -42,5 +42,5 @@ Follow the greenhouse manufacturer's instructions to setup the greenhouse. In ge
 
 Its possible to control your greenhouse's environment with FarmBot by using fans, automated exhaust flaps, lights, and even heating elements. To do this, you'd simply need to hook up the peripherals to FarmBot's Arduino using a 110V relay such as the [Tails PowerSwitch 2](https://www.adafruit.com/product/268) (pictured below). Then you can use the web app's sequence builder and scheduler to specify when your fans and other peripherals turn on and off, etc.
 
-![268-02.jpg](02.jpg)
+![268-02.jpg](_images/02.jpg)
 

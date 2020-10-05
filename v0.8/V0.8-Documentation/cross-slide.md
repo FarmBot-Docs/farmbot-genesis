@@ -1,7 +1,7 @@
 ---
 title: "Cross-Slide"
 slug: "cross-slide"
-excerpt: "Documentation for the FarmBot Genesis V0.8 Cross-Slide"
+description: "Documentation for the FarmBot Genesis V0.8 Cross-Slide"
 ---
 
 * toc
@@ -15,7 +15,7 @@ excerpt: "Documentation for the FarmBot Genesis V0.8 Cross-Slide"
 
 
 
-![IMG_0254.JPG](IMG_0254.JPG)
+![IMG_0254.JPG](_images/IMG_0254.JPG)
 
 
 

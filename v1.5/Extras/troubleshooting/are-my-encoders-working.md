@@ -1,7 +1,7 @@
 ---
 title: "Are my encoders working?"
 slug: "are-my-encoders-working"
-excerpt: "Problem description: FarmBot is having trouble with measuring movements. Learn how to interpret and diagnose common encoder issues, what causes them, and how to fix them."
+description: "Problem description: FarmBot is having trouble with measuring movements. Learn how to interpret and diagnose common encoder issues, what causes them, and how to fix them."
 ---
 
 * toc
@@ -9,7 +9,7 @@ excerpt: "Problem description: FarmBot is having trouble with measuring movement
 
 A rotary encoder, also called a shaft encoder, is an electro-mechanical device that converts the angular position or motion of a shaft or axle to analog or digital output signals.  The output of the FarmBot encoder provides information about the motion of the shaft, which is processed by the Farmduino into information such as position, speed and acceleration. The FarmBot Genesis
 
-![NEMA_17_Stepper_Motor_w_rotary_encoder.jpg](NEMA_17_Stepper_Motor_w_rotary_encoder.jpg)
+![NEMA_17_Stepper_Motor_w_rotary_encoder.jpg](_images/NEMA_17_Stepper_Motor_w_rotary_encoder.jpg)
 
 _FarmBot Genesis v1.4 NEMA 17 Stepper Motor with  pre-mounted rotary encoders_
 
@@ -22,7 +22,7 @@ In this case you have enabled the encoders in the Hardware widget on the Device 
 1. The motors keep moving and don’t stop when hitting the end of an axis.
 2. The encoders always display 0 in Controls page Move widget, even when motors do not.
 
-![Encoder_menu.png](Encoder_menu.png)
+![Encoder_menu.png](_images/Encoder_menu.png)
 
 _Image credit: @Ascend_
 
@@ -62,9 +62,9 @@ The graphic below is an excerpt from the Honest Sensor HS28A Encoder module data
 There are other resources, documentation and diagnostic available online to help with advanced troubleshooting of rotary encoders. Check out this page by Dynapar on [Encoder Signal Overview & How to Troubleshoot Common Issues](https://www.dynapar.com/knowledge/encoder_issues/encoder_signal/)
 
 
-![Wave_Form_Information.bmp](Wave_Form_Information.bmp)
+![Wave_Form_Information.bmp](_images/Wave_Form_Information.bmp)
 
 
 
-False
+[Rotary Encoder Spec Sheet.pdf](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view)
 

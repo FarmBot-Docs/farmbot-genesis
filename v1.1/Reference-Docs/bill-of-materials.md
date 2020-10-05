@@ -1,7 +1,7 @@
 ---
 title: "Bill of Materials"
 slug: "bill-of-materials"
-excerpt: "Top-level BOM for all components in FarmBot Genesis, grouped by category"
+description: "Top-level BOM for all components in FarmBot Genesis, grouped by category"
 ---
 
 * toc

@@ -1,7 +1,7 @@
 ---
 title: "Lighting"
 slug: "lighting"
-excerpt: "Add the LED light strip to the Gantry"
+description: "Add the LED light strip to the Gantry"
 ---
 
 * toc
@@ -12,7 +12,7 @@ excerpt: "Add the LED light strip to the Gantry"
 
 Feed the [LED light strip](../../Extras/bom/electronics-and-wiring.md#led-strip) through the horizontal cable carrier supports on the Gantry.
 
-![lights.png](lights.png)
+![lights.png](_images/lights.png)
 
 
 # What's next?

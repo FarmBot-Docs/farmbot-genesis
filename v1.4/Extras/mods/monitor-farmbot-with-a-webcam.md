@@ -1,7 +1,7 @@
 ---
 title: "Monitor FarmBot with a Webcam"
 slug: "monitor-farmbot-with-a-webcam"
-excerpt: "DIY instructions for setting up a webcam to monitor FarmBot"
+description: "DIY instructions for setting up a webcam to monitor FarmBot"
 ---
 
 * toc
@@ -20,13 +20,13 @@ Below we offer two ways for setting up a webcam for your FarmBot.
 
 There are many web connected security cameras on the market that you can purchase and install pointed at your FarmBot. We recommend using a high quality camera that has low lag and built-in infrared LEDs for a night vision ability. Depending on your local weather and where you plan to install your camera, you might need to purchase a camera that is meant for the outdoors and weatherproof. At FarmBot Inc, we use Nest brand outdoor cameras.
 
-![Nest Day.JPG](Nest_Day.JPG)
+![Nest Day.JPG](_images/Nest_Day.JPG)
 
 _FarmBot webcam in the day_
 
 
 
-![Nest at night.png](Nest_at_night.png)
+![Nest at night.png](_images/Nest_at_night.png)
 
 _FarmBot webcam at night_
 
@@ -41,5 +41,5 @@ You can use an additional Raspberry Pi and a **Raspberry Pi Camera Module** to s
 
 The Pi and camera module needs to be mounted either on your FarmBot or external to it (on an adjacent building for example) in a rain proof location. This could be done with a [small plastic bracket](https://www.adafruit.com/products/1434) and a 3D printed roof structure, or other materials. How and where you mount your camera is up to you.
 
-![1367-07.jpg](07.jpg)
+![1367-07.jpg](_images/07.jpg)
 

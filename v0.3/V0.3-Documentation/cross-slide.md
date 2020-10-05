@@ -11,5 +11,5 @@ The Genesis V0.2 cross-slide was composed of three plates sandwiching all of the
 ## Issues and Proposed Solutions
   * There may be an issue with where the cables exit the cross-slide with the switch over to the cable carrier system from the wire and trolley system. This has yet to be determined in V0.4
 
-![Cross-Slide-Genesis-V3.jpg](Slide-Genesis-V3.jpg)
+![Cross-Slide-Genesis-V3.jpg](_images/Slide-Genesis-V3.jpg)
 

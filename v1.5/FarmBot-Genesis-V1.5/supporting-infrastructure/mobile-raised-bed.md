@@ -1,7 +1,7 @@
 ---
 title: "Mobile Raised Bed"
 slug: "mobile-raised-bed"
-excerpt: "Step-by-step instructions for building a mobile raised bed for FarmBot Genesis"
+description: "Step-by-step instructions for building a mobile raised bed for FarmBot Genesis"
 ---
 
 * toc
@@ -18,7 +18,7 @@ content="We do not recommend building a mobile raised bed for Genesis XL or Gene
 
 
 
-![Soil.JPG](Soil.JPG)
+![Soil.JPG](_images/Soil.JPG)
 
 
 
@@ -74,51 +74,51 @@ In the step-by-step instructions below, we'll be building a bed that is narrower
 # Step 2: Lay out the floor panels and legs
 Lay the two **side floor panels** on the floor to form the outer shape of the bed. There should be about a 0.5m gap between them. The 105cm edges should be on the short sides of the bed outline.
 
-![Screen Shot 2019-03-15 at 6.09.37 PM.png](Screen_Shot_2019-03-15_at_6.09.37_PM.png)
+![Screen Shot 2019-03-15 at 6.09.37 PM.png](_images/Screen_Shot_2019-03-15_at_6.09.37_PM.png)
 
 # Step 3: Mark where the legs will go
 Stand the four **legs** up on the four corners of the **floor panels**. Using a pencil, mark where the inner edges of the legs meet the floor panels. Then remove the legs.
 
-![Screen Shot 2019-03-15 at 6.12.27 PM.png](Screen_Shot_2019-03-15_at_6.12.27_PM.png)
+![Screen Shot 2019-03-15 at 6.12.27 PM.png](_images/Screen_Shot_2019-03-15_at_6.12.27_PM.png)
 
 # Step 4: Cut and attach the floor supports
 If not already cut to length, cut the **floor supports** such that they will fit on the **floor panels** as shown, ensuring that they do not intrude on the space needed for the legs as marked in the previous step.
 
-![Screen Shot 2019-03-15 at 6.25.08 PM.png](Screen_Shot_2019-03-15_at_6.25.08_PM.png)
+![Screen Shot 2019-03-15 at 6.25.08 PM.png](_images/Screen_Shot_2019-03-15_at_6.25.08_PM.png)
 
 Flip everything over and attach the supports to the panels using **30mm screws** spaced roughly every 150mm.
 
-![Screen Shot 2019-03-15 at 6.28.30 PM.png](Screen_Shot_2019-03-15_at_6.28.30_PM.png)
+![Screen Shot 2019-03-15 at 6.28.30 PM.png](_images/Screen_Shot_2019-03-15_at_6.28.30_PM.png)
 
 # Step 5: Attach the short walls
 Temporarily raise one **floor panel** subassembly off of the floor by 90mm by positioning **legs** underneath the **floor supports**.
 
-![Screen Shot 2019-03-15 at 6.32.41 PM.png](Screen_Shot_2019-03-15_at_6.32.41_PM.png)
+![Screen Shot 2019-03-15 at 6.32.41 PM.png](_images/Screen_Shot_2019-03-15_at_6.32.41_PM.png)
 
 Now position one of the **short walls** against the short edge of the **floor panel** as shown.
 
-![Screen Shot 2019-03-15 at 6.33.47 PM.png](Screen_Shot_2019-03-15_at_6.33.47_PM.png)
+![Screen Shot 2019-03-15 at 6.33.47 PM.png](_images/Screen_Shot_2019-03-15_at_6.33.47_PM.png)
 
 Attach the **short wall** to the **short floor support** using **65mm screws** spaced roughly every 150mm. Ensure you offset the screws from those used in the previous step to ensure there are no collisions. You may want to pre-drill through the short wall.
 
-![Screen Shot 2019-03-15 at 6.37.03 PM.png](Screen_Shot_2019-03-15_at_6.37.03_PM.png)
+![Screen Shot 2019-03-15 at 6.37.03 PM.png](_images/Screen_Shot_2019-03-15_at_6.37.03_PM.png)
 
 Repeat for the second panel and second short wall.
 
-![Screen Shot 2019-03-15 at 6.40.29 PM.png](Screen_Shot_2019-03-15_at_6.40.29_PM.png)
+![Screen Shot 2019-03-15 at 6.40.29 PM.png](_images/Screen_Shot_2019-03-15_at_6.40.29_PM.png)
 
 # Step 6: Attach the long walls
 Position one of the **long walls** such that its end faces are flush with the outer faces of the **short walls**.
 
-![Screen Shot 2019-03-15 at 6.44.59 PM.png](Screen_Shot_2019-03-15_at_6.44.59_PM.png)
+![Screen Shot 2019-03-15 at 6.44.59 PM.png](_images/Screen_Shot_2019-03-15_at_6.44.59_PM.png)
 
 Attach the **long wall** to the **long floor supports** using **65mm screws** spaced roughly every 150mm. Ensure you offset the screws from those used in the previous steps to ensure there are no collisions. You may want to pre-drill through the long wall.
 
-![Screen Shot 2019-03-15 at 6.49.28 PM.png](Screen_Shot_2019-03-15_at_6.49.28_PM.png)
+![Screen Shot 2019-03-15 at 6.49.28 PM.png](_images/Screen_Shot_2019-03-15_at_6.49.28_PM.png)
 
 Repeat for the second long wall.
 
-![Screen Shot 2019-03-15 at 6.51.25 PM.png](Screen_Shot_2019-03-15_at_6.51.25_PM.png)
+![Screen Shot 2019-03-15 at 6.51.25 PM.png](_images/Screen_Shot_2019-03-15_at_6.51.25_PM.png)
 
 # Step 7: Attach the legs
 Using the help of another person (or two), carefully flip the raised bed upside down.
@@ -132,11 +132,11 @@ content="Remember: the **legs** are underneath the bed because you temporarily u
 
 
 
-![Screen Shot 2019-03-15 at 6.57.03 PM.png](Screen_Shot_2019-03-15_at_6.57.03_PM.png)
+![Screen Shot 2019-03-15 at 6.57.03 PM.png](_images/Screen_Shot_2019-03-15_at_6.57.03_PM.png)
 
 Position one of the **legs** in the corner of the bed.
 
-![Capture.JPG](Capture.JPG)
+![Capture.JPG](_images/Capture.JPG)
 
 Mark and pre-drill one hole for an **M10 bolt** all the way through the long wall and leg. Then mark and pre-drill a second hole all the way through the short wall and leg. You may want to clamp the leg in place for pre-drilling.
 
@@ -149,33 +149,33 @@ content="Make sure to stagger the holes slightly so that the bolt coming in from
 
 
 
-![Holes.JPG](Holes.JPG)
+![Holes.JPG](_images/Holes.JPG)
 
 Attach the **leg** to the bed using two **M10 x 150mm bolts**, four **large M10 washers**, and two **M10 nuts**. One washer should be placed between each bolt head and the wood and between each nut and the wood.
 
-![Screws.JPG](Screws.JPG)
+![Screws.JPG](_images/Screws.JPG)
 
 Repeat for the remaining three **legs**.
 
-![Legs.JPG](Legs.JPG)
+![Legs.JPG](_images/Legs.JPG)
 
 # Step 8: Attach the casters
 Using four **65mm screws**, attach a **caster** to the bottom of a **leg**.
 
-![Caster.JPG](Caster.JPG)
+![Caster.JPG](_images/Caster.JPG)
 
 Repeat for the remaining three casters.
 
-![Casters.JPG](Casters.JPG)
+![Casters.JPG](_images/Casters.JPG)
 
 # Step 9: Attach the middle floor panel
 With the help of an extra person, flip the raised bed over onto its wheels. You may want to lock the casters before flipping the bed over, to prevent it from rolling.
 
-![On Wheels.JPG](On_Wheels.JPG)
+![On Wheels.JPG](_images/On_Wheels.JPG)
 
 Position the **middle floor panel** over the gap in the middle of the bed, and attach it to the **side floor panels** using **30mm screws** spaced roughly every 150mm.
 
-![middle.JPG](middle.JPG)
+![middle.JPG](_images/middle.JPG)
 
 # Step 10: Apply the sealer or stain
 Consider using an orbital sander to smooth out any rough edges and corners, and remove any markings on the wood. Then follow the instructions on the the can of the **stain or sealer** you purchased to give your bed a finished look. While this step is optional, it can go a long way towards improving the aesthetics of your FarmBot installation.
@@ -195,7 +195,7 @@ content="Your mobile raised bed is now ready for your FarmBot installation."
 
 
 
-![Soil.JPG](Soil.JPG)
+![Soil.JPG](_images/Soil.JPG)
 
 
 # What's next?

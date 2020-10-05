@@ -1,7 +1,7 @@
 ---
 title: "Past Versions"
 slug: "past-versions"
-excerpt: "Abbreviated descriptions of what changed from version to version of FarmBot Genesis"
+description: "Abbreviated descriptions of what changed from version to version of FarmBot Genesis"
 ---
 
 * toc

@@ -1,7 +1,7 @@
 ---
 title: "Thermal Management"
 slug: "thermal-management"
-excerpt: "Learn more about FarmBot's thermal operating limits"
+description: "Learn more about FarmBot's thermal operating limits"
 ---
 
 * toc
@@ -12,7 +12,7 @@ FarmBot has been designed to operate in challenging environments including in ho
 # Checking the temperature
 In all FarmBot kits, there is a built-in temperature sensor located on the Raspberry Pi computer. It is important to protect the CPU and other electronics from excessively high temperatures, so we recommend monitoring the temperature using the real-time **CPU temperature** information located in the **connectivity popup**.
 
-![Connectivity_1024x1024.png](Connectivity_1024x1024.png)
+![Connectivity_1024x1024.png](_images/Connectivity_1024x1024.png)
 
 In addition to providing the exact temperature of the CPU, the indicator circle will change color based on the temperature, according to the following table.
 
@@ -81,14 +81,14 @@ If sustained freezing weather is around the corner, it is important to turn off 
 
 This photo is an example of a frozen outdoor faucet and it is causing a leak because the valve is frozen open. In this case the owner was lucky and they were able to catch the leak before more property damage could happen.
 
-![frozen-hose-bib-amerispec1.jpg](frozen-hose-bib-amerispec1.jpg)
+![frozen-hose-bib-amerispec1.jpg](_images/frozen-hose-bib-amerispec1.jpg)
 
 Provided that you winterize the FarmBot, it will be fine outside in the winter time in cold climates. Wrapping the FarmBot in a tarp may also be good to protect the components and prevent wear.
 
 ## Locking FarmBot in place
 You may also consider locking the FarmBot in place with the belt clips. This will prevent the FarmBot from being blown around in high winter winds.
 
-![Winterizing_Gantry.jpeg](Winterizing_Gantry.jpeg)
+![Winterizing_Gantry.jpeg](_images/Winterizing_Gantry.jpeg)
 
 _Using the belt clips to lock the gantry into place over the winter time._
 

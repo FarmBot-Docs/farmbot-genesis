@@ -19,27 +19,27 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 
 ## Photos
 
-![V5_UTM_Render_1.jpg](V5_UTM_Render_1.jpg)
+![V5_UTM_Render_1.jpg](_images/V5_UTM_Render_1.jpg)
 
 
 
-![V5_UTM_Render_2.jpg](V5_UTM_Render_2.jpg)
+![V5_UTM_Render_2.jpg](_images/V5_UTM_Render_2.jpg)
 
 
 
-![V5_UTM_Bottom.jpg](V5_UTM_Bottom.jpg)
+![V5_UTM_Bottom.jpg](_images/V5_UTM_Bottom.jpg)
 
 
 
-![FDM_UTM_V5_Top.jpg](FDM_UTM_V5_Top.jpg)
+![FDM_UTM_V5_Top.jpg](_images/FDM_UTM_V5_Top.jpg)
 
 
 
-![SLS_V5_UTM_Top.jpg](SLS_V5_UTM_Top.jpg)
+![SLS_V5_UTM_Top.jpg](_images/SLS_V5_UTM_Top.jpg)
 
 
 
-![UTM_V5_FDM_Print_Support_Material.jpg](UTM_V5_FDM_Print_Support_Material.jpg)
+![UTM_V5_FDM_Print_Support_Material.jpg](_images/UTM_V5_FDM_Print_Support_Material.jpg)
 
 ## Universal Tool Mount Change Log
 There are many changes from the V0.4 UTM design including the following.

@@ -1,7 +1,7 @@
 ---
 title: "WiFi Configurator"
 slug: "wifi-configurator"
-excerpt: "Step-by-step instructions for installing and using the WiFi Configurator utility"
+description: "Step-by-step instructions for installing and using the WiFi Configurator utility"
 ---
 
 * toc
@@ -32,7 +32,7 @@ When the utility is installed, it works as follows:
 5. Using your phone or laptop, connect to the FarmBot WiFi network and open up a web browser. Navigate to any web page, such as google.com.
 6. Instead of going to google.com, you will be redirected to the WiFi Configurator page.
 
-![f7375992-a617-11e4-9b88-a4c46baecf7b.jpg](a617-11e4-9b88-a4c46baecf7b.jpg)
+![f7375992-a617-11e4-9b88-a4c46baecf7b.jpg](_images/a617-11e4-9b88-a4c46baecf7b.jpg)
 
 7. From here, enter in the name of the WiFi network (SSID) you would like your FarmBot to normally connect to, and that network's password. You can add more than one network if you want. The names and passwords are saved in the config file mentioned in Step 2.
 8. Now press **Save and Restart Utility**. The WiFi Configurator utility will restart, check the config file for an SSID and password, and connect to that network.

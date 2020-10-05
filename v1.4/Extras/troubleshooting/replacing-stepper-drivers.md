@@ -7,13 +7,13 @@ slug: "replacing-stepper-drivers"
 {:toc}
 
 
-![A4988_STEPPER_DRIVER.jpg](A4988_STEPPER_DRIVER.jpg)
+![A4988_STEPPER_DRIVER.jpg](_images/A4988_STEPPER_DRIVER.jpg)
 
 _A4988 Stepper Drivers_
 
 It is possible for a stepper driver module to become damaged which may result in no movement at all along an axis. A common sign of a damaged stepper driver module is noticeable burn marks on the stepper driver chip or PCB.
 
-![STEPPER_DRIVERS.jpg](STEPPER_DRIVERS.jpg)
+![STEPPER_DRIVERS.jpg](_images/STEPPER_DRIVERS.jpg)
 
 _The stepper drivers are located on the Farmduino micro-control board. There is one available spare on the AUX MOTOR stepper driver._
 

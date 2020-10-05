@@ -1,7 +1,7 @@
 ---
 title: "3D Prints"
 slug: "3d-prints"
-excerpt: "Tech specs, prices, quantities, and recommended suppliers for the 3D prints in FarmBot Genesis"
+description: "Tech specs, prices, quantities, and recommended suppliers for the 3D prints in FarmBot Genesis"
 ---
 
 * toc
@@ -36,7 +36,7 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 
 
 
-![long drag chain mount drawing.png](long_drag_chain_mount_drawing.png)
+![long drag chain mount drawing.png](_images/long_drag_chain_mount_drawing.png)
 
 
 
@@ -56,7 +56,7 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 
 
 
-![drag chain support drawing.png](drag_chain_support_drawing.png)
+![drag chain support drawing.png](_images/drag_chain_support_drawing.png)
 
 
 
@@ -92,7 +92,7 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 
 
 
-![horiz motor housing drawing.png](horiz_motor_housing_drawing.png)
+![horiz motor housing drawing.png](_images/horiz_motor_housing_drawing.png)
 
 
 
@@ -112,7 +112,7 @@ This component protects the z-axis motor from rain.
 
 
 
-![vertical motor housing drawing.png](vertical_motor_housing_drawing.png)
+![vertical motor housing drawing.png](_images/vertical_motor_housing_drawing.png)
 
 
 
@@ -132,7 +132,7 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 
 
 
-![z-axis cable clip drawing.png](z-axis_cable_clip_drawing.png)
+![z-axis cable clip drawing.png](_images/z-axis_cable_clip_drawing.png)
 
 
 
@@ -325,5 +325,5 @@ These simple components help organize and route the cables and tubes coming from
 
 
 
-![cable clip drawing.png](cable_clip_drawing.png)
+![cable clip drawing.png](_images/cable_clip_drawing.png)
 

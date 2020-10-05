@@ -1,0 +1,25 @@
+<nav>
+  <div class="nav-content">
+    <a class="doc-icon" href="http://docs.farm.bot">
+      <img src="{{ 'assets/images/documentation.png' | relative_url }}" alt="FarmBot Documentation Hub">
+    </a>
+    <div class="nav-links">
+      <a class="{%- if site.github.repository_name == 'farmbot-express' -%}
+      current
+      {%- endif -%}" href="http://express.farm.bot">Express</a>
+      <a class="{%- if site.github.repository_name == 'farmbot-genesis' -%}
+      current
+      {%- endif -%}" href="http://genesis.farm.bot">Genesis</a>
+      <a class="{%- if site.github.repository_name == 'farmbot-software' -%}
+      current
+      {%- endif -%}" href="http://software.farm.bot">Software</a>
+      <a class="{%- if site.github.repository_name == 'farmbot-developers' -%}
+      current
+      {%- endif -%}" href="http://dev.farm.bot">Developer</a>
+      <a class="{%- if site.github.repository_name == 'farmbot-meta' -%}
+      current
+      {%- endif -%}" href="http://meta.farm.bot">Business</a>
+      <a href="http://shop.farm.bot">Shop</a>
+    </div>
+  </div>
+</nav>

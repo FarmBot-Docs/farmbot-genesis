@@ -1,7 +1,7 @@
 ---
 title: "Assembly Preparation"
 slug: "assembly-preparation"
-excerpt: "Preliminary steps to take before assembling the major components of your FarmBot"
+description: "Preliminary steps to take before assembling the major components of your FarmBot"
 ---
 
 * toc
@@ -32,7 +32,7 @@ When you first open up your FarmBot hardware package, pull out all of the compon
 
 For many, grouping parts by type helps with locating them quickly later on. For example: place all your screws in one area, all your plates in another, all your electronics in another, etc.
 
-![IMG_8777.JPG](IMG_8777.JPG)
+![IMG_8777.JPG](_images/IMG_8777.JPG)
 
 
 

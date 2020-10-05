@@ -1,7 +1,7 @@
 ---
 title: "Gantry Assembly"
 slug: "gantry-assembly"
-excerpt: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Gantry"
+description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Gantry"
 ---
 
 * toc
@@ -12,39 +12,39 @@ excerpt: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Gan
 
 Gather and lay out all of the parts. You will need: 2 Gantry Plates, 8 solid V-wheel kits, and 2 eccentric spacers. It is best to lay out the gantry plates as a mirror image of each other and attach all of the wheel kits facing towards you to ensure you end up with both a left facing and a right facing assembly!
 
-![Gantry_Assembly_1.jpg](Gantry_Assembly_1.jpg)
+![Gantry_Assembly_1.jpg](_images/Gantry_Assembly_1.jpg)
 
 Attach the three solid V-wheel assemblies with **normal** spacers onto each plate. The order of parts is: Screw head, Plate, Spacer, V-Wheel sub-assembly, Lock-nut. Use a 3mm allen wrench and an 8mm crescent wrench to tighten the assembly. Use a moderate amount of torque.
 
-![Gantry_Assembly_3.jpg](Gantry_Assembly_3.jpg)
+![Gantry_Assembly_3.jpg](_images/Gantry_Assembly_3.jpg)
 
 
 
-![Gantry_Assembly_4.jpg](Gantry_Assembly_4.jpg)
+![Gantry_Assembly_4.jpg](_images/Gantry_Assembly_4.jpg)
 
 
 
-![Gantry_Assembly_5.jpg](Gantry_Assembly_5.jpg)
+![Gantry_Assembly_5.jpg](_images/Gantry_Assembly_5.jpg)
 
 
 
-![Gantry_Assembly_6.jpg](Gantry_Assembly_6.jpg)
+![Gantry_Assembly_6.jpg](_images/Gantry_Assembly_6.jpg)
 
 Attach the single solid V-wheel assembly with the **eccentric** spacer onto each plate. The eccentric spacer fits into the largest hole on the plate.
 
-![Gantry_V5_Eccentric.jpg](Gantry_V5_Eccentric.jpg)
+![Gantry_V5_Eccentric.jpg](_images/Gantry_V5_Eccentric.jpg)
 
 
 
-![Gantry_Assembly_7.jpg](Gantry_Assembly_7.jpg)
+![Gantry_Assembly_7.jpg](_images/Gantry_Assembly_7.jpg)
 
 
 
-![V5_Gantry_8.jpg](V5_Gantry_8.jpg)
+![V5_Gantry_8.jpg](_images/V5_Gantry_8.jpg)
 
  You should now have two Gantry plates with 4 V-wheel assemblies on each.
 
-![V5_Gantry_9.jpg](V5_Gantry_9.jpg)
+![V5_Gantry_9.jpg](_images/V5_Gantry_9.jpg)
 
 
 
@@ -70,7 +70,7 @@ content="If the wheel spacing is too small, your Gantry plate will not easily sl
 3. Once you have adjusted the spacer 1/32 of a turn, do another fit test.
 4. Continue the steps above until your gantry plate glides smoothly and wobble free across your tracks.
 
-![20150113_140601.jpg](20150113_140601.jpg)
+![20150113_140601.jpg](_images/20150113_140601.jpg)
 
 
 
@@ -87,7 +87,7 @@ Don't expect your Gantry to roll like a ball down a hill. A well fitted gantry w
 
 
 
-![20150113_140620.jpg](20150113_140620.jpg)
+![20150113_140620.jpg](_images/20150113_140620.jpg)
 
 
 
@@ -104,19 +104,19 @@ content="It is easiest to partially screw together all of the screws and tee nut
 
 
 
-![20150113_163624.jpg](20150113_163624.jpg)
+![20150113_163624.jpg](_images/20150113_163624.jpg)
 
 
 
-![20150113_163644.jpg](20150113_163644.jpg)
+![20150113_163644.jpg](_images/20150113_163644.jpg)
 
 
 
-![20150113_163658.jpg](20150113_163658.jpg)
+![20150113_163658.jpg](_images/20150113_163658.jpg)
 
 Now slide your gantry column and plate assemblies onto your tracks.
 
-![20150113_163819.jpg](20150113_163819.jpg)
+![20150113_163819.jpg](_images/20150113_163819.jpg)
 
 
 
@@ -124,11 +124,11 @@ Now slide your gantry column and plate assemblies onto your tracks.
 
 Attach one corner bracket on top of each gantry column using two M5x8mm screws and tee nuts. Make sure the brackets are on the correct side of the extrusion.
 
-![20150113_164021.jpg](20150113_164021.jpg)
+![20150113_164021.jpg](_images/20150113_164021.jpg)
 
 
 
-![20150113_164030.jpg](20150113_164030.jpg)
+![20150113_164030.jpg](_images/20150113_164030.jpg)
 
 
 
@@ -145,7 +145,7 @@ content="Avoid applying force to the gantry columns in the direction perpendicul
 
 
 
-![20150113_164459.jpg](20150113_164459.jpg)
+![20150113_164459.jpg](_images/20150113_164459.jpg)
 
 
 
@@ -159,7 +159,7 @@ Slide a 5mm to 5mm flex coupling onto the motor shaft and tighten it using the t
 
 Use two M5x8mm screws and teenuts to attach the motor plate assembly to the gantry column as shown.
 
-![20150114_121357.jpg](20150114_121357.jpg)
+![20150114_121357.jpg](_images/20150114_121357.jpg)
 
 Using two M5x8mm screws and tee nuts, attach the driveshaft bearing plate onto the outside face of the gantry column that does not have the motor on it.
 
@@ -202,7 +202,7 @@ content="You may notice some squeaking noises coming from the driveshaft rubbing
 
 Feed GT2 timing belt down the center of your gantry column, ensuring the orientation is correct so that the belt teeth will engage the motor pulley properly.
 
-![20150114_121918.jpg](20150114_121918.jpg)
+![20150114_121918.jpg](_images/20150114_121918.jpg)
 
 Grab the end of the GT2 belt and feed it under the middle V-wheel of your gantry plate,then forward along the track extrusion, and then under the front V-wheel. The flat side of the belt should be in contact with your V-wheels.
 
@@ -215,11 +215,11 @@ content="When feeding your belt through the gantry column, there is a possibilit
 
 
 
-![20150114_121937.jpg](20150114_121937.jpg)
+![20150114_121937.jpg](_images/20150114_121937.jpg)
 
 
 
-![20150114_122028.jpg](20150114_122028.jpg)
+![20150114_122028.jpg](_images/20150114_122028.jpg)
 
 Secure the end of your belt to the front end of your Tracks by using an M5x8mm screw and tee nut.
 
@@ -232,15 +232,15 @@ content="You do not need to over-tighten the M5 screw. Doing so may result in da
 
 
 
-![20150114_122443.jpg](20150114_122443.jpg)
+![20150114_122443.jpg](_images/20150114_122443.jpg)
 
 Take the back half of the belt and feed it over the motor pulley, down the back of the extrusion, under the back V-wheel on the Gantry Plate, and back along the Track extrusions.
 
-![20150114_122416.jpg](20150114_122416.jpg)
+![20150114_122416.jpg](_images/20150114_122416.jpg)
 
 Secure the belt at the end of the Tracks. Put a small amount of tension on the belt as you tighten the M5 screw.
 
-![20150114_122506.jpg](20150114_122506.jpg)
+![20150114_122506.jpg](_images/20150114_122506.jpg)
 
 Repeat the above steps for the second belt on the other side of the Gantry.
 

@@ -1,7 +1,7 @@
 ---
 title: "Farmduino Peripheral Pin Numbers"
 slug: "farmduino-peripheral-pin-numbers"
-excerpt: "Information needed for [Web App](https://my.farmbot.io/) control of peripherals"
+description: "Information needed for [Web App](https://my.farmbot.io/) control of peripherals"
 ---
 
 * toc
@@ -28,9 +28,9 @@ content="See the [FarmBot Web App Documentation](https://software.farmbot.io/doc
 
 
 
-![peripherals.png](peripherals.png)
+![peripherals.png](_images/peripherals.png)
 
 
 
-![light_flash.png](light_flash.png)
+![light_flash.png](_images/light_flash.png)
 

@@ -1,7 +1,7 @@
 ---
 title: "Weeder"
 slug: "weeder"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Weeder"
+description: "Documentation and assembly instructions for the FarmBot Genesis Weeder"
 ---
 
 * toc

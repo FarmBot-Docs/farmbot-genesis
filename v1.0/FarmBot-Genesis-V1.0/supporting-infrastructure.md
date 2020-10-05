@@ -1,7 +1,7 @@
 ---
 title: "Supporting Infrastructure"
 slug: "supporting-infrastructure"
-excerpt: "Step-by-step instructions for setting up supporting infrastructure for FarmBot Genesis"
+description: "Step-by-step instructions for setting up supporting infrastructure for FarmBot Genesis"
 ---
 
 * toc

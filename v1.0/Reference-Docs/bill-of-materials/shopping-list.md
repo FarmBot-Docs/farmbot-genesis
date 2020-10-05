@@ -1,7 +1,7 @@
 ---
 title: "Shopping List"
 slug: "shopping-list"
-excerpt: "Building your own FarmBot? Here is a shopping list, organized by supplier."
+description: "Building your own FarmBot? Here is a shopping list, organized by supplier."
 ---
 
 * toc

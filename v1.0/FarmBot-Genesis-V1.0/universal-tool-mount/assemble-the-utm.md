@@ -54,19 +54,19 @@ Which side is North and which is South does not matter. The important part is th
 
 Insert an **M5 x 30mm screw** through one of the **ring magnets**. For the first magnet, the orientation does not matter.
 
-![IMG_20160324_182556.jpg](IMG_20160324_182556.jpg)
+![IMG_20160324_182556.jpg](_images/IMG_20160324_182556.jpg)
 
 
 
-![IMG_20160324_182606.jpg](IMG_20160324_182606.jpg)
+![IMG_20160324_182606.jpg](_images/IMG_20160324_182606.jpg)
 
 Insert the magnet/screw combo into the **UTM** and  use the **3mm hex driver** and the **8mm wrench** to tighten an **M5 locknut** and **M5 washer** onto the screw.
 
-![IMG_20160324_182742.jpg](IMG_20160324_182742.jpg)
+![IMG_20160324_182742.jpg](_images/IMG_20160324_182742.jpg)
 
 
 
-![IMG_20160324_182812.jpg](IMG_20160324_182812.jpg)
+![IMG_20160324_182812.jpg](_images/IMG_20160324_182812.jpg)
 
 Repeat the process above for the two remaining UTM magnets.
 
@@ -79,7 +79,7 @@ content="Ensure that the polar orientation of all the UTM magnets are the same. 
 
 
 
-![IMG_20160324_183016.jpg](IMG_20160324_183016.jpg)
+![IMG_20160324_183016.jpg](_images/IMG_20160324_183016.jpg)
 
 # Step 3: Install the Barbs
 Use the **8mm wrench** to screw in the three **barbs** to the **UTM**. The barbs should be inserted in the holes labelled A, B, and C.
@@ -98,17 +98,17 @@ Using the **2mm hex driver** and the **6mm wrench**, attach an **M3 locknut** on
 # Step 6: Prepare the UTM Cover
 Insert four **rubber seals** into the **UTM cover**.
 
-![IMG_20160324_181910.jpg](IMG_20160324_181910.jpg)
+![IMG_20160324_181910.jpg](_images/IMG_20160324_181910.jpg)
 
  Ensure that the seal flanges are not folded or caught under themselves.
 
-![IMG_20160324_181944.jpg](IMG_20160324_181944.jpg)
+![IMG_20160324_181944.jpg](_images/IMG_20160324_181944.jpg)
 
 
 
-![IMG_20160324_182004.jpg](IMG_20160324_182004.jpg)
+![IMG_20160324_182004.jpg](_images/IMG_20160324_182004.jpg)
 
 
 
-![IMG_20160324_182106.jpg](IMG_20160324_182106.jpg)
+![IMG_20160324_182106.jpg](_images/IMG_20160324_182106.jpg)
 

@@ -1,7 +1,7 @@
 ---
 title: "Setting up Wooden Posts Only"
 slug: "setting-up-wooden-posts-only"
-excerpt: "Step-by-step instructions for setting up wooden posts for your FarmBot"
+description: "Step-by-step instructions for setting up wooden posts for your FarmBot"
 ---
 
 * toc
@@ -18,11 +18,11 @@ content="This is the estimated time it will take to setup wood posts."
 
 
 
-![posts.png](posts.png)
+![posts.png](_images/posts.png)
 
   * Install short (500mm) wood posts for one of the tracks. The top of the post should protrude at least 60mm from the ground, with at least 60mm of mounting width in the direction of the planned tracks. Bury or secure the posts however you like, though it is critical to ensure that the posts will not significantly move once installed.
 
-![posts.png](posts.png)
+![posts.png](_images/posts.png)
 
   * Space the posts for one track 1500mm apart, center to center, unless you are using shorter track extrusions, in which case space the posts that far apart. Ensure the posts are aligned properly and the same height. You may want to use a level to ensure this.
   * If you are setting up multiple track extrusions (more than 1500mm in total length), it is best to install the end posts first and tie a guide string in between these two posts to ensure your tracks are installed in a straight line.

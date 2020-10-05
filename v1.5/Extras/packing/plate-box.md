@@ -1,7 +1,7 @@
 ---
 title: "Plate Box"
 slug: "plate-box"
-excerpt: "Packing details for the plate box inside each main carton"
+description: "Packing details for the plate box inside each main carton"
 ---
 
 * toc

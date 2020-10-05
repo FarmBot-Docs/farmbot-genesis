@@ -1,7 +1,7 @@
 ---
 title: "Take Time Lapse Plant Photography"
 slug: "take-time-lapse-plant-photography"
-excerpt: "DIY instructions for using FarmBot to control camera equipment for time lapse photography of your plants growing"
+description: "DIY instructions for using FarmBot to control camera equipment for time lapse photography of your plants growing"
 ---
 
 * toc
@@ -12,7 +12,7 @@ Want to make cool time lapse videos of your food growing? FarmBot can help you d
 ### Individual Plant Time Lapse
 Plant a seed in the ground and then use the camera tool to take a photo from the plant's X and Y coordinates with a sufficient amount of Z-height for the plant to fully grow. Move back to this location every day at the same time to take another photo. You'll end up with a time lapse of that individual plant growing - perfect for Instagram.
 
-![giphy.gif](giphy.gif)
+![giphy.gif](_images/giphy.gif)
 
 
 
@@ -31,7 +31,7 @@ On day 1, position your camera tool at one end of the tracks, halfway across the
 ## Z-Axis Mounted Raspberry Pi Camera
 The [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/) is a small camera board that connects to the Raspberry Pi via a ribbon cable. This camera is used as a part of FarmBot. Installation instructions are provided in [Tools: Camera](../../FarmBot-Genesis-V1.0/tools/camera.md).
 
-![1367-07.jpg](07.jpg)
+![1367-07.jpg](_images/07.jpg)
 
 
 

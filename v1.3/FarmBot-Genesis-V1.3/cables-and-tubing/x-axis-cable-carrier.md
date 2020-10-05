@@ -48,7 +48,7 @@ Reduce the amount of extra tubing between the end of the **x-axis cable carrier*
 
 Attach the **x-axis cable carrier** to the **horizontal cable carrier mount** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
-![xcc install1.JPG](xcc_install1.JPG)
+![xcc install1.JPG](_images/xcc_install1.JPG)
 
 _Not pictured: The cables and tube._
 
@@ -58,7 +58,7 @@ _Not pictured: The cables and tube._
 
 Attach the other end of the **x-axis cable carrier** to the **horizontal cable carrier support** nearest the middle of the **tracks** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
-![xcc install2.JPG](xcc_install2.JPG)
+![xcc install2.JPG](_images/xcc_install2.JPG)
 
 _Not pictured: The cables and tube._
 

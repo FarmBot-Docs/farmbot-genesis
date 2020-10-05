@@ -1,14 +1,14 @@
 ---
 title: "Z-Axis"
 slug: "z-axis"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis z-axis"
+description: "Documentation and assembly instructions for the FarmBot Genesis z-axis"
 ---
 
 * toc
 {:toc}
 
 
-![z-axis.JPG](z-axis.JPG)
+![z-axis.JPG](_images/z-axis.JPG)
 
 # Component List
 
@@ -42,7 +42,7 @@ content="This is the estimated time it will take to assemble the z-axis."
 # Step 1: Attach the stepper motor to the Z-axis motor mount
 Attach the **stepper motor** to the **z-axis motor mount** using four **M3 x 12mm screws**. The motor and encoder connectors should be facing the back flange of the mount.
 
-![z-motor.JPG](z-motor.JPG)
+![z-motor.JPG](_images/z-motor.JPG)
 
 # Step 2: Attach the motor mount to the Z-axis extrusion
 
@@ -55,17 +55,17 @@ content="The aluminum extrusions may have sharp corners and edges."
 
 Partially screw three **M5 x 10mm screws** and **M5 tee nuts** into the **z-axis motor mount**. Position the motor mount onto the **z-axis extrusion** as shown and tighten. Note that you will need to adjust the position of the motor mount once the cables have been connected and it is time to put the vertical motor housing on.
 
-![z-extr.JPG](z-extr.JPG)
+![z-extr.JPG](_images/z-extr.JPG)
 
 # Step 3: Attach the flex coupling
 Slide the **5mm to 8mm flex coupling** onto the **motor shaft** and tighten the two setscrews with the **2mm hex driver**. Ensure that the setscrews are positioned onto the flat parts of the motor shaft.
 
-![flex.JPG](flex.JPG)
+![flex.JPG](_images/flex.JPG)
 
 # Step 4: Attach the leadscrew
 Slide the **leadscrew** into the **flex coupling** and tighten the two setscrews.
 
-![leadscrew.JPG](leadscrew.JPG)
+![leadscrew.JPG](_images/leadscrew.JPG)
 
 
 
@@ -79,20 +79,20 @@ content="At this point, the **leadscrew** is only connected to the rest of the z
 # Step 5: Attach the vertical cable carrier supports
 Use two **M5 x 10mm screws** and **M5 tee nuts** to attach each of the four **vertical cable carrier supports** to the **z-axis extrusion**. Space the supports along the extrusion as shown.
 
-![z2.JPG](z2.JPG)
+![z2.JPG](_images/z2.JPG)
 
 # Step 6: Attach the vacuum pump
 Use three **M5 x 16mm screws** and **M5 tee nuts** to attach the **vacuum pump mount** to the **z-axis extrusion**.
 
-![vacuum pump mount install.JPG](vacuum_pump_mount_install.JPG)
+![vacuum pump mount install.JPG](_images/vacuum_pump_mount_install.JPG)
 
 Fasten the **vacuum pump** to the **vacuum pump mount** using two **200mm zip ties**.
 
-![vacuum pump zip ties.JPG](vacuum_pump_zip_ties.JPG)
+![vacuum pump zip ties.JPG](_images/vacuum_pump_zip_ties.JPG)
 
 Attach the **vacuum pump housing** to the **z-axis extrusion** using two **M5 x 10mm screws** and **M5 tee nuts**.
 
-![vacuum pump cover.JPG](vacuum_pump_cover.JPG)
+![vacuum pump cover.JPG](_images/vacuum_pump_cover.JPG)
 
 # Step 7: Attach the z-axis to the cross-slide
 
@@ -107,27 +107,27 @@ content="In order to slide the z-axis through the v-wheels you will need to adju
 
 
 
-![zbarely.JPG](zbarely.JPG)
+![zbarely.JPG](_images/zbarely.JPG)
 
 
 
-![zlead.JPG](zlead.JPG)
+![zlead.JPG](_images/zlead.JPG)
 
 # Step 8: Screw the screw
 
 Hand rotate the **leadscrew** clockwise so that it threads into the **leadscrew block**. Continue to hand rotate the leadscrew until the z-axis is halfway down.
 
-![z installed.JPG](z_installed.JPG)
+![z installed.JPG](_images/z_installed.JPG)
 
 # Step 9: Install the hard stops
 
 Attach a **z-axis hardstop** onto the backside of the **z-axis extrusion** approximately 200mm from the top of the extrusion using an **M5 x 10mm screw** and **tee nut**. Later, you can quickly adjust this to physically prevent FarmBot from ever moving too low within its working space, which could damage something.
 
-![zhard.JPG](zhard.JPG)
+![zhard.JPG](_images/zhard.JPG)
 
 Attach the other **z-axis hardstop** onto the backside of the **z-axis extrusion** approximately 100mm from the bottom of the extrusion. This prevents the z-axis from moving too high.
 
-![zhard2.JPG](zhard2.JPG)
+![zhard2.JPG](_images/zhard2.JPG)
 
 
 # What's next?

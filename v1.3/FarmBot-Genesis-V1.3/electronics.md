@@ -1,14 +1,14 @@
 ---
 title: "Electronics"
 slug: "electronics"
-excerpt: "Documentation for FarmBot Genesis electronics"
+description: "Documentation for FarmBot Genesis electronics"
 ---
 
 * toc
 {:toc}
 
 
-![electronics.jpg](electronics.jpg)
+![electronics.jpg](_images/electronics.jpg)
 
 
 
@@ -24,9 +24,9 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 
 |Qty.                          |Component                     |
 |------------------------------|------------------------------|
-|16                            |[M2.5 x 4mm Screws](../Extras/bom/fasteners-and-hardware.md#m2-5-screws)
-|4                             |[M2.5 x 6mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m2-5-x-6mm-standoffs)
-|4                             |[M2.5 x 16mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m2-5-x-6mm-standoffs)
+|16                            |[M2.5 x 4mm Screws](../Extras/bom/fasteners-and-hardware.md#m25-screws)
+|4                             |[M2.5 x 6mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m25-x-6mm-standoffs)
+|4                             |[M2.5 x 16mm Standoffs](../Extras/bom/fasteners-and-hardware.md#m25-x-6mm-standoffs)
 |6                             |[M3 x 5mm Screws](../Extras/bom/fasteners-and-hardware.md#m3-screws)
 |2                             |[M5 x 10mm Screws](../Extras/bom/fasteners-and-hardware.md#m5-screws)
 |2                             |[M5 Tee Nuts](../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)

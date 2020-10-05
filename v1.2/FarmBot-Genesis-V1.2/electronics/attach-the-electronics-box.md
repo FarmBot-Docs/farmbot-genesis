@@ -26,7 +26,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 
 Put **M5 x 10mm screws** through the top and bottom mounting holes of the electronics box and thread on a **tee-nut** to each.
 
-![electronics_box_tee_nuts.png](electronics_box_tee_nuts.png)
+![electronics_box_tee_nuts.png](_images/electronics_box_tee_nuts.png)
 
 
 
@@ -34,7 +34,7 @@ Put **M5 x 10mm screws** through the top and bottom mounting holes of the electr
 
 Line up the electronics box with the center channel of the gantry column and tighten the attachment screws.
 
-![attached.png](attached.png)
+![attached.png](_images/attached.png)
 
 
 
@@ -42,11 +42,11 @@ Line up the electronics box with the center channel of the gantry column and tig
 
 The **Cable Guides** keep the cables going from the electronics box to the Y-Axis cable carrier and X-Axis motors neat and organized.
 
-![cable_clip.png](cable_clip.png)
+![cable_clip.png](_images/cable_clip.png)
 
 Add **M5 x 10mm screws** and **tee-nuts** to the **Cable Guides** and attach the cable guides as shown.
 
-![cable_clips.png](cable_clips.png)
+![cable_clips.png](_images/cable_clips.png)
 
 
 # What's next?

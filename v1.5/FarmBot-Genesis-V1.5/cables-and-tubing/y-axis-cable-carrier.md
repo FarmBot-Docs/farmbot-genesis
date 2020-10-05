@@ -15,7 +15,7 @@ Remove all of the snap-in **tabs** from the **y-axis cable carrier**. Note that 
 
 There is only one orientation that the **y-axis cable carrier** mounts to the **cross-slide** and **gantry**, and it is determined by the orientation of the **end pieces**. Lay the cable carrier onto the gantry's **horizontal cable carrier supports** but do not attach it at this time.
 
-![Screen Shot 2020-02-17 at 1.57.24 PM.png](Screen_Shot_2020-02-17_at_1.57.24_PM.png)
+![Screen Shot 2020-02-17 at 1.57.24 PM.png](_images/Screen_Shot_2020-02-17_at_1.57.24_PM.png)
 
 _Not pictured: The cables and tubing._
 
@@ -25,13 +25,13 @@ _Not pictured: The cables and tubing._
 
 Feed the **y-axis motor and encoder cables** through the slot in the **cross-slide plate** such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
 
-![Screen Shot 2020-02-17 at 2.07.26 PM.png](Screen_Shot_2020-02-17_at_2.07.26_PM.png)
+![Screen Shot 2020-02-17 at 2.07.26 PM.png](_images/Screen_Shot_2020-02-17_at_2.07.26_PM.png)
 
 _Not pictured: The cables and tube coming from the z-axis cable carrier._
 
 
 
-![IMG_2287.JPG](IMG_2287.JPG)
+![IMG_2287.JPG](_images/IMG_2287.JPG)
 
 _Photo of the y-axis motor wires. Use the zip ties and plenty of slack to ensure the motor and encoder wires do not rub up against the belt. (This photo is of a Genesis v1.4 bot so it does not show the intermediate connectors)_
 
@@ -41,7 +41,7 @@ _Photo of the y-axis motor wires. Use the zip ties and plenty of slack to ensure
 
 Push the **90 degree barb** onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
 
-![Water Tube.png](Water_Tube.png)
+![Water Tube.png](_images/Water_Tube.png)
 
 Connect the z-axis and y-axis sections of the following cables together:
   * **Vacuum pump cable (z-axis section)** to **vacuum pump cable (y-axis section)** with the 2-pin 90-degree connector
@@ -62,7 +62,7 @@ You can check to see which cable is which by tugging on a cable on one end of th
 
 
 
-![90 Degree connectors.png](90_Degree_connectors.png)
+![90 Degree connectors.png](_images/90_Degree_connectors.png)
 
 _Note: not all cables are shown_
 
@@ -111,7 +111,7 @@ content="Never pull any cables by their connectors."
 
 
 
-![Screen Shot 2020-02-17 at 2.05.12 PM.png](Screen_Shot_2020-02-17_at_2.05.12_PM.png)
+![Screen Shot 2020-02-17 at 2.05.12 PM.png](_images/Screen_Shot_2020-02-17_at_2.05.12_PM.png)
 
 _Not pictured: The cables and tube._
 
@@ -121,13 +121,13 @@ _Not pictured: The cables and tube._
 
 Attach the **y-axis cable carrier** to the **60mm horizontal cable carrier support** nearest the left gantry column using two **M5 x 16mm screws** and **M5 flange locknuts**. The screws should thread firmly through the cable carrier end piece.
 
-![Screen Shot 2020-02-17 at 2.05.55 PM.png](Screen_Shot_2020-02-17_at_2.05.55_PM.png)
+![Screen Shot 2020-02-17 at 2.05.55 PM.png](_images/Screen_Shot_2020-02-17_at_2.05.55_PM.png)
 
 _Not pictured: The cables and tube._
 
 
 
-![Y-Axis_Cable_Carrier.jpg](Y-Axis_Cable_Carrier.jpg)
+![Y-Axis_Cable_Carrier.jpg](_images/Y-Axis_Cable_Carrier.jpg)
 
 _Y-axis cable carrier with the cables and tubes_
 

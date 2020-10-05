@@ -20,7 +20,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 * 2mm hex (allen) wrench
 * 3mm hex (allen) wrench
 
-![IMG_6656.jpg](IMG_6656.jpg)
+![IMG_6656.jpg](_images/IMG_6656.jpg)
 
 
 
@@ -45,60 +45,60 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 # Step 2: Attach the Stepper Motor to the Z-Axis motor bracket
 Feed the **z-axis motor/encoder cables** through the **z-axis motor mount**.
 
-![IMG_6658.jpg](IMG_6658.jpg)
+![IMG_6658.jpg](_images/IMG_6658.jpg)
 
 Attach the **z-axis stepper motor** to the **z-axis motor mount** using four **M3 x 10mm screws**.
 
-![IMG_6659.jpg](IMG_6659.jpg)
+![IMG_6659.jpg](_images/IMG_6659.jpg)
 
 # Step 3: Attach the motor to the z-axis extrusion
 Partially screw two **M5 x 10mm screws** and **M5 tee nuts** into the **z-axis motor bracket**.
 
-![IMG_6664.jpg](IMG_6664.jpg)
+![IMG_6664.jpg](_images/IMG_6664.jpg)
 
 
 
-![IMG_6666.jpg](IMG_6666.jpg)
+![IMG_6666.jpg](_images/IMG_6666.jpg)
 
 Tighten the **z-axis motor mount** onto the **z-axis extrusion**.
 
-![IMG_6687.jpg](IMG_6687.jpg)
+![IMG_6687.jpg](_images/IMG_6687.jpg)
 
 
 
-![IMG_6688.jpg](IMG_6688.jpg)
+![IMG_6688.jpg](_images/IMG_6688.jpg)
 
 
 
-![IMG_6685.jpg](IMG_6685.jpg)
+![IMG_6685.jpg](_images/IMG_6685.jpg)
 
 
 
-![IMG_6689.jpg](IMG_6689.jpg)
+![IMG_6689.jpg](_images/IMG_6689.jpg)
 
 
 
-![IMG_6691.jpg](IMG_6691.jpg)
+![IMG_6691.jpg](_images/IMG_6691.jpg)
 
 # Step 4: Attach the Leadscrew
 Tighten the 8mm side of the **5 to 8mm flex coupling** onto the **leadscrew**.
 
 Tighten the 5mm side of the **5 to 8mm flex coupling** onto the shaft of the **z-axis motor**.
 
-![IMG_6693.jpg](IMG_6693.jpg)
+![IMG_6693.jpg](_images/IMG_6693.jpg)
 
 # Step 5: Attach Z-Axis Cable Carrier Guides
 Partially screw two **M5 x 10mm screws** and **M5 tee nuts** into the **z-axis cable carrier guide**.
 
-![IMG_6696.jpg](IMG_6696.jpg)
+![IMG_6696.jpg](_images/IMG_6696.jpg)
 
 Insert into extrusion and tighten.
 
-![IMG_6697.jpg](IMG_6697.jpg)
+![IMG_6697.jpg](_images/IMG_6697.jpg)
 
 Repeat for other guides.
 
-![IMG_6698.jpg](IMG_6698.jpg)
+![IMG_6698.jpg](_images/IMG_6698.jpg)
 
 
 # What's next?

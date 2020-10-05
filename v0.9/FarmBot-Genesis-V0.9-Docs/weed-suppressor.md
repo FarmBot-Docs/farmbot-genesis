@@ -1,7 +1,7 @@
 ---
 title: "Weed Suppressor"
 slug: "weed-suppressor"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Weed Suppressor"
+description: "Documentation and assembly instructions for the FarmBot Genesis Weed Suppressor"
 ---
 
 * toc

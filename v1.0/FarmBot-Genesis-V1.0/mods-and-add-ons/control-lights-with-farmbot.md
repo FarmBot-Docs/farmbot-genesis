@@ -1,7 +1,7 @@
 ---
 title: "Control Lights with FarmBot"
 slug: "control-lights-with-farmbot"
-excerpt: "DIY instructions for installing and controlling LED or grow lights with FarmBot"
+description: "DIY instructions for installing and controlling LED or grow lights with FarmBot"
 ---
 
 * toc

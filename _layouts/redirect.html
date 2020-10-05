@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  {%- capture link -%}
+  v{{ site.latest_version_number }}{{ page.page_path }}
+  {%- endcapture -%}
+  <meta http-equiv="refresh" content="0; url={{ link | relative_url }}" />
+</head>
+
+<body>
+</body>
+
+</html>

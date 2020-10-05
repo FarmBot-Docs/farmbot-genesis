@@ -1,7 +1,7 @@
 ---
 title: "Electronics and Wiring"
 slug: "electronics-and-wiring"
-excerpt: "Tech specs for the electronics and wiring in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
 * toc
@@ -67,15 +67,15 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 
 
 
-![IMG_0515.jpg](IMG_0515.jpg)
+![IMG_0515.jpg](_images/IMG_0515.jpg)
 
 
 
-![Electronics.JPG](Electronics.JPG)
+![Electronics.JPG](_images/Electronics.JPG)
 
 
 
-![IMG_0526.jpg](IMG_0526.jpg)
+![IMG_0526.jpg](_images/IMG_0526.jpg)
 
 # Power Supply
 This universal input IP67 waterproof power supply provides FarmBot with all the electricity it needs.
@@ -93,15 +93,15 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 
 
 
-![IMG_0507.jpg](IMG_0507.jpg)
+![IMG_0507.jpg](_images/IMG_0507.jpg)
 
 
 
-![IMG_0509.jpg](IMG_0509.jpg)
+![IMG_0509.jpg](_images/IMG_0509.jpg)
 
 
 
-![IMG_0512.jpg](IMG_0512.jpg)
+![IMG_0512.jpg](_images/IMG_0512.jpg)
 
 # Power Supply Cable
 This modular 2-wire cable connects the power supply to the Farmduino. It features a waterproof 2-pin connector to attach to the power supply, and a red molex connector to attach to the Farmduino.
@@ -118,11 +118,11 @@ This modular 2-wire cable connects the power supply to the Farmduino. It feature
 
 
 
-![IMG_0503.jpg](IMG_0503.jpg)
+![IMG_0503.jpg](_images/IMG_0503.jpg)
 
 
 
-![IMG_0505.jpg](IMG_0505.jpg)
+![IMG_0505.jpg](_images/IMG_0505.jpg)
 
 # Raspberry Pi 3
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection.
@@ -145,15 +145,15 @@ This is the "host computer" of FarmBot. You might also call it FarmBot's brain. 
 
 
 
-![Pi.JPG](Pi.JPG)
+![Pi.JPG](_images/Pi.JPG)
 
 
 
-![Pi 2.JPG](Pi_2.JPG)
+![Pi 2.JPG](_images/Pi_2.JPG)
 
 
 
-![Pi 3.JPG](Pi_3.JPG)
+![Pi 3.JPG](_images/Pi_3.JPG)
 
 # MicroSD Card
 The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
@@ -168,7 +168,7 @@ The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
 
 
 
-![IMG_0458.jpg](IMG_0458.jpg)
+![IMG_0458.jpg](_images/IMG_0458.jpg)
 
 # Pi Adapter Board
 This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators. [Click here to download the source files](https://drive.google.com/drive/folders/1smMUQ9R8Rn1bX8MzWhdo6laAXFfcK3Vo).
@@ -181,7 +181,7 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 
 
 
-![IMG_0523.jpg](IMG_0523.jpg)
+![IMG_0523.jpg](_images/IMG_0523.jpg)
 
 # Push Buttons
 These waterproof push buttons come pre-mounted on the top of the electronics box. The red button is reserved for E-STOP, the yellow for UNLOCK, and the three white ones are user-customizable. Each button includes a wiring harness and comes pre-connected to the Pi adapter board.
@@ -198,11 +198,11 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 
 
 
-![IMG_0524.jpg](IMG_0524.jpg)
+![IMG_0524.jpg](_images/IMG_0524.jpg)
 
 
 
-![IMG_0525.jpg](IMG_0525.jpg)
+![IMG_0525.jpg](_images/IMG_0525.jpg)
 
 # LED Indicators
 These waterproof LED indicator lights come pre-mounted on the top of the electronics box. The blue light is reserved for connectivity status, the green light for sync status, and the two white lights are user-customizable. Each light includes a wiring harness and comes pre-connected to the Pi adapter board.
@@ -219,11 +219,11 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 
 
 
-![IMG_0524.jpg](IMG_0524.jpg)
+![IMG_0524.jpg](_images/IMG_0524.jpg)
 
 
 
-![IMG_0525.jpg](IMG_0525.jpg)
+![IMG_0525.jpg](_images/IMG_0525.jpg)
 
 # Farmduino
 The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders.
@@ -258,7 +258,7 @@ The source code for the STM32 firmware for tracking encoder signals is available
 
 
 
-![Farmduino.JPG](Farmduino.JPG)
+![Farmduino.JPG](_images/Farmduino.JPG)
 
 # Raspberry Pi Power Cable
 This USB cable provides power to the Raspberry Pi from the Farmduino's built-in 12v to 5v to USB circuitry.
@@ -274,7 +274,7 @@ This USB cable provides power to the Raspberry Pi from the Farmduino's built-in 
 
 
 
-![Pi Power Cable.jpg](Pi_Power_Cable.jpg)
+![Pi Power Cable.jpg](_images/Pi_Power_Cable.jpg)
 
 # Farmduino Data Cable
 This USB cable is used as a serial connection between the Raspberry Pi and the Farmduino
@@ -290,7 +290,7 @@ This USB cable is used as a serial connection between the Raspberry Pi and the F
 
 
 
-![Farmduino Data Cable.jpg](Farmduino_Data_Cable.jpg)
+![Farmduino Data Cable.jpg](_images/Farmduino_Data_Cable.jpg)
 
 # Jumper Wires
 Use these jumper wires to connect the UTM headers on Farmduino to other pins such as I2C, PWM, or more digital or analog I/O.
@@ -305,7 +305,7 @@ Use these jumper wires to connect the UTM headers on Farmduino to other pins suc
 
 
 
-![Jumper Wires.jpg](Jumper_Wires.jpg)
+![Jumper Wires.jpg](_images/Jumper_Wires.jpg)
 
 # NEMA 17 Stepper Motors with Rotary Encoders
 These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing).
@@ -331,11 +331,11 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 
 
 
-![Motor1.JPG](Motor1.JPG)
+![Motor1.JPG](_images/Motor1.JPG)
 
 
 
-![Motor 2.JPG](Motor_2.JPG)
+![Motor 2.JPG](_images/Motor_2.JPG)
 
 # Motor Cables
 These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
@@ -352,7 +352,7 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 
 
 
-![v1.3-Motor-Cables.jpg](v1.3-Motor-Cables.jpg)
+![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
 
 # Encoder Cables
 These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
@@ -369,7 +369,7 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 
 
 
-![v1.3-Encoder-Cables.jpg](v1.3-Encoder-Cables.jpg)
+![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
 
 # Cable Carrier
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes.
@@ -389,7 +389,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 
 
 
-![IMG_0454.jpg](IMG_0454.jpg)
+![IMG_0454.jpg](_images/IMG_0454.jpg)
 
 # Universal Tool Mount Cable
 This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, digital and analog I/O, and can be configured at the Farmduino to provide I2C, PWM, and more. It features connectors on both ends for easy connection to both the UTM and Farmduino, as well as a rubber shroud to protect the inside of the UTM from the elements.
@@ -412,15 +412,15 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 
 
 
-![IMG_0492.jpg](IMG_0492.jpg)
+![IMG_0492.jpg](_images/IMG_0492.jpg)
 
 
 
-![IMG_0494.jpg](IMG_0494.jpg)
+![IMG_0494.jpg](_images/IMG_0494.jpg)
 
 
 
-![IMG_0496.jpg](IMG_0496.jpg)
+![IMG_0496.jpg](_images/IMG_0496.jpg)
 
 # Soil Sensor PCB
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
@@ -437,11 +437,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 
 
-![7ee4856-Soil_Sensor_PCB.jpeg](Soil_Sensor_PCB.jpeg)
+![7ee4856-Soil_Sensor_PCB.jpeg](_images/Soil_Sensor_PCB.jpeg)
 
 
 
-![340b3a9-Soil_Sensor_PCB_2.jpeg](Soil_Sensor_PCB_2.jpeg)
+![340b3a9-Soil_Sensor_PCB_2.jpeg](_images/Soil_Sensor_PCB_2.jpeg)
 
  # Solenoid Valve
 This 24V valve controls the flow of water from your garden hose to FarmBot's tubing.
@@ -466,15 +466,15 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 
 
 
-![Solenoid Valve.JPG](Solenoid_Valve.JPG)
+![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
 
 
 
-![Solenoid Valve 2.JPG](Solenoid_Valve_2.JPG)
+![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
 
 
 
-![Solenoid Valve 3.JPG](Solenoid_Valve_3.JPG)
+![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
 
 # Vacuum Pump
 This 24V vacuum pump sucks air through the seeder's luer lock needle in order to suction-hold a seed on the needle tip during planting.
@@ -489,11 +489,11 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 
 
 
-![Vacuum Pump.JPG](Vacuum_Pump.JPG)
+![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
 
 
 
-![Vacuum Pump 2.JPG](Vacuum_Pump_2.JPG)
+![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
 
 # Vacuum Pump Cable
 This cable connects the vacuum pump to the Farmduino.
@@ -513,7 +513,7 @@ This cable connects the vacuum pump to the Farmduino.
 
 
 
-![Vacuum Pump Cable.jpg](Vacuum_Pump_Cable.jpg)
+![Vacuum Pump Cable.jpg](_images/Vacuum_Pump_Cable.jpg)
 
 # Solenoid Valve Cable
 This cable connects the solenoid valve to the Farmduino.
@@ -533,7 +533,7 @@ This cable connects the solenoid valve to the Farmduino.
 
 
 
-![IMG_0466.jpg](IMG_0466.jpg)
+![IMG_0466.jpg](_images/IMG_0466.jpg)
 
 # Peripheral Leads
 These extra leads make it easy to connect new, additional peripherals to your Farmduino.
@@ -552,7 +552,7 @@ These extra leads make it easy to connect new, additional peripherals to your Fa
 
 
 
-![IMG_0478.jpg](IMG_0478.jpg)
+![IMG_0478.jpg](_images/IMG_0478.jpg)
 
 # Camera
 The camera is mounted on the z-axis and allows FarmBot to take photos of the garden and plants for weed detection and tracking plant growth.
@@ -575,15 +575,15 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 
 
 
-![Camera 1.jpg](Camera_1.jpg)
+![Camera 1.jpg](_images/Camera_1.jpg)
 
 
 
-![Camera 2.jpg](Camera_2.jpg)
+![Camera 2.jpg](_images/Camera_2.jpg)
 
 
 
-![Camera 3.jpg](Camera_3.jpg)
+![Camera 3.jpg](_images/Camera_3.jpg)
 
 # Camera Cable
 This cable connects the camera to the Raspberry Pi through the y-axis cable carrier.
@@ -598,7 +598,7 @@ This cable connects the camera to the Raspberry Pi through the y-axis cable carr
 
 
 
-![Camera Cable.jpg](Camera_Cable.jpg)
+![Camera Cable.jpg](_images/Camera_Cable.jpg)
 
 # Camera Calibration Card
 Use this card to perform an automatic calibration of FarmBot's camera.
@@ -613,7 +613,7 @@ Use this card to perform an automatic calibration of FarmBot's camera.
 
 
 
-![65399c0-MVIMG_20200727_180001.jpg](MVIMG_20200727_180001.jpg)
+![65399c0-MVIMG_20200727_180001.jpg](_images/MVIMG_20200727_180001.jpg)
 
 # Jumper Links
 These connect the Grounded electronic pin to the Digital In pin, allowing FarmBot to detect when a tool has been mounted or dismounted correctly.
@@ -628,7 +628,7 @@ These connect the Grounded electronic pin to the Digital In pin, allowing FarmBo
 
 
 
-![Jumper Links.jpg](Jumper_Links.jpg)
+![Jumper Links.jpg](_images/Jumper_Links.jpg)
 
 # LED Strip
 This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a "grow light".
@@ -645,7 +645,7 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 
 
 
-![LED Strip.jpg](LED_Strip.jpg)
+![LED Strip.jpg](_images/LED_Strip.jpg)
 
 # UTM PCB
 This PCB features 12 pre-mounted pogo pins to enable electrical connection with FarmBot's tools. [Click here to download the source files](https://drive.google.com/drive/folders/1BTdp27t__LOzHmLJjJt_slEUzAGGNGCx).
@@ -674,9 +674,9 @@ This PCB features 12 pre-mounted pogo pins to enable electrical connection with 
 
 
 
-![IMG_0483.jpg](IMG_0483.jpg)
+![IMG_0483.jpg](_images/IMG_0483.jpg)
 
 
 
-![IMG_0484.jpg](IMG_0484.jpg)
+![IMG_0484.jpg](_images/IMG_0484.jpg)
 

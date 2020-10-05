@@ -1,7 +1,7 @@
 ---
 title: "Watering Nozzle"
 slug: "watering-nozzle"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis Watering Nozzle"
+description: "Documentation and assembly instructions for the FarmBot Genesis Watering Nozzle"
 ---
 
 * toc

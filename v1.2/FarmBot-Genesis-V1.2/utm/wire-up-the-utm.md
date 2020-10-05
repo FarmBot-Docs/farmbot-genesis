@@ -18,34 +18,34 @@ content="It may be difficult to do this because of the friction and tight seal c
 
 
 
-![Screen Shot 2017-02-12 at 9.29.45 PM.png](Screen_Shot_2017-02-12_at_9.29.45_PM.png)
+![Screen Shot 2017-02-12 at 9.29.45 PM.png](_images/Screen_Shot_2017-02-12_at_9.29.45_PM.png)
 
 The 1st thru 11th small wires of the **UTM cable** are numbered with small white text, while the 12th wire is colored yellow/green. Fan out the wires and arrange them in order from 1 to 12.
 
-![Screen Shot 2017-02-12 at 9.34.42 PM.png](Screen_Shot_2017-02-12_at_9.34.42_PM.png)
+![Screen Shot 2017-02-12 at 9.34.42 PM.png](_images/Screen_Shot_2017-02-12_at_9.34.42_PM.png)
 
 # Step 2: Feed the tubing through the UTM cover
 Push the **vacuum tube** through the **grommet** nearest the FarmBot logo on the **UTM cover** so that there is about 10cm of tubing beneath the cover.
 
-![Screen Shot 2017-02-12 at 9.44.36 PM.png](Screen_Shot_2017-02-12_at_9.44.36_PM.png)
+![Screen Shot 2017-02-12 at 9.44.36 PM.png](_images/Screen_Shot_2017-02-12_at_9.44.36_PM.png)
 
 Push the **water tube** through the **grommet** nearest the **UTM cover** mounting flange so that there is about 10cm of tubing beneath the cover.
 
-![Screen Shot 2017-02-12 at 9.47.04 PM.png](Screen_Shot_2017-02-12_at_9.47.04_PM.png)
+![Screen Shot 2017-02-12 at 9.47.04 PM.png](_images/Screen_Shot_2017-02-12_at_9.47.04_PM.png)
 
 Insert the **UTM cover plug** into the remaining **grommet** in the **UTM cover**. This port is available for you to expand the functionality of your FarmBot if you desire.
 
-![Screen Shot 2017-02-12 at 10.02.09 PM.png](Screen_Shot_2017-02-12_at_10.02.09_PM.png)
+![Screen Shot 2017-02-12 at 10.02.09 PM.png](_images/Screen_Shot_2017-02-12_at_10.02.09_PM.png)
 
 # Step 3: Attach the tubes
 Slide the **vacuum tube** and **water tube** onto the corresponding **barbs** on the **UTM**.
 
-![Screen Shot 2017-02-12 at 10.15.26 PM.png](Screen_Shot_2017-02-12_at_10.15.26_PM.png)
+![Screen Shot 2017-02-12 at 10.15.26 PM.png](_images/Screen_Shot_2017-02-12_at_10.15.26_PM.png)
 
 # Step 4: Wire up the UTM
 Use a **zip-tie** to secure each UTM cable wire to the **M3 screw** on top of the **UTM** according to the pin mapping table below. The copper wires must make good contact with the screw threads.
 
-![Screen Shot 2017-02-12 at 10.13.03 PM.png](Screen_Shot_2017-02-12_at_10.13.03_PM.png)
+![Screen Shot 2017-02-12 at 10.13.03 PM.png](_images/Screen_Shot_2017-02-12_at_10.13.03_PM.png)
 
 ## Pin mapping
 
@@ -85,12 +85,12 @@ content="As of the v4.0.0 software released on June 21, 2017, the UTM Pin/Wire A
 # Step 5: Slide down the UTM cover
 Slide the **UTM cover** down the tubes and cable until it sits flush against the top of the **UTM**. Ensure that no wires or tubes become disconnected and that there is sealing between the cable and the grommet.
 
-![Screen Shot 2017-02-12 at 10.22.13 PM.png](Screen_Shot_2017-02-12_at_10.22.13_PM.png)
+![Screen Shot 2017-02-12 at 10.22.13 PM.png](_images/Screen_Shot_2017-02-12_at_10.22.13_PM.png)
 
 # Step 6: Install the UTM and cover onto the Z-axis
 Position the **UTM cover** and **UTM** onto the **z-axis extrusion**. The mounting flanges should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion, and the bottom of the UTM cover should be flush with the top of the UTM. Tighten all four **M5 screws** with the **3mm hex driver**.
 
-![Screen Shot 2017-02-12 at 10.34.04 PM.png](Screen_Shot_2017-02-12_at_10.34.04_PM.png)
+![Screen Shot 2017-02-12 at 10.34.04 PM.png](_images/Screen_Shot_2017-02-12_at_10.34.04_PM.png)
 
 
 

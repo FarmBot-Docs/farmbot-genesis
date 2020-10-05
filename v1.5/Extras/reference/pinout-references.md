@@ -83,7 +83,7 @@ slug: "pinout-references"
 # 2560 chip pinout
 ## Diagram
 
-![PinMap2560big.png](PinMap2560big.png)
+![PinMap2560big.png](_images/PinMap2560big.png)
 
 _https://www.arduino.cc/en/Hacking/PinMapping2560_
 

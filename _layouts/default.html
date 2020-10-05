@@ -1,44 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: 'en-US' }}">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="{{ site.color }}">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.png' | relative_url }}">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-  <link rel="stylesheet" href="{{ '/assets/css/fb.css?v=' | append: site.github.build_revision | relative_url }}">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inknut+Antiqua:700">
-</head>
+{%- include head.html -%}
 
 <body>
-  <nav>
-    <div class="nav-content">
-      <a class="doc-icon" href="http://docs.farm.bot">
-        <img src="{{ 'assets/images/documentation.png' | relative_url }}">
-      </a>
-      <div class="nav-links">
-        <a class="{%- if site.github.repository_name == 'farmbot-express' -%}
-        current
-        {%- endif -%}" href="http://express.farm.bot">Express</a>
-        <a class="{%- if site.github.repository_name == 'farmbot-genesis' -%}
-        current
-        {%- endif -%}" href="http://genesis.farm.bot">Genesis</a>
-        <a class="{%- if site.github.repository_name == 'farmbot-software' -%}
-        current
-        {%- endif -%}" href="http://software.farm.bot">Software</a>
-        <a class="{%- if site.github.repository_name == 'farmbot-developers' -%}
-        current
-        {%- endif -%}" href="http://dev.farm.bot">Developer</a>
-        <a class="{%- if site.github.repository_name == 'farmbot-meta' -%}
-        current
-        {%- endif -%}" href="http://meta.farm.bot">Business</a>
-        <a href="http://shop.farm.bot">Shop</a>
-      </div>
-    </div>
-  </nav>
+  {%- include hub_nav.html -%}
 
   {%- assign version_factor = site.version_factor | default: 1 -%}
   {%- assign page_version_number =
@@ -48,61 +14,11 @@
   {%- assign page_toc =
     site.data.toc | where: "version_number", page_version_number | first -%}
 
-  <div class="version">
-    <div class="version-content">
-      <select onchange="if (this.value) window.location.href=this.value">
-        {%- assign latest_number =
-          site.latest_version_number | times: version_factor | to_integer -%}
-        {% for v in (1..latest_number) %}
-        {%- assign v_number = v | divided_by: version_factor -%}
-        {%- if v_number <= site.latest_version_number -%}
-        {%- capture tag -%}v{{ v_number }}{%- endcapture -%}
-        {%- assign toc_key = tag | replace: '.', '' -%}
-        {%- assign toc = site.data.toc[toc_key] -%}
-        {%- if toc -%}
-        {%- capture target_doc_link -%}v{{ v_number }}/{{ toc.home }}{%- endcapture -%}
-        <option {% if page_version_number == v_number %}selected="selected" {% endif %}
-          value="{{ target_doc_link | relative_url }}">
-          v{{ toc.version_number }} ({{ toc.status }})
-        </option>
-        {%- endif -%}
-        {%- endif -%}
-        {%- endfor -%}
-      </select>
+  {%- include doc_nav.html version_factor=version_factor
+    page_version_number=page_version_number
+    page_toc=page_toc -%}
 
-      <div class="mobile-nav">
-        <select onchange="if (this.value) window.location.href=this.value">
-          <option value>Navigate the docs...</option>
-          {%- include mobile_toc.html toc=page_toc.contents
-            version=page_version_number -%}
-        </select>
-      </div>
-    </div>
-  </div>
-
-  {%- assign oldest_stable_version = site.oldest_stable_version
-    | default: site.latest_version_number -%}
-  {% if page_version_number < oldest_stable_version or
-    page_version_number > site.latest_version_number %}
-  {%- if page_version_number > site.latest_version_number -%}
-  {%- capture wip_class -%}wip{%- endcapture -%}
-  {%- endif -%}
-  <div class="banner {{ wip_class }}">
-    {%- assign page_path = page.url | split: '/' | slice: 2, 999 | join: '/' -%}
-    {%- capture latest_url -%}
-    v{{ site.latest_version_number }}/{{ page_path }}
-    {%- endcapture -%}
-    <a href="{{ latest_url | relative_url }}">
-      <b>Hey!</b> These docs are for version {{ page_version_number }},
-      {% if page_version_number > site.latest_version_number %}
-      which is still under development.
-      {% else %}
-      which is no longer officially supported.
-      {% endif %}
-      Click here for the latest version, {{ site.latest_version_number }}!
-    </a>
-  </div>
-  {% endif %}
+  {%- include banner.html page_version_number=page_version_number -%}
 
   <div class="all">
     <div class="nav-toc">
@@ -112,7 +28,7 @@
     <div class="content">
       <header class="page-header" role="banner">
         <h1 class="page-name">{{ page.title | default: site.title }}</h1>
-        <div class="page-description">{{ page.excerpt | markdownify }}</div>
+        <div class="page-description">{{ page.description | markdownify }}</div>
       </header>
       <main id="content" class="main-content" role="main">
         <h2 class="markdown-toc-header">Page Contents</h2>

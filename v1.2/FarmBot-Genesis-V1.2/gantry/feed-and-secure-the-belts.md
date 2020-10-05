@@ -9,7 +9,7 @@ slug: "feed-and-secure-the-belts"
 # Step 1: Feed the belts
 Drop the ends of one of the **x-axis belts** down the two large openings of a **gantry column**, ensuring that the belt teeth engage the **GT2 pulley**.
 
-![Screen Shot 2017-02-27 at 12.05.33 PM.png](Screen_Shot_2017-02-27_at_12.05.33_PM.png)
+![Screen Shot 2017-02-27 at 12.05.33 PM.png](_images/Screen_Shot_2017-02-27_at_12.05.33_PM.png)
 
 Grab the ends of the **belt** at the bottom of the **gantry column** and feed them under the **V-wheels** of the **gantry wheel plate**, then along the top of the **track extrusions** to the ends of the tracks. The flat side of the belt should be in contact with your V-wheels.
 
@@ -22,7 +22,7 @@ content="When dropping the belt ends through the gantry column, there is a possi
 
 
 
-![Screen Shot 2017-02-27 at 12.12.27 PM.png](Screen_Shot_2017-02-27_at_12.12.27_PM.png)
+![Screen Shot 2017-02-27 at 12.12.27 PM.png](_images/Screen_Shot_2017-02-27_at_12.12.27_PM.png)
 
 _The belt has been highlighted orange for clarity._
 
@@ -33,11 +33,11 @@ The belt must be wrapped through the clip as outlined in the [belt clip installa
 
 Secure the belt clip by tightening the M5 screw.
 
-![Screen Shot 2017-02-27 at 12.17.04 PM.png](Screen_Shot_2017-02-27_at_12.17.04_PM.png)
+![Screen Shot 2017-02-27 at 12.17.04 PM.png](_images/Screen_Shot_2017-02-27_at_12.17.04_PM.png)
 
 Repeat for the other end of the belt on the other end of the tracks.
 
-![Screen Shot 2017-02-27 at 12.18.55 PM.png](Screen_Shot_2017-02-27_at_12.18.55_PM.png)
+![Screen Shot 2017-02-27 at 12.18.55 PM.png](_images/Screen_Shot_2017-02-27_at_12.18.55_PM.png)
 
 Repeat the above steps for the second x-axis belt on the other side of the gantry.
 

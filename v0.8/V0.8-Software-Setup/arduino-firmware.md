@@ -1,7 +1,7 @@
 ---
 title: "Arduino Firmware"
 slug: "arduino-firmware"
-excerpt: "Step-by-step instructions for installing farmbot-arduino-firmware onto the Arduino"
+description: "Step-by-step instructions for installing farmbot-arduino-firmware onto the Arduino"
 ---
 
 * toc

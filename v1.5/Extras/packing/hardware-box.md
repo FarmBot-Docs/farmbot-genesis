@@ -1,7 +1,7 @@
 ---
 title: "Hardware Box"
 slug: "hardware-box"
-excerpt: "Packing details for the hardware box inside each main carton"
+description: "Packing details for the hardware box inside each main carton"
 ---
 
 * toc

@@ -1,7 +1,7 @@
 ---
 title: "Toolbays"
 slug: "toolbays"
-excerpt: "Documentation and assembly instructions for the FarmBot Genesis toolbays"
+description: "Documentation and assembly instructions for the FarmBot Genesis toolbays"
 ---
 
 * toc
@@ -13,7 +13,7 @@ FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or see
 
 
 
-![Toolbay 3.JPG](Toolbay_3.JPG)
+![Toolbay 3.JPG](_images/Toolbay_3.JPG)
 
 
 
@@ -54,11 +54,11 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 
 
-![toolbay.JPG](toolbay.JPG)
+![toolbay.JPG](_images/toolbay.JPG)
 
 
 
-![toolbay notch.JPG](toolbay_notch.JPG)
+![toolbay notch.JPG](_images/toolbay_notch.JPG)
 
 
 
@@ -66,7 +66,7 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 
 
-![second toolbay.JPG](second_toolbay.JPG)
+![second toolbay.JPG](_images/second_toolbay.JPG)
 
 
 
@@ -92,7 +92,7 @@ content="If you are interested in using more tools and seed containers at once, 
 
 Place your tools and seed containers in any slot you want. Just remember that you will need to log in to the web app and let FarmBot know what tool is where!
 
-![toolbays with tools.JPG](toolbays_with_tools.JPG)
+![toolbays with tools.JPG](_images/toolbays_with_tools.JPG)
 
 
 # What's next?

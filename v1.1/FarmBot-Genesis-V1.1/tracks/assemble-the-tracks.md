@@ -1,7 +1,7 @@
 ---
 title: "Assemble the Tracks"
 slug: "assemble-the-tracks"
-excerpt: "Step-by-step instructions for assembling FarmBot's tracks"
+description: "Step-by-step instructions for assembling FarmBot's tracks"
 ---
 
 * toc
@@ -51,11 +51,11 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 
 
-![IMG_4473.JPG](IMG_4473.JPG)
+![IMG_4473.JPG](_images/IMG_4473.JPG)
 
 # Step 3: Attach a Track End Plate
 
-![IMG_4485.JPG](IMG_4485.JPG)
+![IMG_4485.JPG](_images/IMG_4485.JPG)
 
 Position a **track end plate** as shown below and screw it into the **supporting infrastructure** with three **wood screws**.
 
@@ -72,41 +72,41 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 
 
-![Screen Shot 2016-11-26 at 2.47.53 AM.png](Screen_Shot_2016-11-26_at_2.47.53_AM.png)
+![Screen Shot 2016-11-26 at 2.47.53 AM.png](_images/Screen_Shot_2016-11-26_at_2.47.53_AM.png)
 
 Lightly screw three **M5 x 10mm** screws and **tee nuts** to the **track end plate**. Orient the tee nuts horizontally.
 
-![IMG_4487.JPG](IMG_4487.JPG)
+![IMG_4487.JPG](_images/IMG_4487.JPG)
 
 
 
-![IMG_4488.JPG](IMG_4488.JPG)
+![IMG_4488.JPG](_images/IMG_4488.JPG)
 
 # Step 4: Attach a Track Joining Plate
 Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
-![IMG_4490.JPG](IMG_4490.JPG)
+![IMG_4490.JPG](_images/IMG_4490.JPG)
 
 Lightly screw four **M5 x 10mm** screws and **tee nuts** to the **track joining plate**. Orient the tee nuts horizontally.
 
-![IMG_4491.JPG](IMG_4491.JPG)
+![IMG_4491.JPG](_images/IMG_4491.JPG)
 
 # Step 5: Attach the first Track Extrusion
 Lift the **track extrusion** and position the lower V-slot onto the **tee nuts** of the **track end plate**.
 
-![IMG_4493.JPG](IMG_4493.JPG)
+![IMG_4493.JPG](_images/IMG_4493.JPG)
 
 
 
-![IMG_4494.JPG](IMG_4494.JPG)
+![IMG_4494.JPG](_images/IMG_4494.JPG)
 
 Lightly tighten one of the **M5 x 10mm screws** using the **3mm hex driver** to prevent the extrusion from falling off, while still allowing it to move loosely.
 
-![IMG_4495.JPG](IMG_4495.JPG)
+![IMG_4495.JPG](_images/IMG_4495.JPG)
 
 Lift the other end of the **track extrusion** and position the lower V-slot onto the **tee nuts** of the **track joining plate**. Verify that the track extrusion is positioned correctly, and then tighten all five of the **M5 x 10mm screws** that hold it in place.
 
-![IMG_4496.JPG](IMG_4496.JPG)
+![IMG_4496.JPG](_images/IMG_4496.JPG)
 
 
 
@@ -120,7 +120,7 @@ content="If you are installing more than two extrusions worth of tracks, then re
 # Step 6: Attach the second Track End Plate and Extrusion
 Follow the instructions in Steps 3 and 5 to attach the second **track end plate** and second **track extrusion**.
 
-![ae7c078-4iF1694TqaF7YA9sei2G_IMG_4498.JPG](IMG_4498.JPG)
+![ae7c078-4iF1694TqaF7YA9sei2G_IMG_4498.JPG](_images/IMG_4498.JPG)
 
 
 
@@ -133,13 +133,13 @@ content="Position your **track extrusions** tightly together at the middle of th
 
 
 
-![IMG_4497.JPG](IMG_4497.JPG)
+![IMG_4497.JPG](_images/IMG_4497.JPG)
 
 _See the gap in the track extrusions? You don't want that!_
 
 
 
-![IMG_4499.JPG](IMG_4499.JPG)
+![IMG_4499.JPG](_images/IMG_4499.JPG)
 
 _Perfectly aligned track extrusions are key to smooth gantry movements!_
 
@@ -149,11 +149,11 @@ Repeat steps 3 thru 6 for the other track. Ensure that the tracks are parallel t
 # Step 8: Add the cable carrier supports
 Insert two **M5 x 10mm screws** into a **cable carrier support** and lightly screw on two **M5 tee nuts**. Place the assembly into the lower slot of the left side **track**, near the end of the track. Use the **3mm driver** to tighten the screws.
 
-![Screen Shot 2016-11-26 at 2.33.20 AM.png](Screen_Shot_2016-11-26_at_2.33.20_AM.png)
+![Screen Shot 2016-11-26 at 2.33.20 AM.png](_images/Screen_Shot_2016-11-26_at_2.33.20_AM.png)
 
 Add 11 more **cable carrier supports** evenly along the left side track so that there are 12 total installed. There should be six supports per **track extrusion**.
 
-![Screen Shot 2016-11-26 at 2.38.09 AM.png](Screen_Shot_2016-11-26_at_2.38.09_AM.png)
+![Screen Shot 2016-11-26 at 2.38.09 AM.png](_images/Screen_Shot_2016-11-26_at_2.38.09_AM.png)
 
 
 

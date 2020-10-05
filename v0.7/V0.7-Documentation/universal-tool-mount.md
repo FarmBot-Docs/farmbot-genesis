@@ -1,7 +1,7 @@
 ---
 title: "Universal Tool Mount"
 slug: "universal-tool-mount"
-excerpt: "Documentation for FarmBot Genesis V0.7 Universal Tool Mount"
+description: "Documentation for FarmBot Genesis V0.7 Universal Tool Mount"
 ---
 
 * toc
@@ -23,11 +23,11 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 
 ## Photos
 
-![IMG_0098.JPG](IMG_0098.JPG)
+![IMG_0098.JPG](_images/IMG_0098.JPG)
 
 
 
-![IMG_0096.JPG](IMG_0096.JPG)
+![IMG_0096.JPG](_images/IMG_0096.JPG)
 
 ## Pin Mapping
 
