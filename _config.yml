@@ -2,7 +2,7 @@ title: FarmBot Genesis Documentation
 url: genesis.farm.bot
 logo: /assets/images/documentation.png
 theme: jekyll-theme-cayman
-baseurl: /farmbot-genesis
+baseurl: /
 color: '#783f04'
 oldest_stable_version: 1.2
 latest_version_number: 1.5
