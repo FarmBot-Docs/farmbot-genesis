@@ -86,7 +86,7 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 
 This aluminum extrusion serves as the gantry's primary structural element. The cross-slide's v-wheels move across this extrusion, allowing FarmBot to move in the y-direction. It is possible to make this extrusion longer or shorter to suit your needs.
 
-![20x60.JPG](_images/20x60.JPG)
+![20x60.JPG](_images/20x60_02.JPG)
 
 
 

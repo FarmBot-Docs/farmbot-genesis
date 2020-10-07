@@ -10,9 +10,9 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visi
 
 |Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|[M2.5 x 4mm Screws](#m2-5-x-4mm-screws)|$0.15                         |8                             |$1.20                         |8                             |$1.20
-|[M2.5 x 6mm M/F Standoffs](#m2-5-x-6mm-m-f-standoffs)|$0.50                         |4                             |$2.00                         |4                             |$2.00
-|[M2.5 x 16mm M/F Standoffs](#m2-5-x-16mm-m-f-standoffs)|$0.50                         |4                             |$2.00                         |4                             |$2.00
+|[M2.5 x 4mm Screws](#m25-x-4mm-screws)|$0.15                         |8                             |$1.20                         |8                             |$1.20
+|[M2.5 x 6mm M/F Standoffs](#standoffs)|$0.50                         |4                             |$2.00                         |4                             |$2.00
+|[M2.5 x 16mm M/F Standoffs](#standoffs)|$0.50                         |4                             |$2.00                         |4                             |$2.00
 |[M3 x 6mm Screws](#m3-x-6mm-screws)|$0.10                         |10                            |$1.00                         |10                            |$1.00
 |[M3 x 12mm Screws](#m3-x-12mm-screws)|$0.15                         |40                            |$6.00                         |40                            |$6.00
 |[M3 Locknuts](#m3-locknuts)|$0.10                         |20                            |$2.00                         |20                            |$2.00

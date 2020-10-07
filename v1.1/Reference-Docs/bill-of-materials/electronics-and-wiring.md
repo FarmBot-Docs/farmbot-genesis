@@ -325,7 +325,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Peripheral Cable
 
-![9697t2p1-d01bl.png](_images/d01bl.png)
+![9697t2p1-d01bl.png](_images/d01bl_02.png)
 
 
 

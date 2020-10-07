@@ -123,7 +123,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 
 
 
-![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
+![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2_02.JPG)
 
 
 

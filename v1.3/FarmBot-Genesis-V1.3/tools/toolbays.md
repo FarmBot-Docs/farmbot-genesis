@@ -38,7 +38,7 @@ Gather necessary parts from the table below and lay them out in a logical manner
 
 |Qty.                          |Component                     |
 |------------------------------|------------------------------|
-|2                             |[Toolbays](plates-and-brackets#toolbays)
+|2                             |[Toolbays](../../Extras/bom/plates-and-brackets.md#toolbays)
 |12                            |[25mm Wood Screws](../../Extras/bom/fasteners-and-hardware.md#wood-screws)
 
 

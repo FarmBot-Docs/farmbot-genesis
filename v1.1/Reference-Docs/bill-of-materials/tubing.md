@@ -10,7 +10,7 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|3                             |[Liquid/Gas Tubes](#liquid-gas-tubes)|$4.74                         |$14.22
+|3                             |[Liquid/Gas Tubes](#liquidgas-tubes)|$4.74                         |$14.22
 |3                             |[Barbs](#barbs)       |$5.60                         |$16.80
 |1                             |[Barbed Adapter](#barbed-adapter)|$1.62                         |$1.62
 |1                             |[Garden Hose Adapter](#garden-hose-adapter)|$4.81                         |$4.81
@@ -65,7 +65,7 @@ These stainless steel barbs screw into the UTM's three liquid/gas ports and acce
 # Barbed Adapter
 This adapter threads onto the solenoid valve and is connected to the water tube leading to the UTM.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_02.JPG)
 
 
 
@@ -102,7 +102,7 @@ This adapter connects standard US garden hoses to the solenoid valve.
 # O-rings
 These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_03.JPG)
 
 
 
@@ -122,7 +122,7 @@ These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when t
 # Grommets
 These grommets fit onto the UTM cover and allow the liquid/gas tubes and the UTM cable to pass into the UTM assembly while keeping water and dust out.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_04.JPG)
 
 
 

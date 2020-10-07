@@ -107,7 +107,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 
 
-![IMG_0535.jpg](_images/IMG_0535.jpg)
+![IMG_0535.jpg](_images/IMG_0535_02.jpg)
 
 
 

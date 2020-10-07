@@ -145,7 +145,7 @@ _See the gap in the track extrusions? You don't want that!_
 
 
 
-![IMG_4499.JPG](_images/IMG_4499.JPG)
+![IMG_4499.JPG](_images/IMG_4499_02.JPG)
 
 
 

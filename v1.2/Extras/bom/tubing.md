@@ -10,7 +10,7 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|2                             |[Liquid/Gas Tubes](#liquid-gas-tubes)|$10.00                        |$20.00
+|2                             |[Liquid/Gas Tubes](#liquidgas-tubes)|$10.00                        |$20.00
 |3                             |[Barbs](#barbs)       |$6.00                         |$18.00
 |1                             |[Barbed Adapter](#barbed-adapter)|$2.00                         |$2.00
 |1                             |[Garden Hose Adapter](#garden-hose-adapter)|$5.00                         |$5.00

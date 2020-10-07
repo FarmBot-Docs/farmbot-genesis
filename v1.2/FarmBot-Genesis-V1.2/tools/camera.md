@@ -29,8 +29,8 @@ Gather all the camera parts from the table below and lay them out in a logical m
 |------------------------------|------------------------------|
 |1                             |[Borescope Camera](../../Extras/bom/electronics-and-wiring.md#borescope-camera)
 |2                             |[Camera Mounts](../../Extras/bom/fasteners-and-hardware.md#camera-mounts)
-|2                             |[M5 x 6mm Screws](fasteners-and-hardware#m5-screws)
-|2                             |[M5 Tee Nuts](fasteners-and-hardware#m5-tee-nuts)
+|2                             |[M5 x 6mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-screws)
+|2                             |[M5 Tee Nuts](../../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)
 
 
 

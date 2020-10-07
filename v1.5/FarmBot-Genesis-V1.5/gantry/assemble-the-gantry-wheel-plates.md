@@ -64,7 +64,7 @@ Loosely attach two **60mm nut bars** to the plate using four **M5 x 10mm screws*
 # Step 4: Repeat
 Repeat the above steps for the second gantry wheel plate assembly. You should end up with two gantry wheel plate assemblies that are mirror images of each other.
 
-![Gantry Wheel Plates.jpg](_images/Gantry_Wheel_Plates.jpg)
+![Gantry Wheel Plates.jpg](_images/Gantry_Wheel_Plates_02.jpg)
 
 # Step 5: Adjust the V-wheel spacing
 

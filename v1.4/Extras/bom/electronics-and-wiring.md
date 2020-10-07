@@ -16,7 +16,7 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[Raspberry Pi 3](#raspberry-pi-3)|$40.00                        |1                             |$40.00                        |1                             |$40.00
 |[MicroSD Card](#microsd-card)|$15.00                        |1                             |$15.00                        |1                             |$15.00
 |[Pi Adapter Board](#pi-adapter-board)|$10.00                        |1                             |$10.00                        |1                             |$10.00
-|[Push Buttons](#scetion-push-buttons)|$7.00                         |5                             |$35.00                        |5                             |$35.00
+|[Push Buttons](#push-buttons)|$7.00                         |5                             |$35.00                        |5                             |$35.00
 |[LED Indicators](#led-indicators)|$5.00                         |4                             |$20.00                        |4                             |$20.00
 |[Farmduino](#farmduino)|$90.00                        |1                             |$90.00                        |1                             |$90.00
 |[Stepper Drivers](#stepper-drivers)|$6.00                         |5                             |$30.00                        |5                             |$30.00
@@ -226,11 +226,11 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 
 
 
-![IMG_0524.jpg](_images/IMG_0524.jpg)
+![IMG_0524.jpg](_images/IMG_0524_02.jpg)
 
 
 
-![IMG_0525.jpg](_images/IMG_0525.jpg)
+![IMG_0525.jpg](_images/IMG_0525_02.jpg)
 
 # Farmduino
 The Farmduino is an electronics board that combines the functionality of an Arduino MEGA 2560 microcontroller and a RAMPS shield. It features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more.

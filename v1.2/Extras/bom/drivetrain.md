@@ -127,7 +127,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 
 
 
-![Pulley 2.jpg](_images/Pulley_2.jpg)
+![Pulley 2.jpg](_images/Pulley_2_02.jpg)
 
 
 

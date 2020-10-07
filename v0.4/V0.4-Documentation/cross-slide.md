@@ -20,7 +20,7 @@ There are three changes to the V0.4 cross-slide from V0.3:
 
 
 
-![V4_Cross-Slide_2.jpg](_images/Slide_2.jpg)
+![V4_Cross-Slide_2.jpg](_images/Slide_2_02.jpg)
 
 
 

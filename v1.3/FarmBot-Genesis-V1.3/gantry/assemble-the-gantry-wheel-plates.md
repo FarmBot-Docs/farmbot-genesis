@@ -71,7 +71,7 @@ You should end up with one completed gantry wheel plate assembly.
 # Step 4: Repeat
 Repeat the above steps for the second gantry wheel plate assembly. You should end up with two gantry wheel plate assemblies that are mirror images of each other.
 
-![Dual gantry plates.jpg](_images/Dual_gantry_plates.jpg)
+![Dual gantry plates.jpg](_images/Dual_gantry_plates_02.jpg)
 
 # Step 5: Adjust the V-wheel spacing
 

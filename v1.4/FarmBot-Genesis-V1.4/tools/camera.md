@@ -25,8 +25,8 @@ The camera has a light that is controlled by a dial on the USB connector that yo
 |------------------------------|------------------------------|
 |1                             |[Borescope Camera](../../Extras/bom/electronics-and-wiring.md#borescope-camera)
 |2                             |[Camera Mounts](../../Extras/bom/plastic-parts.md#camera-mounts)
-|2                             |[M5 x 10mm Screws](fasteners-and-hardware#m5-x-10mm-screws)
-|2                             |[M5 Tee Nuts](fasteners-and-hardware#m5-tee-nuts)
+|2                             |[M5 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-x-10mm-screws)
+|2                             |[M5 Tee Nuts](../../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)
 
 
 

@@ -24,8 +24,8 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |4                             |[NEMA 17 Stepper Motors with Rotary Encoders](#nema-17-stepper-motors-with-rotary-encoders)|$60.00                        |$240.00
 |4                             |[Motor Cables](#motor-cables)|$20.00                        |$80.00
 |4                             |[Encoder Cables](#encoder-cables)|$25.00                        |$100.00
-|2                             |[1.7m Cable Carriers](#1-7m-cable-carrier)|$50.00                        |$100.00
-|1                             |[0.74m Cable Carrier](#0-74m-cable-carrier)|$30.00                        |$30.00
+|2                             |[1.7m Cable Carriers](#17m-cable-carrier)|$50.00                        |$100.00
+|1                             |[0.74m Cable Carrier](#074m-cable-carrier)|$30.00                        |$30.00
 |1                             |[Universal Tool Mount Cable](#universal-tool-mount-cable)|$35.00                        |$35.00
 |1                             |[Soil Sensor PCB](#soil-sensor-pcb)|$6.00                         |$6.00
 |3                             |[Soil Sensor Jumpers](#soil-sensor-jumpers)|$0.50                         |$1.50

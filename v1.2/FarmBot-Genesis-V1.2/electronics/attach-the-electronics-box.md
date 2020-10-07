@@ -17,7 +17,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 |------------------------------|------------------------------|
 |1                             |[Electronics Housing](../../Extras/bom/electronics-and-wiring.md#electronics-housing)
 |6                             |[M5 x 10mm Screws](../../Extras/bom/fasteners-and-hardware.md#m5-screws)
-|6                             |[M5 Tee Nuts](fasteners-and-hardware#m5-tee-nuts)
+|6                             |[M5 Tee Nuts](../../Extras/bom/fasteners-and-hardware.md#m5-tee-nuts)
 |2                             |[Cable Guides](../../Extras/bom/plates-and-brackets.md#cable-guides)
 
 

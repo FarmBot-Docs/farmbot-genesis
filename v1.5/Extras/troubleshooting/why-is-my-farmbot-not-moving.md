@@ -77,7 +77,7 @@ Procedure for adjusting the belt tension:
 3. Re-tighten the clip.
 4. Make sure to check all three belts: the two along the tracks, and the one across the gantry main beam.
 The belts should not be under extreme tension. If they are, FarmBot’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
-5. [Re-equalize the gantry](#equalize-the-gantry) to prevent binding.
+5. [Re-equalize the gantry](#2--equalize-the-gantry) to prevent binding.
 
 ![Belt_Tightening.png](_images/Belt_Tightening.png)
 

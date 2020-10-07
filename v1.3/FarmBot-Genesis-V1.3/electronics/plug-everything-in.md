@@ -102,7 +102,7 @@ content="Do not pull any cables away from the electronics box during this proces
 
 
 
-![IMG_20170923_131922.jpg](_images/IMG_20170923_131922.jpg)
+![IMG_20170923_131922.jpg](_images/IMG_20170923_131922_02.jpg)
 
 # Step 7: Mount the power supply
 Mount the **power supply** to your **supporting infrastructure** using four **25mm wood screws**. The power supply is IP67 rated, so it can withstand rain and the elements.

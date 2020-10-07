@@ -19,9 +19,9 @@ description: "Tech specs for the miscellaneous components in FarmBot Genesis. Vi
 |[3mm Hex Driver](#3mm-hex-driver)|$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[2mm Hex Driver](#2mm-hex-driver)|$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[8mm Box Wrench](#8mm-box-wrench)|$5.00                         |1                             |$5.00                         |1                             |$5.00
-|[5.5mm Box Wrench](#5-5mm-box-wrench)|$5.00                         |1                             |$5.00                         |1                             |$5.00
+|[5.5mm Box Wrench](#55mm-box-wrench)|$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[8mm Wrench](#8mm-wrench)|$3.00                         |1                             |$3.00                         |1                             |$3.00
-|[5.5mm Wrench](#5-5mm-wrench)|$3.00                         |1                             |$3.00                         |1                             |$3.00
+|[5.5mm Wrench](#55mm-wrench)|$3.00                         |1                             |$3.00                         |1                             |$3.00
 |[Phillips Screwdriver](#phillips-screwdriver)|$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[2mm Allen Key](#2mm-allen-key)|$1.00                         |1                             |$1.00                         |1                             |$1.00
 |**TOTALS**                    |                              |**119**                       |**$108.25**                   |**119**                       |**$108.25**

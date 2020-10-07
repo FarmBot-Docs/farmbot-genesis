@@ -16,7 +16,7 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[Raspberry Pi 3](#raspberry-pi-3)|$40.00                        |1                             |$40.00                        |1                             |$40.00                        |1                             |$40.00
 |[MicroSD Card](#microsd-card)|$15.00                        |1                             |$15.00                        |1                             |$15.00                        |1                             |$15.00
 |[Pi Adapter Board](#pi-adapter-board)|$10.00                        |1                             |$10.00                        |1                             |$10.00                        |1                             |$10.00
-|[Push Buttons](#scetion-push-buttons)|$7.00                         |5                             |$35.00                        |5                             |$35.00                        |5                             |$35.00
+|[Push Buttons](#push-buttons)|$7.00                         |5                             |$35.00                        |5                             |$35.00                        |5                             |$35.00
 |[LED Indicators](#led-indicators)|$5.00                         |4                             |$20.00                        |4                             |$20.00                        |4                             |$20.00
 |[Farmduino](#farmduino)|$120.00                       |1                             |$120.00                       |1                             |$120.00                       |1                             |$120.00
 |[Raspberry Pi Power Cable](#raspberry-pi-power-cable)|$5.00                         |1                             |$5.00                         |1                             |$5.00                         |1                             |$5.00
@@ -219,11 +219,11 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 
 
 
-![IMG_0524.jpg](_images/IMG_0524.jpg)
+![IMG_0524.jpg](_images/IMG_0524_02.jpg)
 
 
 
-![IMG_0525.jpg](_images/IMG_0525.jpg)
+![IMG_0525.jpg](_images/IMG_0525_02.jpg)
 
 # Farmduino
 The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders.
@@ -443,7 +443,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 ![340b3a9-Soil_Sensor_PCB_2.jpeg](_images/Soil_Sensor_PCB_2.jpeg)
 
- # Solenoid Valve
+# Solenoid Valve
 This 24V valve controls the flow of water from your garden hose to FarmBot's tubing.
 
 |                              |                              |

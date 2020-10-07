@@ -14,7 +14,7 @@ description: "Tech specs for the drivetrain components in FarmBot Genesis. Visit
 |60                            |[Bearings](#bearings) |$2.50                         |$150.00
 |35                            |[M5 Shims](#m5-shims) |$0.25                         |$8.75
 |1                             |[2m GT2 Timing Belt](#2m-gt2-timing-belt)|$20.00                        |$20.00
-|2                             |[4.5m GT2 Timing Belt](#4-5m-gt2-timing-belt)|$40.00                        |$80.00
+|2                             |[4.5m GT2 Timing Belt](#45m-gt2-timing-belt)|$40.00                        |$80.00
 |3                             |[20 Tooth GT2 Pulleys](#gt2-pulleys)|$6.00                         |$18.00
 |1                             |[5mm to 8mm Flex Coupling](#5mm-to-8mm-flex-coupling)|$6.00                         |$6.00
 |1                             |[8mm ACME Leadscrew](#8mm-acme-leadscrew)|$35.00                        |$35.00
@@ -139,7 +139,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 
 
 
-![Pulley 2.jpg](_images/Pulley_2.jpg)
+![Pulley 2.jpg](_images/Pulley_2_02.jpg)
 
 # 5mm to 8mm Flex Coupling
 This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction.

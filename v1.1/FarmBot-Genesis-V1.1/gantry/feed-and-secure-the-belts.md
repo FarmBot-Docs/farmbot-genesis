@@ -43,7 +43,7 @@ Take the back half of the belt and feed it over the motor pulley, down through t
 
 Secure the belt at the other end of the tracks with another **belt clip**, **M5 x 10mm screw**, and **M5 tee nut**. Put a small amount of tension on the belt as you tighten the M5 screw.
 
-![IMG_20160324_161818.jpg](_images/IMG_20160324_161818.jpg)
+![IMG_20160324_161818.jpg](_images/IMG_20160324_161818_02.jpg)
 
 Repeat the above steps for the second belt on the other side of the gantry.
 

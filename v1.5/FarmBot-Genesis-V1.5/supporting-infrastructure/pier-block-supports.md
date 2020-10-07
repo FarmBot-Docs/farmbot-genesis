@@ -60,7 +60,7 @@ You can use shims or other spacers to better align track plates in case your pos
 
 
 
-![posts.png](_images/posts.png)
+![posts.png](_images/posts_02.png)
 
 Once you have positioned the second track's posts, bury or secure them however you like, again ensuring that they will not significantly move once installed.
 

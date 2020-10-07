@@ -10,8 +10,8 @@ description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](htt
 
 |Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|[Water Tubes](#liquid-gas-tubes)|$10.00 to $15.00              |2                             |$20.00                        |2                             |$30.00
-|[Vacuum Air Tube](#liquid-gas-tubes)|$5.00                         |1                             |$5.00                         |1                             |$5.00
+|[Water Tubes](#liquidgas-tubes)|$10.00 to $15.00              |2                             |$20.00                        |2                             |$30.00
+|[Vacuum Air Tube](#liquidgas-tubes)|$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[Barbs](#barbs)       |$6.00                         |3                             |$18.00                        |3                             |$18.00
 |[Barbed Adapter](#barbed-adapter)|$5.00                         |3                             |$15.00                        |3                             |$15.00
 |[Garden Hose Adapter](#garden-hose-adapter)|$7.00                         |1                             |$7.00                         |1                             |$7.00

@@ -59,7 +59,7 @@ You can purchase a small anemometer wind speed sensor with an analog output from
 
 Purchase this [waterproof digital temperature sensor](https://www.adafruit.com/products/381) from Adafruit and connect it directly to your FarmBot's Arduino. This will then allow you to accurately read ambient air temperatures.
 
-![381-00.jpg](_images/00.jpg)
+![381-00.jpg](_images/00_02.jpg)
 
 
 
@@ -67,7 +67,7 @@ Purchase this [waterproof digital temperature sensor](https://www.adafruit.com/p
 
 This [I2C combo temperature/humidity sensor](https://www.adafruit.com/products/1293) from Adafruit can connect directly to your FarmBot's Arduino I2C port. This will then allow you to accurately read ambient air temperatures and humidity.
 
-![1293-00.jpg](_images/00.jpg)
+![1293-00.jpg](_images/00_03.jpg)
 
 
 
@@ -84,15 +84,15 @@ content="Note that this sensor should not be exposed to rain as it is not consid
 
 [AM2302 (wired DHT22) temperature-humidity sensor](https://www.adafruit.com/products/393) from Adafruit
 
-![393-00.jpg](_images/00.jpg)
+![393-00.jpg](_images/00_04.jpg)
 
 [DHT22 temperature-humidity sensor + extras](https://www.adafruit.com/products/385) from Adafruit
 
-![385-00.jpg](_images/00.jpg)
+![385-00.jpg](_images/00_05.jpg)
 
 [DHT11 basic temperature-humidity sensor + extras](https://www.adafruit.com/products/386) from Adafruit
 
-![386-00.jpg](_images/00.jpg)
+![386-00.jpg](_images/00_06.jpg)
 
 
 
@@ -100,5 +100,5 @@ content="Note that this sensor should not be exposed to rain as it is not consid
 
 Check out the [Adafruit BMP280 I2C or SPI Barometric Pressure & Altitude Sensor](https://www.adafruit.com/products/2651)!
 
-![2651-00.jpg](_images/00.jpg)
+![2651-00.jpg](_images/00_07.jpg)
 

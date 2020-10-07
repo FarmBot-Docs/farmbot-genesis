@@ -27,7 +27,7 @@ Using an affordable water flow meter from [Adafruit](https://www.adafruit.com/pr
 include callout.html
 type="info"
 title="Help us make this functionality possible"
-content="The FarmBot Arduino Firmware, Raspberry Pi Controller, and Web App do not currently support this type of sensor. You can help us build these features by joining us on [GitHub](github.com/farmbot)."
+content="The FarmBot Arduino Firmware, Raspberry Pi Controller, and Web App do not currently support this type of sensor. You can help us build these features by joining us on [GitHub](https://github.com/farmbot)."
 %}
 
 

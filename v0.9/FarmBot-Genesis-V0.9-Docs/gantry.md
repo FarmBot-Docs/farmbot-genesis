@@ -326,7 +326,7 @@ Tighten the **M5 x 10mm screws**.
 
 Slide the **gantry columns** onto the **tracks**.
 
-![IMG_1943.JPG](_images/IMG_1943.JPG)
+![IMG_1943.JPG](_images/IMG_1943_02.JPG)
 
 Rest the **gantry main beam** on top of the **gantry columns**. For Genesis XL kits, the connector plate should be facing away from the gantry corner brackets.
 

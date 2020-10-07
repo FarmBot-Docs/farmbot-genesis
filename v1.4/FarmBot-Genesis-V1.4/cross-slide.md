@@ -158,7 +158,7 @@ content="Make sure that the belt is not twisted anywhere."
 
 Secure the belt at the other end of the gantry with another **belt clip**, **M5 x 10mm screw**, and **M5 tee nut**. Put a small amount of tension on the belt as you tighten the M5 screw.
 
-![ybelt.JPG](_images/ybelt.JPG)
+![ybelt.JPG](_images/ybelt_02.JPG)
 
 
 # What's next?

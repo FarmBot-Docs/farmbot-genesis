@@ -393,7 +393,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Setscrews
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_02.JPG)
 
 
 
@@ -410,7 +410,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Locknuts
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_03.JPG)
 
 
 
@@ -428,7 +428,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 ## M4 Setscrews
 These setscrews are used to secure the driveshaft flex coupling to the driveshaft and to the gantry motor's primary shaft.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_04.JPG)
 
 
 
@@ -445,7 +445,7 @@ These setscrews are used to secure the driveshaft flex coupling to the driveshaf
 ## M5 Screws
 M5 screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually terminated with an M5 tee nut or an M5 locknut.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_05.JPG)
 
 
 
@@ -528,7 +528,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 ## M5 Locknuts
 These nuts resist loosening because their nylon insert grips the screw that they are attached to.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_06.JPG)
 
 
 
@@ -625,7 +625,7 @@ These small washers are placed in between the two bearings in every V-wheel. The
 
 
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_07.JPG)
 
 
 
@@ -658,7 +658,7 @@ The driveshaft is used to transfer power from the gantry motor such that both ga
 ## M5 Lock Collar
 The M5 lock collar is used in combination with a GT2 pulley to "capture" and hold in place the driveshaft bearing inside the driveshaft bearing plate.
 
-![Capture.JPG](_images/Capture.JPG)
+![Capture.JPG](_images/Capture_08.JPG)
 
 
 
@@ -827,7 +827,7 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 ## Raspberry Pi 2
 
-![2358-01.jpg](_images/01.jpg)
+![2358-01.jpg](_images/01_02.jpg)
 
 
 

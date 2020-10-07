@@ -206,7 +206,7 @@ content=""
 
 Position another **track joining plate** such that one half of it will be able to attach to the free end of the **track extrusion** that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**, and then secure the **extrusion** with another **40mm nut bar** and tighten all screws.
 
-![4f8e877-Screen_Shot_2020-02-15_at_10.59.20_PM.png](_images/Screen_Shot_2020-02-15_at_10.59.20_PM.png)
+![4f8e877-Screen_Shot_2020-02-15_at_10.59.20_PM.png](_images/Screen_Shot_2020-02-15_at_10.59.20_02.png)
 
 Repeat to install subsequent **track joining plates** and **track extrusions**.
 
@@ -218,7 +218,7 @@ Position the second **track end plate** and secure it to the **supporting infras
 # Step 9: Install the other track
 Repeat steps 3 through 8 for the track on the other side of the bed. Note that the second track will not have any horizontal cable carrier supports.
 
-![Screen Shot 2020-02-15 at 6.27.12 PM.png](_images/Screen_Shot_2020-02-15_at_6.27.12_PM.png)
+![Screen Shot 2020-02-15 at 6.27.12 PM.png](_images/Screen_Shot_2020-02-15_at_6.27.12_02.png)
 
 
 

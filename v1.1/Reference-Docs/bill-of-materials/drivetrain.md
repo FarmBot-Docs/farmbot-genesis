@@ -14,7 +14,7 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 |60                            |[Bearings](#bearings) |$0.40                         |$24.00
 |30                            |[M5 Shims](#m5-shims) |$0.25                         |$7.50
 |1                             |[2m Long GT2 Timing Belt](#gt2-timing-belt)|$16.40                        |$16.40
-|2                             |5m Long GT2 Timing Belt](#gt2-timing-belt)|$41.00                        |$82.00
+|2                             |[5m Long GT2 Timing Belt](#gt2-timing-belt)|$41.00                        |$82.00
 |3                             |[20 Tooth GT2 Pulleys](#gt2-pulleys)|$5.50                         |$16.50
 |1                             |[5mm to 8mm Flex Coupling](#5mm-to-8mm-flex-coupling)|$4.95                         |$4.95
 |1                             |[8mm ACME Leadscrew](#8mm-acme-leadscrew)|$31.50                        |$31.50

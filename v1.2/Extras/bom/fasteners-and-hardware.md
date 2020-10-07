@@ -14,9 +14,9 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis"
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|18                            |[M2.5 x 4mm Screws](#m2-5-screws)|$0.15                         |$2.70
-|4                             |[M2.5 x 6mm Standoffs](#m2-5-standoffs)|$0.50                         |$2.00
-|4                             |[M2.5 x 16mm Standoffs](#m2-5-standoffs)|$0.50                         |$2.00
+|18                            |[M2.5 x 4mm Screws](#m25-screws)|$0.15                         |$2.70
+|4                             |[M2.5 x 6mm Standoffs](#m25-standoffs)|$0.50                         |$2.00
+|4                             |[M2.5 x 16mm Standoffs](#m25-standoffs)|$0.50                         |$2.00
 |4                             |[M3 x 5mm Screws](#m3-screws)|$0.10                         |$0.40
 |18                            |[M3 x 10mm Screws](#m3-screws)|$0.15                         |$2.70
 |2                             |[M3 x 12mm Screws](#m3-screws)|$0.15                         |$0.30

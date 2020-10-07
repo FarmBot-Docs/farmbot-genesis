@@ -172,15 +172,15 @@ content=""
 
 Position another **track joining plate** such that one half of it will be able to attach to the free end of the **track extrusion** that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
-![9e9355b-Screen_Shot_2017-02-27_at_10.42.49_AM.png](_images/Screen_Shot_2017-02-27_at_10.42.49_AM.png)
+![9e9355b-Screen_Shot_2017-02-27_at_10.42.49_AM.png](_images/Screen_Shot_2017-02-27_at_10.42.49_02.png)
 
 Lightly screw four **M5 x 10mm** screws and **tee nuts** to the **track joining plate**. Orient the tee nuts horizontally.
 
-![8ba10b8-Screen_Shot_2017-02-27_at_10.43.14_AM.png](_images/Screen_Shot_2017-02-27_at_10.43.14_AM.png)
+![8ba10b8-Screen_Shot_2017-02-27_at_10.43.14_AM.png](_images/Screen_Shot_2017-02-27_at_10.43.14_02.png)
 
 Lift the free end of the loose **track extrusion** and position the *lower* V-slot onto two of the **tee nuts** in the **track joining plate**.
 
-![8f2270d-Screen_Shot_2017-02-11_at_10.35.30_PM.png](_images/Screen_Shot_2017-02-11_at_10.35.30_PM.png)
+![8f2270d-Screen_Shot_2017-02-11_at_10.35.30_PM.png](_images/Screen_Shot_2017-02-11_at_10.35.30_02.png)
 
 Verify that the track extrusion is positioned correctly, and butted up against the previous extrusion. Then fully tighten all of the **M5 x 10mm screws** that fasten the extrusion to the two plates.
 
@@ -193,7 +193,7 @@ content="Position your **track extrusions** tightly together at the middle of th
 
 
 
-![124d069-Screen_Shot_2017-02-11_at_10.32.02_PM.png](_images/Screen_Shot_2017-02-11_at_10.32.02_PM.png)
+![124d069-Screen_Shot_2017-02-11_at_10.32.02_PM.png](_images/Screen_Shot_2017-02-11_at_10.32.02_02.png)
 
 _Perfectly aligned track extrusions are key to smooth gantry movements!_
 

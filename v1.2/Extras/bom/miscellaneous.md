@@ -18,7 +18,7 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 |1                             |[3mm Hex Driver](#3mm-hex-driver)|$5.00                         |$5.00
 |1                             |[2mm Hex Driver](#2mm-hex-driver)|$5.00                         |$5.00
 |1                             |[8mm Box Wrench](#8mm-box-wrench)|$5.00                         |$5.00
-|1                             |[5.5mm Box Wrench](#5-5mm-box-wrench)|$5.00                         |$5.00
+|1                             |[5.5mm Box Wrench](#55mm-box-wrench)|$5.00                         |$5.00
 |1                             |[8mm Wrench](#8mm-wrench)|$5.00                         |$5.00
 |1                             |[Phillips Screwdriver](#phillips-screwdriver)|$5.00                         |$5.00
 |1                             |[Bladed Screwdriver](#bladed-screwdriver)|$5.00                         |$5.00

@@ -32,8 +32,8 @@ content="This is the estimated time it will take to install both toolbays"
 
 |Component                     |Genesis Qty                   |XL Qty                        |
 |------------------------------|------------------------------|------------------------------|
-|[3-Slot Toolbays](plates-and-brackets#toolbays)|2                             |2
-|[1-Slot Toolbays](plates-and-brackets#toolbays)|-                             |3
+|[3-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#toolbays)|2                             |2
+|[1-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#toolbays)|-                             |3
 |[25mm Wood Screws](../../Extras/bom/fasteners-and-hardware.md#wood-screws)|12                            |18
 
 

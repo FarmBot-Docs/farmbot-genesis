@@ -50,7 +50,7 @@ Use four M3x10mm screws to attach the Stepper Motor and Motor Housing to the Cro
 
 Add two V-wheels with **normal spacers** to the corner holes of the Cross-Slide Plate. The V-wheels should be on the same side of the plate as the Motor and the Delrin Block.
 
-![20150114_120326.jpg](_images/20150114_120326.jpg)
+![20150114_120326.jpg](_images/20150114_120326_02.jpg)
 
 Add a V-wheel with an **eccentric spacer** to the hole nearest the middle of the plate. The V-wheel should be on the same side of the plate as the other components.
 
