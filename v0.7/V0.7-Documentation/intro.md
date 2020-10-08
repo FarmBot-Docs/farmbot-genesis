@@ -2,6 +2,7 @@
 title: "What's New in V0.7"
 slug: "intro"
 description: "Improvements from V0.6 hardware"
+redirect_from: /docs/v0.7/
 ---
 
 * toc

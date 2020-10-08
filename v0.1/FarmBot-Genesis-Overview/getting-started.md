@@ -1,6 +1,7 @@
 ---
 title: "Intro"
 slug: "getting-started"
+redirect_from: /docs/v0.1/
 ---
 
 * toc

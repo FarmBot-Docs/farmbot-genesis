@@ -41,17 +41,17 @@ content="Genesis is currently being developed and has undergone several versions
 
 ## V0.7
 Under Construction. Major changes: removal of endstops, stronger z-axis motor mount, added z-axis cable carrier, track plates and gantry corner plates redesign, upgraded universal tool mount to support 6 liquid lines and 12 electrical connections, quick access electronics enclosure, larger cable carriers
-## [V0.6](https://genesis.farm.bot/v0.6)
+## [V0.6](https://genesis.farm.bot/docs/v0.6)
 Major changes: reliability improvements to the universal tool mount
-## [V0.5](https://genesis.farm.bot/v0.5)
+## [V0.5](https://genesis.farm.bot/docs/v0.5)
 Major changes: rotary encoders on motors, integrated water, vacuum, and liquid amendments into universal tool mount, part simplification
-## [V0.4](https://genesis.farm.bot/v0.4)
+## [V0.4](https://genesis.farm.bot/docs/v0.4)
 Major changes: electronics enclosures/housings, cable carrier cable management, magnetic universal tool mount design
-## [V0.3](https://genesis.farm.bot/v0.3)
+## [V0.3](https://genesis.farm.bot/docs/v0.3)
 Major changes: wire and trolley cable management, part simplification
-## [V0.2](https://genesis.farm.bot/v0.2)
+## [V0.2](https://genesis.farm.bot/docs/v0.2)
 Major changes: endstop integration, custom brackets and plates, universal tool mount
-## [V0.1](https://genesis.farm.bot/v0.1)
+## [V0.1](https://genesis.farm.bot/docs/v0.1)
 Focused on being a quick and easy first prototype, V0.1 was constructed from all off-the-shelf components
 
 # High Level Architecture

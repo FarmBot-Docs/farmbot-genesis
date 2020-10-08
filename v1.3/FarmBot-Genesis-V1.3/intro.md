@@ -2,6 +2,7 @@
 title: "Intro to FarmBot Genesis"
 slug: "intro"
 description: "DIY open-source hardware platform optimized for small-scale soil-based food production\n[Order your FarmBot here!](https://farm.bot/shop)"
+redirect_from: /docs/v1.3/
 ---
 
 * toc
