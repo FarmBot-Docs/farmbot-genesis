@@ -12,9 +12,9 @@ In the next sections we offer advice for building three types of supporting infr
 
 |                              |Fixed Raised Bed              |Mobile Raised Bed             |Pier Block Supports           |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|Genesis                       |:white-check-mark:            |:white-check-mark:            |:white-check-mark:
-|Genesis XL                    |:white-check-mark:            |:no-entry:                    |:white-check-mark:
-|Genesis MAX                   |:no-entry:                    |:no-entry:                    |:white-check-mark:
+|Genesis                       |:white_check_mark:            |:white_check_mark:            |:white_check_mark:
+|Genesis XL                    |:white_check_mark:            |:no_entry:                    |:white_check_mark:
+|Genesis MAX                   |:no_entry:                    |:no_entry:                    |:white_check_mark:
 
 
 
