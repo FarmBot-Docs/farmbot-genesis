@@ -1,15 +1,25 @@
-name: CI
+name: run checks
 
 on:
   push:
     branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
-  build:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: install deps
-        run: sudo apt install tree
-      - name: tree
-        run: tree v1.5
+        with:
+          path: farmbot-genesis
+      - uses: actions/checkout@v2
+        with:
+          repository: FarmBot-Docs/utilities
+          path: utilities
+      - uses: actions/setup-python@v2
+      - run: python utilities/run_all_checks.py
+      - uses: actions/upload-artifact@v2
+        with:
+          name: results
+          path: utilities/results/*
