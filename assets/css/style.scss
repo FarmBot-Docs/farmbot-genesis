@@ -251,8 +251,11 @@ nav {
   padding: 0;
   padding-top: 2rem;
   a {
-    text-decoration: none;
+    border: none;
     color: #9b9b9b;
+    display: block;
+    padding: 0.1rem 0;
+    text-decoration: none;
     &:hover {
       color: $site-color;
     }
@@ -261,6 +264,7 @@ nav {
     list-style-type: none;
   }
   ul {
+    margin-bottom: 0.2rem;
     padding-inline-start: 1.5rem;
   }
 }
@@ -311,7 +315,7 @@ nav {
   padding-top: 0 !important;
   img {
     border: 3px solid #eee;
-    border-radius: 3px;
+    border-radius: 5px;
     &.emoji {
       border: none;
       border-radius: none;
@@ -330,6 +334,14 @@ nav {
   iframe {
     max-width: 100%;
     margin-top: 2rem;
+    border-radius: 5px;
+  }
+  table {
+    border: #eee 3px solid;
+    border-radius: 5px;
+    th, td {
+      border: none;
+    }
   }
 }
 
@@ -338,8 +350,10 @@ nav {
   a {
     color: $site-color;
     text-decoration: none;
+    border-bottom: 2px solid rgba($site-color, 0.3);
     &:hover {
       color: darken($site-color, 10%);
+      border-bottom-color: rgba($site-color, 0.5);
     }
   }
 }
