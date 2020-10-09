@@ -339,6 +339,9 @@ nav {
   table {
     border: #eee 3px solid;
     border-radius: 5px;
+    th {
+      text-align: left;
+    }
     th, td {
       border: none;
     }
@@ -374,6 +377,7 @@ h3 {
   background: #f8f8f9;
   border-left: 0.25rem solid #dfe2e5;
   border-color: #8b939c;
+  border-radius: 5px;
   margin-top: 1rem;
   padding: 1.3rem;
   i {
