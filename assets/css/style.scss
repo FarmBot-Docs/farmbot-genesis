@@ -411,6 +411,22 @@ h3 {
   }
 }
 
+#whats-next + ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  a {
+    border: 2px solid #eee;
+    border-radius: 5px;
+    display: block;
+    margin-bottom: 10px;
+    padding: 1rem;
+    &:hover {
+      background: darken(#fff, 5%);
+    }
+  }
+}
+
 /* devanagari */
 @font-face {
   font-family: 'Inknut Antiqua';
