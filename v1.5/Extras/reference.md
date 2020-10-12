@@ -10,7 +10,6 @@ These pages contain detailed, deep-dive information that you will need to assemb
 
 # What's next?
 
- * [Assemble the V-Wheels](reference/assemble-the-v-wheels.md)
  * [Basic Tool Hardware](reference/basic-tool-hardware.md)
  * [Belt Installation](reference/belt-installation.md)
  * [Eccentric Spacer Adjustment](reference/eccentric-spacer-adjustment.md)
