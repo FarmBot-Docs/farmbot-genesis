@@ -43,6 +43,6 @@ There are two versions of the plastic parts box: one for **Genesis** kits and on
 |**Material**                  |Cardboard
 |**Color**                     |Brown
 |**Printing**                  |None
-|**Sticker**                   |`XL` sticker for Genesis XL kits
+|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
 |**Fill**                      |Recycled kraft paper
 

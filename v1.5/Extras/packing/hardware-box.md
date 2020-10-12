@@ -13,11 +13,12 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 
 |Item                          |Sub-packing                   |Genesis Qty                   |Genesis XL Qty                |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|Box of:<br>  * 2.5mm Bladed Screwdriver<br>  * 2mm Hex Driver<br>  * 3mm Hex Driver<br>  * 5.5mm Nut Driver<br>  * 8mm Nut Driver<br>  * 8mm Thin Wrench<br>  * 5.5mm Thin Wrench<br>  * Phillips Screwdriver (6mm bit size)<br>  * 2mm Allen Key|Small box (no printing)       |1 box                         |1 box
+|Box of:<br>- 2.5mm Bladed Screwdriver<br>- 2mm Hex Driver<br>- 3mm Hex Driver<br>- 5.5mm Nut Driver<br>- 8mm Nut Driver<br>- 8mm Thin Wrench<br>- 5.5mm Thin Wrench<br>- Phillips Screwdriver (6mm bit size)<br>- 2mm Allen Key|Small box (no printing)       |1 box                         |1 box
 |Pack of:<br>- 1x M5 to Luer Lock Adapter<br>- 3x Luer Lock Needle w/ cover (16 Gauge)<br>- 3x Luer Lock Needle w/ cover (19 Gauge)<br>- 3x Luer Lock Needle w/ cover (22 Gauge)|Press-to-seal bag             |1 pack                        |1 pack
 |Pack of:<br>- 3x 20 Tooth GT2 Pulleys<br>- 1x 5mm to 8mm Shaft Coupler<br>- 1x Leadscrew Block<br>- 1x 90 Degree Barb<br>- 1x Inline Air Filter|Press-to-seal bag             |1 pack                        |1 pack
 |24V Solenoid Valve            |Small box (no printing)       |1                             |1
 |24V Vacuum Pump               |Small box (no printing)       |1                             |1
+|UTM                           |Small box (no printing)       |1                             |1
 |GT2 Timing Belt (1.7m)        |Coiled                        |1                             |-
 |GT2 Timing Belt (3.2m)        |Coiled                        |-                             |1
 |GT2 Timing Belt (4.5m)        |Coiled                        |2                             |-
@@ -60,6 +61,6 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |**Material**                  |Cardboard
 |**Color**                     |Brown
 |**Printing**                  |None
-|**Sticker**                   |`XL` sticker for Genesis XL kits
+|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
 |**Fill**                      |Recycled kraft paper
 
