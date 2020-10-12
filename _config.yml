@@ -2,6 +2,7 @@ title: FarmBot Genesis Documentation
 url: genesis.farm.bot
 logo: /assets/images/documentation.png
 theme: jekyll-theme-cayman
+remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#783f04'
 oldest_stable_version: 1.2
@@ -10,6 +11,7 @@ version_factor: 10.0
 plugins:
   - jemoji
   - jekyll-redirect-from
+  - jekyll-remote-theme
 include:
   - _images
   - _redirects
