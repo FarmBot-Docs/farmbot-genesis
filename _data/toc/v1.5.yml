@@ -158,8 +158,6 @@ contents:
       - title: Reference Docs
         url: reference
         pages:
-          - title: Assemble the V-Wheels
-            url: assemble-the-v-wheels
           - title: Basic Tool Hardware
             url: basic-tool-hardware
           - title: Belt Installation
@@ -174,6 +172,13 @@ contents:
             url: seeds
       - title: Frequently Asked Questions
         url: faq
+      - title: Pre-Assembly
+        url: pre-assembly
+        pages:
+          - title: V-Wheels
+            url: v-wheels
+          - title: Electronics Box
+            url: electronics-box
       - title: Packing
         url: packing
         pages:
@@ -187,6 +192,8 @@ contents:
             url: cable-and-tubing-box
           - title: Motor Box
             url: motor-box
+          - title: Power Supply Box
+            url: power-supply-box
           - title: Main Carton Packing
             url: main-carton-packing
           - title: Extrusion and Leadscrew Packing
