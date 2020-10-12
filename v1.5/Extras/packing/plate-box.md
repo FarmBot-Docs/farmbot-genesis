@@ -36,6 +36,6 @@ There are two versions of the plate box: one for **Genesis** kits and one for **
 |**Material**                  |Cardboard
 |**Color**                     |Brown
 |**Printing**                  |None
-|**Sticker**                   |`XL` sticker for Genesis XL kits
+|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
 |**Fill**                      |Recycled kraft paper
 
