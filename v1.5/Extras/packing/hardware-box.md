@@ -7,7 +7,7 @@ description: "Packing details for the hardware box inside each main carton"
 * toc
 {:toc}
 
-There are two versions of the hardware box: one for **Genesis** kits and one for **Genesis XL** kits. The table below shows the items that should be packed into each version.
+There are two versions of the hardware box: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
@@ -18,12 +18,12 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |Pack of:<br>- 3x 20 Tooth GT2 Pulleys<br>- 1x 5mm to 8mm Shaft Coupler<br>- 1x Leadscrew Block<br>- 1x 90 Degree Barb<br>- 1x Inline Air Filter|Press-to-seal bag             |1 pack                        |1 pack
 |24V Solenoid Valve            |Small box (no printing)       |1                             |1
 |24V Vacuum Pump               |Small box (no printing)       |1                             |1
-|UTM                           |Small box (no printing)       |1                             |1
+|[Pre-Assembled UTM](../pre-assembly/utm.md)|Small box (no printing)       |1                             |1
 |GT2 Timing Belt (1.7m)        |Coiled                        |1                             |-
 |GT2 Timing Belt (3.2m)        |Coiled                        |-                             |1
 |GT2 Timing Belt (4.5m)        |Coiled                        |2                             |-
 |GT2 Timing Belt (7.5m)        |Coiled                        |-                             |2
-|V-Wheels (pre-assembled)      |Press-to-seal bag             |30                            |30
+|[Pre-Assembled V-Wheels](../pre-assembly/v-wheels.md)|Press-to-seal bag             |30                            |30
 |25mm Wood Screws              |Press-to-seal bag             |35                            |60
 |M3 Locknuts                   |Press-to-seal bag             |16                            |16
 |M3 x 6mm Screws               |Press-to-seal bag             |10                            |10
