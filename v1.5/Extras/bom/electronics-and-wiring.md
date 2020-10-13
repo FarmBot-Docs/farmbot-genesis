@@ -44,16 +44,12 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[Power Cord Protector](#power-cord-protector)|$7.00                         |1                             |$7.00                         |1                             |$7.00                         |1                             |$7.00
 |**TOTALS**                    |                              |**68**                        |**$1,187.00**                 |**68**                        |**$1,337.00**                 |**68**                        |**$1,467.00**
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3qtDwTwSx9w%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3qtDwTwSx9w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3qtDwTwSx9w%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
 # Electronics Box
 This rainproof box protects FarmBot's electronics from rain and debris. It features an easy-to-use tool-less double latch design for quickly opening and closing the box, a rubber gasket to keep moisture out, and a custom gland for all of FarmBot's cables to be passed through. The lid, latches, and box are made of UV stabilized materials.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fr6vjSrMhUc0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr6vjSrMhUc0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr6vjSrMhUc0%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -65,15 +61,9 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 |**Price**                     |$95.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0515.jpg](_images/IMG_0515.jpg)
 
-
-
 ![Electronics.JPG](_images/Electronics.JPG)
-
-
 
 ![IMG_0526.jpg](_images/IMG_0526.jpg)
 
@@ -91,15 +81,9 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 |**Price**                     |$60.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0507.jpg](_images/IMG_0507.jpg)
 
-
-
 ![IMG_0509.jpg](_images/IMG_0509.jpg)
-
-
 
 ![IMG_0512.jpg](_images/IMG_0512.jpg)
 
@@ -116,42 +100,37 @@ This modular 2-wire cable connects the power supply to the Farmduino. It feature
 |**Quantity**                  |1
 |**Price**                     |3m: $20.00<br>4.5m: $30.00<br>10.5m: $70.00
 
-
-
 ![IMG_0503.jpg](_images/IMG_0503.jpg)
-
-
 
 ![IMG_0505.jpg](_images/IMG_0505.jpg)
 
 # Raspberry Pi 3
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection.
 
+{%
+include callout.html
+type="info"
+title="Model may vary"
+content="v1.5 kits shipped before November 1st, 2020 included the Raspberry Pi model **3B**, while v1.5 kits shipped after November 1st, 2020 included model **3B+**."
+%}
+
 |                              |                              |
 |------------------------------|------------------------------|
-|**CPU**                       |1.2Ghz Quad Core processor
+|**CPU**                       |1.2Ghz Quad Core (3B)<br>1.4Ghz Quad Core (3B+)
 |**RAM**                       |1GB
-|**WiFi**                      |2.4GHz 802.11n wireless
-|**Ethernet**                  |10/100 Ethernet
+|**WiFi**                      |2.4GHz 802.11n (3B)<br>Dual-Band 802.11ac (3B+)
+|**Ethernet**                  |10/100 (3B)<br>1000 (3B+)
 |**USB**                       |4x USB 2.0 ports
 |**Storage**                   |MicroSD
 |**GPIO**                      |40-pin header
 |**Price**                     |$40.00
 |**Quantity**                  |1
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-
 
 ![Pi.JPG](_images/Pi.JPG)
 
-
-
 ![Pi 2.JPG](_images/Pi_2.JPG)
-
-
 
 ![Pi 3.JPG](_images/Pi_3.JPG)
 
@@ -166,8 +145,6 @@ The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0458.jpg](_images/IMG_0458.jpg)
 
 # Pi Adapter Board
@@ -178,8 +155,6 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 |**Price**                     |$10.00
 |**PCB Color**                 |Black
 |**Quantity**                  |1
-
-
 
 ![IMG_0523.jpg](_images/IMG_0523.jpg)
 
@@ -196,11 +171,7 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 |**Price**                     |$7.00
 |**Quantity**                  |5 total
 
-
-
 ![IMG_0524.jpg](_images/IMG_0524.jpg)
-
-
 
 ![IMG_0525.jpg](_images/IMG_0525.jpg)
 
@@ -217,11 +188,7 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 |**Price**                     |$5.00
 |**Quantity**                  |4 total
 
-
-
 ![IMG_0524.jpg](_images/IMG_0524_02.jpg)
-
-
 
 ![IMG_0525.jpg](_images/IMG_0525_02.jpg)
 
@@ -239,8 +206,6 @@ The source code for the main Arduino MCU firmware is available [here](https://gi
 The source code for the STM32 firmware for tracking encoder signals is available [here](https://github.com/MotorDynamicsLab/encoder-tracker)."
 %}
 
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Microcontrollers**          |ATmega2560<br>STM32
@@ -256,8 +221,6 @@ The source code for the STM32 firmware for tracking encoder signals is available
 |**Price**                     |$120.00
 |**Quantity**                  |1
 
-
-
 ![Farmduino.JPG](_images/Farmduino.JPG)
 
 # Raspberry Pi Power Cable
@@ -271,8 +234,6 @@ This USB cable provides power to the Raspberry Pi from the Farmduino's built-in 
 |**Color**                     |Black
 |**Price**                     |$5.00
 |**Quantity**                  |1
-
-
 
 ![Pi Power Cable.jpg](_images/Pi_Power_Cable.jpg)
 
@@ -288,8 +249,6 @@ This USB cable is used as a serial connection between the Raspberry Pi and the F
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
 ![Farmduino Data Cable.jpg](_images/Farmduino_Data_Cable.jpg)
 
 # Jumper Wires
@@ -303,14 +262,12 @@ Use these jumper wires to connect the UTM headers on Farmduino to other pins suc
 |**Price**                     |$0.25
 |**Quantity**                  |12
 
-
-
 ![Jumper Wires.jpg](_images/Jumper_Wires.jpg)
 
 # NEMA 17 Stepper Motors with Rotary Encoders
 These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing).
 
-|Motor Specs                   |                              |
+|                              |                              |
 |------------------------------|------------------------------|
 |**Motor Resolution**          |200 steps/revolution (1.8 deg/step)
 |**Winding Type**              |Bipolar
@@ -325,15 +282,9 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 |**Price**                     |$60.00
 |**Quantity**                  |4
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWzBrtojVykI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzBrtojVykI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWzBrtojVykI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
-
-
 ![Motor1.JPG](_images/Motor1.JPG)
-
-
 
 ![Motor 2.JPG](_images/Motor_2.JPG)
 
@@ -350,8 +301,6 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Outer Color**               |Black
 |**Price**                     |**Genesis**<br>0.95m - $15.00<br>2.6m - $18.00<br>3.1m - $20.00<br>4.8m - $27.00<br><br>**Genesis XL and MAX**<br>0.95m - $15.00<br>4.1m - $23.00<br>4.6m - $25.00<br>6.3m - $32.00
 
-
-
 ![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
 
 # Encoder Cables
@@ -366,8 +315,6 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Farmduino Connector**       |2.54mm pitch 7-pin dupont connector with locking tab
 |**Outer Color**               |Black
 |**Price**                     |**Genesis**<br>0.95m - $20.00<br>2.6m - $23.00<br>3.1m - $25.00<br>4.8m - $32.00<br><br>**Genesis XL and MAX**<br>0.95m - $20.00<br>4.1m - $28.00<br>4.6m - $30.00<br>6.3m - $37.00
-
-
 
 ![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
 
@@ -387,8 +334,6 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 |**Price**                     |**Genesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00<br><br>**Genesis MAX**<br>X-Axis - $200.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
 |**Quantity**                  |1 for each axis
 
-
-
 ![IMG_0454.jpg](_images/IMG_0454.jpg)
 
 # Universal Tool Mount Cable
@@ -406,19 +351,11 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 |**Price**                     |4m - $40.00<br>5.5m - $50.00
 |**Quantity**                  |1
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh_3c8-A966E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_3c8-A966E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh_3c8-A966E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-
 
 ![IMG_0492.jpg](_images/IMG_0492.jpg)
 
-
-
 ![IMG_0494.jpg](_images/IMG_0494.jpg)
-
-
 
 ![IMG_0496.jpg](_images/IMG_0496.jpg)
 
@@ -435,11 +372,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 |**Price**                     |$6.00
 |**Quantity**                  |1
 
-
-
 ![7ee4856-Soil_Sensor_PCB.jpeg](_images/Soil_Sensor_PCB.jpeg)
-
-
 
 ![340b3a9-Soil_Sensor_PCB_2.jpeg](_images/Soil_Sensor_PCB_2.jpeg)
 
@@ -460,19 +393,11 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 |**Price**                     |$8.00
 |**Quantity**                  |1
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-
 
 ![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
 
-
-
 ![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
-
-
 
 ![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
 
@@ -487,11 +412,7 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
-
-
 ![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
-
-
 
 ![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
 
@@ -511,8 +432,6 @@ This cable connects the vacuum pump to the Farmduino.
 |**Price**                     |4.3m - $15.00<br>5.8m - $20.00
 |**Quantity**                  |1
 
-
-
 ![Vacuum Pump Cable.jpg](_images/Vacuum_Pump_Cable.jpg)
 
 # Solenoid Valve Cable
@@ -531,8 +450,6 @@ This cable connects the solenoid valve to the Farmduino.
 |**Price**                     |$10.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0466.jpg](_images/IMG_0466.jpg)
 
 # Peripheral Leads
@@ -549,8 +466,6 @@ These extra leads make it easy to connect new, additional peripherals to your Fa
 |**Length**                    |10cm
 |**Price**                     |$3.00
 |**Quantity**                  |2
-
-
 
 ![IMG_0478.jpg](_images/IMG_0478.jpg)
 
@@ -569,19 +484,11 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 |**Price**                     |$30.00
 |**Quantity**                  |1
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-
 
 ![Camera 1.jpg](_images/Camera_1.jpg)
 
-
-
 ![Camera 2.jpg](_images/Camera_2.jpg)
-
-
 
 ![Camera 3.jpg](_images/Camera_3.jpg)
 
@@ -591,12 +498,11 @@ This cable connects the camera to the Raspberry Pi through the y-axis cable carr
 |                              |                              |
 |------------------------------|------------------------------|
 |**Length**                    |Genesis: 2.6m<br>Genesis XL: 4.1m
+|**Cable**                     |`Shielded 28AWG/1p+24AWG/2c`<br><br>`1p` = 1 twisted pair (for data)<br>`2c` = 2 core (for power)
 |**Connector 1**               |4-pin female waterproof connector
 |**Connector 2**               |Right-angle USB Type A connector
 |**Price**                     |Genesis: $15.00<br>Genesis XL: $20.00
 |**Quantity**                  |1
-
-
 
 ![Camera Cable.jpg](_images/Camera_Cable.jpg)
 
@@ -611,8 +517,6 @@ Use this card to perform an automatic calibration of FarmBot's camera.
 |**Price**                     |$1.00
 |**Quantity**                  |1
 
-
-
 ![65399c0-MVIMG_20200727_180001.jpg](_images/MVIMG_20200727_180001.jpg)
 
 # Jumper Links
@@ -625,8 +529,6 @@ These connect the Grounded electronic pin to the Digital In pin, allowing FarmBo
 |**Hole Sizes**                |M3
 |**Price**                     |$0.25
 |**Quantity**                  |4
-
-
 
 ![Jumper Links.jpg](_images/Jumper_Links.jpg)
 
@@ -643,8 +545,6 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 |**Price**                     |1.5m - $25.00<br>3m - $50.00
 |**Quantity**                  |1
 
-
-
 ![LED Strip.jpg](_images/LED_Strip.jpg)
 
 # UTM PCB
@@ -658,11 +558,14 @@ This PCB features 12 pre-mounted pogo pins to enable electrical connection with 
 |**Price**                     |$35.00
 |**Quantity**                  |1
 
-
-
-
-
 # Power Cord Protector
+
+{%
+include callout.html
+type="info"
+title="Size and appearance may vary"
+content="v1.5 kits shipped before November 1st, 2020 included a power cord protector from one manufacturer while kits shipped after November 1st, 2020 inclde a power cord protector from a different manufacturer."
+%}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -672,11 +575,6 @@ This PCB features 12 pre-mounted pogo pins to enable electrical connection with 
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0483.jpg](_images/IMG_0483.jpg)
 
-
-
 ![IMG_0484.jpg](_images/IMG_0484.jpg)
-
