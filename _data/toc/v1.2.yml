@@ -173,6 +173,6 @@ contents:
             url: control-lights-with-farmbot
           - title: Add a Webcam to FarmBot
             url: add-a-webcam-to-farmbot
-      - title: Pre-Order FarmBot
-        url: https://farmbot.io/pre-order
+      - title: Order FarmBot
+        url: https://farm.bot/shop
         external: true

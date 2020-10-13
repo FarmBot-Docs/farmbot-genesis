@@ -15,7 +15,7 @@ title="It's getting better all the time"
 content="FarmBot Genesis is always being improved and has undergone many iterations. We encourage skimming through the older versions to understand how we arrived at the latest design."
 %}
 
-# [Genesis v1.4](http://genesis.farm.bot/v1.4)
+# [Genesis v1.4](http://genesis.farm.bot/docs/v1.4)
 **Major changes**
   * Introduced Genesis XL covering an area 3m wide and 6m in length (400% larger than the smaller FarmBot Genesis)
   * Introduced a new version of the Farmduino featuring an STM32 co-processor dedicated to monitoring the rotary encoders, 24V operation, a new 2-pin polarized red power connector, vertically oriented USB ports, pre-installed pin jumpers to connect the UTM, improved board layout for accessing the stepper drivers and dip switches, additional circuitry to better handle motor back-current, matte-black finish, and a single blade fuse
@@ -54,7 +54,7 @@ _Genesis v1.4_
 
 _Genesis XL v1.4_
 
-# [Genesis v1.3](http://genesis.farm.bot/v1.3)
+# [Genesis v1.3](http://genesis.farm.bot/docs/v1.3)
 **Major changes**
   * Introduced the Farmduino electronics board to replace the Arduino MEGA and RAMPS shield with a board optimized for FarmBot and its motor and peripheral needs
   * Injection molded a custom-designed electronics box featuring two latches for easy access; improved the cables and connectors for the motors, encoders, UTM cable, peripherals, and power
@@ -81,7 +81,7 @@ _Genesis XL v1.4_
 
 ![66e6338-Screen_Shot_2017-10-10_at_1.33.35_AM.png](_images/Screen_Shot_2017-10-10_at_1.33.35_AM.png)
 
-# [Genesis v1.2](http://genesis.farm.bot/v1.2)
+# [Genesis v1.2](http://genesis.farm.bot/docs/v1.2)
 **Major changes**
   * New surface treatments on all metal plates
   * Tighter M5 hole tolerances all-around
@@ -108,7 +108,7 @@ _Genesis XL v1.4_
 
 ![FarmBot Genesis v1.2.JPG](_images/FarmBot_Genesis_v1.2.JPG)
 
-# [Genesis v1.1](http://genesis.farm.bot/v1.1)
+# [Genesis v1.1](http://genesis.farm.bot/docs/v1.1)
 **Major changes**
   * Removed the driveshaft in favor of dual x-axis motors
   * Redesigned cable carrier supports
@@ -127,7 +127,7 @@ _Genesis XL v1.4_
 
 ![v1.1.png](_images/v1.1.png)
 
-# [Genesis v1.0](http://genesis.farm.bot/v1.0)
+# [Genesis v1.0](http://genesis.farm.bot/docs/v1.0)
 **Major changes**
   * Track plate improvements
   * New seed injector design
@@ -144,7 +144,7 @@ _Genesis XL v1.4_
 
 ![v1.0.JPG](_images/v1.0.JPG)
 
-# [Genesis v0.9](http://genesis.farm.bot/v0.9)
+# [Genesis v0.9](http://genesis.farm.bot/docs/v0.9)
 **Major changes**
   * Larger plates
   * More v-wheels
@@ -153,7 +153,7 @@ _Genesis XL v1.4_
 
 ![v0.9.jpg](_images/v0.9.jpg)
 
-# [Genesis v0.8](http://genesis.farm.bot/v0.8)
+# [Genesis v0.8](http://genesis.farm.bot/docs/v0.8)
 **Major changes**
   * All corrosion resistant design
   * Upgraded to 5mm thick plates
@@ -161,7 +161,7 @@ _Genesis XL v1.4_
 
 ![v0.8.png](_images/v0.8.png)
 
-# [Genesis v0.7](http://genesis.farm.bot/v0.7)
+# [Genesis v0.7](http://genesis.farm.bot/docs/v0.7)
 **Major changes**
   * Removal of endstops
   * Stronger z-axis motor mount
@@ -173,13 +173,13 @@ _Genesis XL v1.4_
 
 ![v0.7.jpg](_images/v0.7.jpg)
 
-# [Genesis v0.6](http://genesis.farm.bot/v0.6)
+# [Genesis v0.6](http://genesis.farm.bot/docs/v0.6)
 **Major changes**
   * Reliability improvements to the universal tool mount
 
 ![v0.6.jpg](_images/v0.6.jpg)
 
-# [Genesis v0.5](http://genesis.farm.bot/v0.5)
+# [Genesis v0.5](http://genesis.farm.bot/docs/v0.5)
 **Major changes**
   * Rotary encoders on motors
   * Integrated water, vacuum, and liquid amendments into universal tool mount
@@ -187,7 +187,7 @@ _Genesis XL v1.4_
 
 ![v0.5.jpg](_images/v0.5.jpg)
 
-# [Genesis v0.4](http://genesis.farm.bot/v0.4)
+# [Genesis v0.4](http://genesis.farm.bot/docs/v0.4)
 **Major changes**
   * Electronics enclosures/housings
   * Cable carrier cable management
@@ -195,14 +195,14 @@ _Genesis XL v1.4_
 
 ![v.04.jpg](_images/v.04.jpg)
 
-# [Genesis v0.3](http://genesis.farm.bot/v0.3)
+# [Genesis v0.3](http://genesis.farm.bot/docs/v0.3)
 **Major changes**
   * Wire and trolley cable management
   * Part simplification
 
 ![v0.3.jpg](_images/v0.3.jpg)
 
-# [Genesis v0.2](http://genesis.farm.bot/v0.2)
+# [Genesis v0.2](http://genesis.farm.bot/docs/v0.2)
 **Major changes**
   * Endstop integration
   * Custom brackets and plates
@@ -210,7 +210,7 @@ _Genesis XL v1.4_
 
 ![v0.2.jpg](_images/v0.2.jpg)
 
-# [Genesis v0.1](http://genesis.farm.bot/v0.1)
+# [Genesis v0.1](http://genesis.farm.bot/docs/v0.1)
 Focused on being a quick and easy first prototype, v0.1 was constructed from all off-the-shelf components.
 
 ![v0.1.jpg](_images/v0.1.jpg)

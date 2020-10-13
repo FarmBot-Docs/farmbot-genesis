@@ -15,7 +15,7 @@ title="It's getting better all the time"
 content="FarmBot Genesis is always being improved and has undergone many iterations. We encourage skimming through the older versions to understand how we arrived at the latest design."
 %}
 
-# [V1.3](http://genesis.farm.bot/v1.3)
+# [V1.3](http://genesis.farm.bot/docs/v1.3)
 Major changes: Introduced the Farmduino electronics board to replace the Arduino MEGA and RAMPS shield with a board optimized for FarmBot and its motor and peripheral needs; injection molded a custom-designed electronics box featuring two latches for easy access; improved the cables and connectors for the motors, encoders, UTM cable, peripherals, and power; widened the cable carriers by 10mm and optimized their lengths; dimensional changes to the cross-slide, z-axis motor mount, cable carriers supports, and other components to accommodate the widened cable carriers; relocated the vacuum pump to the z-axis extrusion to improve suction at the needle; introduced z-axis hardstops; added white LED strips to the kits; sourced an IP67 rated universal input waterproof power supply, eliminating the need for the sockit box; replaced the weeder spikes with new sizes of the weeder blades; injection molded many new components including the cable carrier supports, tools, seed trays, camera mounts, and cable carrier spacer block, and and vacuum pump cover; reduced the final main carton volume by 40%.
 
 We manufactured 300 v1.3 kits and shipped them to customers between October of 2017 and May of 2018.
