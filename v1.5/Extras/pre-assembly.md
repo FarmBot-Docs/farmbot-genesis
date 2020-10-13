@@ -13,3 +13,4 @@ Some subassemblies of FarmBot Genesis come pre-assembled in the box. The followi
 
  * [V-Wheels](pre-assembly/v-wheels.md)
  * [Electronics Box](pre-assembly/electronics-box.md)
+ * [UTM](pre-assembly/utm.md)
