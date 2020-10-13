@@ -33,8 +33,6 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visi
 |[Assembly Tools](#tools)|$1.00 to $5.00                |8                             |$32.00                        |8                             |$32.00                        |8                             |$32.00
 |**TOTALS**                    |                              |**665**                       |**$252.20**                   |**809**                       |**$415.20**                   |**1,160**                     |**$648.65**
 
-
-
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FlX4OaLqChOg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlX4OaLqChOg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlX4OaLqChOg%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
 # M2.5 Screws
@@ -161,6 +159,13 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 # Standoffs
 These M/F standoffs are used to offset the electronics boards from the electronics box mounting bosses. As of the v1.4 release, they come pre-assembled in the electronics box.
 
+{%
+include callout.html
+type="info"
+title="Your bot may not have standoffs"
+content="v1.5 kits shipped before November 1st, 2020 included standoffs, while v1.5 kits shipped after November 1st, 2020 do not include any standoffs."
+%}
+
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Stainless steel
@@ -168,7 +173,7 @@ These M/F standoffs are used to offset the electronics boards from the electroni
 |**Male Threads**              |M2.5
 |**Female Threads**            |M2.5, 4mm length
 |**Price**                     |$0.50
-|**Quantity**                  |4 - 6mm length<br>4 - 16mm length
+|**Quantity**                  |6mm length - 4 or 0 (see note above)<br>16mm length - 4 or 0 (see note above)
 
 # Tee Nuts
 Combined with screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion.
@@ -182,21 +187,26 @@ Combined with screws, these drop-in style tee nuts allow components such as plat
 |**Price**                     |$0.40
 |**Quantity**                  |20
 
-
-
 ![Tee Nuts.jpg](_images/Tee_Nuts.jpg)
 
 # Nut Bars
-These stainless steel bars act as long tee nuts allowing two screws to securely hold plates, brackets, and other components to a v-slot extrusion.
+These stainless steel bars act as long tee nuts allowing M5 screws to securely hold plates, brackets, and other components to a v-slot extrusion.
+
+{%
+include callout.html
+type="info"
+title="Quantities may vary"
+content="v1.5 kits shipped before November 1st, 2020 included **dowel pins** to help better align extrusions. However, due to feedback from customers that the dowel pins were difficult to use, v1.5 kits shipped after November 1st, 2020 replaced the function dowel pins provided with new extra-long **100mm and 140mm nut bars**."
+%}
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Stainless steel
-|**Overall Lengths**           |20mm, 40mm, 60mm
+|**Overall Lengths**           |20mm, 40mm, 60mm, 100mm, 140mm
 |**Threads**                   |M5 x 0.8mm
 |**Fits Slot Size**            |6
-|**Price**                     |20mm - $1.50<br>40mm - $1.75<br>60mm - $2.00
-|**Quantity**                  |**Genesis**<br>20mm - 6<br>40mm - 28<br>60mm - 20<br><br>**Genesis XL**<br>20mm - 6<br>40mm - 54<br>60mm - 24<br><br>**Genesis MAX**<br>20mm - 6<br>40mm - 134<br>60mm - 24
+|**Price**                     |20mm - $1.50<br>40mm - $1.75<br>60mm - $2.00<br>100mm - $2.50<br>140mm - $3.00
+|**Quantity**                  |**Genesis**<br>20mm - 6<br>40mm - 28<br>60mm - 20<br>100mm - 2 or 0 (see note above)<br><br>**Genesis XL**<br>20mm - 6<br>40mm - 54<br>60mm - 24<br>100mm - 6 or 0 (see note above)<br>140mm - 2 or 0 (see note above)<br><br>**Genesis MAX**<br>20mm - 6<br>40mm - 134<br>60mm - 24
 
 ## 20mm Nut Bar
 
@@ -210,6 +220,14 @@ These stainless steel bars act as long tee nuts allowing two screws to securely 
 
 ![c6cee37-60mm_Nut_Bars.jpeg](_images/60mm_Nut_Bars.jpeg)
 
+## 100mm Nut Bar
+
+![100mm_nut_bar.jpg](_images/100mm_nut_bar.jpg)
+
+## 140mm Nut Bar
+
+![140mm_nut_bar.jpg](_images/140mm_nut_bar.jpg)
+
 # Wood Screws
 These are used to attach the track end plates and track joining plates to supporting infrastructure such as a raised.
 
@@ -222,12 +240,17 @@ These are used to attach the track end plates and track joining plates to suppor
 |**Price**                     |$0.05
 |**Quantity**                  |Genesis - 35<br>Genesis XL - 60<br>Genesis MAX - 124
 
-
-
 ![Wood Screws.jpg](_images/Wood_Screws.jpg)
 
 # Dowel Pins
 These pins are used to help align track extrusions and the gantry main beams.
+
+{%
+include callout.html
+type="info"
+title="Not inlcuded with all v1.5 kits"
+content="v1.5 kits shipped before November 1st, 2020 included dowel pins to help better align extrusions. However, due to feedback from customers that the dowel pins were difficult to use, v1.5 kits shipped after November 1st, 2020 replaced the function dowel pins provided with new extra-long **100mm and 140mm nut bars**."
+%}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -236,12 +259,9 @@ These pins are used to help align track extrusions and the gantry main beams.
 |**Diameter 1**                |4.2mm
 |**Diameter 2**                |4.25mm
 |**Price**                     |$2.00
-|**Quantity**                  |Genesis: 6<br>Genesis XL: 20<br>Genesis MAX: 52
-
-
+|**Quantity**                  |Genesis: 6 or 0 (see note above)<br>Genesis XL: 20 or 0 (see note above)<br>Genesis MAX: 52
 
 ![IMG_0514.jpg](_images/IMG_0514.jpg)
-
 
 # Ring Magnets
 These magnets keep tools attached to the UTM.
@@ -257,16 +277,19 @@ These magnets keep tools attached to the UTM.
 |**Price**                     |$3.00
 |**Quantity**                  |21 (6 extras included, 3 come pre-mounted to the UTM)
 
-
-
 ![Magnets 1.jpg](_images/Magnets_1.jpg)
-
-
 
 ![Magnet2.jpg](_images/Magnet2.jpg)
 
 # Zip Ties
-Zip ties are used to attach wires to the UTM electrical connection screws, to fasten the vacuum pump, and for cable management throughout FarmBot.
+Zip ties are used to fasten the vacuum pump and solenoid valve to their mounts, and for cable management throughout FarmBot.
+
+{%
+include callout.html
+type="info"
+title="Quantities may vary"
+content="v1.5 kits shipped before November 1st, 2020 included **60mm zip ties**, while v1.5 kits shipped after November 1st, 2020 did not include any **60mm zip ties**."
+%}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -274,7 +297,7 @@ Zip ties are used to attach wires to the UTM electrical connection screws, to fa
 |**Color**                     |Black
 |**Length**                    |60mm, 100mm, and 200mm
 |**Price**                     |60mm - $0.05<br>100mm - $0.07<br>200mm - $0.10
-|**Quantity**                  |60mm - 50<br>100mm - 25<br>200mm - 10
+|**Quantity**                  |60mm - 50 or 0 (see note above)<br>100mm - 25<br>200mm - 10
 
 ## 60mm Zip Ties
 
@@ -305,8 +328,6 @@ This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
 ![3mm Driver.JPG](_images/3mm_Driver.JPG)
 
 ## 2mm Hex Driver
@@ -321,8 +342,6 @@ This hex (allen) driver is used to tighten all of the M3 screws and setscrews on
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
 ![2mm Driver.JPG](_images/2mm_Driver.JPG)
 
 ## 8mm Box Wrench
@@ -335,8 +354,6 @@ This box wrench is used to tighten all of the M5 screws on FarmBot.
 |**Label**                     |`8.0 BOX`
 |**Price**                     |$5.00
 |**Quantity**                  |1
-
-
 
 ![8mm Box Wrench.JPG](_images/8mm_Box_Wrench.JPG)
 
@@ -351,8 +368,6 @@ This box wrench is used to tighten all of the M3 locknuts on FarmBot.
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
 ![5.5mm Box Wrench.JPG](_images/5.5mm_Box_Wrench.JPG)
 
 ## 8mm Wrench
@@ -365,8 +380,6 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 |**Price**                     |$3.00
 |**Quantity**                  |1
 
-
-
 ![8mm wrench.jpg](_images/8mm_wrench.jpg)
 
 ## 5.5mm Wrench
@@ -377,8 +390,6 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 |**Label**                     |`5.5mm`
 |**Price**                     |$3.00
 |**Quantity**                  |1
-
-
 
 ![IMG_0475.jpg](_images/IMG_0475.jpg)
 
@@ -393,8 +404,6 @@ Use this screwdriver to mount your track end plates, track joining plates, and t
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0462.jpg](_images/IMG_0462.jpg)
 
 ## 2mm Allen Key
@@ -406,7 +415,4 @@ Use this tool to tighten the bits in the handles of the other drivers.
 |**Price**                     |$1.00
 |**Quantity**                  |1
 
-
-
 ![IMG_0476.jpg](_images/IMG_0476.jpg)
-
