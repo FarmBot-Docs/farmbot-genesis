@@ -176,6 +176,11 @@ contents:
     url: manufacturing
     top: true
     pages:
+      - title: Component Tests
+        url: component-tests
+        pages:
+          - title: Extrusions
+            url: extrusions
       - title: Pre-Assembly
         url: pre-assembly
         pages:
