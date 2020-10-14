@@ -107,4 +107,4 @@ Push the **vacuum pump tube** onto the **barb** on top of the **UTM** that is cl
 
 # What's next?
 
- * [Camera](../tools/camera.md)
+ * [Camera](camera.md)

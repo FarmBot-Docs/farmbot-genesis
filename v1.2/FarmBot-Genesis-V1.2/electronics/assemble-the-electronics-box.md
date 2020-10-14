@@ -209,4 +209,4 @@ content="It can be easy to accidentally connect wires incorrectly or insert some
 
 # What's next?
 
- * [Attach the Electronics Box](../electronics/attach-the-electronics-box.md)
+ * [Attach the Electronics Box](attach-the-electronics-box.md)

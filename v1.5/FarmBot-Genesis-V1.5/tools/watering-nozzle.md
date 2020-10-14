@@ -91,4 +91,4 @@ Screw the **garden hose to barb adapter** onto the **garden hose**. *Note that y
 
 # What's next?
 
- * [Weeder](../tools/weeder.md)
+ * [Weeder](weeder.md)

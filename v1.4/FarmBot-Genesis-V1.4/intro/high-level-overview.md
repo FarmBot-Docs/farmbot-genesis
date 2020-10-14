@@ -137,4 +137,4 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 
 # What's next?
 
- * [Change Log](../intro/change-log.md)
+ * [Change Log](change-log.md)

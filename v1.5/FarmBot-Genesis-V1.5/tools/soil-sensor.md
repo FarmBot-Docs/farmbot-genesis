@@ -58,4 +58,4 @@ Attach a **jumper link** to positions **B** and **C** using two **M3 x 12mm scre
 
 # What's next?
 
- * [Camera](../tools/camera.md)
+ * [Camera](camera.md)

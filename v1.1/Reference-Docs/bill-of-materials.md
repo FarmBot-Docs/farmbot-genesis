@@ -11,14 +11,14 @@ The table below lists all of the components used in FarmBot Genesis grouped by c
 
 |Category                      |# of Components               |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|
-|[Extrusions](../Reference-Docs/bill-of-materials/extrusions.md)  |8                             |$147.40
-|[Plates](../Reference-Docs/bill-of-materials/plates.md)          |20                            |$148.00
-|[Fasteners and Hardware](../Reference-Docs/bill-of-materials/fasteners-and-hardware.md)|611                           |$121.23
-|[Drivetrain](../Reference-Docs/bill-of-materials/drivetrain.md)  |129                           |$297.80
-|[Electronics and Wiring](../Reference-Docs/bill-of-materials/electronics-and-wiring.md)|19                            |$627.82
-|[Tubing](../Reference-Docs/bill-of-materials/tubing.md)          |17                            |$43.36
-|[3D Prints](../Reference-Docs/bill-of-materials/3d-prints.md)    |43                            |$776.78
-|[Miscellaneous](../Reference-Docs/bill-of-materials/miscellaneous.md)|53                            |$93.10
+|[Extrusions](bill-of-materials/extrusions.md)  |8                             |$147.40
+|[Plates](bill-of-materials/plates.md)          |20                            |$148.00
+|[Fasteners and Hardware](bill-of-materials/fasteners-and-hardware.md)|611                           |$121.23
+|[Drivetrain](bill-of-materials/drivetrain.md)  |129                           |$297.80
+|[Electronics and Wiring](bill-of-materials/electronics-and-wiring.md)|19                            |$627.82
+|[Tubing](bill-of-materials/tubing.md)          |17                            |$43.36
+|[3D Prints](bill-of-materials/3d-prints.md)    |43                            |$776.78
+|[Miscellaneous](bill-of-materials/miscellaneous.md)|53                            |$93.10
 |**GRAND TOTAL**               |**900**                       |**$2,255.49**
 
 

@@ -23,7 +23,7 @@ The UTM is a plastic component that mounts to the z-axis aluminum extrusion usin
 It features:
 * 3 strong neodymium ring magnets to magnetically hold tools in place via other magnets placed in the same configuration on the tool.
 * Passageways for water, liquid amendments (eg: fertilizer), and vacuum or compressed air to pass through from the UTM (and the rest of FarmBot) to the tool.
-* 12 spring loaded screws that make electrical connections with tools. (See: [Pin Mapping](../FarmBot-Genesis-V1.3/utm/wire-up-the-utm.md#pin-mapping))
+* 12 spring loaded screws that make electrical connections with tools. (See: [Pin Mapping](utm/wire-up-the-utm.md#pin-mapping))
 
 {%
 include callout.html
@@ -35,4 +35,4 @@ content="Check out the [tool spec](../Extras/mods/tool-spec.md) to learn how to 
 
 # What's next?
 
- * [Assemble the UTM](../FarmBot-Genesis-V1.3/utm/assemble-the-utm.md)
+ * [Assemble the UTM](utm/assemble-the-utm.md)

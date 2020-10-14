@@ -70,4 +70,4 @@ _Bent back edge does not sit well against the extrusion_
 
 # What's next?
 
- * [Assembly Preparation](../intro/assembly-preparation.md)
+ * [Assembly Preparation](assembly-preparation.md)

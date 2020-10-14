@@ -43,4 +43,4 @@ Attach the **camera and mounts** to the **z-axis** using the two **M5 x 10mm scr
 
 # What's next?
 
- * [Toolbays](../tools/toolbays.md)
+ * [Toolbays](toolbays.md)

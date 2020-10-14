@@ -104,4 +104,4 @@ Come up with something effective and easy to make? Share your creation in the [F
 
 # What's next?
 
- * [Soil Sensor](../tools/soil-sensor.md)
+ * [Soil Sensor](soil-sensor.md)

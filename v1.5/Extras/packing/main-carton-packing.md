@@ -13,12 +13,12 @@ The tables below show the items that should be packed into the **main carton** f
 
 |Item                          |Sub-packing                   |Genesis Qty                   |
 |------------------------------|------------------------------|------------------------------|
-|[Hardware Box](../packing/hardware-box.md)                  |None                          |1
-|[Plate Box](../packing/plate-box.md)                     |None                          |1
-|[Plastic Parts Box](../packing/plastic-parts-box.md)             |None                          |1
-|[Cable and Tubing Box](../packing/cable-and-tubing-box.md)          |None                          |1
-|[Motor Box](../packing/motor-box.md)                     |None                          |1
-|[Power Supply Box](../packing/power-supply-box.md)              |None                          |1
+|[Hardware Box](hardware-box.md)                  |None                          |1
+|[Plate Box](plate-box.md)                     |None                          |1
+|[Plastic Parts Box](plastic-parts-box.md)             |None                          |1
+|[Cable and Tubing Box](cable-and-tubing-box.md)          |None                          |1
+|[Motor Box](motor-box.md)                     |None                          |1
+|[Power Supply Box](power-supply-box.md)              |None                          |1
 |[X-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 1700mm)|None (no plastic bag)         |1
 |[Y-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 1700mm)|None (no plastic bag)         |1
 |[Z-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 740mm)|None (no plastic bag)         |1
@@ -29,12 +29,12 @@ The tables below show the items that should be packed into the **main carton** f
 
 |Item                          |Sub-packing                   |Genesis XL Qty                |
 |------------------------------|------------------------------|------------------------------|
-|<span class="fb-xl-sticker">XL</span> [Hardware Box](../packing/hardware-box.md)             |None                          |1
-|<span class="fb-xl-sticker">XL</span> [Plate Box](../packing/plate-box.md)                |None                          |1
-|<span class="fb-xl-sticker">XL</span> [Plastic Parts Box](../packing/plastic-parts-box.md)        |None                          |1
-|<span class="fb-xl-sticker">XL</span> [Cable and Tubing Box](../packing/cable-and-tubing-box.md)     |None                          |1
-|[Motor Box](../packing/motor-box.md)                     |None                          |1
-|[Power Supply Box](../packing/power-supply-box.md)              |None                          |1
+|<span class="fb-xl-sticker">XL</span> [Hardware Box](hardware-box.md)             |None                          |1
+|<span class="fb-xl-sticker">XL</span> [Plate Box](plate-box.md)                |None                          |1
+|<span class="fb-xl-sticker">XL</span> [Plastic Parts Box](plastic-parts-box.md)        |None                          |1
+|<span class="fb-xl-sticker">XL</span> [Cable and Tubing Box](cable-and-tubing-box.md)     |None                          |1
+|[Motor Box](motor-box.md)                     |None                          |1
+|[Power Supply Box](power-supply-box.md)              |None                          |1
 |[X-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 3200mm)|None (no plastic bag)         |1
 |[Y-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 3200mm)|None (no plastic bag)         |1
 |[Z-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 740mm)|None (no plastic bag)         |1

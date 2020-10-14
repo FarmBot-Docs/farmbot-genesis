@@ -22,9 +22,9 @@ content="Follow the guidelines in our [Tool Spec](../Extras/mods/tool-spec.md) t
 
 # What's next?
 
- * [Seed Injector](../FarmBot-Genesis-V1.3/tools/seed-injector.md)
- * [Watering Nozzle](../FarmBot-Genesis-V1.3/tools/watering-nozzle.md)
- * [Weeder](../FarmBot-Genesis-V1.3/tools/weeder.md)
- * [Soil Sensor](../FarmBot-Genesis-V1.3/tools/soil-sensor.md)
- * [Camera](../FarmBot-Genesis-V1.3/tools/camera.md)
- * [Toolbays](../FarmBot-Genesis-V1.3/tools/toolbays.md)
+ * [Seed Injector](tools/seed-injector.md)
+ * [Watering Nozzle](tools/watering-nozzle.md)
+ * [Weeder](tools/weeder.md)
+ * [Soil Sensor](tools/soil-sensor.md)
+ * [Camera](tools/camera.md)
+ * [Toolbays](tools/toolbays.md)

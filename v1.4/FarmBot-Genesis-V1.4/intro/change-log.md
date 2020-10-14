@@ -95,4 +95,4 @@ All V-wheels now come pre-assembled to reduce the time required by the user to p
 
 # What's next?
 
- * [Assembly Preparation](../intro/assembly-preparation.md)
+ * [Assembly Preparation](assembly-preparation.md)

@@ -75,7 +75,7 @@ Attach the **stepper motor** to the **z-axis motor bracket** with four **M3 x 10
 include callout.html
 type="info"
 title="Don't forget about general maintenance"
-content="The tips below apply specifically to the cross-slide and no other components of your FarmBot. Make sure to view the [General Maintenance](../FarmBot-Genesis-V0.9-Docs/maintenance-guide.md) page as well for system-wide tips."
+content="The tips below apply specifically to the cross-slide and no other components of your FarmBot. Make sure to view the [General Maintenance](maintenance-guide.md) page as well for system-wide tips."
 %}
 
 ## Clean and lubricate the Leadscrew

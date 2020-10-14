@@ -30,7 +30,7 @@ It features:
 include callout.html
 type="success"
 title="Want to make your own UTM compatible tools?"
-content="Check out the [tool spec](../FarmBot-Genesis-V1.0/tools.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
+content="Check out the [tool spec](tools.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
 %}
 
 

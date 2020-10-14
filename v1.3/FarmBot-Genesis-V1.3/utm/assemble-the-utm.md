@@ -132,4 +132,4 @@ Lightly screw together four **M5 x 16mm screws** and **M5 tee nuts** into the mo
 
 # What's next?
 
- * [Wire up the UTM](../utm/wire-up-the-utm.md)
+ * [Wire up the UTM](wire-up-the-utm.md)

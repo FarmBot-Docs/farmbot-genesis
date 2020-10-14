@@ -18,6 +18,6 @@ content="If you recently ordered a FarmBot kit, you may want to begin building y
 
 # What's next?
 
- * [Building a Fixed Raised Bed](../FarmBot-Genesis-V1.4/supporting-infrastructure/building-a-raised-bed.md)
- * [Building a Mobile Raised Bed](../FarmBot-Genesis-V1.4/supporting-infrastructure/building-a-mobile-raised-bed.md)
- * [Setting up Wooden Posts Only](../FarmBot-Genesis-V1.4/supporting-infrastructure/setting-up-wooden-posts-only.md)
+ * [Building a Fixed Raised Bed](supporting-infrastructure/building-a-raised-bed.md)
+ * [Building a Mobile Raised Bed](supporting-infrastructure/building-a-mobile-raised-bed.md)
+ * [Setting up Wooden Posts Only](supporting-infrastructure/setting-up-wooden-posts-only.md)

@@ -19,4 +19,4 @@ content="Wipe the leadscrew clean with a damp rag or sponge. Applying a small am
 
 # What's next?
 
- * [UTM Maintenance](../maintenance-guide/utm-maintenance.md)
+ * [UTM Maintenance](utm-maintenance.md)

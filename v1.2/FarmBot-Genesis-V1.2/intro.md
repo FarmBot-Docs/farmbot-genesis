@@ -52,4 +52,4 @@ content="Share your ideas on the [FarmBot forum](http://forum.farmbot.org), the 
 
 # What's next?
 
- * [High Level Overview](../FarmBot-Genesis-V1.2/intro/high-level-overview.md)
+ * [High Level Overview](intro/high-level-overview.md)

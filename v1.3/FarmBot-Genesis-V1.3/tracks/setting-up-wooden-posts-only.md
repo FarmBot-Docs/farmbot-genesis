@@ -7,7 +7,7 @@ description: "Step-by-step instructions for setting up wooden posts for your Far
 * toc
 {:toc}
 
-As an alternative to [building a full raised bed](../tracks/building-a-raised-bed.md), you may consider mounting your FarmBot to wooden posts only. However, this will make track alignment trickier and the structure may be less stable without the additional support of the bed boards. Care will need to be exercised to install posts in a sturdy fashion.
+As an alternative to [building a full raised bed](building-a-raised-bed.md), you may consider mounting your FarmBot to wooden posts only. However, this will make track alignment trickier and the structure may be less stable without the additional support of the bed boards. Care will need to be exercised to install posts in a sturdy fashion.
 
 {%
 include callout.html
@@ -74,4 +74,4 @@ content="Your wooden posts are now ready for FarmBot installation!"
 
 # What's next?
 
- * [Assemble the Tracks](../tracks/assemble-the-tracks.md)
+ * [Assemble the Tracks](assemble-the-tracks.md)

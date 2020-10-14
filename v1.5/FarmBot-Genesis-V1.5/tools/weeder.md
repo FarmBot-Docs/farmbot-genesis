@@ -43,4 +43,4 @@ The weeding tool is customizable so you can optimize it for your soil conditions
 
 # What's next?
 
- * [Soil Sensor](../tools/soil-sensor.md)
+ * [Soil Sensor](soil-sensor.md)

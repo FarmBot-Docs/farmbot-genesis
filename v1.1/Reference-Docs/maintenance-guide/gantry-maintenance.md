@@ -23,4 +23,4 @@ content="Even if your belts are tight and the gantry moves across the tracks fin
 
 # What's next?
 
- * [Cross-Slide Maintenance](../maintenance-guide/cross-slide-maintenance.md)
+ * [Cross-Slide Maintenance](cross-slide-maintenance.md)

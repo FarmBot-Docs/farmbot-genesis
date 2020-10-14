@@ -121,4 +121,4 @@ content="Your raised bed is now ready for FarmBot installation!"
 
 # What's next?
 
- * [Assemble the Tracks](../tracks/assemble-the-tracks.md)
+ * [Assemble the Tracks](assemble-the-tracks.md)

@@ -122,4 +122,4 @@ Insert four **rubber seals** into the **UTM cover**.
 
 # What's next?
 
- * [Wire up the UTM](../universal-tool-mount/wire-up-the-utm.md)
+ * [Wire up the UTM](wire-up-the-utm.md)

@@ -48,4 +48,4 @@ Please see our [licensing page](http://licensing.farm.bot) to understand how our
 
 # What's next?
 
- * [High Level Overview](../FarmBot-Genesis-V1.5/intro/high-level-overview.md)
+ * [High Level Overview](intro/high-level-overview.md)

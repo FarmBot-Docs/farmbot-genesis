@@ -30,4 +30,4 @@ Attach the **camera and mounts** to the **z-axis** using the two **M5 x 10mm scr
 
 # What's next?
 
- * [Seed Injector](../tools/seed-injector.md)
+ * [Seed Injector](seed-injector.md)

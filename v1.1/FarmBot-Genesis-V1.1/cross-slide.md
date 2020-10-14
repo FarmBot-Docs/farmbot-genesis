@@ -47,4 +47,4 @@ _Note: Not all required parts are shown in this image._
 
 # What's next?
 
- * [Cross-Slide Assembly](../FarmBot-Genesis-V1.1/cross-slide/cross-slide-assembly.md)
+ * [Cross-Slide Assembly](cross-slide/cross-slide-assembly.md)

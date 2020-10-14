@@ -48,5 +48,5 @@ content="If you recently ordered a FarmBot kit, you may want to begin building y
 
 # What's next?
 
- * [Building a Raised Bed](../FarmBot-Genesis-V1.3/tracks/building-a-raised-bed.md)
- * [Setting up Wooden Posts Only](../FarmBot-Genesis-V1.3/tracks/setting-up-wooden-posts-only.md)
+ * [Building a Raised Bed](tracks/building-a-raised-bed.md)
+ * [Setting up Wooden Posts Only](tracks/setting-up-wooden-posts-only.md)

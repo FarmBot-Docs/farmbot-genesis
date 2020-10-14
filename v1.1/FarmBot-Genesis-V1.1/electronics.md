@@ -13,4 +13,4 @@ description: "Documentation for FarmBot Genesis Electronics"
 
 # What's next?
 
- * [Assemble the Electronics Box](../FarmBot-Genesis-V1.1/electronics/assemble-the-electronics-box.md)
+ * [Assemble the Electronics Box](electronics/assemble-the-electronics-box.md)

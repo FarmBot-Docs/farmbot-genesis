@@ -17,7 +17,7 @@ content="If you recently ordered a FarmBot kit, you may want to begin building y
 %}
 
 We've prepared documentation for two common installation methods:
-  * [Building a Raised Bed](../FarmBot-Genesis-V1.0/supporting-infrastructure/building-a-raised-bed.md)
-  * [Setting up Wooden Posts Only](../FarmBot-Genesis-V1.0/supporting-infrastructure/setting-up-wooden-posts-only.md)
+  * [Building a Raised Bed](supporting-infrastructure/building-a-raised-bed.md)
+  * [Setting up Wooden Posts Only](supporting-infrastructure/setting-up-wooden-posts-only.md)
 
 In the future we'll add more documentation for greenhouse installs, aluminum extrusion post installs, and more.

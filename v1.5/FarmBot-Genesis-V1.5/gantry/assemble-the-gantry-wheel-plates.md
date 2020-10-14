@@ -74,4 +74,4 @@ If the spacing is too little, then the gantry will not fit onto the tracks at al
 
 # What's next?
 
- * [Construct the Gantry Structure](../gantry/construct-the-gantry-structure.md)
+ * [Construct the Gantry Structure](construct-the-gantry-structure.md)

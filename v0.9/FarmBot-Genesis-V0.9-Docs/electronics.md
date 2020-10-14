@@ -41,7 +41,7 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 |2                             |Tee Nuts
 
 ## Step 2: Setup the Raspberry Pi
-Follow the instructions on the [Raspberry Pi Software](../FarmBot-Genesis-V0.9-Docs/intro.md) page to install the necessary software onto the Raspberry Pi.
+Follow the instructions on the [Raspberry Pi Software](intro.md) page to install the necessary software onto the Raspberry Pi.
 
 ## Step 3: Assemble the Arduino and RAMPS shield
 
@@ -141,7 +141,7 @@ content="Double check all of your connections, component orientations, and ensur
 include callout.html
 type="info"
 title="Don't forget about general maintenance"
-content="The tips below apply specifically to the electronics and no other components of your FarmBot. Make sure to view the [General Maintenance](../FarmBot-Genesis-V0.9-Docs/maintenance-guide.md) page as well for system-wide tips."
+content="The tips below apply specifically to the electronics and no other components of your FarmBot. Make sure to view the [General Maintenance](maintenance-guide.md) page as well for system-wide tips."
 %}
 
 

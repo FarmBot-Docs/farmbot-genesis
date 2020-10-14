@@ -80,4 +80,4 @@ content="Once you snap-in the remaining tabs, it will become difficult to adjust
 
 # What's next?
 
- * [X-Axis Motors](../cables-and-tubing/x-axis-motors.md)
+ * [X-Axis Motors](x-axis-motors.md)

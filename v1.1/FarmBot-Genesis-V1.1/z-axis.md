@@ -13,4 +13,4 @@ description: "Documentation and Assembly Instructions for the FarmBot Genesis Z-
 
 # What's next?
 
- * [Assemble the Z-Axis](../FarmBot-Genesis-V1.1/z-axis/assemble-the-z-axis.md)
+ * [Assemble the Z-Axis](z-axis/assemble-the-z-axis.md)

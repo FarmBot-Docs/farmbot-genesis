@@ -84,4 +84,4 @@ _Example gantry where the main beam extends beyond the corner brackets_
 
 # What's next?
 
- * [Attach the Drivetrain](../gantry/attach-the-drivetrain.md)
+ * [Attach the Drivetrain](attach-the-drivetrain.md)

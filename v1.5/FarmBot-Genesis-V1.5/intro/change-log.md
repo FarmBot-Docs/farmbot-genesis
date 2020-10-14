@@ -51,4 +51,4 @@ The new soil sensor PCB features the same soil moisture sensing capabilities, bu
 
 # What's next?
 
- * [Assembly Preparation](../intro/assembly-preparation.md)
+ * [Assembly Preparation](assembly-preparation.md)

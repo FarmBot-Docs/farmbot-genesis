@@ -26,4 +26,4 @@ _It is recommended to set out the motor and encoder cables in the table above an
 
 # What's next?
 
- * [Z-Axis Cable Carrier](../FarmBot-Genesis-V1.2/cables-and-tubing/z-axis-cable-carrier.md)
+ * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)

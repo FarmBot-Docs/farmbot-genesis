@@ -56,4 +56,4 @@ content="This is the estimated time it will take to assemble the Gantry."
 
 # What's next?
 
- * [Assemble the Gantry Wheel Plates](../FarmBot-Genesis-V1.3/gantry/assemble-the-gantry-wheel-plates.md)
+ * [Assemble the Gantry Wheel Plates](gantry/assemble-the-gantry-wheel-plates.md)

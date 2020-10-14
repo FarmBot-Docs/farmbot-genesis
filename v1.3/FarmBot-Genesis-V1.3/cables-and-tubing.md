@@ -43,4 +43,4 @@ _Encoder cables_
 
 # What's next?
 
- * [Z-Axis Cable Carrier](../FarmBot-Genesis-V1.3/cables-and-tubing/z-axis-cable-carrier.md)
+ * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)

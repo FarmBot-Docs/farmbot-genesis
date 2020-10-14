@@ -99,4 +99,4 @@ The new power supply is a 12V, 12.5A (150W) IP67 rated waterproof power supply. 
 
 # What's next?
 
- * [Assembly Preparation](../intro/assembly-preparation.md)
+ * [Assembly Preparation](assembly-preparation.md)

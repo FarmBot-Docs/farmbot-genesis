@@ -114,4 +114,4 @@ The **seed troughs** are small seed containers that are stored in the **seed tro
 
 # What's next?
 
- * [Watering Nozzle](../tools/watering-nozzle.md)
+ * [Watering Nozzle](watering-nozzle.md)
