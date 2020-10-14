@@ -8,18 +8,18 @@ slug: "plates-and-brackets"
 
 Components subject to **plate and bracket tests**:
 
-* [Track End Plate](../../Extras/bom/plates-and-brackets#track-end-plate)
-* [Track Joining Plate](../../Extras/bom/plates-and-brackets#track-joining-plate)
-* [Gantry Wheel Plate](../../Extras/bom/plates-and-brackets#gantry-wheel-plate)
-* [Gantry Corner Brackets](../../Extras/bom/plates-and-brackets#gantry-corner-bracket)
-* [Gantry Joining Bracket](../../Extras/bom/plates-and-brackets#gantry-joining-bracket)
-* [Cross-Slide Plate](../../Extras/bom/plates-and-brackets#cross-slide-plate)
-* [Z-Axis Motor Mount](../../Extras/bom/plates-and-brackets#z-axis-motor-mount)
-* [Toolbays](../../Extras/bom/plates-and-brackets#toolbays)
-* [50mm Cable Carrier Mounts](../../Extras/bom/plates-and-brackets#50mm-cable-carrier-mount)
-* [80mm Cable Carrier Mounts](../../Extras/bom/plates-and-brackets#80mm-cable-carrier-mount)
-* [Belt Clip](../../Extras/bom/plates-and-brackets#belt-clip)
-* [Z-Axis Hardstop](../../Extras/bom/plates-and-brackets#z-axis-hardstop)
+* [Track End Plate](../../Extras/bom/plates-and-brackets.md#track-end-plate)
+* [Track Joining Plate](../../Extras/bom/plates-and-brackets.md#track-joining-plate)
+* [Gantry Wheel Plate](../../Extras/bom/plates-and-brackets.md#gantry-wheel-plate)
+* [Gantry Corner Brackets](../../Extras/bom/plates-and-brackets.md#gantry-corner-bracket)
+* [Gantry Joining Bracket](../../Extras/bom/plates-and-brackets.md#gantry-joining-bracket)
+* [Cross-Slide Plate](../../Extras/bom/plates-and-brackets.md#cross-slide-plate)
+* [Z-Axis Motor Mount](../../Extras/bom/plates-and-brackets.md#z-axis-motor-mount)
+* [Toolbays](../../Extras/bom/plates-and-brackets.md#toolbays)
+* [50mm Cable Carrier Mounts](../../Extras/bom/plates-and-brackets.md#50mm-cable-carrier-mount)
+* [80mm Cable Carrier Mounts](../../Extras/bom/plates-and-brackets.md#80mm-cable-carrier-mount)
+* [Belt Clip](../../Extras/bom/plates-and-brackets.md#belt-clip)
+* [Z-Axis Hardstop](../../Extras/bom/plates-and-brackets.md#z-axis-hardstop)
 
 # Size and shape
 

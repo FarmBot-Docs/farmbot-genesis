@@ -8,10 +8,10 @@ slug: "extrusions"
 
 Components subject to **extrusion tests**:
 
-* [Track Extrusion](../../Extras/bom/extrusions#track-extrusion)
-* [Gantry Column](../../Extras/bom/extrusions#gantry-column)
-* [Gantry Main Beam](../../Extras/bom/extrusions#gantry-main-beam)
-* [Z-Axis Extrusion](../../Extras/bom/extrusions#z-axis-extrusion)
+* [Track Extrusion](../../Extras/bom/extrusions.md#track-extrusion)
+* [Gantry Column](../../Extras/bom/extrusions.md#gantry-column)
+* [Gantry Main Beam](../../Extras/bom/extrusions.md#gantry-main-beam)
+* [Z-Axis Extrusion](../../Extras/bom/extrusions.md#z-axis-extrusion)
 
 # Size and shape
 

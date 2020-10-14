@@ -21,26 +21,26 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |24V Solenoid Valve            |Small box (no printing)       |1                             |1
 |24V Vacuum Pump               |Small box (no printing)       |1                             |1
 |[Pre-Assembled UTM](../pre-assembly/utm.md)|Small box (no printing)       |1                             |1
-|[GT2 Timing Belt](../../Extras/bom/drivetrain#gt2-timing-belt) (1.7m)        |Coiled                        |1                             |-
-|[GT2 Timing Belt](../../Extras/bom/drivetrain#gt2-timing-belt) (3.2m)        |Coiled                        |-                             |1
-|[GT2 Timing Belt](../../Extras/bom/drivetrain#gt2-timing-belt) (4.5m)        |Coiled                        |2                             |-
-|[GT2 Timing Belt](../../Extras/bom/drivetrain#gt2-timing-belt) (7.5m)        |Coiled                        |-                             |2
+|[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (1.7m)        |Coiled                        |1                             |-
+|[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (3.2m)        |Coiled                        |-                             |1
+|[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (4.5m)        |Coiled                        |2                             |-
+|[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (7.5m)        |Coiled                        |-                             |2
 |[Pre-Assembled V-Wheels](../pre-assembly/v-wheels.md)|Press-to-seal bag             |30                            |30
-|[M5 Drop-in Tee Nuts](../../Extras/bom/fasteners-and-hardware#tee-nuts)        |Press-to-seal bag             |20                            |20
-|[20mm Nut Bar](../../Extras/bom/fasteners-and-hardware#20mm-nut-bar)|Press-to-seal bag             |6                             |6
-|[40mm Nut Bar](../../Extras/bom/fasteners-and-hardware#40mm-nut-bar)|Press-to-seal bag             |28                            |54
-|[60mm Nut Bar](../../Extras/bom/fasteners-and-hardware#60mm-nut-bar)|Press-to-seal bag             |20                            |24
-|[M5 x 6mm Eccentric Spacer](../../Extras/bom/fasteners-and-hardware#eccentric-spacers)     |Press-to-seal bag             |15                            |15
-|[Dowel pins](../../Extras/bom/fasteners-and-hardware#dowel-pins)                    |Press-to-seal bag             |6                             |20
-|[Ring Magnets](../../Extras/bom/fasteners-and-hardware#ring-magnets)     |Press-to-seal bag             |21                            |21
-|[100mm Zip Ties](../../Extras/bom/fasteners-and-hardware#100mm-zip-ties)                |Press-to-seal bag             |25                            |25
-|[200mm Zip Ties](../../Extras/bom/fasteners-and-hardware#200mm-zip-ties)                |Press-to-seal bag             |4                             |4
-|[Teflon Tape](../../Extras/bom/tubing#teflon-tape)                   |Factory packaging             |1                             |1
-|[Soil Sensor PCB](../../Extras/bom/electronics-and-wiring#soil-sensor-pcb)|Anti-static bag               |1                             |1
-|[Power Cord Protector](../../Extras/bom/electronics-and-wiring#power-cord-protector)      |None                          |1                             |1
-|[NPT to Barb Adapter](../../Extras/bom/tubing#npt-to-barb-adapter)<br>(with rubber gasket)|None                          |2                             |2
-|[Garden Hose to Barb Adapter](../../Extras/bom/tubing#garden-hose-to-barb-adapter)<br>(with rubber gasket)|None                          |1                             |1
-|[Pressure Regulator](../../Extras/bom/tubing#pressure-regulator)<br>(with rubber gasket)|None                          |1                             |1
+|[M5 Drop-in Tee Nuts](../../Extras/bom/fasteners-and-hardware.md#tee-nuts)        |Press-to-seal bag             |20                            |20
+|[20mm Nut Bar](../../Extras/bom/fasteners-and-hardware.md#20mm-nut-bar)|Press-to-seal bag             |6                             |6
+|[40mm Nut Bar](../../Extras/bom/fasteners-and-hardware.md#40mm-nut-bar)|Press-to-seal bag             |28                            |54
+|[60mm Nut Bar](../../Extras/bom/fasteners-and-hardware.md#60mm-nut-bar)|Press-to-seal bag             |20                            |24
+|[M5 x 6mm Eccentric Spacer](../../Extras/bom/fasteners-and-hardware.md#eccentric-spacers)     |Press-to-seal bag             |15                            |15
+|[Dowel pins](../../Extras/bom/fasteners-and-hardware.md#dowel-pins)                    |Press-to-seal bag             |6                             |20
+|[Ring Magnets](../../Extras/bom/fasteners-and-hardware.md#ring-magnets)     |Press-to-seal bag             |21                            |21
+|[100mm Zip Ties](../../Extras/bom/fasteners-and-hardware.md#100mm-zip-ties)                |Press-to-seal bag             |25                            |25
+|[200mm Zip Ties](../../Extras/bom/fasteners-and-hardware.md#200mm-zip-ties)                |Press-to-seal bag             |4                             |4
+|[Teflon Tape](../../Extras/bom/tubing.md#teflon-tape)                   |Factory packaging             |1                             |1
+|[Soil Sensor PCB](../../Extras/bom/electronics-and-wiring.md#soil-sensor-pcb)|Anti-static bag               |1                             |1
+|[Power Cord Protector](../../Extras/bom/electronics-and-wiring.md#power-cord-protector)      |None                          |1                             |1
+|[NPT to Barb Adapter](../../Extras/bom/tubing.md#npt-to-barb-adapter)<br>(with rubber gasket)|None                          |2                             |2
+|[Garden Hose to Barb Adapter](../../Extras/bom/tubing.md#garden-hose-to-barb-adapter)<br>(with rubber gasket)|None                          |1                             |1
+|[Pressure Regulator](../../Extras/bom/tubing.md#pressure-regulator)<br>(with rubber gasket)|None                          |1                             |1
 |Getting Started Guide / Camera Calibration Card|None                          |1                             |1
 |Crop Stickers                 |None                          |1                             |1
 
