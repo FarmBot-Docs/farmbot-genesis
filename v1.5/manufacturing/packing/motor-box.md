@@ -1,7 +1,7 @@
 ---
-title: "Power Supply Box"
-slug: "power-supply-box"
-description: "Packing details for the power supply box inside each main carton"
+title: "Motor Box"
+slug: "motor-box"
+description: "Packing details for the motor box inside each main carton"
 ---
 
 * toc
@@ -11,13 +11,10 @@ description: "Packing details for the power supply box inside each main carton"
 
 |Item                          |Qty                           |
 |------------------------------|------------------------------|
-|[Power Supply](../bom/electronics-and-wiring.md#power-supply)|1
+|[NEMA 17 Stepper Motor with Rotary Encoder](../../Extras/bom/electronics-and-wiring.md#nema-17-stepper-motors-with-rotary-encoders)|4
 
-# Step 1: Pack the power supply
-Pack the **power supply** into the box.
-
-# Step 2: Add fill
-Fill remaining space with **recycled kraft paper**.
+# Step 1: Pack the motors
+Pack the four **NEMA 17 stepper motors with rotary encoders** into the box. The FarmBot logo should be facing up, out of the box.
 
 
 # Box specifications
@@ -30,5 +27,5 @@ Fill remaining space with **recycled kraft paper**.
 |**Material**                  |Cardboard
 |**Color**                     |Brown
 |**Printing**                  |None
-|**Fill**                      |Recycled kraft paper
+|**Fill**                      |Foam insert
 

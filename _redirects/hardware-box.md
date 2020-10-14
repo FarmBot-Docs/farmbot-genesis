@@ -1,5 +1,5 @@
 ---
 permalink: /docs/hardware-box
-page_path: /Extras/packing/hardware-box
+page_path: /manufacturing/packing/hardware-box
 layout: redirect
 ---

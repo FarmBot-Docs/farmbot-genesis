@@ -8,9 +8,9 @@ description: "Pre-assembly instructions for the V-wheels"
 {:toc}
 
 Each V-Wheel consists of four components:
-* One [V-wheel](../bom/drivetrain.md#v-wheel)
-* Two [bearings](../bom/drivetrain.md#v-wheel)
-* One [M5 shim](../bom/drivetrain.md#v-wheel)
+* One [V-wheel](../../Extras/bom/drivetrain.md#v-wheel)
+* Two [bearings](../../Extras/bom/drivetrain.md#v-wheel)
+* One [M5 shim](../../Extras/bom/drivetrain.md#v-wheel)
 
 ![v_wheel_pre_assembly_1.JPG](_images/v_wheel_pre_assembly_1.JPG)
 

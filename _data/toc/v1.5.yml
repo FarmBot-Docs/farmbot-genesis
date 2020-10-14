@@ -11,10 +11,12 @@ contents:
         pages:
           - title: High Level Overview
             url: high-level-overview
-          - title: Change Log
-            url: change-log
           - title: Assembly Preparation
             url: assembly-preparation
+          - title: Frequently Asked Questions
+            url: faq
+          - title: Change Log
+            url: change-log
           - title: Past Versions
             url: past-versions
       - title: Supporting Infrastructure
@@ -170,8 +172,19 @@ contents:
             url: pinout-references
           - title: Seeds
             url: seeds
-      - title: Frequently Asked Questions
-        url: faq
+  - title: Manufacturing
+    url: manufacturing
+    top: true
+    pages:
+      - title: Component Tests
+        url: component-tests
+        pages:
+          - title: Extrusions
+            url: extrusions
+          - title: Plates and Brackets
+            url: plates-and-brackets
+          - title: Plastic Parts
+            url: plastic-parts
       - title: Pre-Assembly
         url: pre-assembly
         pages:
