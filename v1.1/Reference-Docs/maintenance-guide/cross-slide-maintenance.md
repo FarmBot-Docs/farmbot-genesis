@@ -19,4 +19,4 @@ content="Inspect the delrin ledscrew block for signs of wear. You can do this by
 
 # What's next?
 
- * [Z-Axis Maintenance](../maintenance-guide/z-axis-maintenance.md)
+ * [Z-Axis Maintenance](z-axis-maintenance.md)

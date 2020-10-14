@@ -7,7 +7,7 @@ description: "Documentation and assembly instructions for the FarmBot Genesis tr
 * toc
 {:toc}
 
-FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](../FarmBot-Genesis-V1.5/supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models, 6m for Genesis XL, and 18m for Genesis MAX.
+FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models, 6m for Genesis XL, and 18m for Genesis MAX.
 
 ![Screen Shot 2020-02-15 at 6.27.12 PM.png](_images/Screen_Shot_2020-02-15_at_6.27.12_PM.png)
 
@@ -252,4 +252,4 @@ Onward!"
 
 # What's next?
 
- * [Gantry](../FarmBot-Genesis-V1.5/gantry.md)
+ * [Gantry](gantry.md)

@@ -111,4 +111,4 @@ Then push the **inline air filter** onto the other end of that tube. Then connec
 
 # What's next?
 
- * [Camera](../tools/camera.md)
+ * [Camera](camera.md)

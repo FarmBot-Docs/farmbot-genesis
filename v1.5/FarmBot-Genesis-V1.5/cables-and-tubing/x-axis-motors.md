@@ -28,4 +28,4 @@ _(highlighted in orange)_
 
 # What's next?
 
- * [Lighting](../cables-and-tubing/lighting.md)
+ * [Lighting](lighting.md)

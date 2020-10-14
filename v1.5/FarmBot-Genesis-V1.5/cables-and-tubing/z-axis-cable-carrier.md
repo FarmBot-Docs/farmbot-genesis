@@ -127,4 +127,4 @@ content="Once you snap-in the remaining tabs, it will become impossible to adjus
 
 # What's next?
 
- * [Y-Axis Cable Carrier](../cables-and-tubing/y-axis-cable-carrier.md)
+ * [Y-Axis Cable Carrier](y-axis-cable-carrier.md)

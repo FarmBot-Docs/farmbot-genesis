@@ -113,9 +113,9 @@ content="If you suspect damage has occurred as a fault of our design or manufact
 
 # What's next?
 
- * [Track Maintenance](../Reference-Docs/maintenance-guide/track-maintenance.md)
- * [Gantry Maintenance](../Reference-Docs/maintenance-guide/gantry-maintenance.md)
- * [Cross-Slide Maintenance](../Reference-Docs/maintenance-guide/cross-slide-maintenance.md)
- * [Z-Axis Maintenance](../Reference-Docs/maintenance-guide/z-axis-maintenance.md)
- * [UTM Maintenance](../Reference-Docs/maintenance-guide/utm-maintenance.md)
- * [Tools Maintenance](../Reference-Docs/maintenance-guide/tools-maintenance.md)
+ * [Track Maintenance](maintenance-guide/track-maintenance.md)
+ * [Gantry Maintenance](maintenance-guide/gantry-maintenance.md)
+ * [Cross-Slide Maintenance](maintenance-guide/cross-slide-maintenance.md)
+ * [Z-Axis Maintenance](maintenance-guide/z-axis-maintenance.md)
+ * [UTM Maintenance](maintenance-guide/utm-maintenance.md)
+ * [Tools Maintenance](maintenance-guide/tools-maintenance.md)

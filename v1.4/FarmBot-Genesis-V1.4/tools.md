@@ -22,10 +22,10 @@ content="Follow the guidelines in our [Tool Spec](../Extras/mods/tool-spec.md) t
 
 # What's next?
 
- * [Universal Tool Mount](../FarmBot-Genesis-V1.4/tools/utm.md)
- * [Camera](../FarmBot-Genesis-V1.4/tools/camera.md)
- * [Seed Injector](../FarmBot-Genesis-V1.4/tools/seed-injector.md)
- * [Watering Nozzle](../FarmBot-Genesis-V1.4/tools/watering-nozzle.md)
- * [Weeder](../FarmBot-Genesis-V1.4/tools/weeder.md)
- * [Soil Sensor](../FarmBot-Genesis-V1.4/tools/soil-sensor.md)
- * [Toolbays](../FarmBot-Genesis-V1.4/tools/toolbays.md)
+ * [Universal Tool Mount](tools/utm.md)
+ * [Camera](tools/camera.md)
+ * [Seed Injector](tools/seed-injector.md)
+ * [Watering Nozzle](tools/watering-nozzle.md)
+ * [Weeder](tools/weeder.md)
+ * [Soil Sensor](tools/soil-sensor.md)
+ * [Toolbays](tools/toolbays.md)

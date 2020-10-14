@@ -60,4 +60,4 @@ content="If you can feel one extrusion noticeably higher than another, then loos
 
 # What's next?
 
- * [Gantry Maintenance](../maintenance-guide/gantry-maintenance.md)
+ * [Gantry Maintenance](gantry-maintenance.md)

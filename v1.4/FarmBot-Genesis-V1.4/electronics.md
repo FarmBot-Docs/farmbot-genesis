@@ -223,4 +223,4 @@ content="If anything seems suspicious or hazardous, **immediately unplug the pow
 
 # What's next?
 
- * [Tools](../FarmBot-Genesis-V1.4/tools.md)
+ * [Tools](tools.md)

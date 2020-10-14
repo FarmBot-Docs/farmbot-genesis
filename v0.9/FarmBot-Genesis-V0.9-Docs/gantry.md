@@ -556,7 +556,7 @@ content="You're now done building your FarmBot's Gantry. Go have a beer already.
 include callout.html
 type="info"
 title="Don't forget about general maintenance"
-content="The tips below apply specifically to the cross-slide and no other components of your FarmBot. Make sure to view the [General Maintenance](../FarmBot-Genesis-V0.9-Docs/maintenance-guide.md) page as well for system-wide tips."
+content="The tips below apply specifically to the cross-slide and no other components of your FarmBot. Make sure to view the [General Maintenance](maintenance-guide.md) page as well for system-wide tips."
 %}
 
 ## Re-Equalize and Synchronize the Gantry

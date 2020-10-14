@@ -149,4 +149,4 @@ Connect the **y-axis motor and encoder cables** to the **y-axis motor**.
 
 # What's next?
 
- * [X-Axis Cable Carrier](../cables-and-tubing/x-axis-cable-carrier.md)
+ * [X-Axis Cable Carrier](x-axis-cable-carrier.md)

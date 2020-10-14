@@ -10,9 +10,9 @@ These pages contain detailed, deep-dive information that you will need to assemb
 
 # What's next?
 
- * [Assemble the V-Wheels](../FarmBot-Genesis-V1.3/reference/assemble-the-v-wheels.md)
- * [Belt Clip Installation](../FarmBot-Genesis-V1.3/reference/belt-clip-installation.md)
- * [Eccentric Spacer Adjustment](../FarmBot-Genesis-V1.3/reference/eccentric-spacer-adjustment.md)
- * [Basic Tool Hardware](../FarmBot-Genesis-V1.3/reference/basic-tool-hardware.md)
- * [Using Teflon Tape](../FarmBot-Genesis-V1.3/reference/using-teflon-tape.md)
- * [Seeds](../FarmBot-Genesis-V1.3/reference/seeds.md)
+ * [Assemble the V-Wheels](reference/assemble-the-v-wheels.md)
+ * [Belt Clip Installation](reference/belt-clip-installation.md)
+ * [Eccentric Spacer Adjustment](reference/eccentric-spacer-adjustment.md)
+ * [Basic Tool Hardware](reference/basic-tool-hardware.md)
+ * [Using Teflon Tape](reference/using-teflon-tape.md)
+ * [Seeds](reference/seeds.md)

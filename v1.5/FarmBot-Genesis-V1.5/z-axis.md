@@ -107,4 +107,4 @@ If you do not plan on stopping the assembly process now, you can skip this step 
 
 # What's next?
 
- * [Cables and Tubing](../FarmBot-Genesis-V1.5/cables-and-tubing.md)
+ * [Cables and Tubing](cables-and-tubing.md)

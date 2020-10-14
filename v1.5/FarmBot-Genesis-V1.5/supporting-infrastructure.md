@@ -28,6 +28,6 @@ content="If you recently ordered a FarmBot kit, you may want to begin building y
 
 # What's next?
 
- * [Fixed Raised Bed](../FarmBot-Genesis-V1.5/supporting-infrastructure/raised-bed.md)
- * [Mobile Raised Bed](../FarmBot-Genesis-V1.5/supporting-infrastructure/mobile-raised-bed.md)
- * [Pier Block Supports](../FarmBot-Genesis-V1.5/supporting-infrastructure/pier-block-supports.md)
+ * [Fixed Raised Bed](supporting-infrastructure/raised-bed.md)
+ * [Mobile Raised Bed](supporting-infrastructure/mobile-raised-bed.md)
+ * [Pier Block Supports](supporting-infrastructure/pier-block-supports.md)

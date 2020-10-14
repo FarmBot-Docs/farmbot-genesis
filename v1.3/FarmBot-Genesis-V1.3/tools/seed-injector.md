@@ -131,4 +131,4 @@ The seed canister would simply be many seed pucks stacked inside a canister. Eac
 
 # What's next?
 
- * [Watering Nozzle](../tools/watering-nozzle.md)
+ * [Watering Nozzle](watering-nozzle.md)

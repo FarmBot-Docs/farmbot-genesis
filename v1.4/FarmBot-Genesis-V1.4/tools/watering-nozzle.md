@@ -135,4 +135,4 @@ Push the **water tube** coming from the **x-axis cable carrier** (where it is mo
 
 # What's next?
 
- * [Weeder](../tools/weeder.md)
+ * [Weeder](weeder.md)

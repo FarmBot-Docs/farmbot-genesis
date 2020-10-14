@@ -10,7 +10,7 @@ slug: "construct-the-gantry-structure"
 # Step 1: Attach the plates to the columns
 
 For this part of the assembly you will need:
-* The two [gantry wheel plate assemblies](../gantry/assemble-the-gantry-wheel-plates.md) from the previous page
+* The two [gantry wheel plate assemblies](assemble-the-gantry-wheel-plates.md) from the previous page
 * The [gantry columns](../../Extras/bom/extrusions.md#gantry-columns) (20mm x 60mm x 500mm extrusions)
 * [3mm hex driver](../../Extras/bom/miscellaneous.md#3mm-hex-driver)
 
@@ -168,4 +168,4 @@ _This image is from the front of FarmBot_
 
 # What's next?
 
- * [Attach the Drivetrain](../gantry/attach-the-drivetrain.md)
+ * [Attach the Drivetrain](attach-the-drivetrain.md)

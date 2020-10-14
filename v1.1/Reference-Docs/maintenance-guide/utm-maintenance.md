@@ -29,4 +29,4 @@ content="Inspect the UTM's magnets for debris. If any is found, remove the M5 lo
 
 # What's next?
 
- * [Tools Maintenance](../maintenance-guide/tools-maintenance.md)
+ * [Tools Maintenance](tools-maintenance.md)

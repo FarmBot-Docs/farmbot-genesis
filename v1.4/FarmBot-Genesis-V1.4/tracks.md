@@ -7,7 +7,7 @@ description: "Documentation and assembly instructions for the FarmBot Genesis tr
 * toc
 {:toc}
 
-FarmBot's tracks allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](../FarmBot-Genesis-V1.4/supporting-infrastructure.md).
+FarmBot's tracks allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md).
 
 ![d9de2b2-completed_tracks.JPG](_images/completed_tracks.JPG)
 
@@ -259,4 +259,4 @@ Onward!"
 
 # What's next?
 
- * [Gantry](../FarmBot-Genesis-V1.4/gantry.md)
+ * [Gantry](gantry.md)

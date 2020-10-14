@@ -49,4 +49,4 @@ To prepare for assembly, gather all the components from the table below and lay 
 
 # What's next?
 
- * [Cross-Slide Assembly](../FarmBot-Genesis-V1.2/cross-slide/cross-slide-assembly.md)
+ * [Cross-Slide Assembly](cross-slide/cross-slide-assembly.md)

@@ -37,4 +37,4 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 
 # What's next?
 
- * [Assemble the Z-Axis](../FarmBot-Genesis-V1.3/z-axis/assemble-the-z-axis.md)
+ * [Assemble the Z-Axis](z-axis/assemble-the-z-axis.md)

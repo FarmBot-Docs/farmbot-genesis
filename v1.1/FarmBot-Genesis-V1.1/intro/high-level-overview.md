@@ -110,4 +110,4 @@ img {
 
 # What's next?
 
- * [Change Log](../intro/change-log.md)
+ * [Change Log](change-log.md)

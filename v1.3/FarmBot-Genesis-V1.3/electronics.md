@@ -42,4 +42,4 @@ Gather all the parts from the table below and lay them out in a logical manner. 
 
 # What's next?
 
- * [Assemble the Electronics Box](../FarmBot-Genesis-V1.3/electronics/assemble-the-electronics-box.md)
+ * [Assemble the Electronics Box](electronics/assemble-the-electronics-box.md)

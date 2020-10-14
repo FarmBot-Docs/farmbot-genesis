@@ -41,4 +41,4 @@ _Note: the cables and tubing are not shown in this image._
 
 # What's next?
 
- * [Plug Everything In](../electronics/plug-everything-in.md)
+ * [Plug Everything In](plug-everything-in.md)

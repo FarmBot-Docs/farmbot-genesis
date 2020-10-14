@@ -21,7 +21,7 @@ content="This is the estimated time it will take to assemble the tracks."
 include callout.html
 type="warning"
 title="Supporting Infrastructure Required"
-content="These assembly instructions assume that you already have supporting infrastructure in place, such as a [raised bed](../tracks/building-a-raised-bed.md)."
+content="These assembly instructions assume that you already have supporting infrastructure in place, such as a [raised bed](building-a-raised-bed.md)."
 %}
 
 # Step 1: Gather the Parts and Tools

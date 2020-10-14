@@ -163,4 +163,4 @@ Secure the belt at the other end of the gantry with another **belt clip**, **M5 
 
 # What's next?
 
- * [Z-Axis](../FarmBot-Genesis-V1.4/z-axis.md)
+ * [Z-Axis](z-axis.md)

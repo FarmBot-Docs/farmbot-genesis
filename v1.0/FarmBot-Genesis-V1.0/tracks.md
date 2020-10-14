@@ -7,7 +7,7 @@ description: "Documentation and Assembly Insructions for the FarmBot Genesis Tra
 * toc
 {:toc}
 
-FarmBot's tracks allow the gantry to move in a precise motion along the x-axis. The tracks are designed to attach to a raised bed or similar [supporting infrastructure](../FarmBot-Genesis-V1.0/supporting-infrastructure.md). Standard tracks are 3m in length, though one could extend them with additional extrusions, connecting plates, cable carrier supports, and hardware; as long as longer x-axis cable carrier, belt, wiring, and tubing. The maximum track length is likely approximately 30m.
+FarmBot's tracks allow the gantry to move in a precise motion along the x-axis. The tracks are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Standard tracks are 3m in length, though one could extend them with additional extrusions, connecting plates, cable carrier supports, and hardware; as long as longer x-axis cable carrier, belt, wiring, and tubing. The maximum track length is likely approximately 30m.
 
 <iframe width="100%" height="480" src="https://sketchfab.com/models/813d7caf919541beb15721d5ae51b164/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 

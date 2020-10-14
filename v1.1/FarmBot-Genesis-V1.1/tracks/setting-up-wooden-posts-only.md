@@ -31,4 +31,4 @@ content="This is the estimated time it will take to setup wood posts."
 
 # What's next?
 
- * [Assemble the Tracks](../tracks/assemble-the-tracks.md)
+ * [Assemble the Tracks](assemble-the-tracks.md)

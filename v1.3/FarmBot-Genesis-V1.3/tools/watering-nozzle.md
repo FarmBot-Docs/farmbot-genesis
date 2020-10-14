@@ -112,4 +112,4 @@ Connect the **solenoid valve cable** to the **solenoid valve's** terminals.
 
 # What's next?
 
- * [Weeder](../tools/weeder.md)
+ * [Weeder](weeder.md)

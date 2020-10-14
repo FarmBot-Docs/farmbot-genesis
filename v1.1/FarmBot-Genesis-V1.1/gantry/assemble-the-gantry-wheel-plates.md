@@ -114,4 +114,4 @@ Don't expect your Gantry to roll like a ball down a hill. A well fitted gantry w
 
 # What's next?
 
- * [Construct the Gantry Structure](../gantry/construct-the-gantry-structure.md)
+ * [Construct the Gantry Structure](construct-the-gantry-structure.md)

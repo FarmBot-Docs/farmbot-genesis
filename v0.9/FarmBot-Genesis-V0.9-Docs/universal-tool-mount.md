@@ -35,7 +35,7 @@ content="**Mouse and trackpad:** Left-click to rotate, right-click to pan, and s
 include callout.html
 type="success"
 title="Want to make your own UTM compatible tools?"
-content="Check out the [Tool Spec](../FarmBot-Genesis-V0.9-Docs/tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
+content="Check out the [Tool Spec](tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
 %}
 
 
@@ -220,7 +220,7 @@ content="You just finished the most tedious and arguably difficult part of build
 include callout.html
 type="info"
 title="Don't forget about general maintenance"
-content="The tips below apply specifically to the UTM and no other components of your FarmBot. Make sure to view the [General Maintenance](../FarmBot-Genesis-V0.9-Docs/maintenance-guide.md) page as well for system-wide tips."
+content="The tips below apply specifically to the UTM and no other components of your FarmBot. Make sure to view the [General Maintenance](maintenance-guide.md) page as well for system-wide tips."
 %}
 
 ## Inspect the Seals
