@@ -19,9 +19,9 @@ The tables below show the items that should be packed into the **main carton** f
 |[Cable and Tubing Box](../packing/cable-and-tubing-box.md)          |None                          |1
 |[Motor Box](../packing/motor-box.md)                     |None                          |1
 |[Power Supply Box](../packing/power-supply-box.md)              |None                          |1
-|[X-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 1700mm)|None (no plastic bag)         |1
-|[Y-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 1700mm)|None (no plastic bag)         |1
-|[Z-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 740mm)|None (no plastic bag)         |1
+|[X-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 1700mm)|None (no plastic bag)         |1
+|[Y-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 1700mm)|None (no plastic bag)         |1
+|[Z-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 740mm)|None (no plastic bag)         |1
 |[Pre-Assembled Electronics Box](../pre-assembly/electronics-box.md)               |Thick paper wrapping (no plastic bag or foam)|1
 
 
@@ -35,9 +35,9 @@ The tables below show the items that should be packed into the **main carton** f
 |<span class="fb-xl-sticker">XL</span> [Cable and Tubing Box](../packing/cable-and-tubing-box.md)     |None                          |1
 |[Motor Box](../packing/motor-box.md)                     |None                          |1
 |[Power Supply Box](../packing/power-supply-box.md)              |None                          |1
-|[X-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 3200mm)|None (no plastic bag)         |1
-|[Y-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 3200mm)|None (no plastic bag)         |1
-|[Z-Axis Cable Carrier](../bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 740mm)|None (no plastic bag)         |1
+|[X-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 3200mm)|None (no plastic bag)         |1
+|[Y-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 3200mm)|None (no plastic bag)         |1
+|[Z-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 50 x 740mm)|None (no plastic bag)         |1
 |[Pre-Assembled Electronics Box](../pre-assembly/electronics-box.md)               |Thick paper wrapping (no plastic bag or foam)|1
 
 # Edge protectors and straps
