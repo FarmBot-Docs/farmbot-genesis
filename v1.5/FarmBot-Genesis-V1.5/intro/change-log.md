@@ -48,7 +48,3 @@ The new soil sensor PCB features the same soil moisture sensing capabilities, bu
 * Improved the z-axis motor mount to include a recessed lip for better mating with the vertical motor housing.
 * Combined the garden hose adapter and barbed adapter into one component.
 * The motors are now packed independently of the cables, allowing the same motor kit to be used in all three sizes of Genesis.
-
-# What's next?
-
- * [Assembly Preparation](../intro/assembly-preparation.md)

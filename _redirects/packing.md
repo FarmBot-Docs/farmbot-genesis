@@ -1,5 +1,5 @@
 ---
 permalink: /docs/packing
-page_path: /Extras/packing
+page_path: /manufacturing/packing
 layout: redirect
 ---
