@@ -31,4 +31,4 @@ _(highlighted in orange)_
 
 # What's next?
 
- * [Universal Tool Mount](../../FarmBot-Genesis-V1.2/utm.md)
+ * [Universal Tool Mount](../utm.md)

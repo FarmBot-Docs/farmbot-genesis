@@ -227,4 +227,4 @@ The very first physical FarmBot prototype was made from welded steel square stoc
 
 # What's next?
 
- * [Supporting Infrastructure](../../FarmBot-Genesis-V1.5/supporting-infrastructure.md)
+ * [Supporting Infrastructure](../supporting-infrastructure.md)

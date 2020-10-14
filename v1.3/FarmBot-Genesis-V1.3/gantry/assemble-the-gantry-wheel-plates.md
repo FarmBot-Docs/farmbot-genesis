@@ -8,7 +8,7 @@ slug: "assemble-the-gantry-wheel-plates"
 
 Before we start assembly, know that each completed gantry wheel plate will have nine wheel assemblies attached to it that allow it to slide along the tracks. The five wheels that ride on the top of the tracks will be attached to the plates with **[standard spacers](../../Extras/bom/fasteners-and-hardware.md#m5-x-6mm-spacers)**. The four wheels that ride underneath the tracks will be attached to the plates with **[eccentric spacers](../../Extras/bom/fasteners-and-hardware.md#m5-x-6mm-eccentric-spacers)**. The eccentric spacers will be used to finely adjust the spacing between the top and the bottom wheels such that the gantry will roll smoothly and snuggly along the tracks.
 
-For wheel assembly instructions, see [Assemble the V-Wheels](../../FarmBot-Genesis-V1.3/reference/assemble-the-v-wheels.md).
+For wheel assembly instructions, see [Assemble the V-Wheels](../reference/assemble-the-v-wheels.md).
 
 ![Dual gantry plates.jpg](_images/Dual_gantry_plates.jpg)
 
@@ -77,7 +77,7 @@ Repeat the above steps for the second gantry wheel plate assembly. You should en
 
 The eccentric spacers on the lower wheels of each gantry wheel plate assembly are used for making fine adjustments to the spacing between the lower wheels and the upper wheels. Adjusting this spacing is the key to having your gantry move smoothly and wobble-free across the tracks.
 
-If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the eccentric spacers using the [eccentric spacer adjustment reference guide](../../FarmBot-Genesis-V1.3/reference/eccentric-spacer-adjustment.md).
+If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the eccentric spacers using the [eccentric spacer adjustment reference guide](../reference/eccentric-spacer-adjustment.md).
 
 # What's next?
 

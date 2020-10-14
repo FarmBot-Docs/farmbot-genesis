@@ -63,7 +63,7 @@ Repeat the above steps for the second corner bracket and column. You should end 
 include callout.html
 type="info"
 title="Adjust the eccentric spacers first"
-content="This step is assuming that you have already adjusted the **eccentric spacers** according to the [eccentric spacer adjustment guide](../../FarmBot-Genesis-V1.3/reference/eccentric-spacer-adjustment.md)."
+content="This step is assuming that you have already adjusted the **eccentric spacers** according to the [eccentric spacer adjustment guide](../reference/eccentric-spacer-adjustment.md)."
 %}
 
 Slide the **gantry columns** onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot.

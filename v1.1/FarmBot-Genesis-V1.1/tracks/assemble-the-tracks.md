@@ -169,4 +169,4 @@ Onward!"
 
 # What's next?
 
- * [Gantry](../../FarmBot-Genesis-V1.1/gantry.md)
+ * [Gantry](../gantry.md)

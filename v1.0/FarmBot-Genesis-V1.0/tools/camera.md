@@ -9,7 +9,7 @@ description: "Documentation and assembly instructions for the FarmBot Genesis Ca
 
 The camera is not a typical FarmBot tool in the sense that it does not mount onto the universal tool mount and it is not stored in the tool bay. Instead, it remains fixed in place on the z-axis next to the UTM and can be used at any time, even when other tools are mounted.
 
-The camera itself is the [v2 Raspberry Pi Camera](https://www.raspberrypi.org/products/camera-module-v2/). It is connected directly to the raspberry pi and can take photos for weed detection, [time lapse photography](../../FarmBot-Genesis-V1.0/mods-and-add-ons/take-time-lapse-plant-photography.md) of your plants growing, and video for live streaming what is happening at the UTM.
+The camera itself is the [v2 Raspberry Pi Camera](https://www.raspberrypi.org/products/camera-module-v2/). It is connected directly to the raspberry pi and can take photos for weed detection, [time lapse photography](../mods-and-add-ons/take-time-lapse-plant-photography.md) of your plants growing, and video for live streaming what is happening at the UTM.
 
 ![giphy.gif](_images/giphy.gif)
 

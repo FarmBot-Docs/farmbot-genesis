@@ -29,7 +29,7 @@ On day 1, position your camera tool at one end of the tracks, halfway across the
 # Camera Options
 
 ## Z-Axis Mounted Raspberry Pi Camera
-The [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/) is a small camera board that connects to the Raspberry Pi via a ribbon cable. This camera is used as a part of FarmBot. Installation instructions are provided in [Tools: Camera](../../FarmBot-Genesis-V1.1/tools/camera.md).
+The [Raspberry Pi Camera Module](https://www.raspberrypi.org/products/camera-module-v2/) is a small camera board that connects to the Raspberry Pi via a ribbon cable. This camera is used as a part of FarmBot. Installation instructions are provided in [Tools: Camera](../tools/camera.md).
 
 ![1367-07.jpg](_images/07.jpg)
 

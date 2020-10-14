@@ -47,7 +47,7 @@ Gather all the soil sensor parts from the table below and lay them out in a logi
 |1                             |[Jumper Link](../../Extras/bom/electronics-and-wiring.md#jumper-links)
 
 # Step 2: Install the magnets
-Install *only* the **magnets** using the instructions in the [basic tool hardware reference guide](../../FarmBot-Genesis-V1.3/reference/basic-tool-hardware.md).
+Install *only* the **magnets** using the instructions in the [basic tool hardware reference guide](../reference/basic-tool-hardware.md).
 
 ![Screen Shot 2017-10-04 at 5.33.49 PM.png](_images/Screen_Shot_2017-10-04_at_5.33.49_PM.png)
 

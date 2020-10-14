@@ -23,4 +23,4 @@ Hand rotate the **leadscrew** clockwise so that it threads into the **leadscrew 
 
 # What's next?
 
- * [Cables and Tubing](../../FarmBot-Genesis-V1.1/cables-and-tubing.md)
+ * [Cables and Tubing](../cables-and-tubing.md)

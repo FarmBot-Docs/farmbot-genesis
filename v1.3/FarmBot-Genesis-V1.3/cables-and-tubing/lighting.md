@@ -17,4 +17,4 @@ Feed the [LED light strip](../../Extras/bom/electronics-and-wiring.md#led-strip)
 
 # What's next?
 
- * [Universal Tool Mount](../../FarmBot-Genesis-V1.3/utm.md)
+ * [Universal Tool Mount](../utm.md)

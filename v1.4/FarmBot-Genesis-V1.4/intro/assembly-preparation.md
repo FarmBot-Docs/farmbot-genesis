@@ -67,4 +67,4 @@ FarmBot Genesis is a complex machine with over 1,000 components in total. Be pre
 
 # What's next?
 
- * [Tracks](../../FarmBot-Genesis-V1.4/tracks.md)
+ * [Tracks](../tracks.md)

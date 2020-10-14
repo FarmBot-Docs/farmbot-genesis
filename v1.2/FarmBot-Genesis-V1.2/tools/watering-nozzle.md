@@ -85,7 +85,7 @@ Press the **watering nozzle bottom** into the **watering nozzle top**. The two c
 
 # Step 3: Install the universal tool hardware
 
-Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
+Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../reference/universal-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
 ![Screen Shot 2017-02-27 at 7.33.49 PM.png](_images/Screen_Shot_2017-02-27_at_7.33.49_PM.png)
 

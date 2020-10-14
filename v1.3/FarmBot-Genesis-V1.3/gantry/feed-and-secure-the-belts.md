@@ -29,7 +29,7 @@ _The belt has been highlighted orange for clarity._
 # Step 2: Secure the belts
 Secure the end of the belt to the front end of the tracks by using a **belt clip**, **M5 x 10mm screw**, and **M5 tee nut**.
 
-The belt must be wrapped through the clip as outlined in the [belt clip installation guide](../../FarmBot-Genesis-V1.3/reference/belt-clip-installation.md).
+The belt must be wrapped through the clip as outlined in the [belt clip installation guide](../reference/belt-clip-installation.md).
 
 Secure the belt clip by tightening the M5 screw.
 
@@ -65,4 +65,4 @@ content="You're now done building your FarmBot's gantry."
 
 # What's next?
 
- * [Cross-Slide](../../FarmBot-Genesis-V1.3/cross-slide.md)
+ * [Cross-Slide](../cross-slide.md)

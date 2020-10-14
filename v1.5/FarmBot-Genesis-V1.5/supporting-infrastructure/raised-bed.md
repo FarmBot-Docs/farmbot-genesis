@@ -21,7 +21,7 @@ content="We do not recommend building a fixed raised bed for Genesis MAX devices
 <iframe width="100%" height="480" src="https://sketchfab.com/models/5002768ae94f4013a7dad664bdfc42ad/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 
 ## Maximum raised bed size
-We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../../FarmBot-Genesis-V1.5/intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
+We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
 Use the dimension guidelines in the table below to plan your raised bed design.
 
@@ -194,4 +194,4 @@ content="Your raised bed is now ready for your FarmBot installation."
 
 # What's next?
 
- * [Tracks](../../FarmBot-Genesis-V1.5/tracks.md)
+ * [Tracks](../tracks.md)

@@ -38,4 +38,4 @@ Focused on being a quick and easy first prototype, V0.1 was constructed from all
 
 # What's next?
 
- * [Tracks](../../FarmBot-Genesis-V1.1/tracks.md)
+ * [Tracks](../tracks.md)

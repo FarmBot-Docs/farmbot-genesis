@@ -72,7 +72,7 @@ content="Only one x-axis encoder is currently implemented in the firmware, so th
 %}
 
 # Step 5: Plug in the UTM cable's connectors
-Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](../../FarmBot-Genesis-V1.2/utm.md).
+Plug in the UTM's wires to the RAMPS shield according to the [pin mapping table](../utm.md).
 
 
 |UTM Pin/UTM Wire              |is connected to               |and used for                  |
@@ -174,4 +174,4 @@ The power supply lives inside the weatherproof **[SockitBox](http://www.sockitbo
 
 # What's next?
 
- * [Tools](../../FarmBot-Genesis-V1.2/tools.md)
+ * [Tools](../tools.md)

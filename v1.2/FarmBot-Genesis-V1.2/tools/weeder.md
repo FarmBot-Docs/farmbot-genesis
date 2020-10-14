@@ -81,7 +81,7 @@ Gather all the weeding tool parts from the table below and lay them out in a log
 
 # Step 2: Install the universal tool hardware
 
-Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md).
+Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../reference/universal-tool-hardware.md).
 
 ![none.png](_images/none.png)
 

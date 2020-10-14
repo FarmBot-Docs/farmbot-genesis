@@ -15,7 +15,7 @@ Slide the **z-axis extrusion** through the v-wheels on the **cross-slide** until
 include callout.html
 type="warning"
 title="Adjust the eccentric spacers as needed"
-content="In order to slide the z-axis through the v-wheels you will need to adjust the eccentric spacers of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../../FarmBot-Genesis-V1.3/reference/eccentric-spacer-adjustment.md) for how to do this."
+content="In order to slide the z-axis through the v-wheels you will need to adjust the eccentric spacers of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../reference/eccentric-spacer-adjustment.md) for how to do this."
 %}
 
 
@@ -49,4 +49,4 @@ Attach the other **z-axis hardstop** onto the backside of the **z-axis extrusion
 
 # What's next?
 
- * [Cables and Tubing](../../FarmBot-Genesis-V1.3/cables-and-tubing.md)
+ * [Cables and Tubing](../cables-and-tubing.md)

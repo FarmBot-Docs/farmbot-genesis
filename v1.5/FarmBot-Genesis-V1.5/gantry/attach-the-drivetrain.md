@@ -85,4 +85,4 @@ When applying the Locktite glue, back out the set screw as far as possible. Appl
 
 # What's next?
 
- * [Cross-Slide](../../FarmBot-Genesis-V1.5/cross-slide.md)
+ * [Cross-Slide](../cross-slide.md)

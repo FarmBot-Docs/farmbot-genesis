@@ -61,7 +61,7 @@ Attach the **moisture sensor** to the **soil sensor base** using two **M3 x 12mm
 
 # Step 3: Install the universal tool hardware
 
-Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md).
+Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../reference/universal-tool-hardware.md).
 
 # Step 4: Install the additional electronic screws
 

@@ -38,4 +38,4 @@ content="If anything is missing or damaged from your box of components, let us k
 
 # What's next?
 
- * [Tracks](../../FarmBot-Genesis-V1.1/tracks.md)
+ * [Tracks](../tracks.md)

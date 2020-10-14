@@ -97,4 +97,4 @@ Place your tools and seed containers in any slot you want. Just remember that yo
 
 # What's next?
 
- * [Electronics](../../FarmBot-Genesis-V1.5/electronics.md)
+ * [Electronics](../electronics.md)

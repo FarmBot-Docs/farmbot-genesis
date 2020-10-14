@@ -123,7 +123,7 @@ img {
 # Economies of scale
 The table below shows the cost/m<sup>2</sup> of growing area based on the size of your FarmBot. Predictably, the larger your FarmBot is, the lower the cost will be per square meter of growing area. Thus, we recommend installing the largest possible FarmBot in your space in order to get the most value out of the device.
 
-*Note that the costs below do not account for [supporting infrastructure](../../FarmBot-Genesis-V1.4/supporting-infrastructure.md), which will also increase in cost as the device size increases.*
+*Note that the costs below do not account for [supporting infrastructure](../supporting-infrastructure.md), which will also increase in cost as the device size increases.*
 
 |Model                         |Track Length                  |Gantry Width                  |Growing Area                  |Cost                          |Cost/m^2                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

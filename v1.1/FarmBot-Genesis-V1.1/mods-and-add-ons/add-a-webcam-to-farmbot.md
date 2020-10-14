@@ -22,8 +22,8 @@ There are two types of camera modules available: one with a [regular camera](htt
 
 ![1367-07.jpg](_images/07.jpg)
 
-FarmBot OS webcam support coming soon. See [Camera](../../FarmBot-Genesis-V1.1/tools/camera.md) for tool camera installation instructions, with FarmBot OS support for taking photos.
+FarmBot OS webcam support coming soon. See [Camera](../tools/camera.md) for tool camera installation instructions, with FarmBot OS support for taking photos.
 
 # Setting up a USB Webcam
 
-FarmBot OS webcam support coming soon. See [Camera](../../FarmBot-Genesis-V1.1/tools/camera.md) for tool camera installation instructions, with FarmBot OS support for taking photos.
+FarmBot OS webcam support coming soon. See [Camera](../tools/camera.md) for tool camera installation instructions, with FarmBot OS support for taking photos.

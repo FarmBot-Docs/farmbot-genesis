@@ -44,7 +44,7 @@ _The peripheral connectors are highlighted in orange_
 include callout.html
 type="info"
 title=""
-content="See [Farmduino Peripheral Pin Numbers](../../FarmBot-Genesis-V1.3/reference/farmduino-peripheral-pin-numbers.md) for information about controlling the peripherals from the web app."
+content="See [Farmduino Peripheral Pin Numbers](../reference/farmduino-peripheral-pin-numbers.md) for information about controlling the peripherals from the web app."
 %}
 
 # Step 2: Plug in the stepper motors and rotary encoders
@@ -160,4 +160,4 @@ content="If you need to add, remove, or change any of the wiring now or in the f
 
 # What's next?
 
- * [Tools](../../FarmBot-Genesis-V1.3/tools.md)
+ * [Tools](../tools.md)

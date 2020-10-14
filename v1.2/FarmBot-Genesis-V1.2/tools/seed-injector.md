@@ -52,7 +52,7 @@ Gather all the seed injector parts from the table below and lay them out in a lo
 
 # Step 2: Install the universal tool hardware
 
-Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../../FarmBot-Genesis-V1.2/reference/universal-tool-hardware.md).
+Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../reference/universal-tool-hardware.md).
 
 ![Screen Shot 2017-02-27 at 4.22.46 PM.png](_images/Screen_Shot_2017-02-27_at_4.22.46_PM.png)
 

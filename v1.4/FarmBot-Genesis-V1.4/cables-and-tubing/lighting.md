@@ -14,8 +14,8 @@ Feed the [LED light strip](../../Extras/bom/electronics-and-wiring.md#led-strip)
 
 ![lights.png](_images/lights.png)
 
-In a few steps from now, you will [plug the LED light strip into the **Farmduino**](../../FarmBot-Genesis-V1.4/electronics.md#step-3-connect-the-peripherals).
+In a few steps from now, you will [plug the LED light strip into the **Farmduino**](../electronics.md#step-3-connect-the-peripherals).
 
 # What's next?
 
- * [Universal Tool Mount](../../FarmBot-Genesis-V1.4/tools/utm.md)
+ * [Universal Tool Mount](../tools/utm.md)

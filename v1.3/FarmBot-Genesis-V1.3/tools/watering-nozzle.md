@@ -65,7 +65,7 @@ Press the **watering nozzle bottom** into the **watering nozzle top**. The two p
 
 # Step 3: Install the basic tool hardware
 
-Install the **magnets** and tool verification **jumper link** using **M5 x 30mm screws** and **M3 x 10mm screws** and the instructions in the [basic tool hardware reference guide](../../FarmBot-Genesis-V1.3/reference/basic-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
+Install the **magnets** and tool verification **jumper link** using **M5 x 30mm screws** and **M3 x 10mm screws** and the instructions in the [basic tool hardware reference guide](../reference/basic-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
 ![Screen Shot 2017-10-04 at 2.41.38 PM.png](_images/Screen_Shot_2017-10-04_at_2.41.38_PM.png)
 
@@ -81,19 +81,19 @@ Screw the **garden hose adapter** onto the **garden hose**. *Note that you will 
 
 ![hose_adapter.png](_images/hose_adapter.png)
 
-Screw the **solenoid valve** inlet into the **garden hose adapter**. Use teflon tape to seal the threads according to the [reference guide](../../FarmBot-Genesis-V1.3/reference/using-teflon-tape.md).
+Screw the **solenoid valve** inlet into the **garden hose adapter**. Use teflon tape to seal the threads according to the [reference guide](../reference/using-teflon-tape.md).
 
 ![solenoid_valve.png](_images/solenoid_valve.png)
 
-Screw the **pressure regulator** onto the **solenoid valve** outlet. Use teflon tape to seal the threads according to the [reference guide](../../FarmBot-Genesis-V1.3/reference/using-teflon-tape.md).
+Screw the **pressure regulator** onto the **solenoid valve** outlet. Use teflon tape to seal the threads according to the [reference guide](../reference/using-teflon-tape.md).
 
 ![Screen Shot 2017-10-04 at 4.06.58 PM.png](_images/Screen_Shot_2017-10-04_at_4.06.58_PM.png)
 
-Screw the **coupler** onto the **pressure regulator**. Use teflon tape to seal the threads according to the [reference guide](../../FarmBot-Genesis-V1.3/reference/using-teflon-tape.md).
+Screw the **coupler** onto the **pressure regulator**. Use teflon tape to seal the threads according to the [reference guide](../reference/using-teflon-tape.md).
 
 ![Screen Shot 2017-10-04 at 4.07.04 PM.png](_images/Screen_Shot_2017-10-04_at_4.07.04_PM.png)
 
-Screw the **barbed adapter** into the **coupler**. Use teflon tape to seal the threads according to the [reference guide](../../FarmBot-Genesis-V1.3/reference/using-teflon-tape.md).
+Screw the **barbed adapter** into the **coupler**. Use teflon tape to seal the threads according to the [reference guide](../reference/using-teflon-tape.md).
 
 ![Screen Shot 2017-10-04 at 4.07.14 PM.png](_images/Screen_Shot_2017-10-04_at_4.07.14_PM.png)
 

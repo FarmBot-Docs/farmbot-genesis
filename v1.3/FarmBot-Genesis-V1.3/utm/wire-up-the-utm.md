@@ -95,4 +95,4 @@ content="You just finished the most tedious and arguably difficult part of build
 
 # What's next?
 
- * [Electronics](../../FarmBot-Genesis-V1.3/electronics.md)
+ * [Electronics](../electronics.md)
