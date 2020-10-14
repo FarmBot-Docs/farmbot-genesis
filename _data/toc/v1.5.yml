@@ -181,6 +181,10 @@ contents:
         pages:
           - title: Extrusions
             url: extrusions
+          - title: Plates and Brackets
+            url: plates-and-brackets
+          - title: Plastic Parts
+            url: plastic-parts
       - title: Pre-Assembly
         url: pre-assembly
         pages:

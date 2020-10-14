@@ -20,3 +20,5 @@ The information is shared here as part of our committment to 100% open-source [h
 # What's next?
 
  * [Extrusions](component-tests/extrusions.md)
+ * [Plates and Brackets](component-tests/plates-and-brackets.md)
+ * [Plastic Parts](component-tests/plastic-parts.md)
