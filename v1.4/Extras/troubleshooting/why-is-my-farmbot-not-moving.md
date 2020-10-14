@@ -20,7 +20,7 @@ content="Prior to following the steps of this troubleshooting guide, clean and i
 
 # 1. Ensure FarmBot is connected
 
-Your FarmBot must be connected to the internet and the web app to receive commands and download the resources you create such as sequences, plant locations, and events. If your bot is connected, the web app's **connectivity indicator** should be <span class="fa fa-circle" style="color: #65aa48;opacity: 1"></span> green. If your bot is not connected:
+Your FarmBot must be connected to the internet and the web app to receive commands and download the resources you create such as sequences, plant locations, and events. If your bot is connected, the web app's **connectivity indicator** should be <span class="fa fa-circle green"></span> green. If your bot is not connected:
 
 1. Confirm FarmBot is [connected to the internet](https://software.farm.bot/docs/connecting-farmbot-to-the-internet) (via WiFi or ethernet).
 2. Confirm FarmBot is [connected to the web app](https://software.farm.bot/docs/connecting-farmbot-to-the-web-app).
@@ -103,7 +103,7 @@ If you are having trouble with the movements of the FarmBot, adjust settings and
 
 Another thing to remember when you are troubleshooting these NEMA 17 stepper motors is that the faster the step rate the lower the torque. This means that if you increase the minimum or maximum speed (mm/s) (AKA the step rate) you will decrease the torque and increase the likelihood of having the motor stall. More details on motor stalls are discussed in the next section of this document.
 
-The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the <span class="fb-tooltip">?</span> icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
+The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the <span class="fb-tooltip"><i class='fa fa-question'></i></span> icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
 
 ![Default_motor_settings_.bmp](_images/Default_motor_settings_.bmp)
 

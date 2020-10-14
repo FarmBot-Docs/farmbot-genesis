@@ -18,10 +18,10 @@ In addition to providing the exact temperature of the CPU, the indicator circle 
 
 |Color                         |Meaning                       |
 |------------------------------|------------------------------|
-|<span class="fa fa-circle" style="color: blue;opacity: 1"></span> Blue|The CPU temperature is colder than the desired range (0°C and below)
-|<span class="fa fa-circle" style="color: #67aa42;opacity: 1"></span> Green|The CPU temperature is within the desired range (between 0°C and 75°C)
-|<span class="fa fa-circle" style="color: #ed6765;opacity: 1"></span> Red|The CPU temperature is hotter than the desired range (75°C and above)
-|<span class="fa fa-circle" style="color: gray;opacity: 1"></span> Gray|The CPU temperature is unknown because FarmBot is offline.
+|<span class="fa fa-circle saucer blue"></span> Blue|The CPU temperature is colder than the desired range (0°C and below)
+|<span class="fa fa-circle saucer green"></span> Green|The CPU temperature is within the desired range (between 0°C and 75°C)
+|<span class="fa fa-circle saucer red"></span> Red|The CPU temperature is hotter than the desired range (75°C and above)
+|<span class="fa fa-circle saucer gray"></span> Gray|The CPU temperature is unknown because FarmBot is offline.
 
 
 
