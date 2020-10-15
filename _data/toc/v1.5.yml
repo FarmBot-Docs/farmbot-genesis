@@ -187,6 +187,8 @@ contents:
             url: plastic-parts
           - title: Fasteners and Hardware
             url: fasteners-and-hardware
+          - title: Drivetrain
+            url: drivetrain
       - title: Pre-Assembly
         url: pre-assembly
         pages:
