@@ -22,3 +22,4 @@ The information is shared here as part of our committment to 100% open-source [h
  * [Extrusions](component-tests/extrusions.md)
  * [Plates and Brackets](component-tests/plates-and-brackets.md)
  * [Plastic Parts](component-tests/plastic-parts.md)
+ * [Fasteners and Hardware](component-tests/fasteners-and-hardware.md)
