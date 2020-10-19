@@ -1,0 +1,206 @@
+version_number: 1.2
+data:
+  - page: extrusions
+    data:
+      - section: track-extrusions
+        image: _images/Track_end.JPG
+      - section: gantry-columns
+        image: _images/gantry_columns.JPG
+      - section: gantry-main-beam
+        image: _images/20x60_02.JPG
+      - section: z-axis-extrusion
+        image: _images/20x20.JPG
+  - page: fasteners-and-hardware
+    data:
+      - section: m25-screws
+        image: _images/M2.5x4.jpg
+      - section: m25-standoffs
+        image: _images/Standoffs_sm.jpg
+      - section: m3-screws
+        image: _images/M3x5.jpg
+      - section: m3-locknuts
+        image: _images/M3_locknuts.jpg
+      - section: m4-screws
+        image: _images/M4_2.jpg
+      - section: m5-screws
+        image: _images/M5x_6mm.jpg
+      - section: m5-washers
+        image: _images/M5_Washer.jpg
+      - section: m5-spacers
+        image: _images/M5_Spacer.jpg
+      - section: m5-x-6mm-eccentric-spacers
+        image: _images/Eccentric_.jpg
+      - section: m5-locknuts
+        image: _images/M5locknuts.jpg
+      - section: m5-tee-nuts
+        image: _images/Tee_Nuts.jpg
+      - section: wood-screws
+        image: _images/Wood_Screws.jpg
+      - section: camera-mounts
+        image: _images/Camer_Mounts.jpg
+  - page: tubing
+    data:
+      - section: liquidgas-tubes
+        image: _images/Tubing.JPG
+      - section: barbs
+        image: _images/Barb_1.jpg
+      - section: barbed-adapter
+        image: _images/Barbed_Adpater_1.JPG
+      - section: garden-hose-adapter
+        image: _images/Hose_Adapter_1.JPG
+      - section: o-rings
+        image: _images/O-rings.jpg
+      - section: grommets
+        image: _images/Grommets.jpg
+      - section: pressure-regulator
+        image: _images/Pressure_reducer_1.JPG
+      - section: luer-lock-adapter
+        image: _images/Luer_Lock_Adapter.jpg
+      - section: luer-lock-needles
+        image: _images/Luer.jpg
+  - page: plastic-parts
+    data:
+      - section: horizontal-motor-housing
+        image: _images/Horizontal_Motor_Housing_1.JPG
+      - section: vertical-motor-housing
+        image: _images/Vertical_Motor_Housing_1.JPG
+      - section: universal-tool-mount
+        image: _images/UTM.JPG
+      - section: universal-tool-mount-cover
+        image: _images/UTM_Cover_1.JPG
+      - section: seeder
+        image: _images/Seeder2.JPG
+      - section: watering-nozzle
+        image: _images/Water1.JPG
+      - section: weeder
+        image: _images/Weeder_2.JPG
+      - section: soil-sensor
+        image: _images/Soil_Sensor_2.JPG
+      - section: seed-bins
+        image: _images/Seed_Bin_2.JPG
+      - section: seed-trays
+        image: _images/Seed_Tray_1.JPG
+      - section: electronics-mounting-plate
+        image: _images/Electronics_Plate_1.JPG
+  - page: drivetrain
+    data:
+      - section: v-wheels
+        image: _images/V_wheel1.JPG
+      - section: bearings
+        image: _images/Bearing1.JPG
+      - section: m5-shims
+        image: _images/Shim2.jpg
+      - section: gt2-timing-belt
+        image: _images/Belt_1.JPG
+      - section: gt2-pulleys
+        image: _images/Pulley_2.jpg
+      - section: 5mm-to-8mm-flex-coupling
+        image: _images/Flex_Coupling_1.JPG
+      - section: 8mm-acme-leadscrew
+        image: _images/Leadscrew_2.JPG
+      - section: leadscrew-block
+        image: _images/Leadscrew_Block_1.JPG
+  - page: electronics-and-wiring
+    data:
+      - section: electronics-housing
+        image: _images/Electronics_Box.JPG
+      - section: power-supply
+        image: _images/Power_Supply.JPG
+      - section: 5v-power-adapter
+        image: _images/5V_adapter_1.JPG
+      - section: wire-nuts
+        image: _images/Wire_nuts.jpg
+      - section: raspberry-pi-3
+        image: _images/Pi.JPG
+      - section: microsd-card
+        image: _images/MicroSD.JPG
+      - section: arduino-mega-2560
+        image: _images/ARduino_1.JPG
+      - section: ramps-shield
+        image: _images/RAMPS_1.JPG
+      - section: stepper-drivers
+        image: _images/Pololu.JPG
+      - section: usb-cable
+        image: _images/USB_Cable.JPG
+      - section: nema-17-stepper-motors-with-rotary-encoders
+        image: _images/Motor1.JPG
+      - section: cable-carrier
+        image: _images/Cable_Carriers.JPG
+      - section: universal-tool-mount-cable
+        image: _images/UTM_Cable_1.JPG
+      - section: soil-sensor
+        image: _images/Soil_Sensor.jpg
+      - section: solenoid-valve
+        image: _images/Solenoid_Valve.JPG
+      - section: vacuum-pump
+        image: _images/Vacuum_Pump.JPG
+      - section: ramps-power-cables
+        image: _images/Ramps_Power_Cable_2.JPG
+      - section: raspberry-pi-power-cable
+        image: _images/Raspberry_Pi_Cable_2.JPG
+      - section: vacuum-pump-cable
+        image: _images/Vacuum_Pump_Cable_1.JPG
+      - section: solenoid-valve-cable
+        image: _images/Solenoid_valve_cable_1.JPG
+      - section: farmbot-power-cable
+        image: _images/Power_cable_2.JPG
+      - section: borescope-camera
+        image: _images/Camera.JPG
+      - section: sockit-box
+        image: _images/Sockit_box_1.JPG
+      - section: jumper-links
+        image: _images/Jumper_Links.jpg
+  - page: plates-and-brackets
+    data:
+      - section: track-end-plates
+        image: _images/Track_End_Plate_1.JPG
+      - section: track-joining-plates
+        image: _images/Track_Joining_Plates.JPG
+      - section: gantry-wheel-plates
+        image: _images/Gantry_Wheel_Plates_1.JPG
+      - section: gantry-corner-brackets
+        image: _images/Gantry_Corner_Brackets_0.JPG
+      - section: cross-slide-plate
+        image: _images/Cross-Slide_Plate_1.JPG
+      - section: z-axis-motor-mount
+        image: _images/Z-Axis_Motor_Mount_1.JPG
+      - section: toolbays
+        image: _images/Toolbay.JPG
+      - section: horizontal-cable-carrier-cc-supports
+        image: _images/Horizontal_CC_Support_1.JPG
+      - section: vertical-cable-carrier-cc-supports
+        image: _images/Vertical_CC_Support.JPG
+      - section: long-cable-carrier-cc-mount
+        image: _images/Long_CC_Mount_1.JPG
+      - section: cable-carrier-cc-spacer-block
+        image: _images/CC_Spacer_Block_1.JPG
+      - section: cable-guides
+        image: _images/Cable_Guides.JPG
+      - section: belt-clips
+        image: _images/Belt_Clips.JPG
+  - page: miscellaneous
+    data:
+      - section: ring-magnets
+        image: _images/Magnets_1.jpg
+      - section: compression-springs
+        image: _images/springs.jpg
+      - section: utm-plug
+        image: _images/UTM_Plug.jpg
+      - section: zip-ties
+        image: _images/Zip_Ties.jpg
+      - section: red-markers
+        image: _images/Red_plugs.jpg
+      - section: 3mm-hex-driver
+        image: _images/3mm_Driver.JPG
+      - section: 2mm-hex-driver
+        image: _images/2mm_Driver.JPG
+      - section: 8mm-box-wrench
+        image: _images/8mm_Box_Wrench.JPG
+      - section: 55mm-box-wrench
+        image: _images/5.5mm_Box_Wrench.JPG
+      - section: 8mm-wrench
+        image: _images/8mm_Wrench.JPG
+      - section: phillips-screwdriver
+        image: _images/Phillips_Screwdriver.JPG
+      - section: bladed-screwdriver
+        image: _images/Bladed_Screwdriver.JPG
