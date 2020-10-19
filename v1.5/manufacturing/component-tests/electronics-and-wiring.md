@@ -244,23 +244,41 @@ Each component in the electronics and wiring category has its own unique tests.
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
+|Length       |Measure the length of the cable using a measuring tape.|See BOM spec|+/- 20mm
 |Color        |Inspect the color of the cable.|Black|N/A
+|Function     |Use the camera cable to connect a camera to a Raspberry Pi. Take a photo using the web app.|Image should be captured as expected|N/A
+|90 degree connector|Connect the 90 degree connector to a camera and submerge into a cup of water. Take a photo using the web app.|The connector should make a waterproof connection, allowing an image to be captured as expected|N/A
 
 # Camera Calibration Card
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
+|Print size   |Measure the center-to-center distance between two white dots in the same row using a digital calipers or a measuring tape.|30mm|+/- 0.5mm
+|Contrast     |Inspect the card for good contrast between the background and the white dots.|Black and white (no gray)|N/A
+|Paper thickness|Measure the thickness of the paper using digital calipers.|0.43mm (16pt)|+/- 0.1mm
+|Sheen        |Inspect the sheen of the card.|Matte|N/A
 
 # Jumper Links
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
+|Hole size    |Measure the size of the holes using digtial calipers.|3.25mm|+/- 0.1mm
+|Fit          |Assemble a jumper link into a tool using M3 screws and locknuts according to the FarmBot system design.|Part should fit without interference|N/A
+|Thickness    |Measure the thickness using digital calipers.|1mm|+/- 0.2mm
+|Material     |Ensure the material will not rust by holding a magnet to the part.|Aluminum (no magnetic attraction)|N/A
+|ELectrical conductivity|Connect an ohm meter to both ends of a jumper link.|Less than 1 ohm|N/A
 
 # LED Strip
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Color        |Inspect the color of the cable.|Black|N/A
+|Connector    |Connect the LED strip to a Farmduino peripheral plug.|Part should connect as expected|N/A
+|Cable color  |Inspect the color of the cable.|Black|N/A
+|Cable length |Measure the length of the cable using a measuring tape.|1m|+/- 20mm
+|LED color    |Turn on an LED strip and inspect the color of the light.|Cool white (6000K)|N/A
+|LED strip length|Measure the length of the LED strip using a measuring tape.|See BOM spec|+/- 30mm
+|LED strip cut end|Inspect the cut end of the LED strip.|Cut end should be sealed with silicon rubber|N/A
+|Double-sided tape|Inspect the LED strip for double-sided tape.|The part should not have any tape or other adhesives along its length|N/A
 
 # UTM PCB
 
