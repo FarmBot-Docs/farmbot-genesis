@@ -30,7 +30,6 @@ Each component in the tubing category has its own unique tests.
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Gasket       |Inspect to ensure a gasket is present.|Included|N/A
 |Threads      |Connect the adapter to a solenoid valve.|Parts should connect as expected|N/A
 |Barb         |Connect a 6mm ID tube to the barbed end.|The tube should connect securely and resist being disconnected by hand.|N/A
 |Engraving    |Inspect the part for an engraved label.|Should say `NPT`|N/A
@@ -39,7 +38,6 @@ Each component in the tubing category has its own unique tests.
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Gasket       |Inspect to ensure a gasket is present.|Included|N/A
 |Threads      |Connect the adapter to a garden hose.|Parts should connect as expected|N/A
 |Barb         |Connect a tube to the barbed end.|The tube should connect securely and resist being disconnected by hand.|N/A
 |Engraving    |Inspect the part for an engraved label.|Should say `GHT`|N/A
@@ -80,6 +78,12 @@ Each component in the tubing category has its own unique tests.
 |Color        |Inspect the color of each needle's plastic luer lock connector.|The color should be different depending on the needle size.|N/A
 |Luer lock    |Connect a needle to a luer lock adapter.|Should connect securely with a 1/4 turn|N/A
 |Covers?      |Ensure the needles have covers.|Included cover|N/A
+
+# Rubber Gaskets
+
+|Test         |Description  |Target       |Tolerance    |
+|-------------|-------------|-------------|-------------|
+|Size         |Insert a rubber gasket into an NPT to barb adapter and then screw the adapter onto a solenoid valve.|Gasket should insert into the adapter and seal the assembly as expected.|N/A
 
 # Teflon Tape
 

@@ -90,6 +90,8 @@ data:
         image: _images/Luer_Lock_Adapter.jpeg
       - section: luer-lock-needles
         image: _images/IMG_0530.jpg
+      - section: rubber-gasket
+        image: _images/rubber_gaskets.JPG
       - section: teflon-tape
         image: _images/Teflon_Tape.JPG
   - page: plastic-parts
@@ -171,11 +173,11 @@ data:
       - section: microsd-card
         image: _images/IMG_0458.jpg
       - section: pi-adapter-board
-        image: _images/IMG_0523.jpg
+        image: _images/pi_adapter_board.jpg
       - section: push-buttons
-        image: _images/IMG_0524.jpg
+        image: _images/push_buttons.jpg
       - section: led-indicators
-        image: _images/IMG_0524_02.jpg
+        image: _images/led_indicators.jpg
       - section: farmduino
         image: _images/Farmduino.JPG
       - section: raspberry-pi-power-cable
@@ -217,7 +219,7 @@ data:
       - section: led-strip
         image: _images/LED_Strip.jpg
       - section: power-cord-protector
-        image: _images/IMG_0483.jpg
+        image: _images/power_cord_protector.jpg
   - page: plates-and-brackets
     data:
       - section: track-end-plate
