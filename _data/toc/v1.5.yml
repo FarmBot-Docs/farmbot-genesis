@@ -217,6 +217,10 @@ contents:
             url: motor-box
           - title: Power Supply Box
             url: power-supply-box
+          - title: UTM Box
+            url: utm-box
+          - title: Tools Box
+            url: tools-box
           - title: Main Carton Packing
             url: main-carton-packing
           - title: Extrusion and Leadscrew Packing

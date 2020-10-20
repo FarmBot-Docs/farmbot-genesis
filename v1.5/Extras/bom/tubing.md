@@ -19,6 +19,7 @@ description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](htt
 |[Pressure Regulator](#pressure-regulator)|$8.00                         |1                             |$8.00                         |1                             |$8.00                         |1                             |$8.00
 |[Luer Lock Adapter](#luer-lock-adapter)|$5.00                         |1                             |$5.00                         |1                             |$5.00                         |1                             |$5.00
 |[Luer Lock Needles](#luer-lock-needles)|$3.00                         |9                             |$27.00                        |9                             |$27.00                        |9                             |$27.00
+|[Rubber Gasket](#rubber-gasket)|$1.00                         |4                             |$4.00                         |4                             |$4.00                         |4                             |$4.00
 |[Teflon Tape](#teflon-tape)|$5.00                         |1                             |$5.00                         |1                             |$5.00                         |1                             |$5.00
 |**TOTALS**                    |                              |**26**                        |**$111.50**                   |**26**                        |**$120.50**                   |**26**                        |**$140.50**
 
@@ -70,7 +71,6 @@ These adapters are used throughout the water tubing system.
 |**Material**                  |Brass
 |**For Tube ID**               |6mm
 |**Threads**                   |3/4" female NPT (National Pipe Thread)
-|**Rubber Gasket?**            |Included
 |**Price**                     |$5.00
 |**Quantity**                  |3
 
@@ -89,7 +89,6 @@ This adapter connects standard US garden hoses to a barbed adapter.
 |------------------------------|------------------------------|
 |**Material**                  |Brass
 |**Threads**                   |3/4" Female GHT (Garden Hose Thread)<br>3/4" Male NPT (National Pipe Thread)
-|**Rubber Gasket?**            |Included
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
@@ -171,9 +170,19 @@ These needles are used for seed injection.
 |**Price**                     |$3.00
 |**Quantity**                  |3 of each gauge
 
-
-
 ![IMG_0530.jpg](_images/IMG_0530.jpg)
+
+# Rubber Gasket
+These gaskets are used with the NPT to barb adapter, garden hose to barb adapter, and pressure reducer to seal the water system's threaded connections.
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Material**                  |Rubber
+|**Size**                      |For 3/4" NPT or GHT connections
+|**Price**                     |$1.00
+|**Quantity**                  |4
+
+![rubber_gaskets.jpg](_images/rubber_gaskets.jpg)
 
 # Teflon Tape
 This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system.
@@ -187,7 +196,4 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
 ![Teflon Tape.JPG](_images/Teflon_Tape.JPG)
-

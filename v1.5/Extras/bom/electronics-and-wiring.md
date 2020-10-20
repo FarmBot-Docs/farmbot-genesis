@@ -156,7 +156,9 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 |**PCB Color**                 |Black
 |**Quantity**                  |1
 
-![IMG_0523.jpg](_images/IMG_0523.jpg)
+![pi_adapter_board.jpg](_images/pi_adapter_board.jpg)
+
+![pi_adapter_board_2.jpg](_images/pi_adapter_board_2.jpg)
 
 # Push Buttons
 These waterproof push buttons come pre-mounted on the top of the electronics box. The red button is reserved for E-STOP, the yellow for UNLOCK, and the three white ones are user-customizable. Each button includes a wiring harness and comes pre-connected to the Pi adapter board.
@@ -170,6 +172,12 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 |**Wiring?**                   |Included
 |**Price**                     |$7.00
 |**Quantity**                  |5 total
+
+![push_buttons.jpg](_images/push_buttons.jpg)
+
+![push_buttons_2.jpg](_images/push_buttons_2.jpg)
+
+![push_button_cable.jpg](_images/push_button_cable.jpg)
 
 ![IMG_0524.jpg](_images/IMG_0524.jpg)
 
@@ -188,9 +196,15 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 |**Price**                     |$5.00
 |**Quantity**                  |4 total
 
-![IMG_0524.jpg](_images/IMG_0524_02.jpg)
+![led_indicators.jpg](_images/led_indicators.jpg)
 
-![IMG_0525.jpg](_images/IMG_0525_02.jpg)
+![led_indicators_2.jpg](_images/led_indicators_2.jpg)
+
+![led_indicator_cable.jpg](_images/led_indicator_cable.jpg)
+
+![IMG_0524.jpg](_images/IMG_0524.jpg)
+
+![IMG_0525.jpg](_images/IMG_0525.jpg)
 
 # Farmduino
 The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders.
@@ -575,6 +589,6 @@ content="v1.5 kits shipped before November 1st, 2020 included a power cord prote
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
-![IMG_0483.jpg](_images/IMG_0483.jpg)
+![power_cord_protector.jpg](_images/power_cord_protector.jpg)
 
-![IMG_0484.jpg](_images/IMG_0484.jpg)
+![power_cord_protector_2.jpg](_images/power_cord_protector_2.jpg)
