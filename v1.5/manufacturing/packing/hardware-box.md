@@ -13,14 +13,14 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 
 |Item                          |Sub-packing                   |Genesis Qty                   |Genesis XL Qty                |
 |------------------------------|------------------------------|------------------------------|------------------------------|
-|Box of:<br>- 2.5mm Bladed Screwdriver<br>- 2mm Hex Driver<br>- 3mm Hex Driver<br>- 5.5mm Nut Driver<br>- 8mm Nut Driver<br>- 8mm Thin Wrench<br>- 5.5mm Thin Wrench<br>- Phillips Screwdriver (6mm bit size)<br>- 2mm Allen Key|Small box (no printing)|1 box|1 box
 |Pack of:<br>- 1x M5 to Luer Lock Adapter<br>- 3x Luer Lock Needle w/ cover (16 Gauge)<br>- 3x Luer Lock Needle w/ cover (19 Gauge)<br>- 3x Luer Lock Needle w/ cover (22 Gauge)|Press-to-seal bag|1 pack|1 pack
 |Pack of:<br>- 3x 20 Tooth GT2 Pulleys<br>- 1x 5mm to 8mm Shaft Coupler<br>- 1x Leadscrew Block<br>- 1x 90 Degree Barb<br>- 1x Inline Air Filter|Press-to-seal bag|1 pack|1 pack
 |Genesis Screw Pack:<br>- 35x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 150x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|1 pack|-
 |Genesis <span class="fb-xl-sticker">XL</span> Screw Pack:<br>- 60x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 225x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|-|1 pack
-|24V Solenoid Valve            |Small box (no printing)       |1                             |1
-|24V Vacuum Pump               |Small box (no printing)       |1                             |1
-|UTM Box:<br>- 1x [Pre-Assembled UTM](../pre-assembly/utm.md)<br>- 1x Pogo Pin (spare)<br>- 2x Jam Nuts (spare)|Small box (no printing)       |1 box                             |1 box
+|[Tools Box](tools-box.md)     |-                             |1                             |1
+|[UTM Box](utm-box.md)         |-                             |1                             |1
+|[Solenoid Valve](../../Extras/bom/electronics-and-wiring.md#solenoid-valve)|Small box (no printing)       |1                             |1
+|[Vacuum Pump](../../Extras/bom/electronics-and-wiring.md#vacuum-pump)|Small box (no printing)       |1                             |1
 |[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (1.7m)        |Coiled                        |1                             |-
 |[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (3.2m)        |Coiled                        |-                             |1
 |[GT2 Timing Belt](../../Extras/bom/drivetrain.md#gt2-timing-belt) (4.5m)        |Coiled                        |2                             |-

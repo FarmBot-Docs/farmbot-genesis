@@ -25,6 +25,8 @@ The information is shared here as part of our committment to 100% open-source [h
  * [Cable and Tubing Box](packing/cable-and-tubing-box.md)
  * [Motor Box](packing/motor-box.md)
  * [Power Supply Box](packing/power-supply-box.md)
+ * [UTM Box](packing/utm-box.md)
+ * [Tools Box](packing/tools-box.md)
  * [Main Carton Packing](packing/main-carton-packing.md)
  * [Extrusion and Leadscrew Packing](packing/extrusion-and-leadscrew-packing.md)
  * [Pallet Stacking](packing/pallet-stacking.md)
