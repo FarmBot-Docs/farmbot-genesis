@@ -26,61 +26,27 @@ slug: "gantry"
   * Attach the single solid V-wheel assembly with the eccentric spacer onto each plate. The eccentric spacer fits into the largest hole on the plate. You should now have two Gantry plates with 4 V-wheel assemblies on each.
   * Attach the Gantry Plate Assemblies to the Gantry Columns using 4 8mm M5 screws and tee nuts for each assembly. Make sure that the column is attached to the same side of the Gantry Plate as the V-wheel assemblies. It is easiest to partially screw together all of the screws and tee nuts, slide in the extrusion, and then tighten all of the screws at once.
 
+{% include gallery.html images="
 ![Gantry_Assembly_1.jpg](_images/Gantry_Assembly_1.jpg)
-
-
-
 ![Gantry_Assembly_3.jpg](_images/Gantry_Assembly_3.jpg)
-
-
-
 ![Gantry_Assembly_4.jpg](_images/Gantry_Assembly_4.jpg)
-
-
-
 ![Gantry_Assembly_5.jpg](_images/Gantry_Assembly_5.jpg)
-
-
-
 ![Gantry_Assembly_6.jpg](_images/Gantry_Assembly_6.jpg)
-
-
-
 ![Gantry_V5_Eccentric.jpg](_images/Gantry_V5_Eccentric.jpg)
-
-
-
 ![Gantry_Assembly_7.jpg](_images/Gantry_Assembly_7.jpg)
+" %}
 
 
 
+{% include gallery.html images="
 ![V5_Gantry_8.jpg](_images/V5_Gantry_8.jpg)
-
-
-
 ![V5_Gantry_9.jpg](_images/V5_Gantry_9.jpg)
-
-
-
 ![V5_Gantry_10.jpg](_images/V5_Gantry_10.jpg)
-
-
-
 ![V5_Gantry_11.jpg](_images/V5_Gantry_11.jpg)
-
-
-
 ![V5_Gantry_12.jpg](_images/V5_Gantry_12.jpg)
-
-
-
 ![V5_Gantry_13.jpg](_images/V5_Gantry_13.jpg)
-
-
-
 ![V5_Gantry_14.jpg](_images/V5_Gantry_14.jpg)
-
-
+" %}
 
 ![V5_Gantry_15.jpg](_images/V5_Gantry_15.jpg)
 
