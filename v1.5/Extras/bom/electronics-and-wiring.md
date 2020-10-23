@@ -173,15 +173,13 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 |**Price**                     |$7.00
 |**Quantity**                  |5 total
 
+{% include gallery.html images="
 ![push_buttons.jpg](_images/push_buttons.jpg)
-
 ![push_buttons_2.jpg](_images/push_buttons_2.jpg)
-
 ![push_button_cable.jpg](_images/push_button_cable.jpg)
-
 ![IMG_0524.jpg](_images/IMG_0524.jpg)
-
 ![IMG_0525.jpg](_images/IMG_0525.jpg)
+" %}
 
 # LED Indicators
 These waterproof LED indicator lights come pre-mounted on the top of the electronics box. The blue light is reserved for connectivity status, the green light for sync status, and the two white lights are user-customizable. Each light includes a wiring harness and comes pre-connected to the Pi adapter board.
@@ -196,15 +194,13 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 |**Price**                     |$5.00
 |**Quantity**                  |4 total
 
+{% include gallery.html images="
 ![led_indicators.jpg](_images/led_indicators.jpg)
-
 ![led_indicators_2.jpg](_images/led_indicators_2.jpg)
-
 ![led_indicator_cable.jpg](_images/led_indicator_cable.jpg)
-
 ![IMG_0524.jpg](_images/IMG_0524.jpg)
-
 ![IMG_0525.jpg](_images/IMG_0525.jpg)
+" %}
 
 # Farmduino
 The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders.

@@ -37,21 +37,11 @@ The Genesis X-Direction Drive System utilizes two NEMA 17 Stepper Motors with 20
 
 ## Photos
 
+{% include gallery.html images="
 ![GenesisTracksConstruction.jpg](_images/GenesisTracksConstruction.jpg)
-
-
-
 ![Genesis_V1_Tracks_Image_3.jpg](_images/Genesis_V1_Tracks_Image_3.jpg)
-
-
-
 ![GenesisV1trackinstallation.jpg](_images/GenesisV1trackinstallation.jpg)
-
-
-
 ![GenesisV1belts.jpg](_images/GenesisV1belts.jpg)
-
-
-
 ![GenesisV1gantrycomplexity.jpg](_images/GenesisV1gantrycomplexity.jpg)
+" %}
 

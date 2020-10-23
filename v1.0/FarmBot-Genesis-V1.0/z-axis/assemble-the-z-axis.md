@@ -62,23 +62,13 @@ Partially screw two **M5 x 10mm screws** and **M5 tee nuts** into the **z-axis m
 
 Tighten the **z-axis motor mount** onto the **z-axis extrusion**.
 
+{% include gallery.html images="
 ![IMG_6687.jpg](_images/IMG_6687.jpg)
-
-
-
 ![IMG_6688.jpg](_images/IMG_6688.jpg)
-
-
-
 ![IMG_6685.jpg](_images/IMG_6685.jpg)
-
-
-
 ![IMG_6689.jpg](_images/IMG_6689.jpg)
-
-
-
 ![IMG_6691.jpg](_images/IMG_6691.jpg)
+" %}
 
 # Step 4: Attach the Leadscrew
 Tighten the 8mm side of the **5 to 8mm flex coupling** onto the **leadscrew**.

@@ -31,21 +31,11 @@ slug: "tracks"
 **Attach the Track Plates**
   * The track plates should be screwed onto the inside of the posts using the appropriate fasteners: 8mm M5 screws and tee nuts if the posts are aluminum extrusions, standard wood screws if attaching onto wood posts. The top of the posts should NOT be flush with the top of the plates. Rather, the top of the posts should come up to cover only half of the plates.
 
+{% include gallery.html images="
 ![V5_Tracks_2.jpg](_images/V5_Tracks_2.jpg)
-
-
-
 ![V5_Tracks_3.jpg](_images/V5_Tracks_3.jpg)
-
-
-
 ![V5_Tracks_4.jpg](_images/V5_Tracks_4.jpg)
-
-
-
 ![V5_Tracks_5.jpg](_images/V5_Tracks_5.jpg)
-
-
-
 ![V5_Tracks_6.jpg](_images/V5_Tracks_6.jpg)
+" %}
 

@@ -18,23 +18,13 @@ FarmBot will use the Z-axis’s leadscrew to have enough mechanical advantage to
 
 ## Photos
 
+{% include gallery.html images="
 ![Genesis_V4_UTM_2.jpg](_images/Genesis_V4_UTM_2.jpg)
-
-
-
 ![Genesis_V4_UTM.jpg](_images/Genesis_V4_UTM.jpg)
-
-
-
 ![Genesis_V4_UTM_3.jpg](_images/Genesis_V4_UTM_3.jpg)
-
-
-
 ![V4_UTM_1.jpg](_images/V4_UTM_1.jpg)
-
-
-
 ![V4_UTM_2.jpg](_images/V4_UTM_2.jpg)
+" %}
 
 ## Universal Tool Mount Issues and Proposed Solutions
   * The tool mount has a lot of unnecessary volume on the top half. This causes it to take much longer to print for very little added strength or utility. The V0.5 tool mount will be slimmed down
