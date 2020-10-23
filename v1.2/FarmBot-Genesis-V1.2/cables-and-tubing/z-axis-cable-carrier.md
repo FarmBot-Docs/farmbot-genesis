@@ -18,13 +18,10 @@ Remove all of the snap-in **tabs** from the **z-axis cable carrier**. The z-axis
 
 There is only one orientation that the **z-axis cable carrier** mounts to the **cross-slide** and **z-axis**, and it is determined by the orientation of the **end pieces**. Inspect the images below to see how the cable carrier will be mounted, but do not attach it at this time.
 
+{% include gallery.html images="
 ![z-axis cable carrier lower mount.png](_images/z-axis_cable_carrier_lower_mount.png)
-
-
-
 ![z cable carrier upper mount and bend.png](_images/z_cable_carrier_upper_mount_and_bend.png)
-
-
+" %}
 
 # Step 3: Lay out the tubing and wiring
 
@@ -80,13 +77,10 @@ Attach the **cable carrier** to the **cross-slide** using two **M5 x 45mm screws
 
 Use two **M5 x 10mm screws** and **M5 tee nuts** to attach each of the five **vertical cable carrier supports** to the **z-axis extrusion**. Space the supports evenly along the extrusion as shown.
 
+{% include gallery.html images="
 ![vertical cc support.png](_images/vertical_cc_support.png)
-
-
-
 ![vertical cc supports.png](_images/vertical_cc_supports.png)
-
-
+" %}
 
 # Step 7: Mount the cable carrier to the z-axis
 

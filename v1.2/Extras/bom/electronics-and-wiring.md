@@ -41,19 +41,11 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLrLksBXHVEs%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLrLksBXHVEs&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLrLksBXHVEs%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Electronics Box.JPG](_images/Electronics_Box.JPG)
-
-
-
 ![Electronics Box 2.JPG](_images/Electronics_Box_2.JPG)
-
-
-
 ![Electronics Box 3.JPG](_images/Electronics_Box_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -72,17 +64,11 @@ This waterproof housing protects FarmBot's electronics from rain and debris. It 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2NoRMaThvPM%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2NoRMaThvPM&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2NoRMaThvPM%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Power Supply.JPG](_images/Power_Supply.JPG)
-
-
-
 ![Power Supply 2.JPG](_images/Power_Supply_2.JPG)
-
-
-
 ![Power supply 3.JPG](_images/Power_supply_3.JPG)
+" %}
 
 _The power supply works with both 110V and 220V AC power._
 
@@ -129,19 +115,11 @@ _The power supply works with both 110V and 220V AC power._
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Pi.JPG](_images/Pi.JPG)
-
-
-
 ![Pi 2.JPG](_images/Pi_2.JPG)
-
-
-
 ![Pi 3.JPG](_images/Pi_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -200,13 +178,10 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # RAMPS Shield
 
+{% include gallery.html images="
 ![RAMPS 1.JPG](_images/RAMPS_1.JPG)
-
-
-
 ![RAMPS 2.JPG](_images/RAMPS_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -252,17 +227,11 @@ Connects the Raspberry Pi to the Arduino.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_gMozmqbavk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gMozmqbavk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_gMozmqbavk%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Motor1.JPG](_images/Motor1.JPG)
-
-
-
 ![Motor 2.JPG](_images/Motor_2.JPG)
-
-
-
 ![Motor3.JPG](_images/Motor3.JPG)
+" %}
 
 Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing).
 
@@ -304,21 +273,12 @@ _Encoder cable connectors_
 # Cable Carrier
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing.
 
+{% include gallery.html images="
 ![Cable Carriers.JPG](_images/Cable_Carriers.JPG)
-
-
-
 ![Cable Carrier 3.JPG](_images/Cable_Carrier_3.JPG)
-
-
-
 ![Cable Carrier 2.JPG](_images/Cable_Carrier_2.JPG)
-
-
-
 ![Cable Carrier 1.JPG](_images/Cable_Carrier_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -338,19 +298,11 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh_3c8-A966E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_3c8-A966E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh_3c8-A966E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![UTM Cable 1.JPG](_images/UTM_Cable_1.JPG)
-
-
-
 ![UTM Cable 2.JPG](_images/UTM_Cable_2.JPG)
-
-
-
 ![UTM Cable 3.JPG](_images/UTM_Cable_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -369,13 +321,10 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 # Soil Sensor
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
 
+{% include gallery.html images="
 ![Soil Sensor.jpg](_images/Soil_Sensor.jpg)
-
-
-
 ![Soil Sensor 2.jpg](_images/Soil_Sensor_2.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -391,19 +340,11 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
-
-
-
 ![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
-
-
-
 ![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -421,13 +362,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum Pump
 
+{% include gallery.html images="
 ![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
-
-
-
 ![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -439,13 +377,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # RAMPS Power Cables
 
+{% include gallery.html images="
 ![Ramps Power Cable 2.JPG](_images/Ramps_Power_Cable_2.JPG)
-
-
-
 ![RAMPS Power cable 1.JPG](_images/RAMPS_Power_cable_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -463,13 +398,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Raspberry Pi Power Cable
 
+{% include gallery.html images="
 ![Raspberry Pi Cable 2.JPG](_images/Raspberry_Pi_Cable_2.JPG)
-
-
-
 ![Raspberry Pi Cable 1.JPG](_images/Raspberry_Pi_Cable_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -487,13 +419,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum Pump Cable
 
+{% include gallery.html images="
 ![Vacuum Pump Cable 1.JPG](_images/Vacuum_Pump_Cable_1.JPG)
-
-
-
 ![Vacuum Pump Cable 2.JPG](_images/Vacuum_Pump_Cable_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -511,13 +440,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Solenoid Valve Cable
 
+{% include gallery.html images="
 ![Solenoid valve cable 1.JPG](_images/Solenoid_valve_cable_1.JPG)
-
-
-
 ![Solenoid valve cable 2.JPG](_images/Solenoid_valve_cable_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -535,13 +461,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # FarmBot Power Cable
 
+{% include gallery.html images="
 ![Power cable 2.JPG](_images/Power_cable_2.JPG)
-
-
-
 ![Power cable 1.JPG](_images/Power_cable_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -560,15 +483,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Camera.JPG](_images/Camera.JPG)
-
-
-
 ![Camera 2.JPG](_images/Camera_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -590,19 +508,11 @@ This rainproof box stores the power supply and vacuum pump, keeping them dry.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIuA9l4ZGubw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIuA9l4ZGubw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIuA9l4ZGubw%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Sockit box 1.JPG](_images/Sockit_box_1.JPG)
-
-
-
 ![Sockitbox 2.JPG](_images/Sockitbox_2.JPG)
-
-
-
 ![Sockit box 3.JPG](_images/Sockit_box_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

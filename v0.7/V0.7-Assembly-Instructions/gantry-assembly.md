@@ -16,31 +16,20 @@ Gather and lay out all of the parts. You will need: 2 Gantry Plates, 8 solid V-w
 
 Attach the three solid V-wheel assemblies with **normal** spacers onto each plate. The order of parts is: Screw head, Plate, Spacer, V-Wheel sub-assembly, Lock-nut. Use a 3mm allen wrench and an 8mm crescent wrench to tighten the assembly. Use a moderate amount of torque.
 
+{% include gallery.html images="
 ![Gantry_Assembly_3.jpg](_images/Gantry_Assembly_3.jpg)
-
-
-
 ![Gantry_Assembly_4.jpg](_images/Gantry_Assembly_4.jpg)
-
-
-
 ![Gantry_Assembly_5.jpg](_images/Gantry_Assembly_5.jpg)
-
-
-
 ![Gantry_Assembly_6.jpg](_images/Gantry_Assembly_6.jpg)
+" %}
 
 Attach the single solid V-wheel assembly with the **eccentric** spacer onto each plate. The eccentric spacer fits into the largest hole on the plate.
 
+{% include gallery.html images="
 ![Gantry_V5_Eccentric.jpg](_images/Gantry_V5_Eccentric.jpg)
-
-
-
 ![Gantry_Assembly_7.jpg](_images/Gantry_Assembly_7.jpg)
-
-
-
 ![V5_Gantry_8.jpg](_images/V5_Gantry_8.jpg)
+" %}
 
  You should now have two Gantry plates with 4 V-wheel assemblies on each.
 
@@ -102,17 +91,11 @@ title="Pro-tip"
 content="It is easiest to partially screw together all of the screws and tee nuts, slide in the extrusion, and then tighten all of the screws at once."
 %}
 
-
-
+{% include gallery.html images="
 ![20150113_163624.jpg](_images/20150113_163624.jpg)
-
-
-
 ![20150113_163644.jpg](_images/20150113_163644.jpg)
-
-
-
 ![20150113_163658.jpg](_images/20150113_163658.jpg)
+" %}
 
 Now slide your gantry column and plate assemblies onto your tracks.
 
@@ -124,13 +107,10 @@ Now slide your gantry column and plate assemblies onto your tracks.
 
 Attach one corner bracket on top of each gantry column using two M5x8mm screws and tee nuts. Make sure the brackets are on the correct side of the extrusion.
 
+{% include gallery.html images="
 ![20150113_164021.jpg](_images/20150113_164021.jpg)
-
-
-
 ![20150113_164030.jpg](_images/20150113_164030.jpg)
-
-
+" %}
 
 # Step 5: Attach the Main Beam to the Columns
 
@@ -213,13 +193,10 @@ title="Avoid twists"
 content="When feeding your belt through the gantry column, there is a possibility it became twisted. Ensure that there are no twists in your belt."
 %}
 
-
-
+{% include gallery.html images="
 ![20150114_121937.jpg](_images/20150114_121937.jpg)
-
-
-
 ![20150114_122028.jpg](_images/20150114_122028.jpg)
+" %}
 
 Secure the end of your belt to the front end of your Tracks by using an M5x8mm screw and tee nut.
 

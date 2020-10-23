@@ -13,15 +13,10 @@ description: "Documentation for FarmBot Genesis V0.8 Z-Axis"
 
 # Photos
 
-
-
+{% include gallery.html images="
 ![V5_Z-Axis_Render_1.jpg](_images/Axis_Render_1.jpg)
-
-
-
 ![V5_Z-Axis_Render_2.jpg](_images/Axis_Render_2.jpg)
-
-
+" %}
 
 # Bill of Materials
 

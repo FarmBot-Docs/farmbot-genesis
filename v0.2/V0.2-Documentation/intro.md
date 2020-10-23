@@ -17,9 +17,8 @@ There are many design changes from Genesis V0.1 to V0.2 that make this version a
   * Z-axis leadscrew is positioned closer to the gantry for less induced torque on the cross-slide and wheels
   * Minimization of number of parts and simplification of them providing easier and faster assembly, accessible screw locations, and greater affordability
 
+{% include gallery.html images="
 ![GenesisV2.jpg](_images/GenesisV2.jpg)
-
-
-
 ![Genesis_V2.jpg](_images/Genesis_V2.jpg)
+" %}
 

@@ -58,13 +58,10 @@ title=""
 content="Make sure you attach the V-wheels to the correct side of the cross-slide plate as shown."
 %}
 
-
-
+{% include gallery.html images="
 ![cs1.JPG](_images/cs1.JPG)
-
-
-
 ![cs2.JPG](_images/cs2.JPG)
+" %}
 
 _Wheels with normal spacers._
 
@@ -95,11 +92,10 @@ _Right three wheels with eccentric spacers._
 # Step 3: Attach the delrin leadscrew block
 Insert two **M5 locknuts** into the **delrin leadscrew block's** hexagonal counterbores. With the locknuts and delrin block facing you, attach it to the side of **cross-slide plate** as shown. Secure the block using two **M5 x 16mm screws** from the opposite side of the plate.
 
+{% include gallery.html images="
 ![cs7.JPG](_images/cs7.JPG)
-
-
-
 ![cs8.JPG](_images/cs8.JPG)
+" %}
 
 # Step 4: Attach the stepper motor
 

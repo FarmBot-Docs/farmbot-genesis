@@ -39,15 +39,10 @@ title=""
 content="Make sure you do not accidentally mount the magnets using the liquid/gas port holes labelled 1, 2, and 3."
 %}
 
-
-
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 4.06.45 PM.png](_images/Screen_Shot_2017-02-27_at_4.06.45_PM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 4.06.52 PM.png](_images/Screen_Shot_2017-02-27_at_4.06.52_PM.png)
-
-
+" %}
 
 # Step 2: Install the tool verification jumper link
 

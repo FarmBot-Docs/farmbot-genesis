@@ -22,15 +22,10 @@ title="Make sure everything is straight"
 content="It can be easy to accidentally press in a bearing crooked. Try your best to avoid this as you could damage a wheel this way."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_0277.JPG](_images/IMG_0277.JPG)
-
-
-
 ![IMG_0278.JPG](_images/IMG_0278.JPG)
-
-
+" %}
 
 {%
 include callout.html
@@ -45,13 +40,10 @@ Then insert the precision shim such that it is resting on the first bearing on t
 
  Then press in the second bearing.
 
+{% include gallery.html images="
 ![IMG_0280.JPG](_images/IMG_0280.JPG)
-
-
-
 ![IMG_0281.JPG](_images/IMG_0281.JPG)
-
-
+" %}
 
 {%
 include callout.html

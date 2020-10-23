@@ -121,11 +121,10 @@ Expose the adhesive on the bottom of the **stepper driver heatsinks**.
 
 Attach the heatsink to the black chip on the **stepper driver**.
 
+{% include gallery.html images="
 ![IMG_6780.JPG](_images/IMG_6780.JPG)
-
-
-
 ![IMG_6783.JPG](_images/IMG_6783.JPG)
+" %}
 
 Mount the four **stepper drivers** on top of the **RAMPS shield**, being careful not to bend any of the pins.
 
@@ -136,15 +135,10 @@ title="Orientation is important!"
 content="The **tuning screw** on each **stepper driver** should be on the FAR end of the driver from the **green power connectors** of the RAMPS shield. If you put your stepper drivers in backwards then you risk frying all of your electronics. Inspect the following photos closely to ensure you insert the drivers correctly."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_6790.JPG](_images/IMG_6790.JPG)
-
-
-
 ![IMG_6793.JPG](_images/IMG_6793.JPG)
-
-
+" %}
 
 {%
 include callout.html
@@ -179,21 +173,17 @@ content="Note that we included an extra RAMPS power cable that you can optionall
 # Step 10: Connect the Raspberry Pi power cable
 Plug the **buck adapter** into the top right three GPIO pins of the **Raspberry Pi**. The empty header of the buck adapter should be "connected" to the upper right GPIO pin.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 10.27.28 PM.png](_images/Screen_Shot_2017-02-27_at_10.27.28_PM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 10.29.21 PM.png](_images/Screen_Shot_2017-02-27_at_10.29.21_PM.png)
+" %}
 
 Twist together the free red wire from the **buck adapter** with the red wire from the **Raspberry Pi power cable**. Then screw on a **wire nut**. Repeat for the black wires.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 10.34.03 PM.png](_images/Screen_Shot_2017-02-27_at_10.34.03_PM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 10.25.59 PM.png](_images/Screen_Shot_2017-02-27_at_10.25.59_PM.png)
-
-
+" %}
 
 {%
 include callout.html

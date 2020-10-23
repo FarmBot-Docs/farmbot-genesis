@@ -125,17 +125,11 @@ title="Pro-tip"
 content="It is easiest to partially screw together all of the screws and tee nuts, slide in the extrusion, and then tighten all of the screws at once."
 %}
 
-
-
+{% include gallery.html images="
 ![20150113_163624.jpg](_images/20150113_163624.jpg)
-
-
-
 ![20150113_163644.jpg](_images/20150113_163644.jpg)
-
-
-
 ![20150113_163658.jpg](_images/20150113_163658.jpg)
+" %}
 
 Now slide your gantry column and plate assemblies onto your tracks.
 
@@ -147,13 +141,10 @@ Now slide your gantry column and plate assemblies onto your tracks.
 
 Attach one corner bracket on top of each gantry column using two M5x8mm screws and tee nuts. Make sure the brackets are on the correct side of the extrusion.
 
+{% include gallery.html images="
 ![20150113_164021.jpg](_images/20150113_164021.jpg)
-
-
-
 ![20150113_164030.jpg](_images/20150113_164030.jpg)
-
-
+" %}
 
 # Step 5: Attach the Main Beam to the Columns
 
@@ -236,13 +227,10 @@ title="Avoid twists"
 content="When feeding your belt through the gantry column, there is a possibility it became twisted. Ensure that there are no twists in your belt."
 %}
 
-
-
+{% include gallery.html images="
 ![20150114_121937.jpg](_images/20150114_121937.jpg)
-
-
-
 ![20150114_122028.jpg](_images/20150114_122028.jpg)
+" %}
 
 Secure the end of your belt to the front end of your Tracks by using an M5x8mm screw and tee nut.
 

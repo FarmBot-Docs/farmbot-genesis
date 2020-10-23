@@ -82,11 +82,10 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 Lightly screw three **M5 x 10mm** screws and **tee nuts** to the **track end plate**. Orient the tee nuts horizontally.
 
+{% include gallery.html images="
 ![IMG_4487.JPG](_images/IMG_4487.JPG)
-
-
-
 ![IMG_4488.JPG](_images/IMG_4488.JPG)
+" %}
 
 # Step 4: Attach a Track Joining Plate
 Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.
@@ -100,11 +99,10 @@ Lightly screw four **M5 x 10mm** screws and **tee nuts** to the **track joining 
 # Step 5: Attach the first Track Extrusion
 Lift the **track extrusion** and position the lower V-slot onto the **tee nuts** of the **track end plate**.
 
+{% include gallery.html images="
 ![IMG_4493.JPG](_images/IMG_4493.JPG)
-
-
-
 ![IMG_4494.JPG](_images/IMG_4494.JPG)
+" %}
 
 Lightly tighten one of the **M5 x 10mm screws** using the **3mm hex driver** to prevent the extrusion from falling off, while still allowing it to move loosely.
 
@@ -170,11 +168,10 @@ Position the 10 **cable carrier supports** evenly along the tracks. Keep in mind
 
 Insert two **M5 screws** into the **cable carrier support** and lightly attach **M5 tee nuts**. Then use the **3mm driver** to tighten the assembly into the lower slot of the **track extrusion**.
 
+{% include gallery.html images="
 ![20160831_154204.jpg](_images/20160831_154204.jpg)
-
-
-
 ![20160831_154302.jpg](_images/20160831_154302.jpg)
+" %}
 
 Repeat for all 10 cable carrier supports.
 

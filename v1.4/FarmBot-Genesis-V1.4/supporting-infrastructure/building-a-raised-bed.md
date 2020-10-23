@@ -162,11 +162,10 @@ With larger raised beds, especially those for XL sized bots and larger, it is po
 
 All components should be stainless steel or galvanized (zinc plated) to resist corrosion.
 
+{% include gallery.html images="
 ![MVIMG_20190516_145750.jpg](_images/MVIMG_20190516_145750.jpg)
-
-
-
 ![XL Bed Tensioning Cables Close Up.jpg](_images/XL_Bed_Tensioning_Cables_Close_Up.jpg)
+" %}
 
 # Step 7: Fill the bed
 Use a mix of soil and compost, and keep out large rocks and branches.

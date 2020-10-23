@@ -14,29 +14,13 @@ There are five changes to the V0.4 gantry from V0.3:
   * The angled slots on the gantry/track plates have been reverted to plain holes and will use the eccentric spacers from OpenBuilds. The eccentric spacers were originally removed from the design because they were found to be so small that they would dig into the plates and wear them out. However, the OpenBuilds team has changed the design of them to be significantly larger, preventing this type of damage. They are still expensive at $2 per spacer, but they seem to provide a better experience for the user. Which design is better has yet to be determined but we figured we would try out the new spacers in this version.
   * The power supply has been removed from the gantry and placed at the end of the tracks in order to conserve space and weight on the gantry column.
 
+{% include gallery.html images="
 ![V4_Gantry_4.jpg](_images/V4_Gantry_4.jpg)
-
-
-
 ![V4_Gantry_1.jpg](_images/V4_Gantry_1.jpg)
-
-
-
 ![V4_Gantry_3.jpg](_images/V4_Gantry_3.jpg)
-
-
-
 ![V4_Gantry_2.jpg](_images/V4_Gantry_2.jpg)
-
-
-
 ![Genesis_V4_Cable_Carrier.jpg](_images/Genesis_V4_Cable_Carrier.jpg)
-
-
-
 ![Genesis_V4_Motor_Housing.jpg](_images/Genesis_V4_Motor_Housing.jpg)
-
-
-
 ![Genesis_V4_Gantry_Plates.jpg](_images/Genesis_V4_Gantry_Plates.jpg)
+" %}
 

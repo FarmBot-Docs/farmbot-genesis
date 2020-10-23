@@ -29,19 +29,11 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCQfkuFBVsek%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCQfkuFBVsek&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCQfkuFBVsek%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
-
-
-
 ![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
-
-
-
 ![Horizontal Motor Housings.JPG](_images/Horizontal_Motor_Housings.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -57,13 +49,10 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 # Vertical Motor Housing
 This component protects the z-axis motor from rain.
 
+{% include gallery.html images="
 ![Vertical Motor Housing 1.JPG](_images/Vertical_Motor_Housing_1.JPG)
-
-
-
 ![Vertical Motor Housing 2.JPG](_images/Vertical_Motor_Housing_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -82,23 +71,12 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq8xjCBq32C8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq8xjCBq32C8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq8xjCBq32C8%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![UTM.JPG](_images/UTM.JPG)
-
-
-
 ![UTM 1.JPG](_images/UTM_1.JPG)
-
-
-
 ![UTM 2.JPG](_images/UTM_2.JPG)
-
-
-
 ![UTM 3.JPG](_images/UTM_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -114,17 +92,11 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 # Universal Tool Mount Cover
 This cover protects the top of the UTM from the rain and dust.
 
+{% include gallery.html images="
 ![UTM Cover 1.JPG](_images/UTM_Cover_1.JPG)
-
-
-
 ![UTM Cover 2.JPG](_images/UTM_Cover_2.JPG)
-
-
-
 ![UTM Cover 3.JPG](_images/UTM_Cover_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -142,19 +114,11 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnXFdJIQaQB4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnXFdJIQaQB4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnXFdJIQaQB4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Seeder2.JPG](_images/Seeder2.JPG)
-
-
-
 ![Seeder1.JPG](_images/Seeder1.JPG)
-
-
-
 ![Seeder3.JPG](_images/Seeder3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -172,27 +136,13 @@ This tool distributes the stream of water coming from the UTM into a gentle show
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fxh7imhENpLQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxh7imhENpLQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fxh7imhENpLQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Water1.JPG](_images/Water1.JPG)
-
-
-
 ![Water.JPG](_images/Water.JPG)
-
-
-
 ![Water2.JPG](_images/Water2.JPG)
-
-
-
 ![Water3.JPG](_images/Water3.JPG)
-
-
-
 ![Water 4.JPG](_images/Water_4.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -210,31 +160,14 @@ This tool allows FarmBot to smash weeds into the ground, thereby killing them vi
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNsEdALh3ZYY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNsEdALh3ZYY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNsEdALh3ZYY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Weeder 2.JPG](_images/Weeder_2.JPG)
-
-
-
 ![Weeder `.JPG](_images/Weeder_.JPG)
-
-
-
 ![Weeder 3.JPG](_images/Weeder_3.JPG)
-
-
-
 ![Weeder Implements.JPG](_images/Weeder_Implements.JPG)
-
-
-
 ![Weeder Blade.JPG](_images/Weeder_Blade.JPG)
-
-
-
 ![Weeder Spike.JPG](_images/Weeder_Spike.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -252,19 +185,11 @@ This tool acts as a mount for the soil sensor circuit board.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fp6CPnJoHf8E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp6CPnJoHf8E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fp6CPnJoHf8E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Soil Sensor 2.JPG](_images/Soil_Sensor_2.JPG)
-
-
-
 ![Soil Sensor1.JPG](_images/Soil_Sensor1.JPG)
-
-
-
 ![Soil Sensor3.JPG](_images/Soil_Sensor3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -282,15 +207,10 @@ These plastic bins allow you to load many seeds of the same type into your FarmB
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FguJK9498ZA4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DguJK9498ZA4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FguJK9498ZA4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Seed Bin 2.JPG](_images/Seed_Bin_2.JPG)
-
-
-
 ![Seed Bin 3.JPG](_images/Seed_Bin_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -306,13 +226,10 @@ These plastic bins allow you to load many seeds of the same type into your FarmB
 # Seed Trays
 The seed trays feature 16 small bins allowing you to load 16 precise quantities/types of seeds into your FarmBot.
 
+{% include gallery.html images="
 ![Seed Tray 1.JPG](_images/Seed_Tray_1.JPG)
-
-
-
 ![Seed Trays 3.JPG](_images/Seed_Trays_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -329,15 +246,10 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 
 # Electronics Mounting Plate
 
-
-
+{% include gallery.html images="
 ![Electronics Plate 1.JPG](_images/Electronics_Plate_1.JPG)
-
-
-
 ![Electronics Plate 2.JPG](_images/Electronics_Plate_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

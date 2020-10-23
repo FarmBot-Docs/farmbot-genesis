@@ -88,11 +88,10 @@ To install the float valve, drill a 7/8" diameter hole in the rain barrel about 
 
 Insert the float valve's threaded end out from the inside of the rain barrel and tighten on the **plastic retaining ring**.
 
+{% include gallery.html images="
 ![IMG_20160225_113425.jpg](_images/IMG_20160225_113425.jpg)
-
-
-
 ![IMG_20160225_113501.jpg](_images/IMG_20160225_113501.jpg)
+" %}
 
 Wrap 5-7 layers of **teflon tape** to the **float valve** threads. Wrap in a clockwise direction so that when you screw on the garden hose adapter, the clockwise rotation does not unravel the tape.
 

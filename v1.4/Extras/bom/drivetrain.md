@@ -50,17 +50,11 @@ content="As of the v1.4 hardware release, the V-wheels come pre-assembled. Pleas
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FR4hbZb2wRmY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR4hbZb2wRmY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR4hbZb2wRmY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![IMG_0472.jpg](_images/IMG_0472.jpg)
-
-
-
 ![V wheel1.JPG](_images/V_wheel1.JPG)
-
-
-
 ![Bearing 2.JPG](_images/Bearing_2.JPG)
+" %}
 
 _Two of these bearings are used in each pre-assembled V-wheel._
 
@@ -108,13 +102,10 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 |**Price**                     |$6.00
 |**Quantity**                  |3
 
-
-
+{% include gallery.html images="
 ![Pulley 2.jpg](_images/Pulley_2.jpg)
-
-
-
 ![Pulley 2.jpg](_images/Pulley_2_02.jpg)
+" %}
 
 # 5mm to 8mm Flex Coupling
 This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction.
@@ -128,17 +119,11 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 |**Price**                     |$6.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Flex Coupling 1.JPG](_images/Flex_Coupling_1.JPG)
-
-
-
 ![Flex Coupling2.JPG](_images/Flex_Coupling2.JPG)
-
-
-
 ![Flex Coupling 3.JPG](_images/Flex_Coupling_3.JPG)
+" %}
 
 # 8mm ACME Leadscrew
 This stainless steel leadscrew allows FarmBot to move in the Z direction.
@@ -158,13 +143,10 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2GPDnuH1k9o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2GPDnuH1k9o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2GPDnuH1k9o%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Leadscrew 2.JPG](_images/Leadscrew_2.JPG)
-
-
-
 ![Leadscrew 1.JPG](_images/Leadscrew_1.JPG)
+" %}
 
 # Leadscrew Block
 This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction.
@@ -182,11 +164,8 @@ This delrin block attaches to the cross-slide plate so that the leadscrew can mo
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Leadscrew Block 1.JPG](_images/Leadscrew_Block_1.JPG)
-
-
-
 ![Leadscrew Block 2.JPG](_images/Leadscrew_Block_2.JPG)
+" %}
 

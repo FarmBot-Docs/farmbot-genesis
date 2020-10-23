@@ -38,13 +38,10 @@ Use two M5x25mm screws and tee nuts to attach the Delrin Leadscrew Block to the 
 
 Use four M3x10mm screws to attach the Stepper Motor and Motor Housing to the Cross-Slide Plate. Make sure the motor and housing are on the same side of the Cross-Slide Plate as the Delrin Block, and that the motor's wiring and the motor housing's open side are facing down towards the Delrin Block.
 
+{% include gallery.html images="
 ![20150114_120326.jpg](_images/20150114_120326.jpg)
-
-
-
 ![20150114_114747.jpg](_images/20150114_114747.jpg)
-
-
+" %}
 
 # Step 3: Add on the Z-Axis V-Wheels
 
@@ -68,9 +65,8 @@ Add two wheels with **normal spacers** to the holes in the middle of the left an
 
 Add a V-wheel with an **eccentric spacer** to the hole in the middle of the bottom edge of the Cross-Slide Plate, nearest the Delrin Block.
 
+{% include gallery.html images="
 ![20150113_165938.jpg](_images/20150113_165938.jpg)
-
-
-
 ![20150113_170023.jpg](_images/20150113_170023.jpg)
+" %}
 

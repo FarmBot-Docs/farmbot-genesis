@@ -10,15 +10,11 @@ slug: "tracks"
   * Repositioned the cable carrier alongside the track extrusion rather than below it. This eliminates the custom bent brackets in V0.4 with long screws and tee nuts
   * The track joining plates had to be modified to have a lower profile so that they only cover half of the track extrusions. This allows the cable carrier to rest flush against the extrusions and prevent snagging on top of the plates.
 
+{% include gallery.html images="
 ![V5_Tracks_Render_1.jpg](_images/V5_Tracks_Render_1.jpg)
-
-
-
 ![V5_Tracks_Render_2.jpg](_images/V5_Tracks_Render_2.jpg)
-
-
-
 ![V5_Tool_Bay_Render_1.jpg](_images/V5_Tool_Bay_Render_1.jpg)
+" %}
 
 ## Assembly Instructions
 **Setup the Posts**
@@ -32,21 +28,11 @@ slug: "tracks"
 **Attach the Track Plates**
   * The track plates should be screwed onto the inside of the posts using the appropriate fasteners: 8mm M5 screws and tee nuts if the posts are aluminum extrusions, standard wood screws if attaching onto wood posts. The top of the posts should NOT be flush with the top of the plates. Rather, the top of the posts should come up to cover only half of the plates.
 
+{% include gallery.html images="
 ![V5_Tracks_2.jpg](_images/V5_Tracks_2.jpg)
-
-
-
 ![V5_Tracks_3.jpg](_images/V5_Tracks_3.jpg)
-
-
-
 ![V5_Tracks_4.jpg](_images/V5_Tracks_4.jpg)
-
-
-
 ![V5_Tracks_5.jpg](_images/V5_Tracks_5.jpg)
-
-
-
 ![V5_Tracks_6.jpg](_images/V5_Tracks_6.jpg)
+" %}
 

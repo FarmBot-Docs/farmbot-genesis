@@ -30,11 +30,10 @@ FarmBot's tracks allow the gantry to move in a precise motion along the x-axis. 
 
 * Belt clips should be aluminum plates, not made of plastic. This is because they are susceptible to deforming when heated in the sun and under load from a tensioned belt.
 
+{% include gallery.html images="
 ![IMG_20160406_130205.jpg](_images/IMG_20160406_130205.jpg)
-
-
-
 ![IMG_20160407_144713.jpg](_images/IMG_20160407_144713.jpg)
+" %}
 
 * To reduce unique part count, we could combine the short cable carrier mount with the cable carrier supports
 * Modify the cable carrier support gusset to allow for LED lighting and other tubing and wiring to be routed through it

@@ -15,13 +15,10 @@ Remove all of the snap-in **tabs** from the **z-axis cable carrier**. The z-axis
 
 There is only one orientation that the **z-axis cable carrier** mounts to the **cross-slide** and **z-axis**, and it is determined by the orientation of the **end pieces**. Inspect the images below to see how the cable carrier will be mounted, but do not attach it at this time.
 
+{% include gallery.html images="
 ![z cc1.JPG](_images/z_cc1.JPG)
-
-
-
 ![zcc2.JPG](_images/zcc2.JPG)
-
-
+" %}
 
 # Step 3: Lay out the tube and wiring
 

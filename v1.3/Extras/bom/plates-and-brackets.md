@@ -40,19 +40,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |4
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
-
-
-
 ![Track End Plate 2.JPG](_images/Track_End_Plate_2.JPG)
-
-
-
 ![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
-
-
+" %}
 
 # Track Joining Plates
 
@@ -69,15 +61,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Track Joining Plates.JPG](_images/Track_Joining_Plates.JPG)
-
-
-
 ![Track Joining Plates 2.JPG](_images/Track_Joining_Plates_2.JPG)
-
-
+" %}
 
 # Gantry Wheel Plates
 
@@ -94,15 +81,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Gantry Wheel Plates 1.JPG](_images/Gantry_Wheel_Plates_1.JPG)
-
-
-
 ![Gantry Wheel Plate 1.JPG](_images/Gantry_Wheel_Plate_1.JPG)
-
-
+" %}
 
 # Gantry Corner Brackets
 
@@ -119,19 +101,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2 (1 left-hand and 1 right-hand version)
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Gantry Corner Brackets 0.JPG](_images/Gantry_Corner_Brackets_0.JPG)
-
-
-
 ![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
-
-
-
 ![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2_02.JPG)
-
-
+" %}
 
 # Cross-Slide Plate
 
@@ -148,13 +122,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Cross-Slide plate1.JPG](_images/Cross-Slide_plate1.JPG)
-
-
-
 ![Cross-Slide plate2.JPG](_images/Cross-Slide_plate2.JPG)
+" %}
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -196,17 +167,11 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvjvIB5wXmRo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvjvIB5wXmRo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvjvIB5wXmRo%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Toolbay.JPG](_images/Toolbay.JPG)
-
-
-
 ![Toolbay 2.JPG](_images/Toolbay_2.JPG)
-
-
-
 ![Toolbay 3.JPG](_images/Toolbay_3.JPG)
+" %}
 
 # Long Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -241,15 +206,10 @@ This component mounts the vacuum pump to the z-axis extrusion.
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Vacuum Pump Mounting Plate 2.JPG](_images/Vacuum_Pump_Mounting_Plate_2.JPG)
-
-
-
 ![Vacuum Pump Mounting Plate 1.JPG](_images/Vacuum_Pump_Mounting_Plate_1.JPG)
-
-
+" %}
 
 # Belt Clips
 
@@ -266,13 +226,10 @@ This component mounts the vacuum pump to the z-axis extrusion.
 |**Quantity**                  |6
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Belt Clips.JPG](_images/Belt_Clips.JPG)
-
-
-
 ![Belt Clips 2.JPG](_images/Belt_Clips_2.JPG)
+" %}
 
 # Z-Axis Hardstops
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.

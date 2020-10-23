@@ -125,11 +125,10 @@ If desired, you can mix a variety of seed types into one seed bin and have FarmB
 ## Seed trays
 The **seed trays** have 16 small area for holding seeds. They are best used when planting many different crops, and when the number of seeds per hole needs to be strictly controlled.
 
+{% include gallery.html images="
 ![7046e4f-Seed_Trays_3.JPG](_images/Seed_Trays_3.JPG)
-
-
-
 ![Seed Tray.jpg](_images/Seed_Tray.jpg)
+" %}
 
 Coming soon: software features that allow you to more easily program and use the different locations of the 16 seed areas.
 

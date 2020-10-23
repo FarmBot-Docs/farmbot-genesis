@@ -23,13 +23,10 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 # V-Wheels
 These polycarbonate V-wheels are precision machined to allow FarmBot to move in the X, Y, and Z directions smoothly and precisely. Each wheel requires two bearings and one precision shim to operate correctly.
 
+{% include gallery.html images="
 ![IMG_0285.JPG](_images/IMG_0285.JPG)
-
-
-
 ![IMG_0290.JPG](_images/IMG_0290.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -65,13 +62,10 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 # Precision Shims
 These small washers are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
 
+{% include gallery.html images="
 ![IMG_0283.JPG](_images/IMG_0283.JPG)
-
-
-
 ![Capture.JPG](_images/Capture.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -160,13 +154,10 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 # Leadscrew Block
 This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction.
 
+{% include gallery.html images="
 ![DSC03591__35062.1394590651.1280.1280.JPG](_images/DSC03591__35062.1394590651.1280.1280.JPG)
-
-
-
 ![VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg](_images/VSLOT_Nut_Block_10_8mm_Metric_FINAL__49825.1394591197.1280.1280.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

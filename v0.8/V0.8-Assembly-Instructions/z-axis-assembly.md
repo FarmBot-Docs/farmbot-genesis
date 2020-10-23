@@ -25,11 +25,10 @@ Partially screw two M5x8mm screws and tee nuts into the z-axis motor mounting br
 
 Route the Stepper Motor’s cable through the bracket.
 
+{% include gallery.html images="
 ![V5_Z-Axis_2.jpg](_images/Axis_2.jpg)
-
-
-
 ![V5_Z-Axis_3.jpg](_images/Axis_3.jpg)
+" %}
 
 Attach the motor to the bracket with four M3x8mm screws.
 

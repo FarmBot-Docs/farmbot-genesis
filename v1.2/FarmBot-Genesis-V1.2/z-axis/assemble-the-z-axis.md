@@ -46,12 +46,10 @@ content="At this point, the **leadscrew** is only connected to the rest of the z
 # Step 5: Attach the vertical cable carrier supports
 Use two **M5 x 10mm screws** and **M5 tee nuts** to attach each of the five **vertical cable carrier supports** to the **z-axis extrusion**. Space the supports evenly along the extrusion as shown.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-12 at 6.42.27 PM.png](_images/Screen_Shot_2017-02-12_at_6.42.27_PM.png)
-
-
-
 ![Screen Shot 2017-02-12 at 6.44.17 PM.png](_images/Screen_Shot_2017-02-12_at_6.44.17_PM.png)
-
+" %}
 
 # What's next?
 

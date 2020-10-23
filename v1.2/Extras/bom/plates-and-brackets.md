@@ -37,19 +37,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 
 # Track End Plates
 
-
-
+{% include gallery.html images="
 ![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
-
-
-
 ![Track End Plate 2.JPG](_images/Track_End_Plate_2.JPG)
-
-
-
 ![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -65,15 +57,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 
 # Track Joining Plates
 
-
-
+{% include gallery.html images="
 ![Track Joining Plates.JPG](_images/Track_Joining_Plates.JPG)
-
-
-
 ![Track Joining Plates 2.JPG](_images/Track_Joining_Plates_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -89,15 +76,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 
 # Gantry Wheel Plates
 
-
-
+{% include gallery.html images="
 ![Gantry Wheel Plates 1.JPG](_images/Gantry_Wheel_Plates_1.JPG)
-
-
-
 ![Gantry Wheel Plate 1.JPG](_images/Gantry_Wheel_Plate_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -113,19 +95,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 
 # Gantry Corner Brackets
 
-
-
+{% include gallery.html images="
 ![Gantry Corner Brackets 0.JPG](_images/Gantry_Corner_Brackets_0.JPG)
-
-
-
 ![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
-
-
-
 ![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2_02.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -141,15 +115,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 
 # Cross-Slide Plate
 
-
-
+{% include gallery.html images="
 ![Cross-Slide Plate 1.JPG](_images/Cross-Slide_Plate_1.JPG)
-
-
-
 ![Cross-Slide Plate 2.JPG](_images/Cross-Slide_Plate_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -187,19 +156,11 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvjvIB5wXmRo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvjvIB5wXmRo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvjvIB5wXmRo%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Toolbay.JPG](_images/Toolbay.JPG)
-
-
-
 ![Toolbay 2.JPG](_images/Toolbay_2.JPG)
-
-
-
 ![Toolbay 3.JPG](_images/Toolbay_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -214,17 +175,11 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 # Horizontal Cable Carrier (CC) Supports
 These parts are used to mount and support both the x-axis and y-axis cable carriers. The gusset also functions as an area for cables, tubes, and LED light strips to be routed through.
 
+{% include gallery.html images="
 ![Horizontal CC Support 1.JPG](_images/Horizontal_CC_Support_1.JPG)
-
-
-
 ![Horizontal CC Support 2.JPG](_images/Horizontal_CC_Support_2.JPG)
-
-
-
 ![Horizontal CC Support2.JPG](_images/Horizontal_CC_Support2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -241,13 +196,10 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 # Vertical Cable Carrier (CC) Supports
 These parts are used to guide and support the z-axis cable carrier. The gusset also functions as an area for the z-axis motor's cables to be routed through.
 
+{% include gallery.html images="
 ![Vertical CC Support.JPG](_images/Vertical_CC_Support.JPG)
-
-
-
 ![Vertical CC Support 2.JPG](_images/Vertical_CC_Support_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -282,13 +234,10 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 # Cable Carrier (CC) Spacer Block
 This component offsets the z-axis cable carrier from the cross-slide plate.
 
+{% include gallery.html images="
 ![CC Spacer Block 1.JPG](_images/CC_Spacer_Block_1.JPG)
-
-
-
 ![CC Spacer Block 2.JPG](_images/CC_Spacer_Block_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -323,15 +272,10 @@ These simple components help organize and route the cables and tubes coming from
 
 # Belt Clips
 
-
-
+{% include gallery.html images="
 ![Belt Clips.JPG](_images/Belt_Clips.JPG)
-
-
-
 ![Belt Clips 2.JPG](_images/Belt_Clips_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

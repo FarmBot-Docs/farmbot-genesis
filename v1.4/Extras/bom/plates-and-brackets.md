@@ -46,19 +46,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |4
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
-
-
-
 ![Track End Plate 2.JPG](_images/Track_End_Plate_2.JPG)
-
-
-
 ![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
-
-
+" %}
 
 # Track Joining Plates
 
@@ -75,15 +67,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Track Joining Plates.JPG](_images/Track_Joining_Plates.JPG)
-
-
-
 ![Track Joining Plates 2.JPG](_images/Track_Joining_Plates_2.JPG)
-
-
+" %}
 
 # Gantry Wheel Plates
 
@@ -100,15 +87,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Gantry Wheel Plates 1.JPG](_images/Gantry_Wheel_Plates_1.JPG)
-
-
-
 ![Gantry Wheel Plate 1.JPG](_images/Gantry_Wheel_Plate_1.JPG)
-
-
+" %}
 
 # Gantry Corner Brackets
 
@@ -125,19 +107,11 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2 (1 left-hand and 1 right-hand version)
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Gantry Corner Brackets 0.JPG](_images/Gantry_Corner_Brackets_0.JPG)
-
-
-
 ![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2.JPG)
-
-
-
 ![Gantry Corner Brackets 2.JPG](_images/Gantry_Corner_Brackets_2_02.JPG)
-
-
+" %}
 
 # Gantry Joining Bracket
 
@@ -154,15 +128,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |1 (Genesis XL only)
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![IMG_0455.jpg](_images/IMG_0455.jpg)
-
-
-
 ![IMG_0457.jpg](_images/IMG_0457.jpg)
-
-
+" %}
 
 # Cross-Slide Plate
 
@@ -179,13 +148,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Cross-Slide plate1.JPG](_images/Cross-Slide_plate1.JPG)
-
-
-
 ![Cross-Slide plate2.JPG](_images/Cross-Slide_plate2.JPG)
+" %}
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -229,19 +195,17 @@ Toolbays are available in both 1-slot and 3-slot versions.
 
 ## 1-Slot Toolbays
 
+{% include gallery.html images="
 ![IMG_0479.jpg](_images/IMG_0479.jpg)
-
-
-
 ![IMG_0480.jpg](_images/IMG_0480.jpg)
+" %}
 
 ## 3-Slot Toolbays
 
+{% include gallery.html images="
 ![Toolbay.JPG](_images/Toolbay.JPG)
-
-
-
 ![Toolbay 2.JPG](_images/Toolbay_2.JPG)
+" %}
 
 # Long Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -276,15 +240,10 @@ This component is used to mount the vacuum pump to the z-axis extrusion and the 
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Vacuum Pump Mounting Plate 2.JPG](_images/Vacuum_Pump_Mounting_Plate_2.JPG)
-
-
-
 ![Vacuum Pump Mounting Plate 1.JPG](_images/Vacuum_Pump_Mounting_Plate_1.JPG)
-
-
+" %}
 
 # Belt Clips
 
@@ -301,13 +260,10 @@ This component is used to mount the vacuum pump to the z-axis extrusion and the 
 |**Quantity**                  |6
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Belt Clips.JPG](_images/Belt_Clips.JPG)
-
-
-
 ![Belt Clips 2.JPG](_images/Belt_Clips_2.JPG)
+" %}
 
 # Z-Axis Hardstops
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.

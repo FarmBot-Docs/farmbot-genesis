@@ -18,15 +18,10 @@ title="Adjust the eccentric spacers as needed"
 content="In order to slide the z-axis through the v-wheels you will need to adjust the eccentric spacers of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../reference/eccentric-spacer-adjustment.md) for how to do this."
 %}
 
-
-
+{% include gallery.html images="
 ![Screen Shot 2017-02-12 at 7.05.59 PM.png](_images/Screen_Shot_2017-02-12_at_7.05.59_PM.png)
-
-
-
 ![Screen Shot 2017-02-12 at 7.07.35 PM.png](_images/Screen_Shot_2017-02-12_at_7.07.35_PM.png)
-
-
+" %}
 
 # Step 2: Screw the screw
 

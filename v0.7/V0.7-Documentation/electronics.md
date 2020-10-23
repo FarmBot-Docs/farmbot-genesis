@@ -11,13 +11,9 @@ V0.7 hardware integrates [Rotary Encoders](http://wiki.farmbot.cc/wiki/Rotary_En
 
 As of prototpying V0.7 hardware, low-cost rotary encoders have not yet been found or tested. Furthermore, the Arduino firmware does not yet support closed-loop feedback control.
 
+{% include gallery.html images="
 ![V5_Electronics_1.jpg](_images/V5_Electronics_1.jpg)
-
-
-
 ![V5_Electronics_2.jpg](_images/V5_Electronics_2.jpg)
-
-
-
 ![V5_Electronics_Render_1.jpg](_images/V5_Electronics_Render_1.jpg)
+" %}
 

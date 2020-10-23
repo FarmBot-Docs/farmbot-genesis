@@ -50,13 +50,10 @@ title="Make sure nothing has power"
 content="Before assembling or modifying your electronics in any way, be sure that nothing has electrical power. Tampering with the electronics when powered can cause electrical damage to the components and subject you to electrical shock."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_20160405_123457.jpg](_images/IMG_20160405_123457.jpg)
-
-
-
 ![IMG_20160405_123600.jpg](_images/IMG_20160405_123600.jpg)
+" %}
 
 # Step 4: Connect the Arduino to the Raspberry Pi
 
@@ -67,11 +64,10 @@ Connect the **Arduino** to the **Raspberry Pi** with the **6 inch Type A male to
 # Step 5: Add the RAMPS shield
 Align the **RAMPS Shield** on top of your **Arduino Mega 2560**. The green connectors of the RAMPS shield should be on top of the USB port of the Arduino.
 
+{% include gallery.html images="
 ![IMG_20160405_124252.jpg](_images/IMG_20160405_124252.jpg)
-
-
-
 ![IMG_20160405_124318.jpg](_images/IMG_20160405_124318.jpg)
+" %}
 
 Carefully press the two boards together. Make sure that you do not bend any of the pins.
 

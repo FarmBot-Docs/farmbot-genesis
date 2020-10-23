@@ -21,13 +21,10 @@ Follow the greenhouse manufacturer's instructions to setup the greenhouse. In ge
 3. Pull the plastic sheeting over the frame
 4. Secure the sheeting to the frame
 
+{% include gallery.html images="
 ![IMG_20160611_131330.jpg](_images/IMG_20160611_131330.jpg)
-
-
-
 ![IMG_5896.JPG](_images/IMG_5896.JPG)
-
-
+" %}
 
 # Control the greenhouse environment with FarmBot
 

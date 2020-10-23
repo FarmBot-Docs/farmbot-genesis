@@ -196,13 +196,10 @@ If everything looks good, and you understand the precautions needed around power
 
 If an appropriate outlet is not close enough to plug in directly, use an extension cord and the provided green outdoor electrical connection protector.
 
+{% include gallery.html images="
 ![Cord Protect.JPG](_images/Cord_Protect.JPG)
-
-
-
 ![Cord protect clear.JPG](_images/Cord_protect_clear.JPG)
-
-
+" %}
 
 {%
 include callout.html

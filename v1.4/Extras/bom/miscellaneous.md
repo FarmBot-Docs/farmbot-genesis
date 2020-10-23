@@ -40,13 +40,10 @@ These magnets keep tools attached to the UTM.
 |**Price**                     |$3.00
 |**Quantity**                  |21 (6 extras included, 3 come pre-mounted to the UTM)
 
-
-
+{% include gallery.html images="
 ![Magnets 1.jpg](_images/Magnets_1.jpg)
-
-
-
 ![Magnet2.jpg](_images/Magnet2.jpg)
+" %}
 
 # Zip Ties
 Zip ties are used to attach wires to the UTM electrical connection screws, to fasten the vacuum pump, and for cable management throughout FarmBot.
@@ -96,13 +93,10 @@ Used to calibrate FarmBot's camera for pixel to coordinate conversion software (
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![IMG_0483.jpg](_images/IMG_0483.jpg)
-
-
-
 ![IMG_0484.jpg](_images/IMG_0484.jpg)
+" %}
 
 # 3mm Hex Driver
 This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.

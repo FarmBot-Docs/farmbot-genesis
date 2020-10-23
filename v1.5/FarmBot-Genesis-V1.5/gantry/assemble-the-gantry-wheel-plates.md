@@ -24,11 +24,10 @@ content="It is best to lay out the gantry wheel plates as a mirror image of each
 # Step 1: Attach the upper V-wheels
 Insert an **M5 x 30mm screw** through a **V-wheel** and a **standard 6mm spacer**. Then insert this into the **gantry wheel plate** as shown and add an **M5 flange locknut** on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**.
 
+{% include gallery.html images="
 ![Screen Shot 2020-02-16 at 9.39.47 AM.png](_images/Screen_Shot_2020-02-16_at_9.39.47_AM.png)
-
-
-
 ![Screen Shot 2020-02-16 at 9.42.11 AM.png](_images/Screen_Shot_2020-02-16_at_9.42.11_AM.png)
+" %}
 
 Repeat the above process for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
 

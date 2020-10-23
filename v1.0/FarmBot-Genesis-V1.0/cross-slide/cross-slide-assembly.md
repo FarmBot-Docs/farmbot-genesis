@@ -18,23 +18,18 @@ content="This is the estimated time it will take to assemble the Cross-Slide."
 
 Using **M5 x 30mm screws**, **M5 washers**, and **M5 locknuts**, attach four **V-wheels** with **normal 6mm spacers** to the holes shown with normal spacers.
 
+{% include gallery.html images="
 ![IMG_6611.jpg](_images/IMG_6611.jpg)
-
-
-
 ![IMG_6609.jpg](_images/IMG_6609.jpg)
-
-
-
 ![IMG_6608.jpg](_images/IMG_6608.jpg)
+" %}
 
 Add three **V-wheels** with **eccentric 6mm spacers** to the holes shown with eccentric spacers.
 
+{% include gallery.html images="
 ![IMG_6607.jpg](_images/IMG_6607.jpg)
-
-
-
 ![IMG_6605.jpg](_images/IMG_6605.jpg)
+" %}
 
 Cross-slide gantry V-wheels are now attached.
 
@@ -62,21 +57,12 @@ title="Plate orientation is key"
 content="Its pretty easy to orient your cross-slide plate wrong and attach a bunch of components to it facing the wrong direction. Take your time to study the photos in this step to ensure you attach things on the correct side of the plate the first time."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_6597.jpg](_images/IMG_6597.jpg)
-
-
-
 ![IMG_6596.jpg](_images/IMG_6596.jpg)
-
-
-
 ![IMG_6593.jpg](_images/IMG_6593.jpg)
-
-
-
 ![IMG_6591.jpg](_images/IMG_6591.jpg)
+" %}
 
 # Step 4: Attach the Stepper Motor
 Feed the **motor and encoder cables** through the wide slot on the **cross-slide plate**. The motor should be on the side opposite the seven gantry main beam V-wheels.

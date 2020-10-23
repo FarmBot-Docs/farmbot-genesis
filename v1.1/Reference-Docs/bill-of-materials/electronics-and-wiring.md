@@ -194,13 +194,10 @@ Connects the Raspberry Pi to the Arduino.
 
 # Rotary Encoders
 
+{% include gallery.html images="
 ![e4t_webproduct_05.jpg](_images/e4t_webproduct_05.jpg)
-
-
-
 ![ca-mic6-sh-nc.jpg](_images/mic6-sh-nc.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

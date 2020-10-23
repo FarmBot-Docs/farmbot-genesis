@@ -48,13 +48,10 @@ We're working hard on supporting digital sensors. Want to help out? Join us on [
 
 For about $80 you can purchase a combination [anemometer, wind vane, and rain gauge mini weather station from SparkFun](https://www.sparkfun.com/products/8942). This lightweight device can be easily hoseclamped onto your FarmBot's gantry or installed in a stationary location nearby with an extension of the wires. You can then hook the device up to FarmBot's Arduino or directly to the Pi.
 
+{% include gallery.html images="
 ![08942-01.jpg](_images/01.jpg)
-
-
-
 ![IMG_20160304_160856.jpg](_images/IMG_20160304_160856.jpg)
-
-
+" %}
 
 # Anemometer
 

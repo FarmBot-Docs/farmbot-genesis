@@ -80,38 +80,22 @@ title="Plate orientation is key"
 content="Its pretty easy to orient your cross-slide plate wrong and attach a bunch of components to it facing the wrong direction. Take your time to study the photos in this step to ensure you attach things on the correct side of the plate the first time."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_0222.JPG](_images/IMG_0222.JPG)
-
-
-
 ![IMG_0223.JPG](_images/IMG_0223.JPG)
-
-
-
 ![IMG_0225.JPG](_images/IMG_0225.JPG)
-
-
-
 ![IMG_0226.JPG](_images/IMG_0226.JPG)
+" %}
 
 ## Step 3: Attach the Stepper Motor
 Use four **M3x10mm screws** to attach the **stepper motor** and **motor housing** to the **cross-slide plate**. Make sure the motor and housing are on the same side of the cross-slide plate as the delrin leadscrew block, and that the motor's wiring and the motor housing's open side are facing down towards the delrin leadscrew block.
 
+{% include gallery.html images="
 ![IMG_0228.JPG](_images/IMG_0228.JPG)
-
-
-
 ![IMG_0229.JPG](_images/IMG_0229.JPG)
-
-
-
 ![IMG_0230.JPG](_images/IMG_0230.JPG)
-
-
-
 ![IMG_0231.JPG](_images/IMG_0231.JPG)
+" %}
 
 Slide a **GT2 pulley** onto the **stepper motor** shaft.
 
@@ -124,23 +108,18 @@ Make sure that one of the setscrews is lined up with the flat spot of the shaft 
 ## Step 4: Add on the Z-Axis V-Wheels
 Add a **V-wheel** with an **eccentric 6mm spacer** to the hole nearest the middle of the **cross-slide plate**. The V-wheel should be on the same side of the plate as the other components and secured with a **washer** and an **M5 locknut** on the other side.
 
+{% include gallery.html images="
 ![IMG_0237 (1).JPG](_images/IMG_0237_(1).JPG)
-
-
-
 ![IMG_0267.JPG](_images/IMG_0267.JPG)
-
-
-
 ![IMG_0268.JPG](_images/IMG_0268.JPG)
+" %}
 
 Using **M5x30mm screws**, attach two **V-wheels** with **normal 6mm spacers** to the corner holes of the **cross-slide plate**. The V-wheels should be on the same side of the plate as the motor and the delrin leadscrew block. Secure these wheels with a **washer** and an **M5 locknut** on the other side of the plate.
 
+{% include gallery.html images="
 ![IMG_0269.JPG](_images/IMG_0269.JPG)
-
-
-
 ![IMG_0270.JPG](_images/IMG_0270.JPG)
+" %}
 
 ## Step 5: Add the Gantry V-Wheels
 Flip the cross-slide over so that all of the components you have added so far are facing away from you.

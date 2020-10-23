@@ -46,15 +46,10 @@ title="Make sure everything is straight"
 content="It can be easy to accidentally press in a bearing crooked. Try your best to avoid this as you could damage a wheel this way."
 %}
 
-
-
+{% include gallery.html images="
 ![20150113_134729.jpg](_images/20150113_134729.jpg)
-
-
-
 ![20150113_134731.jpg](_images/20150113_134731.jpg)
-
-
+" %}
 
 {%
 include callout.html

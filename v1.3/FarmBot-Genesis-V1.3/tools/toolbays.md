@@ -11,15 +11,10 @@ FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or see
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvjvIB5wXmRo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvjvIB5wXmRo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvjvIB5wXmRo%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Toolbay 3.JPG](_images/Toolbay_3.JPG)
-
-
-
 ![Tools Overview.jpg](_images/Tools_Overview.jpg)
-
-
+" %}
 
 {%
 include callout.html
@@ -69,15 +64,10 @@ The toolbay must also be **square** with the rest of FarmBot (all three axes) in
 Last, keep in mind the size of the tools and ensure that there is adequate room underneath and in front of your toolbays for proper mounting and dismounting."
 %}
 
-
-
+{% include gallery.html images="
 ![toolbay.JPG](_images/toolbay.JPG)
-
-
-
 ![toolbay notch.JPG](_images/toolbay_notch.JPG)
-
-
+" %}
 
 # Step 3: Repeat for the second toolbay
 

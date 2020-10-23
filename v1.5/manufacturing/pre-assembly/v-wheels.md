@@ -25,15 +25,10 @@ title="Make sure everything is straight"
 content="It can be easy to accidentally press in a bearing crooked. Try your best to avoid this as you could damage a wheel this way."
 %}
 
-
-
+{% include gallery.html images="
 ![v_wheel_pre_assembly_2.JPG](_images/v_wheel_pre_assembly_2.JPG)
-
-
-
 ![v_wheel_pre_assembly_3.JPG](_images/v_wheel_pre_assembly_3.JPG)
-
-
+" %}
 
 {%
 include callout.html
@@ -52,13 +47,10 @@ Insert the **precision shim** such that it is resting on the first bearing on th
 
  Press the second **bearing** into the **v-wheel**.
 
+{% include gallery.html images="
 ![v_wheel_pre_assembly_5.JPG](_images/v_wheel_pre_assembly_5.JPG)
-
-
-
 ![v_wheel_pre_assembly_6.JPG](_images/v_wheel_pre_assembly_6.JPG)
-
-
+" %}
 
 {%
 include callout.html

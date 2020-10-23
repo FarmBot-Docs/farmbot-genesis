@@ -64,13 +64,10 @@ content="This step is assuming that you have already adjusted the **eccentric sp
 
 Slide the **gantry columns** onto the **tracks**.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 11.03.03 AM.png](_images/Screen_Shot_2017-02-27_at_11.03.03_AM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 11.04.04 AM.png](_images/Screen_Shot_2017-02-27_at_11.04.04_AM.png)
-
-
+" %}
 
 # Step 5: Attach the main beam
 
@@ -89,21 +86,19 @@ content="The next step requires an additional person to complete."
 
 Lift up the **gantry main beam** and position it onto the front of the **gantry corner brackets**. The tee nuts should fit into the *lower two extrusion slots* of the main beam such that the top face of the main beam is 20mm above the top faces of the gantry corner brackets.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 10.58.14 AM.png](_images/Screen_Shot_2017-02-27_at_10.58.14_AM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 10.58.55 AM.png](_images/Screen_Shot_2017-02-27_at_10.58.55_AM.png)
+" %}
 
 _Note that this image is from the backside of FarmBot_
 
 Ensure that the gantry columns are vertical and then tighten the 16 **M5 x 10mm screws**. Depending on the spacing of your tracks, the gantry main beam may extend beyond the corner brackets. This is ok.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 10.59.32 AM.png](_images/Screen_Shot_2017-02-27_at_10.59.32_AM.png)
-
-
-
 ![20160831_163615.jpg](_images/20160831_163615.jpg)
+" %}
 
 _Example gantry where the main beam extends beyond the corner brackets_
 

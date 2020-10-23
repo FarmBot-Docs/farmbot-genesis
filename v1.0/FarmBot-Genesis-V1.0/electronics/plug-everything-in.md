@@ -16,15 +16,11 @@ Use **2-16 stranded wire** (two stranded wires of 16 gauge) to connect the **pow
 
 # Step 2: Attach the DC/DC converter from the RAMPS Shield to the Pi
 
+{% include gallery.html images="
 ![IMG_20160405_130357.jpg](_images/IMG_20160405_130357_02.jpg)
-
-
-
 ![IMG_20160405_130415.jpg](_images/IMG_20160405_130415.jpg)
-
-
-
 ![IMG_20160405_130449.jpg](_images/IMG_20160405_130449.jpg)
+" %}
 
 # Step 3: Plug in the Stepper Motors and Rotary Encoders
 Detailed instructions coming soon

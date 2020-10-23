@@ -94,11 +94,10 @@ content="As of the v4.0.0 software released on June 21, 2017, the UTM Pin/Wire A
 # Step 6: Add the power cord to the power supply
 Attach the **FarmBot power plug** to the **power supply** inputs according to the following image.
 
+{% include gallery.html images="
 ![power cord.png](_images/power_cord.png)
-
-
-
 ![power_supply_connections.png](_images/power_supply_connections.png)
+" %}
 
 # Step 7: Set the power supply input voltage
 The power supply can accept both 110V and 220V power input.
@@ -165,12 +164,10 @@ content="If you need to add, remove, or change any of the wiring now or in the f
 
 The power supply lives inside the weatherproof **[SockitBox](http://www.sockitbox.com/size-option/285/#ad-image-3)**, along with the vacuum pump.
 
+{% include gallery.html images="
 ![power_supply_box.png](_images/power_supply_box.png)
-
-
-
 ![box_location.png](_images/box_location.png)
-
+" %}
 
 # What's next?
 

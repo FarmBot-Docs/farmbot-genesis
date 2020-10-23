@@ -23,11 +23,10 @@ Press the **watering nozzle bottom** into the **watering nozzle top**. The two p
 # Step 2: Install the basic tool hardware
 Install the **magnets** and tool verification **jumper link** using **M5 x 30mm screws** and **M3 x 10mm screws** and the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
+{% include gallery.html images="
 ![4609f2a-Screen_Shot_2017-10-04_at_2.41.38_PM.png](_images/Screen_Shot_2017-10-04_at_2.41.38_PM.png)
-
-
-
 ![ed0bacc-Screen_Shot_2017-10-04_at_2.41.50_PM.png](_images/Screen_Shot_2017-10-04_at_2.41.50_PM.png)
+" %}
 
 # Step 3: Assemble the solenoid valve and pressure regulator
 Insert **rubber gaskets** into the female ends of the **pressure regulator**, the **garden hose to barb adapter**, and both **NPT to barb adapters**. Then screw one of the **NPT to barb adapters** onto the **solenoid valve** inlet.
