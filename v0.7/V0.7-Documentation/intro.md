@@ -22,16 +22,41 @@ We made several improvements in V0.7, including:
   * Added 3D printed driveshaft and cable carrier supports on the Gantry, and 3D printed cable carrier supports on the Tracks
   * Extended the horizontal motor housings to better protect the rotary encoders
 
-{% include gallery.html images="
 ![20150305_145838.jpg](_images/20150305_145838.jpg)
+
+
+
 ![20150305_145820.jpg](_images/20150305_145820.jpg)
+
+
+
 ![20150305_145903.jpg](_images/20150305_145903.jpg)
+
+
+
 ![20150305_145911.jpg](_images/20150305_145911.jpg)
+
+
+
 ![20150305_145930.jpg](_images/20150305_145930.jpg)
+
+
+
 ![20150305_145942.jpg](_images/20150305_145942.jpg)
+
+
+
 ![20150305_145952.jpg](_images/20150305_145952.jpg)
+
+
+
 ![20150305_150012.jpg](_images/20150305_150012.jpg)
+
+
+
 ![20150305_150104.jpg](_images/20150305_150104.jpg)
+
+
+
 ![20150305_150149.jpg](_images/20150305_150149.jpg)
-" %}
 
