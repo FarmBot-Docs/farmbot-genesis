@@ -14,25 +14,12 @@ Genesis V0.6 was a very minor update to Genesis V0.5, in fact, the only changes 
   * Experimented with a miniature Universal Tool Mount and seed injector
   * Note: The prototypes produced and seen in some of these photos used acrylic for the plates and was of a very small scale. This worked great for a prototype but should not be used for a real FarmBot because the acrylic is very flimsy. Also, the size is good for testing the hardware, but not useful for growing a significant amount of food.
 
+{% include gallery.html images="
 ![20150103_230746.jpg](_images/20150103_230746.jpg)
-
-
-
 ![IMG_20141120_182346.jpg](_images/IMG_20141120_182346.jpg)
-
-
-
 ![V5_Render_1.jpg](_images/V5_Render_1.jpg)
-
-
-
 ![V5_Render_2.jpg](_images/V5_Render_2.jpg)
-
-
-
 ![IMG_20141114_211915.jpg](_images/IMG_20141114_211915.jpg)
-
-
-
 ![IMG_20141120_182737.jpg](_images/IMG_20141120_182737.jpg)
+" %}
 
