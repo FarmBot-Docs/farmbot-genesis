@@ -80,38 +80,22 @@ title="Plate orientation is key"
 content="Its pretty easy to orient your cross-slide plate wrong and attach a bunch of components to it facing the wrong direction. Take your time to study the photos in this step to ensure you attach things on the correct side of the plate the first time."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_0222.JPG](_images/IMG_0222.JPG)
-
-
-
 ![IMG_0223.JPG](_images/IMG_0223.JPG)
-
-
-
 ![IMG_0225.JPG](_images/IMG_0225.JPG)
-
-
-
 ![IMG_0226.JPG](_images/IMG_0226.JPG)
+" %}
 
 ## Step 3: Attach the Stepper Motor
 Use four **M3x10mm screws** to attach the **stepper motor** and **motor housing** to the **cross-slide plate**. Make sure the motor and housing are on the same side of the cross-slide plate as the delrin leadscrew block, and that the motor's wiring and the motor housing's open side are facing down towards the delrin leadscrew block.
 
+{% include gallery.html images="
 ![IMG_0228.JPG](_images/IMG_0228.JPG)
-
-
-
 ![IMG_0229.JPG](_images/IMG_0229.JPG)
-
-
-
 ![IMG_0230.JPG](_images/IMG_0230.JPG)
-
-
-
 ![IMG_0231.JPG](_images/IMG_0231.JPG)
+" %}
 
 Slide a **GT2 pulley** onto the **stepper motor** shaft.
 

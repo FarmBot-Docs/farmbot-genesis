@@ -16,19 +16,12 @@ Gather and lay out all of the parts. You will need: 2 Gantry Plates, 8 solid V-w
 
 Attach the three solid V-wheel assemblies with **normal** spacers onto each plate. The order of parts is: Screw head, Plate, Spacer, V-Wheel sub-assembly, Lock-nut. Use a 3mm allen wrench and an 8mm crescent wrench to tighten the assembly. Use a moderate amount of torque.
 
+{% include gallery.html images="
 ![Gantry_Assembly_3.jpg](_images/Gantry_Assembly_3.jpg)
-
-
-
 ![Gantry_Assembly_4.jpg](_images/Gantry_Assembly_4.jpg)
-
-
-
 ![Gantry_Assembly_5.jpg](_images/Gantry_Assembly_5.jpg)
-
-
-
 ![Gantry_Assembly_6.jpg](_images/Gantry_Assembly_6.jpg)
+" %}
 
 Attach the single solid V-wheel assembly with the **eccentric** spacer onto each plate. The eccentric spacer fits into the largest hole on the plate.
 

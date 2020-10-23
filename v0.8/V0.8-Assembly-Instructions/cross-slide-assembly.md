@@ -64,21 +64,12 @@ content="Its pretty easy to orient your Cross-Slide Plate wrong and attach a bun
 
 Use four **M3x10mm screws** to attach the **stepper motor** and **motor housing** to the **Cross-Slide plate**. Make sure the motor and housing are on the same side of the Cross-Slide Plate as the delrin leadscrew block, and that the motor's wiring and the motor housing's open side are facing down towards the delrin leadscrew block.
 
+{% include gallery.html images="
 ![IMG_0228.JPG](_images/IMG_0228.JPG)
-
-
-
 ![IMG_0229.JPG](_images/IMG_0229.JPG)
-
-
-
 ![IMG_0230.JPG](_images/IMG_0230.JPG)
-
-
-
 ![IMG_0231.JPG](_images/IMG_0231.JPG)
-
-
+" %}
 
 # Step 4: Add on the Z-Axis V-Wheels
 

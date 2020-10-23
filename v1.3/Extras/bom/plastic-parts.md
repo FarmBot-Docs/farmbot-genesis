@@ -210,21 +210,12 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fq8xjCBq32C8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq8xjCBq32C8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fq8xjCBq32C8%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![UTM.JPG](_images/UTM.JPG)
-
-
-
 ![UTM 1.JPG](_images/UTM_1.JPG)
-
-
-
 ![UTM 2.JPG](_images/UTM_2.JPG)
-
-
-
 ![UTM 3.JPG](_images/UTM_3.JPG)
+" %}
 
 # Universal Tool Mount Cover
 This cover protects the top of the UTM from the rain and dust.

@@ -304,21 +304,12 @@ _Encoder cable connectors_
 # Cable Carrier
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing.
 
+{% include gallery.html images="
 ![Cable Carriers.JPG](_images/Cable_Carriers.JPG)
-
-
-
 ![Cable Carrier 3.JPG](_images/Cable_Carrier_3.JPG)
-
-
-
 ![Cable Carrier 2.JPG](_images/Cable_Carrier_2.JPG)
-
-
-
 ![Cable Carrier 1.JPG](_images/Cable_Carrier_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

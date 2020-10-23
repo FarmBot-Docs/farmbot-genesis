@@ -17,17 +17,10 @@ Genesis V0.4 exhibits the following changes from Genesis V0.3
   * Changed Z-axis to use a 20x20mm extrusion to save weight and space
   * Moved the main power supply from the gantry to the corner of the tracks at the end of the tacks cable carrier
 
+{% include gallery.html images="
 ![Genesis_V4.jpg](_images/Genesis_V4.jpg)
-
-
-
 ![Genesis_V4_1-1.jpg](_images/1.jpg)
-
-
-
 ![Genesis_V4_3.jpg](_images/Genesis_V4_3.jpg)
-
-
-
 ![Genesis_V4_2.jpg](_images/Genesis_V4_2.jpg)
+" %}
 
