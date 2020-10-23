@@ -20,13 +20,10 @@ title="Avoid twists"
 content="When feeding your belt through the gantry column, there is a possibility it became twisted. Ensure that there are no twists in your belt."
 %}
 
-
-
+{% include gallery.html images="
 ![20150114_121937.jpg](_images/20150114_121937.jpg)
-
-
-
 ![20150114_122028.jpg](_images/20150114_122028.jpg)
+" %}
 
 # Step 2: Secure the Belts
 Secure the end of your belt to the front end of your tracks by using a **belt clip plate**, **M5 x 10mm screw**, and **M5 tee nut**.

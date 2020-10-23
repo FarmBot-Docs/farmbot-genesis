@@ -24,11 +24,10 @@ The bottom of the extrusion should be positioned just above the V-wheels. Align 
 
 Tighten the **M5 x 10mm screws** using a **3mm allen wrench**.
 
+{% include gallery.html images="
 ![20160831_162144.jpg](_images/20160831_162144.jpg)
-
-
-
 ![20160831_161927.jpg](_images/20160831_161927.jpg)
+" %}
 
 Repeat the above steps for the second gantry wheel plate and aluminum extrusion.
 
@@ -47,27 +46,24 @@ For this step you will need:
 
 Lightly screw together four **M5 x 10mm screws** and **M5 tee nuts** on the long side of the **gantry corner plate**.
 
+{% include gallery.html images="
 ![IMG_1948.JPG](_images/IMG_1948.JPG)
-
-
-
 ![IMG_1949.JPG](_images/IMG_1949.JPG)
+" %}
 
 Slide the **gantry corner plate** onto the **gantry column**. The tee nuts should slide into the 20mm side of the column on the side that the **gantry wheel plate** protrudes. Furthermore, the protrusion of the corner plate should be on the same side of the column as the gantry wheel plate. Inspect the photos closely for reference.
 
+{% include gallery.html images="
 ![20160831_162355.jpg](_images/20160831_162355.jpg)
-
-
-
 ![20160831_162403.jpg](_images/20160831_162403.jpg)
+" %}
 
 Tighten the **M5 x 10mm screws** with the **3mm allen wrench**.
 
+{% include gallery.html images="
 ![IMG_1951.JPG](_images/IMG_1951.JPG)
-
-
-
 ![IMG_1952.JPG](_images/IMG_1952.JPG)
+" %}
 
 # Step 3: Repeat
 Repeat the above steps for the second corner bracket and column. You should end up with two assemblies that are mirror images of each other. Inspect these photos closely to ensure your corner brackets are attached to the columns in the correct orientation.

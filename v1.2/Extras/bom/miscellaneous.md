@@ -27,13 +27,10 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 # Ring Magnets
 These magnets keep tools attached to the UTM.
 
+{% include gallery.html images="
 ![Magnets 1.jpg](_images/Magnets_1.jpg)
-
-
-
 ![Magnet2.jpg](_images/Magnet2.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

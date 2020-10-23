@@ -26,11 +26,10 @@ Using **M5 x 30mm screws**, **M5 washers**, and **M5 locknuts**, attach four **V
 
 Add three **V-wheels** with **eccentric 6mm spacers** to the holes shown with eccentric spacers.
 
+{% include gallery.html images="
 ![IMG_6607.jpg](_images/IMG_6607.jpg)
-
-
-
 ![IMG_6605.jpg](_images/IMG_6605.jpg)
+" %}
 
 Cross-slide gantry V-wheels are now attached.
 

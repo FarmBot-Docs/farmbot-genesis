@@ -54,19 +54,17 @@ Which side is North and which is South does not matter. The important part is th
 
 Insert an **M5 x 30mm screw** through one of the **ring magnets**. For the first magnet, the orientation does not matter.
 
+{% include gallery.html images="
 ![IMG_20160324_182556.jpg](_images/IMG_20160324_182556.jpg)
-
-
-
 ![IMG_20160324_182606.jpg](_images/IMG_20160324_182606.jpg)
+" %}
 
 Insert the magnet/screw combo into the **UTM** and  use the **3mm hex driver** and the **8mm wrench** to tighten an **M5 locknut** and **M5 washer** onto the screw.
 
+{% include gallery.html images="
 ![IMG_20160324_182742.jpg](_images/IMG_20160324_182742.jpg)
-
-
-
 ![IMG_20160324_182812.jpg](_images/IMG_20160324_182812.jpg)
+" %}
 
 Repeat the process above for the two remaining UTM magnets.
 

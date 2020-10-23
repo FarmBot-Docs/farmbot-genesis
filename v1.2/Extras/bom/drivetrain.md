@@ -26,15 +26,10 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FR4hbZb2wRmY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR4hbZb2wRmY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR4hbZb2wRmY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![V wheel1.JPG](_images/V_wheel1.JPG)
-
-
-
 ![V-wheel 2.JPG](_images/V-wheel_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -71,13 +66,10 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 # M5 Shims
 These precision shims are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
 
+{% include gallery.html images="
 ![Shim2.jpg](_images/Shim2.jpg)
-
-
-
 ![Shim1.jpg](_images/Shim1.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -93,15 +85,10 @@ These precision shims are placed in between the two bearings in every V-wheel. T
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDu2sdMXKPEw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDu2sdMXKPEw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDu2sdMXKPEw%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Belt 1.JPG](_images/Belt_1.JPG)
-
-
-
 ![Belt 2.JPG](_images/Belt_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -117,13 +104,10 @@ These precision shims are placed in between the two bearings in every V-wheel. T
 # GT2 Pulleys
 These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the driveshaft. They transfer power from the motor to the belt such that FarmBot can move in the X and Y directions.
 
+{% include gallery.html images="
 ![Pulley 2.jpg](_images/Pulley_2.jpg)
-
-
-
 ![Pulley 2.jpg](_images/Pulley_2_02.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -164,13 +148,10 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 
 This stainless steel leadscrew allows FarmBot to move in the Z direction.
 
+{% include gallery.html images="
 ![Leadscrew 2.JPG](_images/Leadscrew_2.JPG)
-
-
-
 ![Leadscrew 1.JPG](_images/Leadscrew_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -187,13 +168,10 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 # Leadscrew Block
 This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction.
 
+{% include gallery.html images="
 ![Leadscrew Block 1.JPG](_images/Leadscrew_Block_1.JPG)
-
-
-
 ![Leadscrew Block 2.JPG](_images/Leadscrew_Block_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

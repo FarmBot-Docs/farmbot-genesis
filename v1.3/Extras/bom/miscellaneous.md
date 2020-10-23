@@ -38,13 +38,10 @@ These magnets keep tools attached to the UTM.
 |**Price**                     |$3.00
 |**Quantity**                  |18 (3 extras included)
 
-
-
+{% include gallery.html images="
 ![Magnets 1.jpg](_images/Magnets_1.jpg)
-
-
-
 ![Magnet2.jpg](_images/Magnet2.jpg)
+" %}
 
 # Compression Springs
 These springs keep the screws in the UTM in contact with screws in the tools for electrical connections.

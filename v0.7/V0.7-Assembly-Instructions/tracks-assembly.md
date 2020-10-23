@@ -33,13 +33,10 @@ title="Space your plates appropriately"
 content="Remember, your track extrusions will need to be fastened to your plates, so space them out accordingly. Keep in mind that the end plates will not have a second extrusion attached to them, and plates in the middle need to be positioned precisely so that the two extrusions meet in the middle of the plate."
 %}
 
-
-
+{% include gallery.html images="
 ![20150113_130351.jpg](_images/20150113_130351.jpg)
-
-
-
 ![20150113_131228.jpg](_images/20150113_131228.jpg)
+" %}
 
 ## Extrusion-Posts Method
 The track plates should be screwed onto the inside of the posts using the appropriate fasteners: 8mm M5 screws and tee nuts if the posts are aluminum extrusions, standard wood screws if attaching onto wood posts. The top of the posts should NOT be flush with the top of the plates. Rather, the top of the posts should come up to cover only half of the plates.

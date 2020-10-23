@@ -63,21 +63,19 @@ content="The next step requires an additional person to complete."
 
 Lift up the **gantry main beam** and position it onto the front of the **gantry corner brackets**. The tee nuts should fit into the lower two extrusion slots of the main beam such that the top face of the main beam is 20mm above the top faces of the gantry corner brackets.
 
+{% include gallery.html images="
 ![Screen Shot 2016-11-26 at 1.49.12 PM.png](_images/Screen_Shot_2016-11-26_at_1.49.12_PM.png)
-
-
-
 ![Screen Shot 2016-11-26 at 1.51.09 PM.png](_images/Screen_Shot_2016-11-26_at_1.51.09_PM.png)
+" %}
 
 _Note that this image is from the backside of FarmBot_
 
 Ensure that the gantry columns are vertical and then tighten the 16 **M5 x 10mm screws**. Depending on the spacing of your tracks, the gantry main beam may extend beyond the corner brackets. This is ok.
 
+{% include gallery.html images="
 ![Screen Shot 2016-11-26 at 1.53.26 PM.png](_images/Screen_Shot_2016-11-26_at_1.53.26_PM.png)
-
-
-
 ![20160831_163615.jpg](_images/20160831_163615.jpg)
+" %}
 
 _Example gantry where the main beam extends beyond the corner brackets_
 

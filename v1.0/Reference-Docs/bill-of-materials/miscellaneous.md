@@ -44,13 +44,10 @@ These magnets keep tools attached to the UTM.
 # Compression Springs
 These springs keep the screws in the UTM in contact with screws in the tools for electrical connections.
 
+{% include gallery.html images="
 ![61tw-EiZyJL._SL1500_.jpg](_images/EiZyJL._SL1500_.jpg)
-
-
-
 ![81bzWHpkXvL._SL1500_.jpg](_images/81bzWHpkXvL._SL1500_.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

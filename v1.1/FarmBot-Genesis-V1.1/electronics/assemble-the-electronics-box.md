@@ -55,11 +55,10 @@ Follow the instructions on the [Raspberry Pi Software](https://software.farm.bot
 
 Attach eight **M2.5 x 4mm screws** and **M2.5 x 6mm standoffs** to the **electronics plate**.
 
+{% include gallery.html images="
 ![IMG_6736.JPG](_images/IMG_6736.JPG)
-
-
-
 ![IMG_6739.JPG](_images/IMG_6739.JPG)
+" %}
 
 Attach the **electronics mounting** plate to the **electronics housing** using four **M3 x 4mm screws**.
 
@@ -115,11 +114,10 @@ Expose the adhesive on the bottom of the **stepper driver heatsinks**.
 
 Attach the heatsink to the chip on the **stepper driver**.
 
+{% include gallery.html images="
 ![IMG_6780.JPG](_images/IMG_6780.JPG)
-
-
-
 ![IMG_6783.JPG](_images/IMG_6783.JPG)
+" %}
 
 Mount your three **stepper drivers** on top of the **RAMPS shield**, being careful not to bend any pins.
 
@@ -155,11 +153,10 @@ Insert the free end of each of the jumper wires into the middle connection of tw
  * Insert wire
  * Push lever down
 
+{% include gallery.html images="
 ![IMG_6801.JPG](_images/IMG_6801.JPG)
-
-
-
 ![IMG_6805.JPG](_images/IMG_6805.JPG)
+" %}
 
 Insert the **buck adapter** wires into the lever nuts.
 
@@ -175,12 +172,10 @@ Insert two more incoming power wires (not currently connected to power!) into th
 
 Plug the **buck adapter** into the top right three GPIO pins of the Raspberry Pi. The empty header of the buck adapter should be over the upper right GPIO pin.
 
+{% include gallery.html images="
 ![IMG_6814.JPG](_images/IMG_6814.JPG)
-
-
-
 ![IMG_6819.JPG](_images/IMG_6819.JPG)
-
+" %}
 
 # What's next?
 

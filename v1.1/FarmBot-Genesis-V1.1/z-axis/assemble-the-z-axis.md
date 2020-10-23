@@ -54,11 +54,10 @@ Attach the **z-axis stepper motor** to the **z-axis motor mount** using four **M
 # Step 3: Attach the motor to the z-axis extrusion
 Partially screw two **M5 x 10mm screws** and **M5 tee nuts** into the **z-axis motor bracket**.
 
+{% include gallery.html images="
 ![IMG_6664.jpg](_images/IMG_6664.jpg)
-
-
-
 ![IMG_6666.jpg](_images/IMG_6666.jpg)
+" %}
 
 Tighten the **z-axis motor mount** onto the **z-axis extrusion**.
 

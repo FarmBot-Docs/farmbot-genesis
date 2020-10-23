@@ -80,11 +80,10 @@ Major changes: endstop integration, custom brackets and plates, universal tool m
 # [V0.1](https://genesis.farm.bot/docs/v0.1)
 Focused on being a quick and easy first prototype, V0.1 was constructed from all off-the-shelf components
 
+{% include gallery.html images="
 ![v0.1.jpg](_images/v0.1.jpg)
-
-
-
 ![v0.1 2.JPG](_images/v0.1_2.JPG)
+" %}
 
 # V0.0
 The very first physical FarmBot prototype was made from welded steel square stock, C-channel, angle iron, garage door wheels, and a trowel. It served primarily as a visual aid.

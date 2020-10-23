@@ -190,19 +190,17 @@ For this step you will need:
 
 Insert six **M5 x 10mm screws** into the **gantry plate** and loosely attach **tee nuts** onto the other side. The tee nuts should reside on the same side of the plate as the V-wheels.
 
+{% include gallery.html images="
 ![IMG_1935.JPG](_images/IMG_1935.JPG)
-
-
-
 ![IMG_1936.JPG](_images/IMG_1936.JPG)
+" %}
 
 Slide the **gantry column** onto the **gantry plate assembly**.
 
+{% include gallery.html images="
 ![IMG_1937.JPG](_images/IMG_1937.JPG)
-
-
-
 ![IMG_1938.JPG](_images/IMG_1938.JPG)
+" %}
 
 The bottom of the extrusion should be positioned just above the V-wheels.
 
@@ -229,11 +227,10 @@ For this step you will need:
 
 Lightly screw together four **M5 x 10mm screws** and **tee nuts** on the long side of the **gantry corner plate**.
 
+{% include gallery.html images="
 ![IMG_1948.JPG](_images/IMG_1948.JPG)
-
-
-
 ![IMG_1949.JPG](_images/IMG_1949.JPG)
+" %}
 
 Slide the **gantry corner plate** onto the **gantry column**. The tee nuts should slide into the 20mm side of the column on the side that the gantry plate protrudes. Furthermore, the protrusion of the corner plate should be on the same side of the column as the gantry plate. Inspect the photos closely for reference.
 
@@ -241,11 +238,10 @@ Slide the **gantry corner plate** onto the **gantry column**. The tee nuts shoul
 
 Tighten the **M5 x 10mm screws** with the **3mm allen wrench**.
 
+{% include gallery.html images="
 ![IMG_1951.JPG](_images/IMG_1951.JPG)
-
-
-
 ![IMG_1952.JPG](_images/IMG_1952.JPG)
+" %}
 
 Repeat the above steps for the second corner bracket and column. You should end up with two assemblies that are mirror images of each other. Inspect these photos closely to ensure your corner brackets are attached to the columns in the correct orientation.
 
@@ -271,27 +267,24 @@ For this step you will need:
 
 Loosely attach nine **M5 x 10mm screws** and **tee nuts** to the **gantry connector plate**.
 
+{% include gallery.html images="
 ![IMG_1957.JPG](_images/IMG_1957.JPG)
-
-
-
 ![IMG_1958.JPG](_images/IMG_1958.JPG)
+" %}
 
 Slide one of the **gantry main beams** onto the **gantry connector plate** and then tighten the **M5 x 10mm screws** with the **3mm allen wrench**.
 
+{% include gallery.html images="
 ![IMG_1959.JPG](_images/IMG_1959.JPG)
-
-
-
 ![IMG_1960.JPG](_images/IMG_1960.JPG)
+" %}
 
 Loosely attach the other nine **M5 x 10mm screws** and **tee nuts** to the **gantry connector plate**.
 
+{% include gallery.html images="
 ![IMG_1961.JPG](_images/IMG_1961.JPG)
-
-
-
 ![IMG_1962.JPG](_images/IMG_1962.JPG)
+" %}
 
 Slide the second **gantry main beam** onto the **gantry connector plate**.
 
@@ -302,21 +295,17 @@ title="Seamless"
 content="In order for the cross-slide to smoothly move across the gantry main beam, the transition from one extrusion to the other must be seamless. When tightening the two extrusions to the connector plate, your goal is to minimize the gap between the extrusions while also making the 20mm surfaces flush."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_1963.JPG](_images/IMG_1963.JPG)
-
-
-
 ![IMG_1964.JPG](_images/IMG_1964.JPG)
+" %}
 
 Tighten the **M5 x 10mm screws**.
 
+{% include gallery.html images="
 ![IMG_1965.JPG](_images/IMG_1965.JPG)
-
-
-
 ![IMG_1966.JPG](_images/IMG_1966.JPG)
+" %}
 
 ## Step 7: Attach the main beam to the columns
 
@@ -414,13 +403,10 @@ title="Evenly spaced"
 content="Keep in mind that there will be six total driveshaft and cable carrier supports as well as a short cable carrier mount in this slot on the main beam. You should space these components evenly along the beam. Don't worry about getting the spacing right the first time - you can easily loosen them and make fine adjustments once they are all attached."
 %}
 
-
-
+{% include gallery.html images="
 ![IMG_20160224_102243.jpg](_images/IMG_20160224_102243.jpg)
-
-
-
 ![IMG_20160224_103752.jpg](_images/IMG_20160224_103752.jpg)
+" %}
 
 ## Step 11: Install the short cable carrier mounts
 Insert two **M5 x 10mm screws** into a **short cable carrier mount** and lightly screw on two **M5 tee nuts**.
@@ -433,11 +419,10 @@ Place the assembly into the middle slot on the back side of the **gantry main be
 
 Repeat the process for another short cable carrier mount, and add it to the bottom of the left side **gantry column**.
 
+{% include gallery.html images="
 ![IMG_20160224_105109.jpg](_images/IMG_20160224_105109.jpg)
-
-
-
 ![IMG_20160224_105155.jpg](_images/IMG_20160224_105155.jpg)
+" %}
 
 ## Step 12: Insert the driveshaft
 Slide a 5mm to 5mm flex coupling onto the gantry motor shaft and tighten it using the two M4 setscrews and a 3mm allen wrench.
@@ -488,13 +473,10 @@ title="Avoid twists"
 content="When feeding your belt through the gantry column, there is a possibility it became twisted. Ensure that there are no twists in your belt."
 %}
 
-
-
+{% include gallery.html images="
 ![20150114_121937.jpg](_images/20150114_121937.jpg)
-
-
-
 ![20150114_122028.jpg](_images/20150114_122028.jpg)
+" %}
 
 Secure the end of your belt to the front end of your Tracks by using an M5x8mm screw and tee nut.
 

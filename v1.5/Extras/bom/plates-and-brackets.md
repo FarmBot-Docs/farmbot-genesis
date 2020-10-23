@@ -39,9 +39,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |4
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+{% include gallery.html images="
 ![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
-
 ![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
+" %}
 
 # Track Joining Plate
 
@@ -80,9 +81,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2 (1 left-hand and 1 right-hand version) :raised_hands:
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+{% include gallery.html images="
 ![83ac568-Gantry_Corner_Brackets.jpeg](_images/Gantry_Corner_Brackets.jpeg)
-
 ![a529504-Gantry_Corner_Brackets_2.jpeg](_images/Gantry_Corner_Brackets_2.jpeg)
+" %}
 
 # Gantry Joining Bracket
 
@@ -95,9 +97,10 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |1 (Genesis XL and MAX only)
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+{% include gallery.html images="
 ![594ebb7-Gantry_Joining_Bracket_2.jpeg](_images/Gantry_Joining_Bracket_2.jpeg)
-
 ![6deac68-Gantry_Joining_Bracket.jpeg](_images/Gantry_Joining_Bracket.jpeg)
+" %}
 
 # Cross-Slide Plate
 
@@ -146,9 +149,10 @@ Toolbays are available in both 1-slot and 3-slot versions.
 
 ## 3-Slot Toolbay
 
+{% include gallery.html images="
 ![Toolbay.JPG](_images/Toolbay.JPG)
-
 ![Toolbay 2.JPG](_images/Toolbay_2.JPG)
+" %}
 
 # 50mm Cable Carrier Mount
 This part allows the x-axis cable carrier to be mounted to the gantry column.
@@ -187,9 +191,10 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 |**Quantity**                  |6
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+{% include gallery.html images="
 ![875722e-Belt_Clips.jpeg](_images/Belt_Clips.jpeg)
-
 ![4ed0790-Belt_Clips_2.jpeg](_images/Belt_Clips_2.jpeg)
+" %}
 
 # Z-Axis Hardstop
 These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis.

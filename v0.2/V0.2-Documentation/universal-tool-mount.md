@@ -17,9 +17,8 @@ The Universal Tool Mount system consists of five components:
   * A “tool bay” that is a 3mm plate for unused tools to be stored on
   * Using the FarmBot Web App, the user will define which tools are in which bays. FarmBot can then move to that position to pick up a tool, and load the necessary software “driver” to be properly use that tool. This system allows others to create new tools and drivers for any type of operation they can dream up, as long as it fits into the Tool Mount and incorporates the same four power and data screw configuration.
 
+{% include gallery.html images="
 ![Universal_Tool_Mount.jpg](_images/Universal_Tool_Mount.jpg)
-
-
-
 ![Tool_Bay.jpg](_images/Tool_Bay.jpg)
+" %}
 

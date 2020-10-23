@@ -47,13 +47,10 @@ These parts are used to mount and support the x-axis cable carrier. The gusset a
 |**Quantity**                  |Genesis - 12<br>Genesis XL - 24<br>Genesis MAX - 72
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![7322e80-40mm_Horizontal_CC_Support_2.jpeg](_images/40mm_Horizontal_CC_Support_2.jpeg)
-
-
-
 ![fd5b309-40mm_Horizontal_CC_Support.jpeg](_images/40mm_Horizontal_CC_Support.jpeg)
+" %}
 
 # 60mm Horizontal Cable Carrier Support
 These parts are used to mount and support the y-axis cable carrier. The gusset also functions as an area for cables, tubes, and LED light strips to be routed through.
@@ -81,13 +78,10 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 |**Quantity**                  |4
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![VCCS1.JPG](_images/VCCS1.JPG)
-
-
-
 ![VCCS2.JPG](_images/VCCS2.JPG)
+" %}
 
 # 60mm Cable Carrier Spacer Block
 This component offsets the z-axis cable carrier from the cross-slide plate.
@@ -99,13 +93,10 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![CCB1.JPG](_images/CCB1.JPG)
-
-
-
 ![CCB2.JPG](_images/CCB2.JPG)
+" %}
 
 # Solenoid Valve Mount
 This component features slots for the solenoid valve to be mounted with zip ties. It also doubles as a cable management part for routing cables behind the electronics box.
@@ -117,13 +108,10 @@ This component features slots for the solenoid valve to be mounted with zip ties
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![2abefbe-Solenoid_mount_1.jpeg](_images/Solenoid_mount_1.jpeg)
-
-
-
 ![0c94c75-Solenoid_mount_2.jpeg](_images/Solenoid_mount_2.jpeg)
+" %}
 
 # Vacuum Pump Mount
 The vacuum pump mount features slots for zip ties to secure the vacuum pump to the z-axis extrusion.
@@ -135,13 +123,10 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![01eb394-Vacuum_Pump_Mount.jpeg](_images/Vacuum_Pump_Mount.jpeg)
-
-
-
 ![f9ced9e-Vacuum_Pump_Mount_2.jpeg](_images/Vacuum_Pump_Mount_2.jpeg)
+" %}
 
 # 75mm Horizontal Motor Housing
 These housings protect the gantry and cross-slide motors and encoders from rain.
@@ -157,13 +142,10 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCQfkuFBVsek%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCQfkuFBVsek&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCQfkuFBVsek%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
-
-
-
 ![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
+" %}
 
 # 80mm Vertical Motor Housing
 This component protects the z-axis motor from rain.
@@ -175,13 +157,10 @@ This component protects the z-axis motor from rain.
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![z cove 1.JPG](_images/z_cove_1.JPG)
-
-
-
 ![Z cover 2.JPG](_images/Z_cover_2.JPG)
+" %}
 
 # Vacuum Pump Housing
 This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion.
@@ -193,13 +172,10 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Vacuum Cover 1.JPG](_images/Vacuum_Cover_1.JPG)
-
-
-
 ![Vacuum Cover2.JPG](_images/Vacuum_Cover2.JPG)
+" %}
 
 # Universal Tool Mount
 The UTM allows FarmBot to automatically switch tools for the task at hand. It features 12 electrical connections, three liquid/gas lines, and magnetic coupling.
@@ -237,13 +213,10 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnXFdJIQaQB4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnXFdJIQaQB4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnXFdJIQaQB4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Seeder1.JPG](_images/Seeder1.JPG)
-
-
-
 ![Seeder2.JPG](_images/Seeder2.JPG)
+" %}
 
 # Watering Nozzle
 This two-part tool distributes the stream of water coming from the UTM into a gentle shower for your plants.
@@ -265,19 +238,17 @@ This two-part tool distributes the stream of water coming from the UTM into a ge
 
 ## Watering Nozzle Top
 
+{% include gallery.html images="
 ![Water Top 1.JPG](_images/Water_Top_1.JPG)
-
-
-
 ![Water Top 2.JPG](_images/Water_Top_2.JPG)
+" %}
 
 ## Watering Nozzle Bottom
 
+{% include gallery.html images="
 ![Water Bottom.JPG](_images/Water_Bottom.JPG)
-
-
-
 ![Water Bottom 0.JPG](_images/Water_Bottom_0.JPG)
+" %}
 
 # Weeder
 The weeding tool allows FarmBot to smash weeds into the ground, thereby killing them via mechanical disruption. The tool consists of a base component and interchangeable implements that allow you to customize the tool for your soil conditions and types of weeds.
@@ -294,13 +265,10 @@ The weeding tool allows FarmBot to smash weeds into the ground, thereby killing 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FNsEdALh3ZYY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DNsEdALh3ZYY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNsEdALh3ZYY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![weeder.JPG](_images/weeder.JPG)
-
-
-
 ![weeder2.JPG](_images/weeder2.JPG)
+" %}
 
 # Weeder Blades
 ## Wide Weeder Blade
@@ -329,13 +297,10 @@ This tool acts as a mount for the soil sensor circuit board.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fp6CPnJoHf8E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp6CPnJoHf8E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fp6CPnJoHf8E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![soil sensor base 1.JPG](_images/soil_sensor_base_1.JPG)
-
-
-
 ![soil sensor base.JPG](_images/soil_sensor_base.JPG)
+" %}
 
 # Seed Bin
 This plastic bin allows you to load many seeds of the same type into your FarmBot.
@@ -365,13 +330,10 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![Seed Trays.JPG](_images/Seed_Trays.JPG)
-
-
-
 ![Seed Tray.JPG](_images/Seed_Tray.JPG)
+" %}
 
 # Seed Trough Holder
 This gantry-mounted seed trough holder allows FarmBot to bring seeds with it while traveling along the x-axis, shortening the time needed for seed injection.

@@ -74,11 +74,10 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 Lightly screw three **M5 x 10mm** screws and **tee nuts** to the **track end plate**. Orient the tee nuts horizontally.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 10.39.15 AM.png](_images/Screen_Shot_2017-02-27_at_10.39.15_AM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 10.35.33 AM.png](_images/Screen_Shot_2017-02-27_at_10.35.33_AM.png)
+" %}
 
 # Step 4: Attach a track joining plate
 Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.

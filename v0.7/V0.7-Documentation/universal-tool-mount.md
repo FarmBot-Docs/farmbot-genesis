@@ -23,11 +23,10 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 
 ## Photos
 
+{% include gallery.html images="
 ![IMG_0098.JPG](_images/IMG_0098.JPG)
-
-
-
 ![IMG_0096.JPG](_images/IMG_0096.JPG)
+" %}
 
 ## Pin Mapping
 

@@ -26,11 +26,8 @@ title="Software Documentation"
 content="See the [FarmBot Web App Documentation](https://software.farmbot.io/docs/the-farmbot-web-app) for more information on controls and sequences."
 %}
 
-
-
+{% include gallery.html images="
 ![peripherals.png](_images/peripherals.png)
-
-
-
 ![light_flash.png](_images/light_flash.png)
+" %}
 

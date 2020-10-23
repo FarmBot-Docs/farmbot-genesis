@@ -69,13 +69,10 @@ These brass barbs screw into the UTM's three liquid/gas ports and accept the thr
 |**Price**                     |$6.00
 |**Quantity**                  |3
 
-
-
+{% include gallery.html images="
 ![Barb 1.jpg](_images/Barb_1.jpg)
-
-
-
 ![Barb2.jpg](_images/Barb2.jpg)
+" %}
 
 # Barbed Adapter
 This adapter threads into the coupler and is connected to the water tube leading to the UTM.
@@ -121,13 +118,10 @@ This adapter connects standard US garden hoses to the solenoid valve.
 |**Price**                     |$7.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Hose Adapter 1.JPG](_images/Hose_Adapter_1.JPG)
-
-
-
 ![Hose Adapter 2.JPG](_images/Hose_Adapter_2.JPG)
+" %}
 
 # O-rings
 These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted.
@@ -183,13 +177,10 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 |**Price**                     |$8.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Pressure2.JPG](_images/Pressure2.JPG)
-
-
-
 ![Pressure1.JPG](_images/Pressure1.JPG)
+" %}
 
 # Luer Lock Adapter
 
@@ -198,13 +189,10 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Luer Lock Adapter.jpg](_images/Luer_Lock_Adapter.jpg)
-
-
-
 ![Luer2.jpg](_images/Luer2.jpg)
+" %}
 
 # Luer Lock Needles
 
@@ -215,13 +203,10 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 |**Price**                     |$3.00
 |**Quantity**                  |2 of each gauge
 
-
-
+{% include gallery.html images="
 ![Luer.jpg](_images/Luer.jpg)
-
-
-
 ![Luer1.jpg](_images/Luer1.jpg)
+" %}
 
 # Teflon Tape
 This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system.

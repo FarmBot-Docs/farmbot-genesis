@@ -50,11 +50,10 @@ We're testing out a version of the cable clip that is a bent metal plate. This m
 In this version of FarmBot Genesis we experimented a lot with bent metal plates, particularly for the z-axis motor mount, the cable carrier supports and mounts, the tool bay, the cable clips, the gantry corner brackets, and the z-axis cable carrier guides. Some of the prototypes we had made were excellent, while others were less impressive. The main problems we had were as follows:
 * The parts with multiple bends (z-axis motor mount, cable carrier guides and supports) had poor dimensional tolerance and required welding in some cases. Machining will be a more reliable way to manufacture these parts, or reducing the need for multiple bends/welding.
 
+{% include gallery.html images="
 ![Z motor mount.jpg](_images/Z_motor_mount.jpg)
-
-
-
 ![vertical CC support.jpg](_images/vertical_CC_support.jpg)
+" %}
 
 * The components that needed a flat mounting surface (cable carrier supports) had a bend that prevented them from sitting flush and square with the part they were mounted to. These rounded corners should not be bent, but instead will need to be machined.
 

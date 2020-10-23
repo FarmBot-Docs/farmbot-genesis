@@ -64,15 +64,10 @@ The toolbay must also be **square** with the rest of FarmBot (all three axes) in
 Last, keep in mind the size of the tools and ensure that there is adequate room underneath and in front of your toolbays for proper mounting and dismounting."
 %}
 
-
-
+{% include gallery.html images="
 ![toolbay.JPG](_images/toolbay.JPG)
-
-
-
 ![toolbay notch.JPG](_images/toolbay_notch.JPG)
-
-
+" %}
 
 # Step 2: Repeat for the second toolbay
 

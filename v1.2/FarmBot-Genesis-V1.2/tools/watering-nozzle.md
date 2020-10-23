@@ -11,15 +11,10 @@ The watering nozzle is a single 3D printed component with a few extra parts for 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fxh7imhENpLQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dxh7imhENpLQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fxh7imhENpLQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Water.jpg](_images/Water.jpg)
-
-
-
 ![IMG_5911.JPG](_images/IMG_5911.JPG)
-
-
+" %}
 
 {%
 include callout.html
@@ -75,25 +70,19 @@ content="These holes are missing to allow the incoming concentrated water stream
 
 Press the **watering nozzle bottom** into the **watering nozzle top**. The two components will be secured in the next step.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 7.38.17 PM.png](_images/Screen_Shot_2017-02-27_at_7.38.17_PM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 7.35.06 PM.png](_images/Screen_Shot_2017-02-27_at_7.35.06_PM.png)
-
-
+" %}
 
 # Step 3: Install the universal tool hardware
 
 Install the **magnets** and tool verification **jumper link** using the instructions in the [universal tool hardware reference guide](../reference/universal-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-27 at 7.33.49 PM.png](_images/Screen_Shot_2017-02-27_at_7.33.49_PM.png)
-
-
-
 ![Screen Shot 2017-02-27 at 7.34.05 PM.png](_images/Screen_Shot_2017-02-27_at_7.34.05_PM.png)
-
-
+" %}
 
 # Step 4: Connect FarmBot to the water source
 

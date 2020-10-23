@@ -329,19 +329,17 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 
 ## 1.7m Cable Carrier
 
+{% include gallery.html images="
 ![CClong1.JPG](_images/CClong1.JPG)
-
-
-
 ![CClong2.JPG](_images/CClong2.JPG)
+" %}
 
 ## 0.74m Cable Carrier
 
+{% include gallery.html images="
 ![CCshort1.JPG](_images/CCshort1.JPG)
-
-
-
 ![CCshort2.JPG](_images/CCshort2.JPG)
+" %}
 
 # Universal Tool Mount Cable
 This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, digital and analog I/O, and can be configured at the Farmduino to provide I2C, PWM, and more.
@@ -362,13 +360,10 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh_3c8-A966E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_3c8-A966E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh_3c8-A966E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![UTM Cable 0.jpg](_images/UTM_Cable_0.jpg)
-
-
-
 ![UTM Cable.jpg](_images/UTM_Cable.jpg)
+" %}
 
 # Soil Sensor PCB
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
@@ -382,13 +377,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 |**Price**                     |$6.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![soilsensor1.JPG](_images/soilsensor1.JPG)
-
-
-
 ![soilsensor2.JPG](_images/soilsensor2.JPG)
+" %}
 
 # Soil Sensor Jumpers
 These short wires connect the soil sensor PCB to the M3 electronic screws on the soil sensor base.
@@ -443,13 +435,10 @@ This 12V vacuum pump sucks air through the seeder's luer lock needle in order to
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
-
-
-
 ![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
+" %}
 
 # Vacuum Pump Cable
 This cable connects the vacuum pump to the Farmduino.
@@ -512,13 +501,10 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Camera.JPG](_images/Camera.JPG)
-
-
-
 ![Camera 2.JPG](_images/Camera_2.JPG)
+" %}
 
 # Jumper Links
 These connect the Grounded electronic pin to the Digital In pin, allowing FarmBot to detect when a tool has been mounted or dismounted correctly.

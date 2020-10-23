@@ -43,28 +43,25 @@ Feed all of the cables and tubing coming from the z-axis cable carrier, as well 
 # Step 5: Attach the Gantry Cable Carrier
 Attach the **gantry cable carrier** to the **long cable carrier mount** (on the cross-slide subassembly) using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
+{% include gallery.html images="
 ![IMG_20160320_141302.jpg](_images/IMG_20160320_141302.jpg)
-
-
-
 ![IMG_20160320_141623.jpg](_images/IMG_20160320_141623.jpg)
+" %}
 
 Attach the **gantry cable carrier** to the **short cable carrier mount** (on the gantry main beam) using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
+{% include gallery.html images="
 ![IMG_20160302_110716.jpg](_images/IMG_20160302_110716.jpg)
-
-
-
 ![IMG_20160302_110728.jpg](_images/IMG_20160302_110728.jpg)
+" %}
 
 # Step 6: Attach the cable clips
 Attach the two **cable clips** to the **gantry column** using four **M5 x 10mm screws** and **M5 tee nuts**.
 
+{% include gallery.html images="
 ![IMG_20160324_154722.jpg](_images/IMG_20160324_154722.jpg)
-
-
-
 ![IMG_20160324_154729.jpg](_images/IMG_20160324_154729.jpg)
+" %}
 
 # Step 7: Feed the tubing, power cable, and peripheral cables through the tracks cable carrier
 Feed the three **liquid/gas tubes**, **power cable**, and two **peripheral cables** through the **tracks cable carrier**.

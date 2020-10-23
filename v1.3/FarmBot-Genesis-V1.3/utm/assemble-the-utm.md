@@ -97,11 +97,10 @@ Slide three **o-rings** onto the **UTM** 1, 2, and 3 port cones. Each o-ring sho
 # Step 5: Install the electronic contact screws
 Place a **spring** on an **M3 x 30mm screw** and then insert the screw into the **UTM**.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-12 at 9.07.39 PM.png](_images/Screen_Shot_2017-02-12_at_9.07.39_PM.png)
-
-
-
 ![Screen Shot 2017-02-12 at 9.08.37 PM.png](_images/Screen_Shot_2017-02-12_at_9.08.37_PM.png)
+" %}
 
 Using the **2mm hex driver** and the **5.5mm box wrench**, attach an **M3 locknut** onto the screw. Tighten the locknut until the spring is slightly compressed. Once you assemble your first tool, you will be able to check to make sure that the springs are compressed the correct amount.
 
@@ -109,20 +108,18 @@ Using the **2mm hex driver** and the **5.5mm box wrench**, attach an **M3 locknu
 
 Repeat for all holes labelled **A** through **L**.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-12 at 9.10.40 PM.png](_images/Screen_Shot_2017-02-12_at_9.10.40_PM.png)
-
-
-
 ![Screen Shot 2017-02-12 at 9.19.16 PM.png](_images/Screen_Shot_2017-02-12_at_9.19.16_PM.png)
+" %}
 
 # Step 6: Add grommets to the UTM cover
 Insert four **grommets** into the **UTM cover**, ensuring that the grommet flanges are not folded or caught under themselves.
 
+{% include gallery.html images="
 ![Screen Shot 2017-02-12 at 9.13.34 PM.png](_images/Screen_Shot_2017-02-12_at_9.13.34_PM.png)
-
-
-
 ![Screen Shot 2017-02-12 at 9.13.56 PM.png](_images/Screen_Shot_2017-02-12_at_9.13.56_PM.png)
+" %}
 
 # Step 7: Add mounting hardware
 Lightly screw together four **M5 x 16mm screws** and **M5 tee nuts** into the mounting flanges of both the **UTM** and **UTM cover**.

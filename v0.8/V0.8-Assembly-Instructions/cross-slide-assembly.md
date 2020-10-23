@@ -95,13 +95,10 @@ _Note: this picture does not show the other components attached yet. The other c
 
 Add a **V-wheel** with an **eccentric 6mm spacer** to the hole in the middle of the bottom edge of the **Cross-Slide plate**, nearest the **delrin block**.
 
+{% include gallery.html images="
 ![20150113_165938.jpg](_images/20150113_165938.jpg)
-
-
-
 ![20150113_170023.jpg](_images/20150113_170023.jpg)
-
-
+" %}
 
 # Step 6: Add the Cable Carrier Mounting Bracket
 

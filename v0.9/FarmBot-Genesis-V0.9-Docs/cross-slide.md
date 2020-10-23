@@ -116,11 +116,10 @@ Add a **V-wheel** with an **eccentric 6mm spacer** to the hole nearest the middl
 
 Using **M5x30mm screws**, attach two **V-wheels** with **normal 6mm spacers** to the corner holes of the **cross-slide plate**. The V-wheels should be on the same side of the plate as the motor and the delrin leadscrew block. Secure these wheels with a **washer** and an **M5 locknut** on the other side of the plate.
 
+{% include gallery.html images="
 ![IMG_0269.JPG](_images/IMG_0269.JPG)
-
-
-
 ![IMG_0270.JPG](_images/IMG_0270.JPG)
+" %}
 
 ## Step 5: Add the Gantry V-Wheels
 Flip the cross-slide over so that all of the components you have added so far are facing away from you.

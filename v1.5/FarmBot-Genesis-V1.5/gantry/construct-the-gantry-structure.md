@@ -177,11 +177,10 @@ content="The next step requires an additional person to complete."
 
 Lift up the **gantry main beam** and position it onto the front of the **gantry corner brackets**. The cable carrier supports should be on the same side of the main beam as the gantry corner brackets. Secure the main beam in place using four **60mm nut bars** and **M5 x 10mm screws**. The nut bars should be positioned in the *lower two extrusion slots* of the main beam such that the top face of the main beam is 20mm *above* the top edges of the gantry corner brackets.
 
+{% include gallery.html images="
 ![Screen Shot 2020-02-16 at 10.51.21 AM.png](_images/Screen_Shot_2020-02-16_at_10.51.21_AM.png)
-
-
-
 ![Screen Shot 2020-02-16 at 10.50.50 AM.png](_images/Screen_Shot_2020-02-16_at_10.50.50_AM.png)
+" %}
 
 _Note that this image is from the backside of FarmBot_
 

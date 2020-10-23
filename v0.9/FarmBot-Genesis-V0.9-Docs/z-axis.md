@@ -55,11 +55,10 @@ Partially screw two **M5x10mm screws** and **tee nuts** into the **z-axis motor 
 
 Route the **stepper motor’s cable** through the slot opening on the top of the **z-axis motor bracket**.
 
+{% include gallery.html images="
 ![V5_Z-Axis_2.jpg](_images/Axis_2.jpg)
-
-
-
 ![V5_Z-Axis_3.jpg](_images/Axis_3.jpg)
+" %}
 
 Attach the **stepper motor** to the **z-axis motor bracket** with four **M3 x 10mm screws**.
 

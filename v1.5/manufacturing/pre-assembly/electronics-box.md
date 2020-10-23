@@ -39,9 +39,10 @@ Press the **Pi Adapter Board** onto the **Raspberry Pi GPIO pin header**.
 
 Mount the five **push buttons** and four **LED indicator lights** into the top holes in the electronics box. Ensure the colors correspond as shown in the following image.
 
+{% include gallery.html images="
 ![electronics_box_pre_assembly_buttons_and_leds.jpg](_images/electronics_box_pre_assembly_buttons_and_leds.jpg)
-
 ![electronics_box_pre_assembly_buttons_and_leds_2.jpg](_images/electronics_box_pre_assembly_buttons_and_leds_2.jpg)
+" %}
 
 # Step 6: Connect the Pi Power Cable
 

@@ -115,13 +115,10 @@ This modular 2-wire cable connects the power supply to the Farmduino. It feature
 |**Quantity**                  |1
 |**Price**                     |3m: $20.00<br>4.5m: $30.00
 
-
-
+{% include gallery.html images="
 ![IMG_0503.jpg](_images/IMG_0503.jpg)
-
-
-
 ![IMG_0505.jpg](_images/IMG_0505.jpg)
+" %}
 
 # Raspberry Pi 3
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection.
@@ -187,13 +184,10 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 |**Price**                     |$7.00
 |**Quantity**                  |5 total
 
-
-
+{% include gallery.html images="
 ![IMG_0524.jpg](_images/IMG_0524.jpg)
-
-
-
 ![IMG_0525.jpg](_images/IMG_0525.jpg)
+" %}
 
 # LED Indicators
 These waterproof LED indicator lights come pre-mounted on the top of the electronics box. The blue light is reserved for connectivity status, the green light for sync status, and the two white lights are user-customizable. Each light includes a wiring harness and comes pre-connected to the Pi adapter board.
@@ -206,13 +200,10 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 |**Price**                     |$5.00
 |**Quantity**                  |4 total
 
-
-
+{% include gallery.html images="
 ![IMG_0524.jpg](_images/IMG_0524_02.jpg)
-
-
-
 ![IMG_0525.jpg](_images/IMG_0525_02.jpg)
+" %}
 
 # Farmduino
 The Farmduino is an electronics board that combines the functionality of an Arduino MEGA 2560 microcontroller and a RAMPS shield. It features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more.
@@ -457,13 +448,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 |**Price**                     |$6.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![soilsensor1.JPG](_images/soilsensor1.JPG)
-
-
-
 ![soilsensor2.JPG](_images/soilsensor2.JPG)
+" %}
 
 # Soil Sensor Jumpers
 These short wires connect the soil sensor PCB to the M3 electronic screws on the soil sensor base.
@@ -518,13 +506,10 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
-
-
-
 ![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
+" %}
 
 # Vacuum Pump Cable
 This cable connects the vacuum pump to the Farmduino.
@@ -602,13 +587,10 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Camera.JPG](_images/Camera.JPG)
-
-
-
 ![Camera 2.JPG](_images/Camera_2.JPG)
+" %}
 
 # Jumper Links
 These connect the Grounded electronic pin to the Digital In pin, allowing FarmBot to detect when a tool has been mounted or dismounted correctly.

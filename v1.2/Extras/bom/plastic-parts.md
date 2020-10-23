@@ -49,13 +49,10 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 # Vertical Motor Housing
 This component protects the z-axis motor from rain.
 
+{% include gallery.html images="
 ![Vertical Motor Housing 1.JPG](_images/Vertical_Motor_Housing_1.JPG)
-
-
-
 ![Vertical Motor Housing 2.JPG](_images/Vertical_Motor_Housing_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -210,15 +207,10 @@ These plastic bins allow you to load many seeds of the same type into your FarmB
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FguJK9498ZA4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DguJK9498ZA4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FguJK9498ZA4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Seed Bin 2.JPG](_images/Seed_Bin_2.JPG)
-
-
-
 ![Seed Bin 3.JPG](_images/Seed_Bin_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -234,13 +226,10 @@ These plastic bins allow you to load many seeds of the same type into your FarmB
 # Seed Trays
 The seed trays feature 16 small bins allowing you to load 16 precise quantities/types of seeds into your FarmBot.
 
+{% include gallery.html images="
 ![Seed Tray 1.JPG](_images/Seed_Tray_1.JPG)
-
-
-
 ![Seed Trays 3.JPG](_images/Seed_Trays_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -257,15 +246,10 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 
 # Electronics Mounting Plate
 
-
-
+{% include gallery.html images="
 ![Electronics Plate 1.JPG](_images/Electronics_Plate_1.JPG)
-
-
-
 ![Electronics Plate 2.JPG](_images/Electronics_Plate_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

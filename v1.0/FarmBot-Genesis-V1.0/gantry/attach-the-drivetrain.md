@@ -65,11 +65,10 @@ content="Keep in mind that there will be six total cable carrier supports in thi
 
 Place the assembly into the middle slot on the back side of the **gantry main beam** and use the **3mm driver** to tighten the screw. Repeat the process for all six supports.
 
+{% include gallery.html images="
 ![20160831_171201.jpg](_images/20160831_171201.jpg)
-
-
-
 ![20160831_171330.jpg](_images/20160831_171330.jpg)
+" %}
 
 # Step 4: Install the short cable carrier mounts
 Insert two **M5 x 10mm screws** into a **short cable carrier mount** and lightly screw on two **M5 tee nuts**.
@@ -82,20 +81,18 @@ Place the assembly into the middle slot on the back side of the **gantry main be
 
 Repeat the process for another short cable carrier mount, and add it to the bottom of the left side **gantry column**.
 
+{% include gallery.html images="
 ![IMG_20160224_105109.jpg](_images/IMG_20160224_105109.jpg)
-
-
-
 ![IMG_20160224_105155.jpg](_images/IMG_20160224_105155.jpg)
+" %}
 
 # Step 5: Insert the driveshaft
 Slide five bearings onto the driveshaft.
 
+{% include gallery.html images="
 ![20160902_184839.jpg](_images/20160902_184839.jpg)
-
-
-
 ![20160902_185159.jpg](_images/20160902_185159.jpg)
+" %}
 
 _Place driveshaft into supports_
 

@@ -277,9 +277,10 @@ These magnets keep tools attached to the UTM.
 |**Price**                     |$3.00
 |**Quantity**                  |21 (6 extras included, 3 come pre-mounted to the UTM)
 
+{% include gallery.html images="
 ![Magnets 1.jpg](_images/Magnets_1.jpg)
-
 ![Magnet2.jpg](_images/Magnet2.jpg)
+" %}
 
 # Zip Ties
 Zip ties are used to fasten the vacuum pump and solenoid valve to their mounts, and for cable management throughout FarmBot.

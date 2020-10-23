@@ -37,13 +37,10 @@ title=""
 content="Make sure you attach the V-wheels to the correct side of the cross-slide plate as shown."
 %}
 
-
-
+{% include gallery.html images="
 ![cs1.JPG](_images/cs1.JPG)
-
-
-
 ![cs2.JPG](_images/cs2.JPG)
+" %}
 
 _Wheels with normal spacers._
 

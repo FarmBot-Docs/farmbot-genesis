@@ -178,13 +178,10 @@ This is the microcontroller that powers FarmBot. It receives G-code commands fro
 
 # RAMPS Shield
 
+{% include gallery.html images="
 ![RAMPS 1.JPG](_images/RAMPS_1.JPG)
-
-
-
 ![RAMPS 2.JPG](_images/RAMPS_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -324,13 +321,10 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 # Soil Sensor
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
 
+{% include gallery.html images="
 ![Soil Sensor.jpg](_images/Soil_Sensor.jpg)
-
-
-
 ![Soil Sensor 2.jpg](_images/Soil_Sensor_2.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -368,13 +362,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum Pump
 
+{% include gallery.html images="
 ![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
-
-
-
 ![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -386,13 +377,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # RAMPS Power Cables
 
+{% include gallery.html images="
 ![Ramps Power Cable 2.JPG](_images/Ramps_Power_Cable_2.JPG)
-
-
-
 ![RAMPS Power cable 1.JPG](_images/RAMPS_Power_cable_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -410,13 +398,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Raspberry Pi Power Cable
 
+{% include gallery.html images="
 ![Raspberry Pi Cable 2.JPG](_images/Raspberry_Pi_Cable_2.JPG)
-
-
-
 ![Raspberry Pi Cable 1.JPG](_images/Raspberry_Pi_Cable_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -434,13 +419,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Vacuum Pump Cable
 
+{% include gallery.html images="
 ![Vacuum Pump Cable 1.JPG](_images/Vacuum_Pump_Cable_1.JPG)
-
-
-
 ![Vacuum Pump Cable 2.JPG](_images/Vacuum_Pump_Cable_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -458,13 +440,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # Solenoid Valve Cable
 
+{% include gallery.html images="
 ![Solenoid valve cable 1.JPG](_images/Solenoid_valve_cable_1.JPG)
-
-
-
 ![Solenoid valve cable 2.JPG](_images/Solenoid_valve_cable_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -482,13 +461,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 # FarmBot Power Cable
 
+{% include gallery.html images="
 ![Power cable 2.JPG](_images/Power_cable_2.JPG)
-
-
-
 ![Power cable 1.JPG](_images/Power_cable_1.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -507,15 +483,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Camera.JPG](_images/Camera.JPG)
-
-
-
 ![Camera 2.JPG](_images/Camera_2.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

@@ -19,13 +19,10 @@ title="Pre-assembled for your convenience"
 content="As of the v1.4 hardware release, the UTM comes pre-assembled so all you need to do is mount it and connect the cable and tubes!"
 %}
 
-
-
+{% include gallery.html images="
 ![UTM 3.JPG](_images/UTM_3.JPG)
-
-
-
 ![UTM1.JPG](_images/UTM1.JPG)
+" %}
 
 # Pin mapping
 
@@ -81,13 +78,10 @@ Look into the UTM to see where the missing pin is located on each pin header. Th
 Use this information to ensure you insert both connectors in the correct orientation."
 %}
 
-
-
+{% include gallery.html images="
 ![Screen Shot 2018-08-08 at 1.45.27 PM.png](_images/Screen_Shot_2018-08-08_at_1.45.27_PM.png)
-
-
-
 ![Screen Shot 2018-08-08 at 1.46.29 PM.png](_images/Screen_Shot_2018-08-08_at_1.46.29_PM.png)
+" %}
 
 Slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the **UTM**.
 

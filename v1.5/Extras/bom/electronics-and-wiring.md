@@ -100,9 +100,10 @@ This modular 2-wire cable connects the power supply to the Farmduino. It feature
 |**Quantity**                  |1
 |**Price**                     |3m: $20.00<br>4.5m: $30.00<br>10.5m: $70.00
 
+{% include gallery.html images="
 ![IMG_0503.jpg](_images/IMG_0503.jpg)
-
 ![IMG_0505.jpg](_images/IMG_0505.jpg)
+" %}
 
 # Raspberry Pi 3
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection.
@@ -156,9 +157,10 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 |**PCB Color**                 |Black
 |**Quantity**                  |1
 
+{% include gallery.html images="
 ![pi_adapter_board.jpg](_images/pi_adapter_board.jpg)
-
 ![pi_adapter_board_2.jpg](_images/pi_adapter_board_2.jpg)
+" %}
 
 # Push Buttons
 These waterproof push buttons come pre-mounted on the top of the electronics box. The red button is reserved for E-STOP, the yellow for UNLOCK, and the three white ones are user-customizable. Each button includes a wiring harness and comes pre-connected to the Pi adapter board.
@@ -294,9 +296,10 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWzBrtojVykI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzBrtojVykI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWzBrtojVykI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
+{% include gallery.html images="
 ![Motor1.JPG](_images/Motor1.JPG)
-
 ![Motor 2.JPG](_images/Motor_2.JPG)
+" %}
 
 # Motor Cables
 These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
@@ -382,9 +385,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 |**Price**                     |$6.00
 |**Quantity**                  |1
 
+{% include gallery.html images="
 ![7ee4856-Soil_Sensor_PCB.jpeg](_images/Soil_Sensor_PCB.jpeg)
-
 ![340b3a9-Soil_Sensor_PCB_2.jpeg](_images/Soil_Sensor_PCB_2.jpeg)
+" %}
 
 # Solenoid Valve
 This 24V valve controls the flow of water from your garden hose to FarmBot's tubing.
@@ -422,9 +426,10 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 |**Price**                     |$15.00
 |**Quantity**                  |1
 
+{% include gallery.html images="
 ![Vacuum Pump.JPG](_images/Vacuum_Pump.JPG)
-
 ![Vacuum Pump 2.JPG](_images/Vacuum_Pump_2.JPG)
+" %}
 
 # Vacuum Pump Cable
 This cable connects the vacuum pump to the Farmduino.
