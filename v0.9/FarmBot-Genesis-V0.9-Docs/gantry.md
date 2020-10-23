@@ -125,15 +125,11 @@ Add an **M5 washer** and an **M5 locknut** and tighten.
 
 Repeat the above steps for the remaining V-wheel attached with the *eccentric* spacer. You should end up with one completed gantry plate assembly.
 
+{% include gallery.html images="
 ![IMG_1930.JPG](_images/IMG_1930.JPG)
-
-
-
 ![IMG_1931.JPG](_images/IMG_1931.JPG)
-
-
-
 ![IMG_1932.JPG](_images/IMG_1932.JPG)
+" %}
 
 Repeat the above steps for the second gantry plate assembly. You should end up with two gantry plate assemblies that are mirror images of each other.
 
@@ -347,15 +343,11 @@ Slide four tee nuts onto the **back side** of the gantry main beam. Two tee nuts
 
 Lift up the main beam and position it onto the front side of the corner bracket. Align the tee nuts with the holes in the corner bracket and then insert and tighten four M5 x 10mm screws.
 
+{% include gallery.html images="
 ![IMG_1977.JPG](_images/IMG_1977.JPG)
-
-
-
 ![IMG_1978.JPG](_images/IMG_1978.JPG)
-
-
-
 ![IMG_1979.JPG](_images/IMG_1979.JPG)
+" %}
 
 Repeat the above steps to attach the gantry main beam to the second corner bracket. Note: Genesis XL kits require an additional five tee nuts placed in the middle slot of the extrusion for the additional cable carrier/driveshaft support brackets. Standard kits do not require anymore tee nuts in the middle slot.
 

@@ -9,15 +9,11 @@ slug: "gantry"
 ## Gantry Change Log
   * No changes were made
 
+{% include gallery.html images="
 ![V5_Gantry_Render_1.jpg](_images/V5_Gantry_Render_1.jpg)
-
-
-
 ![V5_Gantry_Render_2.jpg](_images/V5_Gantry_Render_2.jpg)
-
-
-
 ![V5_Gantry_Render_3.jpg](_images/V5_Gantry_Render_3.jpg)
+" %}
 
 ## Gantry Assembly Instructions
 **Assemble the Gantry Plates**
@@ -60,13 +56,9 @@ slug: "gantry"
 **Attach Gantry to Tracks**
   * Feed and Secure Belts
 
+{% include gallery.html images="
 ![V5_Belt_Feed_1.jpg](_images/V5_Belt_Feed_1.jpg)
-
-
-
 ![V5_Belt_Feed_2.jpg](_images/V5_Belt_Feed_2.jpg)
-
-
-
 ![V5_Belt_Feed_3.jpg](_images/V5_Belt_Feed_3.jpg)
+" %}
 

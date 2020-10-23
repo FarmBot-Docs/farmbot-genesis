@@ -94,15 +94,11 @@ Position a **track joining plate** such that one half of it will be able to atta
 # Step 5: Attach the first track extrusion
 Attach the first **track extrusion** to the **track end plate** and **track joining plate** using a **60mm nut bar**, **40mm nut bar**, and **M5 x 10mm screws**.
 
+{% include gallery.html images="
 ![Screen Shot 2020-02-15 at 6.39.39 PM.png](_images/Screen_Shot_2020-02-15_at_6.39.39_PM.png)
-
-
-
 ![Screen Shot 2020-02-15 at 10.59.20 PM.png](_images/Screen_Shot_2020-02-15_at_10.59.20_PM.png)
-
-
-
 ![Screen Shot 2020-02-15 at 11.00.05 PM.png](_images/Screen_Shot_2020-02-15_at_11.00.05_PM.png)
+" %}
 
 # Step 6: Attach the next extrusion
 

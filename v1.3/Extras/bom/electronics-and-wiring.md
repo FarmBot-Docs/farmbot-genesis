@@ -53,17 +53,11 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 |**Price**                     |$95.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![v1.3-Electronics-Box-1.jpg](_images/v1.3-Electronics-Box-1.jpg)
-
-
-
 ![v1.3-Electronics-Box-2.jpg](_images/v1.3-Electronics-Box-2.jpg)
-
-
-
 ![v1.3-Electronics-Box.jpg](_images/v1.3-Electronics-Box.jpg)
+" %}
 
 # Electronics Mounting Plate
 This acrylic plate allows you to mount the v1.3 Farmduino and Raspberry Pi 3 into the v1.3 Electronics Box. Note: the plate comes with a brown protective film which you can peel off to reveal the clear acrylic.
@@ -94,17 +88,11 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 |**Price**                     |$60.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![PSU1.JPG](_images/PSU1.JPG)
-
-
-
 ![PSU.JPG](_images/PSU.JPG)
-
-
-
 ![PSU2.JPG](_images/PSU2.JPG)
+" %}
 
 # Raspberry Pi 3
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection.
@@ -126,17 +114,11 @@ This is the "host computer" of FarmBot. You might also call it FarmBot's brain. 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Pi.JPG](_images/Pi.JPG)
-
-
-
 ![Pi 2.JPG](_images/Pi_2.JPG)
-
-
-
 ![Pi 3.JPG](_images/Pi_3.JPG)
+" %}
 
 # MicroSD Card
 The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
@@ -180,17 +162,11 @@ content="[Click here to download](https://drive.google.com/drive/folders/0B-wExY
 |**Price**                     |$90.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Farmduino.JPG](_images/Farmduino.JPG)
-
-
-
 ![Farmduino2.JPG](_images/Farmduino2.JPG)
-
-
-
 ![Farmduino 3.JPG](_images/Farmduino_3.JPG)
+" %}
 
 # Stepper Drivers
 These drivers convert step and direction signals from the microcontroller into powerful electrical pulses sent to the NEMA 17 stepper motors to allow them to move. All of the stepper drivers have been pre-mounted and tested on Farmduino.
@@ -295,17 +271,11 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F_gMozmqbavk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_gMozmqbavk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F_gMozmqbavk%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Motor1.JPG](_images/Motor1.JPG)
-
-
-
 ![Motor 2.JPG](_images/Motor_2.JPG)
-
-
-
 ![Motor3.JPG](_images/Motor3.JPG)
+" %}
 
 # Motor Cables
 These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
@@ -457,17 +427,11 @@ This 12V valve controls the flow of water from your garden hose to FarmBot's tub
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
-
-
-
 ![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
-
-
-
 ![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
+" %}
 
 # Vacuum Pump
 This 12V vacuum pump sucks air through the seeder's luer lock needle in order to suction-hold a seed on the needle tip during planting.

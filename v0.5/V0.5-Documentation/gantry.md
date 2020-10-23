@@ -11,15 +11,11 @@ slug: "gantry"
   * A servo valve has been added to the Gantry column to control the Watering Nozzle Tool
   * The corner brackets are now smaller to save on material and to keep the spacing of all bracket M5 holes to 20mm
 
+{% include gallery.html images="
 ![V5_Gantry_Render_1.jpg](_images/V5_Gantry_Render_1.jpg)
-
-
-
 ![V5_Gantry_Render_2.jpg](_images/V5_Gantry_Render_2.jpg)
-
-
-
 ![V5_Gantry_Render_3.jpg](_images/V5_Gantry_Render_3.jpg)
+" %}
 
 ## Gantry Assembly Instructions
 **Assemble the Gantry Plates**
@@ -62,13 +58,9 @@ slug: "gantry"
 **Attach Gantry to Tracks**
   * Feed and Secure Belts
 
+{% include gallery.html images="
 ![V5_Belt_Feed_1.jpg](_images/V5_Belt_Feed_1.jpg)
-
-
-
 ![V5_Belt_Feed_2.jpg](_images/V5_Belt_Feed_2.jpg)
-
-
-
 ![V5_Belt_Feed_3.jpg](_images/V5_Belt_Feed_3.jpg)
+" %}
 

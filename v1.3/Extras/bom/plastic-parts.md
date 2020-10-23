@@ -46,17 +46,11 @@ These parts are used to mount and support both the x-axis and y-axis cable carri
 |**Price**                     |$3.00
 |**Quantity**                  |18
 
-
-
+{% include gallery.html images="
 ![HCCS0.JPG](_images/HCCS0.JPG)
-
-
-
 ![HCCS1.JPG](_images/HCCS1.JPG)
-
-
-
 ![HCCS2.JPG](_images/HCCS2.JPG)
+" %}
 
 # Vertical Cable Carrier Supports
 These parts are used to guide and support the z-axis cable carrier. The gusset also functions as an area for the z-axis motor's cables to be routed through.
@@ -138,17 +132,11 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCQfkuFBVsek%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCQfkuFBVsek&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCQfkuFBVsek%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
-
-
-
 ![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
-
-
-
 ![Horizontal Motor Housings.JPG](_images/Horizontal_Motor_Housings.JPG)
+" %}
 
 # Vertical Motor Housing
 This component protects the z-axis motor from rain.

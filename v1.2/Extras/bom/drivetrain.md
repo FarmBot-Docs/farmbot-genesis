@@ -51,17 +51,11 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 # Bearings
 These stainless steel bearings resist corrosion and have rubber seals to keep debris out. Two of them are used in every V-wheel, and one is used to support the driveshaft in the driveshaft bearing plate.
 
+{% include gallery.html images="
 ![Bearing1.JPG](_images/Bearing1.JPG)
-
-
-
 ![Bearing 2.JPG](_images/Bearing_2.JPG)
-
-
-
 ![Bearings 3.JPG](_images/Bearings_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -148,17 +142,11 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 # 5mm to 8mm Flex Coupling
 This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction.
 
+{% include gallery.html images="
 ![Flex Coupling 1.JPG](_images/Flex_Coupling_1.JPG)
-
-
-
 ![Flex Coupling2.JPG](_images/Flex_Coupling2.JPG)
-
-
-
 ![Flex Coupling 3.JPG](_images/Flex_Coupling_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

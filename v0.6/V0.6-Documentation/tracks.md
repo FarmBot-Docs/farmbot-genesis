@@ -9,15 +9,11 @@ slug: "tracks"
 ## Change Log
 * No changes were made
 
+{% include gallery.html images="
 ![V5_Tracks_Render_1.jpg](_images/V5_Tracks_Render_1.jpg)
-
-
-
 ![V5_Tracks_Render_2.jpg](_images/V5_Tracks_Render_2.jpg)
-
-
-
 ![V5_Tool_Bay_Render_1.jpg](_images/V5_Tool_Bay_Render_1.jpg)
+" %}
 
 ## Assembly Instructions
 **Setup the Posts**

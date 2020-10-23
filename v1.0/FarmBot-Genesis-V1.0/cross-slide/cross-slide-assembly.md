@@ -18,15 +18,11 @@ content="This is the estimated time it will take to assemble the Cross-Slide."
 
 Using **M5 x 30mm screws**, **M5 washers**, and **M5 locknuts**, attach four **V-wheels** with **normal 6mm spacers** to the holes shown with normal spacers.
 
+{% include gallery.html images="
 ![IMG_6611.jpg](_images/IMG_6611.jpg)
-
-
-
 ![IMG_6609.jpg](_images/IMG_6609.jpg)
-
-
-
 ![IMG_6608.jpg](_images/IMG_6608.jpg)
+" %}
 
 Add three **V-wheels** with **eccentric 6mm spacers** to the holes shown with eccentric spacers.
 

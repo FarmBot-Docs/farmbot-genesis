@@ -125,17 +125,11 @@ title="Pro-tip"
 content="It is easiest to partially screw together all of the screws and tee nuts, slide in the extrusion, and then tighten all of the screws at once."
 %}
 
-
-
+{% include gallery.html images="
 ![20150113_163624.jpg](_images/20150113_163624.jpg)
-
-
-
 ![20150113_163644.jpg](_images/20150113_163644.jpg)
-
-
-
 ![20150113_163658.jpg](_images/20150113_163658.jpg)
+" %}
 
 Now slide your gantry column and plate assemblies onto your tracks.
 

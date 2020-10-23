@@ -29,19 +29,11 @@ These parts protect the gantry motors and the cross-slide motor from rain.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FCQfkuFBVsek%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DCQfkuFBVsek&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FCQfkuFBVsek%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
-
-
-
 ![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
-
-
-
 ![Horizontal Motor Housings.JPG](_images/Horizontal_Motor_Housings.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -103,17 +95,11 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 # Universal Tool Mount Cover
 This cover protects the top of the UTM from the rain and dust.
 
+{% include gallery.html images="
 ![UTM Cover 1.JPG](_images/UTM_Cover_1.JPG)
-
-
-
 ![UTM Cover 2.JPG](_images/UTM_Cover_2.JPG)
-
-
-
 ![UTM Cover 3.JPG](_images/UTM_Cover_3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -131,19 +117,11 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnXFdJIQaQB4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnXFdJIQaQB4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnXFdJIQaQB4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Seeder2.JPG](_images/Seeder2.JPG)
-
-
-
 ![Seeder1.JPG](_images/Seeder1.JPG)
-
-
-
 ![Seeder3.JPG](_images/Seeder3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -210,19 +188,11 @@ This tool acts as a mount for the soil sensor circuit board.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fp6CPnJoHf8E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp6CPnJoHf8E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fp6CPnJoHf8E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Soil Sensor 2.JPG](_images/Soil_Sensor_2.JPG)
-
-
-
 ![Soil Sensor1.JPG](_images/Soil_Sensor1.JPG)
-
-
-
 ![Soil Sensor3.JPG](_images/Soil_Sensor3.JPG)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

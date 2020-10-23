@@ -109,16 +109,11 @@ Insert four **rubber seals** into the **UTM cover**.
 
  Ensure that the seal flanges are not folded or caught under themselves.
 
+{% include gallery.html images="
 ![IMG_20160324_181944.jpg](_images/IMG_20160324_181944.jpg)
-
-
-
 ![IMG_20160324_182004.jpg](_images/IMG_20160324_182004.jpg)
-
-
-
 ![IMG_20160324_182106.jpg](_images/IMG_20160324_182106.jpg)
-
+" %}
 
 # What's next?
 

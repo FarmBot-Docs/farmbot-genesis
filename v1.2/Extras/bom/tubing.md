@@ -207,17 +207,11 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 
 # Luer Lock Needles
 
+{% include gallery.html images="
 ![Luer.jpg](_images/Luer.jpg)
-
-
-
 ![Luer1.jpg](_images/Luer1.jpg)
-
-
-
 ![Luer 2.jpg](_images/Luer_2.jpg)
-
-
+" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

@@ -27,15 +27,11 @@ Feed the **UTM cable**, all three **liquid/gas tubes**, and the **z-axis motor/e
 # Step 3: Attach the Z-axis Cable Carrier
 Attach the **z-axis cable carrier** to the **cross-slide plate** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 
+{% include gallery.html images="
 ![IMG_20160320_145356.jpg](_images/IMG_20160320_145356.jpg)
-
-
-
 ![IMG_20160320_145512.jpg](_images/IMG_20160320_145512.jpg)
-
-
-
 ![IMG_20160320_145553.jpg](_images/IMG_20160320_145553.jpg)
+" %}
 
 Attach the **z-axis cable carrier** to the **z-axis cable carrier mounting plate** using two **M5 x 16mm screws**, **M5 washers**, and **M5 locknuts**.
 

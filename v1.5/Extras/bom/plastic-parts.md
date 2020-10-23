@@ -65,17 +65,11 @@ These parts are used to mount and support the y-axis cable carrier. The gusset a
 |**Quantity**                  |Genesis - 6<br>Genesis XL and MAX - 12
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-
-
+{% include gallery.html images="
 ![HCCS0.JPG](_images/HCCS0.JPG)
-
-
-
 ![HCCS1.JPG](_images/HCCS1.JPG)
-
-
-
 ![HCCS2.JPG](_images/HCCS2.JPG)
+" %}
 
 # 60mm Vertical Cable Carrier Support
 These parts are used to guide and support the z-axis cable carrier. The gusset also functions as an area for the z-axis motor's cables to be routed through.

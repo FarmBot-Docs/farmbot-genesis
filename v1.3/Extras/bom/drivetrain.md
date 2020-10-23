@@ -61,17 +61,11 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 |**Price**                     |$2.50
 |**Quantity**                  |60
 
-
-
+{% include gallery.html images="
 ![Bearing1.JPG](_images/Bearing1.JPG)
-
-
-
 ![Bearing 2.JPG](_images/Bearing_2.JPG)
-
-
-
 ![Bearings 3.JPG](_images/Bearings_3.JPG)
+" %}
 
 # M5 Shims
 These precision shims are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
@@ -153,17 +147,11 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 |**Price**                     |$6.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![Flex Coupling 1.JPG](_images/Flex_Coupling_1.JPG)
-
-
-
 ![Flex Coupling2.JPG](_images/Flex_Coupling2.JPG)
-
-
-
 ![Flex Coupling 3.JPG](_images/Flex_Coupling_3.JPG)
+" %}
 
 # 8mm ACME Leadscrew
 

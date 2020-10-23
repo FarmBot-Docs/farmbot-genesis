@@ -75,17 +75,11 @@ content="As of the v1.4 release the electronics box, push-buttons, LED indicator
 |**Price**                     |$95.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![IMG_0515.jpg](_images/IMG_0515.jpg)
-
-
-
 ![IMG_0517.jpg](_images/IMG_0517.jpg)
-
-
-
 ![IMG_0526.jpg](_images/IMG_0526.jpg)
+" %}
 
 # Power Supply
 This universal input IP67 waterproof power supply provides FarmBot with all the electricity it needs.
@@ -102,17 +96,11 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 |**Price**                     |$60.00
 |**Quantity**                  |1
 
-
-
+{% include gallery.html images="
 ![IMG_0507.jpg](_images/IMG_0507.jpg)
-
-
-
 ![IMG_0509.jpg](_images/IMG_0509.jpg)
-
-
-
 ![IMG_0512.jpg](_images/IMG_0512.jpg)
+" %}
 
 # Power Supply Cable
 This modular 2-wire cable connects the power supply to the Farmduino. It features a waterproof 2-pin connector to attach to the power supply, and a red molex connector to attach to the Farmduino. It comes in two lengths: 3m and 4.5m for Genesis and Genesis XL kits respectively.
@@ -155,17 +143,11 @@ This is the "host computer" of FarmBot. You might also call it FarmBot's brain. 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Pi.JPG](_images/Pi.JPG)
-
-
-
 ![Pi 2.JPG](_images/Pi_2.JPG)
-
-
-
 ![Pi 3.JPG](_images/Pi_3.JPG)
+" %}
 
 # MicroSD Card
 The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
@@ -370,17 +352,11 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWzBrtojVykI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzBrtojVykI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWzBrtojVykI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
-
-
+{% include gallery.html images="
 ![Motor1.JPG](_images/Motor1.JPG)
-
-
-
 ![Motor 2.JPG](_images/Motor_2.JPG)
-
-
-
 ![Motor3.JPG](_images/Motor3.JPG)
+" %}
 
 # Motor Cables
 These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
@@ -463,17 +439,11 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh_3c8-A966E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_3c8-A966E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh_3c8-A966E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![IMG_0492.jpg](_images/IMG_0492.jpg)
-
-
-
 ![IMG_0494.jpg](_images/IMG_0494.jpg)
-
-
-
 ![IMG_0496.jpg](_images/IMG_0496.jpg)
+" %}
 
 # Soil Sensor PCB
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
@@ -532,17 +502,11 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-
-
+{% include gallery.html images="
 ![Solenoid Valve.JPG](_images/Solenoid_Valve.JPG)
-
-
-
 ![Solenoid Valve 2.JPG](_images/Solenoid_Valve_2.JPG)
-
-
-
 ![Solenoid Valve 3.JPG](_images/Solenoid_Valve_3.JPG)
+" %}
 
 # Vacuum Pump
 This 24V vacuum pump sucks air through the seeder's luer lock needle in order to suction-hold a seed on the needle tip during planting.

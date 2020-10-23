@@ -108,15 +108,11 @@ Make sure that one of the setscrews is lined up with the flat spot of the shaft 
 ## Step 4: Add on the Z-Axis V-Wheels
 Add a **V-wheel** with an **eccentric 6mm spacer** to the hole nearest the middle of the **cross-slide plate**. The V-wheel should be on the same side of the plate as the other components and secured with a **washer** and an **M5 locknut** on the other side.
 
+{% include gallery.html images="
 ![IMG_0237 (1).JPG](_images/IMG_0237_(1).JPG)
-
-
-
 ![IMG_0267.JPG](_images/IMG_0267.JPG)
-
-
-
 ![IMG_0268.JPG](_images/IMG_0268.JPG)
+" %}
 
 Using **M5x30mm screws**, attach two **V-wheels** with **normal 6mm spacers** to the corner holes of the **cross-slide plate**. The V-wheels should be on the same side of the plate as the motor and the delrin leadscrew block. Secure these wheels with a **washer** and an **M5 locknut** on the other side of the plate.
 
