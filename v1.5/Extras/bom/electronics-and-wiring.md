@@ -8,41 +8,41 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 {:toc}
 
 
-|Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|[Electronics Box](#electronics-box)|$95.00                        |1                             |$95.00                        |1                             |$95.00                        |1                             |$95.00
-|[Power Supply](#power-supply)|$60.00                        |1                             |$60.00                        |1                             |$60.00                        |1                             |$60.00
-|[Power Supply Cable](#power-supply-cable)|$20.00 to $70.00              |1                             |$20.00                        |1                             |$30.00                        |1                             |$70.00
-|[Raspberry Pi 3](#raspberry-pi-3)|$40.00                        |1                             |$40.00                        |1                             |$40.00                        |1                             |$40.00
-|[MicroSD Card](#microsd-card)|$15.00                        |1                             |$15.00                        |1                             |$15.00                        |1                             |$15.00
-|[Pi Adapter Board](#pi-adapter-board)|$10.00                        |1                             |$10.00                        |1                             |$10.00                        |1                             |$10.00
-|[Push Buttons](#push-buttons)|$7.00                         |5                             |$35.00                        |5                             |$35.00                        |5                             |$35.00
-|[LED Indicators](#led-indicators)|$5.00                         |4                             |$20.00                        |4                             |$20.00                        |4                             |$20.00
-|[Farmduino](#farmduino)|$120.00                       |1                             |$120.00                       |1                             |$120.00                       |1                             |$120.00
-|[Raspberry Pi Power Cable](#raspberry-pi-power-cable)|$5.00                         |1                             |$5.00                         |1                             |$5.00                         |1                             |$5.00
-|[Farmduino Data Cable](#farmduino-data-cable)|$5.00                         |1                             |$5.00                         |1                             |$5.00                         |1                             |$5.00
-|[Jumper Wires](#jumper-wires)|$0.25                         |12                            |$3.00                         |12                            |$3.00                         |12                            |$3.00
-|[NEMA 17 Stepper Motors with Rotary Encoders](#nema-17-stepper-motors-with-rotary-encoders)|$60.00                        |4                             |$240.00                       |4                             |$240.00                       |4                             |$240.00
-|[Motor Cables](#motor-cables)|$15.00 to $32.00              |4                             |$80.00                        |4                             |$95.00                        |4                             |$95.00
-|[Encoder Cables](#encoder-cables)|$20.00 to $37.00              |4                             |$100.00                       |4                             |$115.00                       |4                             |$115.00
-|[X-Axis Cable Carrier](#cable-carrier)|$40.00 to $200.00             |1                             |$40.00                        |1                             |$70.00                        |1                             |$200.00
-|[Y-Axis Cable Carrier](#cable-carrier)|$50.00 to $80.00              |1                             |$50.00                        |1                             |$80.00                        |1                             |$80.00
-|[Z-Axis Cable Carrier](#cable-carrier)|$30.00                        |1                             |$30.00                        |1                             |$30.00                        |1                             |$30.00
-|[Universal Tool Mount Cable](#universal-tool-mount-cable)|$40.00 to $50.00              |1                             |$40.00                        |1                             |$50.00                        |1                             |$50.00
-|[Soil Sensor PCB](#soil-sensor-pcb)|$6.00                         |1                             |$6.00                         |1                             |$6.00                         |1                             |$6.00
-|[Solenoid Valve](#solenoid-valve)|$8.00                         |1                             |$8.00                         |1                             |$8.00                         |1                             |$8.00
-|[Solenoid Valve Cable](#solenoid-valve-cable)|$10.00                        |1                             |$10.00                        |1                             |$10.00                        |1                             |$10.00
-|[Vacuum Pump](#vacuum-pump)|$15.00                        |1                             |$15.00                        |1                             |$15.00                        |1                             |$15.00
-|[Vacuum Pump Cable](#vacuum-pump-cable)|$15.00 to $20.00              |1                             |$15.00                        |1                             |$20.00                        |1                             |$20.00
-|[Peripheral Leads](#peripheral-leads)|$3.00                         |2                             |$6.00                         |2                             |$6.00                         |2                             |$6.00
-|[Camera](#camera)     |$30.00                        |1                             |$30.00                        |1                             |$30.00                        |1                             |$30.00
-|[Camera Cable](#camera-cable)|$15.00 to $20.00              |1                             |$15.00                        |1                             |$20.00                        |1                             |$20.00
-|[Camera Calibration Card](#camera-calibration-card)|$1.00                         |1                             |$1.00                         |1                             |$1.00                         |1                             |$1.00
-|[Jumper Links](#jumper-links)|$0.25                         |4                             |$1.00                         |4                             |$1.00                         |4                             |$1.00
-|[LED Strip](#led-strip)|$25.00 to $50.00              |1                             |$25.00                        |1                             |$50.00                        |1                             |$50.00
-|[UTM PCB](#utm-pcb)   |$35.00                        |1                             |$35.00                        |1                             |$35.00                        |1                             |$35.00
-|[Power Cord Protector](#power-cord-protector)|$7.00                         |1                             |$7.00                         |1                             |$7.00                         |1                             |$7.00
-|**TOTALS**                    |                              |**68**                        |**$1,187.00**                 |**68**                        |**$1,337.00**                 |**68**                        |**$1,467.00**
+|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
+|---------|------|-----------|----------------|------|-----------|-------|------------|
+|[Electronics Box](#electronics-box)|$95.00|1|$95.00|1|$95.00|1|$95.00
+|[Power Supply](#power-supply)|$60.00|1|$60.00|1|$60.00|1|$60.00
+|[Power Supply Cable](#power-supply-cable)|$20.00 to $70.00|1|$20.00|1|$30.00|1|$70.00
+|[Raspberry Pi 3](#raspberry-pi-3)|$40.00|1|$40.00|1|$40.00|1|$40.00
+|[MicroSD Card](#microsd-card)|$15.00|1|$15.00|1|$15.00|1|$15.00
+|[Pi Adapter Board](#pi-adapter-board)|$10.00|1|$10.00|1|$10.00|1|$10.00
+|[Push Buttons](#push-buttons)|$7.00|5|$35.00|5|$35.00|5|$35.00
+|[LED Indicators](#led-indicators)|$5.00|4|$20.00|4|$20.00|4|$20.00
+|[Farmduino](#farmduino)|$120.00|1|$120.00|1|$120.00|1|$120.00
+|[Raspberry Pi Power Cable](#raspberry-pi-power-cable)|$5.00|1|$5.00|1|$5.00|1|$5.00
+|[Farmduino Data Cable](#farmduino-data-cable)|$5.00|1|$5.00|1|$5.00|1|$5.00
+|[Jumper Wires](#jumper-wires)|$0.25|12|$3.00|12|$3.00|12|$3.00
+|[NEMA 17 Stepper Motors with Rotary Encoders](#nema-17-stepper-motors-with-rotary-encoders)|$60.00|4|$240.00|4|$240.00|4|$240.00
+|[Motor Cables](#motor-cables)|$15.00 to $32.00|4|$80.00|4|$95.00|4|$95.00
+|[Encoder Cables](#encoder-cables)|$20.00 to $37.00|4|$100.00|4|$115.00|4|$115.00
+|[X-Axis Cable Carrier](#cable-carrier)|$40.00 to $200.00|1|$40.00|1|$70.00|1|$200.00
+|[Y-Axis Cable Carrier](#cable-carrier)|$50.00 to $80.00|1|$50.00|1|$80.00|1|$80.00
+|[Z-Axis Cable Carrier](#cable-carrier)|$30.00|1|$30.00|1|$30.00|1|$30.00
+|[Universal Tool Mount Cable](#universal-tool-mount-cable)|$40.00 to $50.00|1|$40.00|1|$50.00|1|$50.00
+|[Soil Sensor PCB](#soil-sensor-pcb)|$6.00|1|$6.00|1|$6.00|1|$6.00
+|[Solenoid Valve](#solenoid-valve)|$8.00|1|$8.00|1|$8.00|1|$8.00
+|[Solenoid Valve Cable](#solenoid-valve-cable)|$10.00|1|$10.00|1|$10.00|1|$10.00
+|[Vacuum Pump](#vacuum-pump)|$15.00|1|$15.00|1|$15.00|1|$15.00
+|[Vacuum Pump Cable](#vacuum-pump-cable)|$15.00 to $20.00|1|$15.00|1|$20.00|1|$20.00
+|[Peripheral Leads](#peripheral-leads)|$3.00|2|$6.00|2|$6.00|2|$6.00
+|[Camera](#camera)|$30.00|1|$30.00|1|$30.00|1|$30.00
+|[Camera Cable](#camera-cable)|$15.00 to $20.00|1|$15.00|1|$20.00|1|$20.00
+|[Camera Calibration Card](#camera-calibration-card)|$1.00|1|$1.00|1|$1.00|1|$1.00
+|[Jumper Links](#jumper-links)|$0.25|4|$1.00|4|$1.00|4|$1.00
+|[LED Strip](#led-strip)|$25.00 to $50.00|1|$25.00|1|$50.00|1|$50.00
+|[UTM PCB](#utm-pcb)|$35.00|1|$35.00|1|$35.00|1|$35.00
+|[Power Cord Protector](#power-cord-protector)|$7.00|1|$7.00|1|$7.00|1|$7.00
+|**TOTALS**||**68**|**$1,187.00**|**68**|**$1,337.00**|**68**|**$1,467.00**
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3qtDwTwSx9w%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3qtDwTwSx9w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3qtDwTwSx9w%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
@@ -302,7 +302,7 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 " %}
 
 # Motor Cables
-These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `ZY`. Z-axis cables are split into a Y-axis section labelled `ZY` and a Z-axis section labelled `ZZ`.
+These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `ZY`. The Z-axis cable is split into a Y-axis section labelled `ZY` and a Z-axis section labelled `ZZ` that connect with a 90-degree screw-together waterproof connection at the cross-slide.
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -314,10 +314,14 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Outer Color**               |Black
 |**Price**                     |**Genesis**<br>0.95m - $15.00<br>2.6m - $18.00<br>3.1m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.95m - $15.00<br>4.1m - $23.00<br>4.6m - $25.00<br>4.1m+1.8m - $35.00
 
-![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
+{% include gallery.html images="
+![Motor cables](_images/motor_cables_1.JPG)
+![Motor cables](_images/motor_cables_2.JPG)
+![Motor cables](_images/motor_cables_3.JPG)
+" %}
 
 # Encoder Cables
-These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `ZY`. The Z-axis cables are split into a Y-axis section labelled `ZY` and a Z-axis section labelled `ZZ`.
+These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `ZY`. The Z-axis cable is split into a Y-axis section labelled `ZY` and a Z-axis section labelled `ZZ` that connect with a 90-degree screw-together waterproof connection at the cross-slide.
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -329,7 +333,11 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Outer Color**               |Black
 |**Price**                     |**Genesis**<br>0.95m - $20.00<br>2.6m - $23.00<br>3.1m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.95m - $20.00<br>4.1m - $28.00<br>4.6m - $30.00<br>4.1m+1.8m - $40.00
 
-![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
+{% include gallery.html images="
+![Encoder cables](_images/encoder_cables_1.JPG)
+![Encoder cables](_images/encoder_cables_2.JPG)
+![Encoder cables](_images/encoder_cables_3.JPG)
+" %}
 
 # Cable Carrier
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes.
@@ -432,22 +440,29 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 " %}
 
 # Vacuum Pump Cable
-This cable connects the vacuum pump to the Farmduino.
+This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a Y-axis section labelled `Y` and a Z-axis section labelled `Z` that connect with a 90-degree screw-together waterproof connection at the cross-slide.
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Wire Type**                 |18 AWG stranded copper, 2 core
-|**Length**                    |Genesis: 4.3m<br>Genesis XL: 5.8m
+|**Lengths**                   |**Genesis**<br>Y-axis section: 2.6m<br>Z-axis section: 1.0m<br><br>**Genesis XL**<br>Y-axis section: 4.1m<br>Z-axis section: 1.0m
 |**Rated Voltage**             |300V
 |**Inner Colors**              |Red and black
 |**Outer Color**               |Black
 |**Heat Shrink Color**         |Gray
-|**Connector 1**               |Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-|**Connector 2**               |Two 3/16" female shielded quick-connect terminals
-|**Price**                     |4.3m - $15.00<br>5.8m - $20.00
+|**Farmduino connector**       |Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
+|**Vacuum pump connectors**    |Two 3/16" female shielded quick-connect terminals
+|**Price**                     |Genesis - $20.00<br>Genesis XL - $25.00
 |**Quantity**                  |1
 
-![Vacuum Pump Cable.jpg](_images/Vacuum_Pump_Cable.jpg)
+{% include gallery.html images="
+![Vacuum Pump Cable](_images/vacuum_pump_cable_1.JPG)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_2.JPG)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_3.JPG)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_4.JPG)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_5.JPG)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_6.JPG)
+" %}
 
 # Solenoid Valve Cable
 This cable connects the solenoid valve to the Farmduino.
