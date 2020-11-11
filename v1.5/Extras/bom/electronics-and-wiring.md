@@ -315,9 +315,9 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Price**                     |**Genesis**<br>0.95m - $15.00<br>2.6m - $18.00<br>3.1m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.95m - $15.00<br>4.1m - $23.00<br>4.6m - $25.00<br>4.1m+1.8m - $35.00
 
 {% include gallery.html images="
-![Motor cables](_images/motor_cables_1.JPG)
-![Motor cables](_images/motor_cables_2.JPG)
-![Motor cables](_images/motor_cables_3.JPG)
+![Motor cables](_images/motor_cables_1.jpg)
+![Motor cables](_images/motor_cables_2.jpg)
+![Motor cables](_images/motor_cables_3.jpg)
 " %}
 
 # Encoder Cables
@@ -334,9 +334,9 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Price**                     |**Genesis**<br>0.95m - $20.00<br>2.6m - $23.00<br>3.1m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.95m - $20.00<br>4.1m - $28.00<br>4.6m - $30.00<br>4.1m+1.8m - $40.00
 
 {% include gallery.html images="
-![Encoder cables](_images/encoder_cables_1.JPG)
-![Encoder cables](_images/encoder_cables_2.JPG)
-![Encoder cables](_images/encoder_cables_3.JPG)
+![Encoder cables](_images/encoder_cables_1.jpg)
+![Encoder cables](_images/encoder_cables_2.jpg)
+![Encoder cables](_images/encoder_cables_3.jpg)
 " %}
 
 # Cable Carrier
@@ -456,12 +456,12 @@ This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a 
 |**Quantity**                  |1
 
 {% include gallery.html images="
-![Vacuum Pump Cable](_images/vacuum_pump_cable_1.JPG)
-![Vacuum Pump Cable](_images/vacuum_pump_cable_2.JPG)
-![Vacuum Pump Cable](_images/vacuum_pump_cable_3.JPG)
-![Vacuum Pump Cable](_images/vacuum_pump_cable_4.JPG)
-![Vacuum Pump Cable](_images/vacuum_pump_cable_5.JPG)
-![Vacuum Pump Cable](_images/vacuum_pump_cable_6.JPG)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_1.jpg)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_2.jpg)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_3.jpg)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_4.jpg)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_5.jpg)
+![Vacuum Pump Cable](_images/vacuum_pump_cable_6.jpg)
 " %}
 
 # Solenoid Valve Cable

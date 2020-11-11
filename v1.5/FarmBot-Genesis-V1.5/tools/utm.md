@@ -65,7 +65,7 @@ Insert two **M5 x 16mm screws** and **tee nuts** into the **UTM**, and then posi
 ![Screen Shot 2018-08-08 at 1.17.51 PM.png](_images/Screen_Shot_2018-08-08_at_1.17.51_PM.png)
 
 # Step 2: Connect the UTM Cable
-Insert the two UTM Cable Connectors into the top of the UTM. Note: The black and yellow connectors of the cable correspond to the black and yellow pin headers inside the UTM.
+Insert the two UTM Cable Connectors into the top of the UTM. Note: The black and yellow connectors of the cable correspond to the black and yellow pin headers inside the UTM. Then slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the **UTM**.
 
 {%
 include callout.html
@@ -81,27 +81,17 @@ Use this information to ensure you insert both connectors in the correct orienta
 {% include gallery.html images="
 ![Screen Shot 2018-08-08 at 1.45.27 PM.png](_images/Screen_Shot_2018-08-08_at_1.45.27_PM.png)
 ![Screen Shot 2018-08-08 at 1.46.29 PM.png](_images/Screen_Shot_2018-08-08_at_1.46.29_PM.png)
-" %}
-
-Slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the **UTM**.
-
 ![Screen Shot 2018-08-08 at 1.46.59 PM.png](_images/Screen_Shot_2018-08-08_at_1.46.59_PM.png)
+" %}
 
 Note: in a few steps from now, you will connect the other end of the cable to the Farmduino.
 
-# Step 3: Connect the Water and Vacuum Tubes
+# Step 3: Connect the Water Tube
 Push the **water tube** onto the **barb** on top of the **UTM** that is closest to the **z-axis extrusion**.
 
 ![Screen Shot 2018-08-08 at 5.16.58 PM.png](_images/Screen_Shot_2018-08-08_at_5.16.58_PM.png)
 
-Push one of the **vacuum pump tubes** onto the **barb** on top of the **UTM** that is closest to the FarmBot logo.
-
-![Screen Shot 2018-08-08 at 5.17.17 PM.png](_images/Screen_Shot_2018-08-08_at_5.17.17_PM.png)
-
-Then push the **inline air filter** onto the other end of that tube. Then connect the second vacuum pump tube between the inline air filter and the air intake on the **vacuum pump**. You may need to remove the vacuum pump cover to do this.
-
-![3f5b49f-Air_Filter_Configuration.jpg](_images/Air_Filter_Configuration.jpg)
-
+Note: the vacuum pump tube will be connected a few steps from now.
 
 # What's next?
 
