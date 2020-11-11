@@ -66,6 +66,7 @@ content="The following changes were implemented for the second production run of
 * Replaced the dowel pins with 100mm and 140mm long nut bars due to tolerance issues with the pins.
 * Changed the labels on the Z motor and encoder cables and vacuum pump cable to `ZY` for the Y-axis sections and `ZZ` for the Z-axis sections.
 * Added laser engraved `NPT` and `GHT` labels to the brass barbed adapters.
+* Added a seed trough holder mount plate to offset the seed trough holder for better alignment with the seed injector needle.
 * Sourced the o-rings from a different manufacturer because our primary supplier was out of stock.
 * Sourced the power cord protector from a different manufacturer.
 * Switched to using twist ties instead of zip ties for packaging the water tubing.
