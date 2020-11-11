@@ -8,30 +8,33 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visi
 {:toc}
 
 
-|Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|[M2.5 x 4mm Screws](#m25-x-4mm-screws)|$0.15                         |8                             |$1.20                         |8                             |$1.20                         |8                             |$1.20
-|[M2.5 x 6mm M/F Standoffs](#standoffs)|$0.50                         |4                             |$2.00                         |4                             |$2.00                         |4                             |$2.00
-|[M2.5 x 16mm M/F Standoffs](#standoffs)|$0.50                         |4                             |$2.00                         |4                             |$2.00                         |4                             |$2.00
-|[M3 x 6mm Screws](#m3-x-6mm-screws)|$0.10                         |10                            |$1.00                         |10                            |$1.00                         |10                            |$1.00
-|[M3 x 12mm Screws](#m3-x-12mm-screws)|$0.15                         |40                            |$6.00                         |40                            |$6.00                         |40                            |$6.00
-|[M3 Locknuts](#m3-locknuts)|$0.10                         |20                            |$2.00                         |20                            |$2.00                         |20                            |$2.00
-|[M5 x 10mm Screws](#m5-x-10mm-screws)|$0.15                         |150                           |$22.50                        |225                           |$33.75                        |400                           |$60.00
-|[M5 x 16mm Screws](#m5-x-16mm-screws)|$0.20                         |40                            |$8.00                         |40                            |$8.00                         |40                            |$8.00
-|[M5 x 30mm Screws](#m5-x-30mm-screws)|$0.30                         |45                            |$13.50                        |45                            |$13.50                        |45                            |$13.50
-|[M5 Flange Locknuts](#m5-flange-locknuts)|$0.10                         |70                            |$7.00                         |70                            |$7.00                         |70                            |$7.00
-|[M5 x 6mm Spacers](#m5-x-6mm-spacers)|$0.20                         |30                            |$6.00                         |30                            |$6.00                         |30                            |$6.00
-|[M5 x 6mm Eccentric Spacers](#m5-x-6mm-eccentric-spacers)|$2.00                         |15                            |$30.00                        |15                            |$30.00                        |15                            |$30.00
-|[M5 Tee Nuts](#tee-nuts)|$0.40                         |20                            |$8.00                         |20                            |$8.00                         |20                            |$8.00
-|[20mm Nut Bar](#20mm-nut-bar)|$1.50                         |6                             |$9.00                         |6                             |$9.00                         |6                             |$9.00
-|[40mm Nut Bar](#40mm-nut-bar)|$1.75                         |28                            |$49.00                        |54                            |$94.50                        |134                           |$234.50
-|[60mm Nut Bar](#60mm-nut-bar)|$2.00                         |20                            |$40.00                        |24                            |$48.00                        |24                            |$48.00
-|[25mm Wood Screws](#wood-screws)|$0.05                         |35                            |$1.75                         |60                            |$3.00                         |124                           |$6.20
-|[Dowel Pins](#dowel-pins)|$2.00                         |6                             |$12.00                        |20                            |$40.00                        |52                            |$104.00
-|[15 x 5 x 5mm Ring Magnets](#ring-magnets)|$3.00                         |21                            |$63.00                        |21                            |$63.00                        |21                            |$63.00
-|[Zip Ties](#zip-ties) |$0.05 to $0.10                |85                            |$5.25                         |85                            |$5.25                         |85                            |$5.25
-|[Assembly Tools](#tools)|$1.00 to $5.00                |8                             |$32.00                        |8                             |$32.00                        |8                             |$32.00
-|**TOTALS**                    |                              |**665**                       |**$252.20**                   |**809**                       |**$415.20**                   |**1,160**                     |**$648.65**
+|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
+|---------|------|-----------|----------------|------|-----------|-------|------------|
+|[M2.5 x 4mm Screws](#m25-x-4mm-screws)|$0.15|8|$1.20|8|$1.20|8|$1.20
+|[M2.5 x 16mm M/F Standoffs](#standoffs) **\***|$0.50|4|$2.00|4|$2.00|4|$2.00
+|[M3 x 6mm Screws](#m3-x-6mm-screws)|$0.10|10|$1.00|10|$1.00|10|$1.00
+|[M3 x 12mm Screws](#m3-x-12mm-screws)|$0.15|40|$6.00|40|$6.00|40|$6.00
+|[M3 Locknuts](#m3-locknuts)|$0.10|20|$2.00|20|$2.00|20|$2.00
+|[M5 x 10mm Screws](#m5-x-10mm-screws)|$0.15|150|$22.50|225|$33.75|400|$60.00
+|[M5 x 16mm Screws](#m5-x-16mm-screws)|$0.20|40|$8.00|40|$8.00|40|$8.00
+|[M5 x 30mm Screws](#m5-x-30mm-screws)|$0.30|45|$13.50|45|$13.50|45|$13.50
+|[M5 Flange Locknuts](#m5-flange-locknuts)|$0.10|70|$7.00|70|$7.00|70|$7.00
+|[M5 x 6mm Spacers](#m5-x-6mm-spacers)|$0.20|30|$6.00|30|$6.00|30|$6.00
+|[M5 x 6mm Eccentric Spacers](#m5-x-6mm-eccentric-spacers)|$2.00|15|$30.00|15|$30.00|15|$30.00
+|[M5 Tee Nuts](#tee-nuts)|$0.40|20|$8.00|20|$8.00|20|$8.00
+|[20mm Nut Bar](#20mm-nut-bar)|$1.50|6|$9.00|6|$9.00|6|$9.00
+|[40mm Nut Bar](#40mm-nut-bar)|$1.75|28|$49.00|54|$94.50|134|$234.50
+|[60mm Nut Bar](#60mm-nut-bar)|$2.00|20|$40.00|24|$48.00|24|$48.00
+|[100mm Nut Bar](#60mm-nut-bar) **\***|$2.50|2|$5.00|6|$15.00|-|-
+|[140mm Nut Bar](#60mm-nut-bar) **\***|$3.00|-|-|2|$6.00|-|-
+|[25mm Wood Screws](#wood-screws)|$0.05|35|$1.75|60|$3.00|124|$6.20
+|[Dowel Pins](#dowel-pins) **\***|$2.00|6|$12.00|20|$40.00|52|$104.00
+|[15 x 5 x 5mm Ring Magnets](#ring-magnets)|$3.00|21|$63.00|21|$63.00|21|$63.00
+|[Zip Ties](#zip-ties) **\***|$0.05 to $0.10|85|$5.25|85|$5.25|85|$5.25
+|[Assembly Tools](#tools)|$1.00 to $5.00|8|$32.00|8|$32.00|8|$32.00
+|**TOTALS**||**665**|**$252.20**|**809**|**$415.20**|**1,160**|**$648.65**
+
+**\*** See special note in BOM listing
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FlX4OaLqChOg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DlX4OaLqChOg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlX4OaLqChOg%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
@@ -157,7 +160,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 ![Eccentric `.jpg](_images/Eccentric_.jpg)
 
 # Standoffs
-These M/F standoffs are used to offset the electronics boards from the electronics box mounting bosses. As of the v1.4 release, they come pre-assembled in the electronics box.
+These M/F standoffs are used to offset the Raspberry Pi from the electronics box mounting bosses. They come pre-assembled in the electronics box.
 
 {%
 include callout.html
@@ -169,11 +172,11 @@ content="v1.5 kits shipped before November 1st, 2020 included standoffs, while v
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Stainless steel
-|**Lengths**                   |6mm, 16mm
+|**Lengths**                   |16mm
 |**Male Threads**              |M2.5
 |**Female Threads**            |M2.5, 4mm length
 |**Price**                     |$0.50
-|**Quantity**                  |6mm length - 4 or 0 (see note above)<br>16mm length - 4 or 0 (see note above)
+|**Quantity**                  |4 or 0 (see note above)
 
 # Tee Nuts
 Combined with screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion.

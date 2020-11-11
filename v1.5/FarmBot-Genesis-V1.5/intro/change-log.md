@@ -48,3 +48,27 @@ The new soil sensor PCB features the same soil moisture sensing capabilities, bu
 * Improved the z-axis motor mount to include a recessed lip for better mating with the vertical motor housing.
 * Combined the garden hose adapter and barbed adapter into one component.
 * The motors are now packed independently of the cables, allowing the same motor kit to be used in all three sizes of Genesis.
+
+# Production run 2
+
+{%
+include callout.html
+type="info"
+title="For kits shipped in November 2020 and later"
+content="The following changes were implemented for the second production run of Genesis and Genesis XL v1.5 kits which began shipping to customers in November of 2020. Because the changes are minor, we decided not to increment the entire version to v1.6."
+%}
+
+* Switched camera suppliers to improve image quality and camera reliability.
+* Switched to shielded USB 2.0 cable for the camera cables to reduce interference.
+* Upgraded to the Raspberry Pi Model 3B+, from the 3B.
+* Changed supplier for the Pi power cable to reduce voltage drop.
+* Removed the 16mm M/F standoffs beneath the Pi.
+* Replaced the dowel pins with 100mm and 140mm long nut bars due to tolerance issues with the pins.
+* Changed the labels on the Z motor and encoder cables and vacuum pump cable to `ZY` for the Y-axis sections and `ZZ` for the Z-axis sections.
+* Added laser engraved `NPT` and `GHT` labels to the brass barbed adapters.
+* Sourced the o-rings from a different manufacturer because our primary supplier was out of stock.
+* Sourced the power cord protector from a different manufacturer.
+* Switched to using twist ties instead of zip ties for packaging the water tubing.
+* Frosted the FarmBot logo on the electronics box lid.
+* Removed the 60mm zip ties from the kit.
+* Included a new Mushrooms sticker sheet.
