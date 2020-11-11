@@ -302,32 +302,32 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 " %}
 
 # Motor Cables
-These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
+These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `ZY`. Z-axis cables are split into a Y-axis section labelled `ZY` and a Z-axis section labelled `ZZ`.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Lengths**                   |**Genesis**<br>0.95m (X1)<br>2.6m (X2)<br>3.1m (Y)<br>4.8m (Z)<br><br>**Genesis XL and MAX**<br>0.95m (X1)<br>4.1m (X2)<br>4.6m (Y)<br>6.3m (Z)
+|**Lengths**                   |**Genesis**<br>0.95m (X1)<br>2.6m (X2)<br>3.1m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL and MAX**<br>0.95m (X1)<br>4.1m (X2)<br>4.6m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
 |**Cores**                     |4
 |**Gauge**                     |18
 |**Motor Connector**           |6 pin connector (only 4 pins used)
 |**Farmduino Connector**       |2.54mm pitch 4 pin dupont connector with locking tab
 |**Outer Color**               |Black
-|**Price**                     |**Genesis**<br>0.95m - $15.00<br>2.6m - $18.00<br>3.1m - $20.00<br>4.8m - $27.00<br><br>**Genesis XL and MAX**<br>0.95m - $15.00<br>4.1m - $23.00<br>4.6m - $25.00<br>6.3m - $32.00
+|**Price**                     |**Genesis**<br>0.95m - $15.00<br>2.6m - $18.00<br>3.1m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.95m - $15.00<br>4.1m - $23.00<br>4.6m - $25.00<br>4.1m+1.8m - $35.00
 
 ![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
 
 # Encoder Cables
-These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `Z`.
+These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end `X1`, `X2`, `Y`, and `ZY`. The Z-axis cables are split into a Y-axis section labelled `ZY` and a Z-axis section labelled `ZZ`.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Lengths**                   |**Genesis**<br>0.95m (X1)<br>2.6m (X2)<br>3.1m (Y)<br>4.8m (Z)<br><br>**Genesis XL and MAX**<br>0.95m (X1)<br>4.1m (X2)<br>4.6m (Y)<br>6.3m (Z)
+|**Lengths**                   |**Genesis**<br>0.95m (X1)<br>2.6m (X2)<br>3.1m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL and MAX**<br>0.95m (X1)<br>4.1m (X2)<br>4.6m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
 |**Cores**                     |7
 |**Gauge**                     |20
 |**Encoder Connector**         |8 pin connector
 |**Farmduino Connector**       |2.54mm pitch 7-pin dupont connector with locking tab
 |**Outer Color**               |Black
-|**Price**                     |**Genesis**<br>0.95m - $20.00<br>2.6m - $23.00<br>3.1m - $25.00<br>4.8m - $32.00<br><br>**Genesis XL and MAX**<br>0.95m - $20.00<br>4.1m - $28.00<br>4.6m - $30.00<br>6.3m - $37.00
+|**Price**                     |**Genesis**<br>0.95m - $20.00<br>2.6m - $23.00<br>3.1m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.95m - $20.00<br>4.1m - $28.00<br>4.6m - $30.00<br>4.1m+1.8m - $40.00
 
 ![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
 

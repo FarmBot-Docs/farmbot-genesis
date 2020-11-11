@@ -23,9 +23,8 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 |X1                            |0.95m                         |0.95m                         |0.95m
 |X2                            |2.6m                          |4.1m                          |4.1m
 |Y                             |3.1m                          |4.6m                          |4.6m
-|Z                             |4.8m                          |6.3m                          |6.3m
-
-
+|Z (Y-axis section)            |2.6m                          |4.1m                          |4.1m
+|Z (Z-axis section)            |1.8m                          |1.8m                          |1.8m
 
 {%
 include callout.html
@@ -34,18 +33,13 @@ title="Labelled for clarity"
 content="All of FarmBot's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly."
 %}
 
-
-
 ![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
 
 _Motor cables_
 
-
-
 ![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
 
 _Encoder cables_
-
 
 # What's next?
 
