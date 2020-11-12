@@ -74,12 +74,14 @@ data:
         image: Extras/bom/_images/IMG_0476.jpg
   - page: tubing
     data:
-      - section: liquidgas-tubes
+      - section: water-tube
         image: Extras/bom/_images/IMG_0470.jpg
+      - section: vacuum-tube
+        image: Extras/bom/_images/vacuum_tubes.jpg
       - section: barbs
-        image: Extras/bom/_images/IMG_0487.jpg
+        image: Extras/bom/_images/barb_1.jpg
       - section: npt-to-barb-adapter
-        image: Extras/bom/_images/IMG_0498.jpg
+        image: Extras/bom/_images/npt_to_barb_adapter_1.jpg
       - section: garden-hose-to-barb-adapter
         image: Extras/bom/_images/IMG_0501.jpg
       - section: o-rings
@@ -189,9 +191,9 @@ data:
       - section: nema-17-stepper-motors-with-rotary-encoders
         image: Extras/bom/_images/Motor1.JPG
       - section: motor-cables
-        image: Extras/bom/_images/v1.3-Motor-Cables.jpg
+        image: Extras/bom/_images/motor_cables_1.jpg
       - section: encoder-cables
-        image: Extras/bom/_images/v1.3-Encoder-Cables.jpg
+        image: Extras/bom/_images/encoder_cables_1.jpg
       - section: cable-carrier
         image: Extras/bom/_images/IMG_0454.jpg
       - section: universal-tool-mount-cable
@@ -203,7 +205,7 @@ data:
       - section: vacuum-pump
         image: Extras/bom/_images/Vacuum_Pump.JPG
       - section: vacuum-pump-cable
-        image: Extras/bom/_images/Vacuum_Pump_Cable.jpg
+        image: Extras/bom/_images/vacuum_pump_cable_1.jpg
       - section: solenoid-valve-cable
         image: Extras/bom/_images/IMG_0466.jpg
       - section: peripheral-leads
