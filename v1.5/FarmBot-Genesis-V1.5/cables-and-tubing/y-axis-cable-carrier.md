@@ -41,7 +41,7 @@ Push the **90 degree barb** onto the **z-axis water tube**. Then push the **y-ax
 
 {% include gallery.html images="
 ![Connect the 90 degree barb](_images/90_degree_barb.png)
-![Water Tube](_images/water_tube.png)
+![Connect the Y water tube](_images/connect_y_water_tube.png)
 " %}
 
 # Step 5: Connect the cabling
