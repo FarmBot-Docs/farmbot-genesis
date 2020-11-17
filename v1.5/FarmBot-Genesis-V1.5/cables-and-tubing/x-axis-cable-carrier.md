@@ -9,7 +9,7 @@ slug: "x-axis-cable-carrier"
 
 # Step 1: Prepare the cable carrier
 
-Remove all of the snap-in **tabs** from the **x-axis cable carrier**.
+Remove all of the snap-in **tabs** from the **x-axis cable carrier**. Note that the x-axis and y-axis cable carriers are the same length, but the x-axis cable carrier is narrower than the y-axis one.
 
 {% include gallery.html images="
 ![Remove the tabs](_images/remove_tabs_1.png)
