@@ -73,4 +73,4 @@ content="Once you snap-in the remaining tabs, it will become difficult to adjust
 
 # What's next?
 
- * [Y-Axis Cable Carrier](y-axis-cable-carrier.md)
+ * [X-Axis Motors](x-axis-motors.md)
