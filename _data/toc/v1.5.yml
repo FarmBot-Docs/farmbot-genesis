@@ -46,12 +46,12 @@ contents:
       - title: Cables and Tubing
         url: cables-and-tubing
         pages:
-          - title: X-Axis Cable Carrier
-            url: x-axis-cable-carrier
-          - title: Y-Axis Cable Carrier
-            url: y-axis-cable-carrier
           - title: Z-Axis Cable Carrier
             url: z-axis-cable-carrier
+          - title: Y-Axis Cable Carrier
+            url: y-axis-cable-carrier
+          - title: X-Axis Cable Carrier
+            url: x-axis-cable-carrier
           - title: X-Axis Motors
             url: x-axis-motors
           - title: Lighting
