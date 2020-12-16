@@ -664,6 +664,7 @@ content="v1.5 kits shipped before November 1st, 2020 included a power cord prote
 |**Quantity**                  |1
 |**Internal Part Names**       |`Rainproof Power Cord Box`
 
+{% include gallery.html images="
 ![Power Cord Protector](_images/power_cord_protector.jpg)
-
 ![Power Cord Protector](_images/power_cord_protector_2.jpg)
+" %}
