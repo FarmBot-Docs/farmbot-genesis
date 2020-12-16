@@ -322,8 +322,8 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out.
 
 {% include gallery.html images="
-![Soil Sensor.jpg](_images/Soil_Sensor.jpg)
-![Soil Sensor 2.jpg](_images/Soil_Sensor_2.jpg)
+![Soil Sensor PCB](_images/Soil_Sensor_PCB_1.jpg)
+![Soil Sensor PCB](_images/Soil_Sensor_PCB_2.jpg)
 " %}
 
 |                              |                              |
