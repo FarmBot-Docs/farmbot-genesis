@@ -21,8 +21,8 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[Farmduino](#farmduino)|$120.00|1|$120.00|1|$120.00|1|$120.00
 |[Raspberry Pi Power Cable](#raspberry-pi-power-cable)|$5.00|1|$5.00|1|$5.00|1|$5.00
 |[Farmduino Data Cable](#farmduino-data-cable)|$5.00|1|$5.00|1|$5.00|1|$5.00
-|[Jumper Wires](#jumper-wires)|$0.25|12|$3.00|12|$3.00|12|$3.00
-|[NEMA 17 Stepper Motors with Rotary Encoders](#nema-17-stepper-motors-with-rotary-encoders)|$60.00|4|$240.00|4|$240.00|4|$240.00
+|[Jumper Wire](#jumper-wire)|$0.25|12|$3.00|12|$3.00|12|$3.00
+|[NEMA 17 Stepper Motor with Rotary Encoder](#nema-17-stepper-motor-with-rotary-encoder)|$60.00|4|$240.00|4|$240.00|4|$240.00
 |[Motor Cables](#motor-cables)|$15.00 to $32.00|4|$80.00|4|$95.00|4|$95.00
 |[Encoder Cables](#encoder-cables)|$20.00 to $37.00|4|$100.00|4|$115.00|4|$115.00
 |[X-Axis Cable Carrier](#cable-carrier)|$40.00 to $200.00|1|$40.00|1|$70.00|1|$200.00
@@ -133,6 +133,7 @@ content="v1.5 kits shipped before November 1st, 2020 included the Raspberry Pi m
 |**GPIO**                      |40-pin header
 |**Price**                     |$40.00
 |**Quantity**                  |1
+|**Internal Part Name**        |`Raspberry Pi 3B+`
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
@@ -186,7 +187,7 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 |**Wiring?**                   |Included
 |**Price**                     |$7.00
 |**Quantity**                  |5 total
-|**Internal Part Names**       |`Red LED Push Button`<br>`Yellow LED Push Button`<br>`White LED Push Button`
+|**Internal Part Names**       |`Yellow LED Push Button`<br>`Red LED Push Button`<br>`White LED Push Button`
 
 {% include gallery.html images="
 ![Push Buttons Front](_images/push_buttons.jpg)
@@ -284,7 +285,7 @@ This USB cable is used as a serial connection between the Raspberry Pi and the F
 
 ![Farmduino Data Cable](_images/Farmduino_Data_Cable.jpg)
 
-# Jumper Wires
+# Jumper Wire
 
 Use these jumper wires to connect the UTM headers on Farmduino to other pins such as I2C, PWM, or more digital or analog I/O.
 
@@ -295,11 +296,11 @@ Use these jumper wires to connect the UTM headers on Farmduino to other pins suc
 |**Color**                     |Black
 |**Price**                     |$0.25
 |**Quantity**                  |12
-|**Internal Part Name**        |`Jumper Wires`
+|**Internal Part Name**        |`Jumper Wire`
 
 ![Jumper Wires](_images/Jumper_Wires.jpg)
 
-# NEMA 17 Stepper Motors with Rotary Encoders
+# NEMA 17 Stepper Motor with Rotary Encoder
 
 These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing).
 
@@ -338,7 +339,7 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Motor Connector**           |6 pin connector (only 4 pins used)
 |**Farmduino Connector**       |2.54mm pitch 4 pin dupont connector with locking tab
 |**Outer Color**               |Black
-|**Price**                     |**Genesis**<br>0.95m - $15.00<br>2.6m - $18.00<br>3.1m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.95m - $15.00<br>4.1m - $23.00<br>4.6m - $25.00<br>4.1m+1.8m - $35.00
+|**Price**                     |**Genesis**<br>0.9m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.9m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
 |**Internal Part Names**       |`Genesis X1 and Genesis XL X1 Motor Cable - 0.9m`<br>`Genesis X2 Motor Cable - 2.3m`<br>`Genesis Y Motor Cable - 2.7m`<br>`Genesis Z Motor Cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Motor Cable - 3.8m`<br>`Genesis XL Y Motor Cable - 4.2m`<br>`Genesis XL Z Motor cable, Y-axis section - 4.1m`<br>`Z Motor Cable, Z-axis section - 1.8m`
 
 {% include gallery.html images="
@@ -359,7 +360,7 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Encoder Connector**         |8 pin connector
 |**Farmduino Connector**       |2.54mm pitch 7-pin dupont connector with locking tab
 |**Outer Color**               |Black
-|**Price**                     |**Genesis**<br>0.95m - $20.00<br>2.6m - $23.00<br>3.1m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.95m - $20.00<br>4.1m - $28.00<br>4.6m - $30.00<br>4.1m+1.8m - $40.00
+|**Price**                     |**Genesis**<br>0.9m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.9m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
 |**Internal Part Names**       |`Genesis X1 and Genesis XL X1 Encoder Cable - 0.9m`<br>`Genesis X2 Encoder cable - 2.3m`<br>`Genesis Y Encoder cable - 2.7m`<br>`Genesis Z Encoder cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Encoder cable - 3.8m`<br>`Genesis XL Y Encoder cable - 4.2m`<br>`Genesis XL Z Encoder cable, Y-axis section - 4.1m`<br>`Genesis and Genesis XL Z Encoder cable, Z-axis section - 1.8m`
 
 {% include gallery.html images="
@@ -384,7 +385,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 |**Bending Radius**            |28mm
 |**Price**                     |**Genesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00<br><br>**Genesis MAX**<br>X-Axis - $200.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
 |**Quantity**                  |1 for each axis
-|**Internal Part Names**       |**Genesis**<br>X-Axis - `15 x 30 x 1700mm (85 links + end pieces in X configuration)`<br>Y-Axis - `15 x 30 x 3200mm (160 links + end pieces in X configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`<br>**Genesis XL**<br>X-Axis - `15 x 50 x 1700mm (85 links + end pieces in Y configuration)`<br>Y-Axis - `15 x 50 x 3200mm (160 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`
+|**Internal Part Names**       |**Genesis**<br>X-Axis - `15 x 30 x 1700mm (85 links + end pieces in X configuration)`<br>Y-Axis - `15 x 30 x 3200mm (160 links + end pieces in X configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`<br><br>**Genesis XL**<br>X-Axis - `15 x 50 x 1700mm (85 links + end pieces in Y configuration)`<br>Y-Axis - `15 x 50 x 3200mm (160 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`
 
 ![Cable Carrier](_images/IMG_0454.jpg)
 
@@ -494,7 +495,7 @@ This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a 
 |**Vacuum pump connectors**    |Two 3/16" female shielded quick-connect terminals
 |**Price**                     |Genesis - $20.00<br>Genesis XL - $25.00
 |**Quantity**                  |1
-|**Internal Part Names**       |`Vacuum Pump Cable Z-Axis Section - 1.0m`<br>`Vacuum Pump Cable Y-Axis Section - 2.6m (Genesis)`<br>`Vacuum Pump Cable Y-Axis Section - 4.1m (Genesis XL)`
+|**Internal Part Names**       |**Genesis**<br>`Vacuum Pump Cable Y-Axis Section - 2.6m (Genesis)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`<br><br>**Genesis XL**<br>`Vacuum Pump Cable Y-Axis Section - 4.1m (Genesis XL)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`
 
 {% include gallery.html images="
 ![Vacuum Pump Cable](_images/vacuum_pump_cable_1.jpg)
@@ -581,7 +582,7 @@ This cable connects the camera to the Raspberry Pi through the y-axis cable carr
 |**Connector 2**               |Right-angle USB Type A connector
 |**Price**                     |Genesis: $15.00<br>Genesis XL: $20.00
 |**Quantity**                  |1
-|**Internal Part Names**       |`Camera Cable - 2.6m`<br>`Camera Cable - 4.1m`
+|**Internal Part Names**       |Genesis: `Camera Cable - 2.6m`<br>Genesis XL: `Camera Cable - 4.1m`
 
 ![Camera Cable](_images/Camera_Cable.jpg)
 
