@@ -37,7 +37,7 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 |**Internal Part Name**        |`20 x 40 x 1500mm V-Slot Silver (Track)`
 |**Vendor**                    |LDO
 |**$/pc**                      |$6.20
-|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions)
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
 |**Notes**                     |
 {:.internal}
 
@@ -65,7 +65,7 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 |**Internal Part Name**        |`20 x 60 x 500mm V-Slot Silver (Gantry column)`
 |**Vendor**                    |LDO
 |**$/pc**                      |$3.10
-|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions)
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
 |**Notes**                     |
 {:.internal}
 
@@ -93,7 +93,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 |**Internal Part Name**        |`20 x 60 x 1500mm V-Slot Silver (Gantry main beam)`
 |**Vendor**                    |LDO
 |**$/pc**                      |$9.30
-|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions)
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
 |**Notes**                     |
 {:.internal}
 
@@ -121,7 +121,7 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 |**Internal Part Name**        |`20 x 20 x 1000mm V-Slot Silver (Z-axis)`
 |**Vendor**                    |LDO
 |**$/pc**                      |$2.50
-|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions)
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
 |**Notes**                     |
 {:.internal}
 
