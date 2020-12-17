@@ -66,7 +66,7 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Genesis Electronics Box (Box) Rev A`<br>`Genesis Electronics Box (Lid) Rev A`<br>`Genesis Electronics Box (Gasket) Rev A`<br>`Genesis Electronics Box (Supergland) Rev A`<br>`Electronics Box (Latches) Rev A`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |Box - $10.60<br>Lid - $5.40<br>Gasket - $1.20<br>Supergland - $0.70<br>Latches - $0.80
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -95,8 +95,8 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`IP67 24V 6.25A Power Supply w/ 3m Modular Cable`<br>`IP67 24V 6.25A Power Supply w/ 4.5m Modular Cable`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |Weho
+|**$/pc**                      |Genesis (3m cable) - $33.60<br>Genesis XL (4.5m cable) - $35.60
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -125,7 +125,7 @@ This modular 2-wire cable connects the power supply to the Farmduino. It feature
 |------------------------------|------------------------------|
 |**Internal Part Name**        |See [Power Supply](#power-supply)
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |See [Power Supply](#power-supply)
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -162,9 +162,9 @@ content="v1.5 kits shipped before November 1st, 2020 included the Raspberry Pi m
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Raspberry Pi 3B+`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$39.70
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Ensure the model is `3B+` (not `3B`)
 {:.internal}
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
@@ -191,9 +191,9 @@ The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`8GB Sandisk Industrial Micro SD card`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$6.00
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Must be genuine SanDisk brand, new (not refurbished)
 {:.internal}
 
 ![MicroSD Card](_images/IMG_0458.jpg)
@@ -211,8 +211,8 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Pi Adapter Board w/ RTC`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |LDO
+|**$/pc**                      |$2.60
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -240,7 +240,7 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Yellow LED Push Button`<br>`Red LED Push Button`<br>`White LED Push Button`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |Button: $2.49<br>Wiring: $1.00
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -271,7 +271,7 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Blue LED Indicator`<br>`Green LED Indicator`<br>`White LED Indicator`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |Indicator: $0.99<br>Wiring: $0.50
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -317,8 +317,8 @@ The source code for the STM32 firmware for tracking encoder signals is available
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Farmduino v1.5 Rev A`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |LDO
+|**$/pc**                      |$77.50
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -342,9 +342,9 @@ This USB cable provides power to the Raspberry Pi from the Farmduino's built-in 
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Raspberry Pi Power Cable`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.19
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Samples received in July 2020
 {:.internal}
 
 ![Raspberry Pi Power Cable](_images/Pi_Power_Cable.jpg)
@@ -366,7 +366,7 @@ This USB cable is used as a serial connection between the Raspberry Pi and the F
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Farmduino Data Cable`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.19
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -389,7 +389,7 @@ Use these jumper wires to connect the UTM headers on Farmduino to other pins suc
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Jumper Wire`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$0.14
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -418,10 +418,10 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`NEMA 17 Stepper Motor w/ Rotary Encoder`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |Motor: LDO<br>Encoder: Honest Sensor
+|**$/pc**                      |$29.40
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Logo engraving must NOT be stretched. Please send photo of first samples to verify.
 {:.internal}
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWzBrtojVykI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzBrtojVykI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWzBrtojVykI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
@@ -443,15 +443,17 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Motor Connector**           |6 pin connector (only 4 pins used)
 |**Farmduino Connector**       |2.54mm pitch 4 pin dupont connector with locking tab
 |**Outer Color**               |Black
+|**Inner Colors**              |Black, Red, Yellow, White
+|**Labels**                    |`X1`, `X2`, `Y`, `ZY`, and `ZZ`
 |**Price**                     |**Genesis**<br>0.9m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.9m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Genesis X1 and Genesis XL X1 Motor Cable - 0.9m`<br>`Genesis X2 Motor Cable - 2.3m`<br>`Genesis Y Motor Cable - 2.7m`<br>`Genesis Z Motor Cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Motor Cable - 3.8m`<br>`Genesis XL Y Motor Cable - 4.2m`<br>`Genesis XL Z Motor cable, Y-axis section - 4.1m`<br>`Z Motor Cable, Z-axis section - 1.8m`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |**Genesis**<br>0.9m (X1) - $1.50<br>2.3m (X2) - $1.90<br>2.7m (Y) - $2.10<br>2.6m (ZY) - $3.60<br>1.8m (ZZ) - $2.80<br><br>**Genesis XL**<br>0.9m (X1) - $1.50<br>3.8m (X2) - $2.60<br>4.2m (Y) - $2.80<br>4.1m (ZY) - $4.30<br>1.8m (ZZ) - $2.80
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |What are the part numbers for the connectors?
 {:.internal}
 
 {% include gallery.html images="
@@ -472,15 +474,16 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Encoder Connector**         |8 pin connector
 |**Farmduino Connector**       |2.54mm pitch 7-pin dupont connector with locking tab
 |**Outer Color**               |Black
+|**Labels**                    |`X1`, `X2`, `Y`, `ZY`, and `ZZ`
 |**Price**                     |**Genesis**<br>0.9m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.9m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Genesis X1 and Genesis XL X1 Encoder Cable - 0.9m`<br>`Genesis X2 Encoder cable - 2.3m`<br>`Genesis Y Encoder cable - 2.7m`<br>`Genesis Z Encoder cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Encoder cable - 3.8m`<br>`Genesis XL Y Encoder cable - 4.2m`<br>`Genesis XL Z Encoder cable, Y-axis section - 4.1m`<br>`Genesis and Genesis XL Z Encoder cable, Z-axis section - 1.8m`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |**Genesis**<br>0.9m (X1) - $1.70<br>2.3m (X2) - $2.30<br>2.7m (Y) - $2.70<br>2.6m (ZY) - $5.50<br>1.8m (ZZ) - $5.20<br><br>**Genesis XL**<br>0.9m (X1) - $1.70<br>3.8m (X2) - $3.20<br>4.2m (Y) - $3.70<br>4.1m (ZY) - $6.20<br>1.8m (ZZ) - $5.20
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |What are the part numbers for the connectors?
 {:.internal}
 
 {% include gallery.html images="
@@ -503,19 +506,33 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 |**Outside Width**             |X-Axis - 40mm<br>Y-Axis - 60mm<br>Z-Axis - 60mm
 |**Pitch**                     |20mm
 |**Bending Radius**            |28mm
+|**End Piece Configuration**   |X-Axis - `X configuration` (see image below)<br>Y-Axis - `Y configuration` (see image below)<br>Z-Axis - `Z configuration` (see image below)
 |**Price**                     |**Genesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00<br><br>**Genesis MAX**<br>X-Axis - $200.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
 |**Quantity**                  |1 for each axis
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |**Genesis**<br>X-Axis - `15 x 30 x 1700mm (85 links + end pieces in X configuration)`<br>Y-Axis - `15 x 30 x 3200mm (160 links + end pieces in X configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`<br><br>**Genesis XL**<br>X-Axis - `15 x 50 x 1700mm (85 links + end pieces in Y configuration)`<br>Y-Axis - `15 x 50 x 3200mm (160 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Internal Part Name**        |**Genesis**<br>X-Axis - `15 x 30 x 1700mm (85 links + end pieces in X configuration)`<br>Y-Axis - `15 x 50 x 1700mm (85 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`<br><br>**Genesis XL**<br>X-Axis - `15 x 30 x 3200mm (160 links + end pieces in X configuration)`<br>Y-Axis - `15 x 50 x 3200mm (160 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`
+|**Vendor**                    |JFLO
+|**Vendor Part Number**        |**Genesis and Genesis XL**<br>X-Axis - `J15BF.1.30N R28`<br>Y-Axis - `J15BF.1.50N R28`<br>Z-Axis - `J15BF.1.50N R28`
+|**$/pc**                      |**Genesis**<br>X-Axis - $11.20<br>Y-Axis - $13.10<br>Z-Axis - $5.90<br><br>**Genesis XL**<br>X-Axis - $19.90<br>Y-Axis - $24.50<br>Z-Axis - $5.90
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
 
+{% include gallery.html images="
 ![Cable Carrier](_images/IMG_0454.jpg)
+![End pieces configuration - X](_images/cable_carrier_end_piece_configuration_x.jpg)
+![End pieces configuration - Y](_images/cable_carrier_end_piece_configuration_y.jpg)
+![End pieces configuration - Z](_images/cable_carrier_end_piece_configuration_z.jpg)
+" %}
+
+{%
+include callout.html
+type="info"
+title="Configuration of the end pieces"
+content="The images above labelled `X-Axis`, `Y-Axis`, and `Z-Axis` illustrate the configuration of the end pieces. They are not representative of the actual length of the cable carriers."
+%}
 
 # Universal Tool Mount Cable
 
@@ -530,6 +547,8 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 |**Length**                    |Genesis: 4m<br>Genesis XL and MAX: 5.5m
 |**Outer Diameter**            |9.5mm
 |**Outer Color**               |Black
+|**Shroud?**                   |Included
+|**Shroud Material**           |Black silicone rubber
 |**Price**                     |4m - $40.00<br>5.5m - $50.00
 |**Quantity**                  |1
 
@@ -537,7 +556,7 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 |------------------------------|------------------------------|
 |**Internal Part Name**        |Genesis: `UTM Cable (4m) with Shroud`<br>Genesis XL: `UTM Cable (5.5m) with Shroud`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |4m (Genesis) - $9.90<br> 5.5m (Genesis XL) - $12.90
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -560,6 +579,7 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 |**Output Type**               |Analog `SIG` for moisture<br>`I2C` for temperature
 |**PCB Color**                 |Black
 |**Wire Colors**               |`VCC` - Red<br>`GND` - Black<br>`SIG` - Yellow<br>`SDA` - Green<br>`SCL` - White
+|**Wire Lengths**              |50mm
 |**Ring Terminals**            |Insulated M3
 |**Price**                     |$6.00
 |**Quantity**                  |1
@@ -567,10 +587,10 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Soil Moisture and Temperature Sensor PCB Rev A`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |LDO
+|**$/pc**                      |$3.50
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |What is the part number for the connector?
 {:.internal}
 
 {% include gallery.html images="
@@ -600,7 +620,7 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`24V Solenoid Valve`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$2.30
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -629,7 +649,7 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`24V Vacuum Pump`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$10.20
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -652,7 +672,8 @@ This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a 
 |**Outer Color**               |Black
 |**Heat Shrink Color**         |Gray
 |**Farmduino connector**       |Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-|**Vacuum pump connectors**    |Two 3/16" female shielded quick-connect terminals
+|**Intermediate connectors**   |2-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+|**Vacuum pump connectors**    |Two 3/16" female insulated quick-connect terminals
 |**Price**                     |Genesis - $20.00<br>Genesis XL - $25.00
 |**Quantity**                  |1
 
@@ -660,7 +681,7 @@ This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a 
 |------------------------------|------------------------------|
 |**Internal Part Name**        |**Genesis**<br>`Vacuum Pump Cable Y-Axis Section - 2.6m (Genesis)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`<br><br>**Genesis XL**<br>`Vacuum Pump Cable Y-Axis Section - 4.1m (Genesis XL)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |Y-Axis Section - 2.6m (Genesis) - $2.50<br>Y-Axis Section - 4.1m (Genesis XL) - $3.20<br>Z-Axis Section - 1.0m (Genesis and Genesis XL) - $1.90
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -695,7 +716,7 @@ This cable connects the solenoid valve to the Farmduino.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Solenoid Valve Cable - 0.5m`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.70
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -722,7 +743,7 @@ These extra leads make it easy to connect new, additional peripherals to your Fa
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Peripheral Lead`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.30
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -737,21 +758,21 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 |------------------------------|------------------------------|
 |**Resolution**                |0.3MP
 |**Waterproof?**               |Yes
-|**Focal Distance**            |0.5m
+|**Focal Distance**            |0.5m (custom set)
 |**Outer Diameter**            |9mm
 |**Camera Length**             |38mm
 |**Cable Length**              |1m
-|**Connector**                 |4-pin male 90-degree waterproof connector
+|**Connector**                 |4-pin male 90 degree waterproof connector
 |**Price**                     |$30.00
 |**Quantity**                  |1
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Camera`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |Shibang
+|**$/pc**                      |$18.90
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Inspect the camera module to ensure there are no obstructions in front of the lens, such as foam or glue.
 {:.internal}
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
@@ -770,7 +791,7 @@ This cable connects the camera to the Raspberry Pi through the y-axis cable carr
 |------------------------------|------------------------------|
 |**Length**                    |Genesis: 2.6m<br>Genesis XL: 4.1m
 |**Cable**                     |`Shielded 28AWG/1p+24AWG/2c`<br><br>`1p` = 1 twisted pair (for data)<br>`2c` = 2 core (for power)
-|**Connector 1**               |4-pin female waterproof connector
+|**Connector 1**               |4-pin female waterproof 90 degree connector
 |**Connector 2**               |Right-angle USB Type A connector
 |**Price**                     |Genesis: $15.00<br>Genesis XL: $20.00
 |**Quantity**                  |1
@@ -779,9 +800,9 @@ This cable connects the camera to the Raspberry Pi through the y-axis cable carr
 |------------------------------|------------------------------|
 |**Internal Part Name**        |Genesis: `Camera Cable - 2.6m`<br>Genesis XL: `Camera Cable - 4.1m`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |Genesis (2.6m) - $3.50<br>Genesis XL (4.1m) - $4.30
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Cable must be shielded USB cable or there will be EMI issues.
 {:.internal}
 
 ![Camera Cable](_images/Camera_Cable.jpg)
@@ -802,9 +823,9 @@ Use this card to perform an automatic calibration of FarmBot's camera.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Camera Calibration Card`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$0.25
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |2-sided print
 {:.internal}
 
 ![Camera Calibration Card](_images/MVIMG_20200727_180001.jpg)
@@ -819,13 +840,13 @@ These connect the Grounded electronic pin to the Digital In pin, allowing FarmBo
 |**Thickness**                 |1mm
 |**Hole Sizes**                |M3
 |**Price**                     |$0.25
-|**Quantity**                  |4
+|**Quantity**                  |5
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Jumper Link`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.22
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -850,9 +871,9 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 |------------------------------|------------------------------|
 |**Internal Part Name**        |Genesis: `24V LED Strip - 1.5m strip w/ 0.7m lead`<br>Genesis XL: `24V LED Strip - 3.0m strip w/ 0.7m lead`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |Genesis (1.5m) - $6.00<br>Genesis XL (3m) - $11.00
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 {:.internal}
 
 ![LED Strip](_images/LED_Strip.jpg)
@@ -864,7 +885,7 @@ This PCB features 12 pre-mounted pogo pins to enable electrical connection with 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Pre-assembled?**            |Yes
-|**Number of pogo pins**       |12 (includes 2 extra, and 4 extra jam nuts)
+|**Number of pogo pins**       |12 (includes 1 extra, and 2 extra jam nuts)
 |**Color**                     |Matte black
 |**Price**                     |$35.00
 |**Quantity**                  |1
@@ -872,11 +893,18 @@ This PCB features 12 pre-mounted pogo pins to enable electrical connection with 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`UTM PCB (assembled with pogo pins)`<br>`Pogo Pins`<br>`Jam Nuts`
-|**Vendor**                    |
-|**$/pc**                      |$
+|**Vendor**                    |LDO
+|**$/pc**                      |$6.90
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |12 pogo pins and 24 jam nuts pre-assembled to PCB, 1 extra pogo pin and 2 extra jam nuts included in separate bag.
 {:.internal}
+
+{% include gallery.html images="
+![UTM PCB](_images/UTM_PCB_1.jpg)
+![UTM PCB](_images/UTM_PCB_2.jpg)
+![UTM PCB](_images/UTM_PCB_3.jpg)
+![Pogo Pin and Jam Nuts](_images/pogo_pin_and_jam_nuts.jpg)
+" %}
 
 # Power Cord Protector
 
@@ -899,9 +927,9 @@ content="v1.5 kits shipped before November 1st, 2020 included a power cord prote
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Rainproof Power Cord Box`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.50
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Will use Chinese samples received Aug 2020. Do NOT include plastic piece for hanging product on store shelves.
 {:.internal}
 
 {% include gallery.html images="

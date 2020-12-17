@@ -40,7 +40,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`V-Wheels (pre-assembled w/ SS M5 precision shim and SS bearings)`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.10
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -54,19 +54,19 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Neoprene with fiberglass cords
-|**Lengths**                   |2m, 3.5m, 4.5m, 7.5m, 19.5m
+|**Lengths**                   |**Genesis**: 1.7m, 4.5m<br>**Genesis XL**: 3.2m, 7.5m<br>**Genesis MAX**: 3.2m, 19.5m
 |**Width**                     |5mm
 |**Thickness**                 |0.75mm
 |**Pitch**                     |GT2 (2mm)
 |**Color**                     |Black (no markings)
-|**Price**                     |2m - $20.00<br>3.5m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
-|**Quantity**                  |**Genesis**<br>2m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.5m - 1<br>7.5m - 2<br><br>**Genesis MAX**<br>3.5m - 1<br>19.5m - 2
+|**Price**                     |1.7m - $20.00<br>3.2m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
+|**Quantity**                  |**Genesis**<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2<br><br>**Genesis MAX**<br>3.5m - 1<br>19.5m - 2
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`GT2 Timing Belt - [length]`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |1.7m - $1.00<br>3.2m - $1.80<br>4.5m - $2.50<br>7.5m - $4.20
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -90,7 +90,7 @@ These sleeves secure the loose end of a belt to itself.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Belt Sleeve`
 |**Vendor**                    |LDO
-|**$/pc**                      |$
+|**$/pc**                      |$0.20
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -118,7 +118,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$0.75
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -143,9 +143,9 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`5mm to 8mm Shaft Coupler w/ SS Setscrews w/ 2mm drive`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.60
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |`v1.5 Production Run 2`: screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoide adding extra hex key.
 {:.internal}
 
 {% include gallery.html images="
@@ -172,7 +172,7 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`8mm x 800mm SS ACME Leadscrew`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$5.00
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -205,9 +205,9 @@ This delrin block attaches to the cross-slide plate so that the leadscrew can mo
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Leadscrew Block`
 |**Vendor**                    |
-|**$/pc**                      |$
+|**$/pc**                      |$1.60
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |`Future improvement`: Remove hex and circular counterbores.
 {:.internal}
 
 {% include gallery.html images="
