@@ -176,9 +176,9 @@ data:
         image: Extras/bom/_images/IMG_0458.jpg
       - section: pi-adapter-board
         image: Extras/bom/_images/pi_adapter_board.jpg
-      - section: push-buttons
+      - section: push-button
         image: Extras/bom/_images/push_buttons.jpg
-      - section: led-indicators
+      - section: led-indicator
         image: Extras/bom/_images/led_indicators.jpg
       - section: farmduino
         image: Extras/bom/_images/Farmduino.JPG
@@ -186,9 +186,9 @@ data:
         image: Extras/bom/_images/Pi_Power_Cable.jpg
       - section: farmduino-data-cable
         image: Extras/bom/_images/Farmduino_Data_Cable.jpg
-      - section: jumper-wires
+      - section: jumper-wire
         image: Extras/bom/_images/Jumper_Wires.jpg
-      - section: nema-17-stepper-motors-with-rotary-encoders
+      - section: nema-17-stepper-motor-with-rotary-encoder
         image: Extras/bom/_images/Motor1.JPG
       - section: motor-cables
         image: Extras/bom/_images/motor_cables_1.jpg
@@ -208,7 +208,7 @@ data:
         image: Extras/bom/_images/vacuum_pump_cable_1.jpg
       - section: solenoid-valve-cable
         image: Extras/bom/_images/IMG_0466.jpg
-      - section: peripheral-leads
+      - section: peripheral-lead
         image: Extras/bom/_images/IMG_0478.jpg
       - section: camera
         image: Extras/bom/_images/Camera_1.jpg
@@ -216,10 +216,12 @@ data:
         image: Extras/bom/_images/Camera_Cable.jpg
       - section: camera-calibration-card
         image: Extras/bom/_images/MVIMG_20200727_180001.jpg
-      - section: jumper-links
+      - section: jumper-link
         image: Extras/bom/_images/Jumper_Links.jpg
       - section: led-strip
         image: Extras/bom/_images/LED_Strip.jpg
+      - section: utm-pcb
+        image: Extras/bom/_images/UTM_PCB_1.jpg
       - section: power-cord-protector
         image: Extras/bom/_images/power_cord_protector.jpg
   - page: plates-and-brackets

@@ -75,7 +75,7 @@ data:
       - section: weeder
         image: Extras/bom/_images/Weeder_2.JPG
       - section: soil-sensor
-        image: Extras/bom/_images/Soil_Sensor_2.JPG
+        image: Extras/bom/_images/Soil_Sensor3.JPG
       - section: seed-bins
         image: Extras/bom/_images/Seed_Bin_2.JPG
       - section: seed-trays
@@ -129,7 +129,7 @@ data:
       - section: universal-tool-mount-cable
         image: Extras/bom/_images/UTM_Cable_1.JPG
       - section: soil-sensor
-        image: Extras/bom/_images/Soil_Sensor.jpg
+        image: Extras/bom/_images/Soil_Sensor_PCB_2.jpg
       - section: solenoid-valve
         image: Extras/bom/_images/Solenoid_Valve.JPG
       - section: vacuum-pump

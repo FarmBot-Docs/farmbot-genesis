@@ -8,19 +8,15 @@ description: "Tech specs for the extrusions in FarmBot Genesis. Visit [our shop]
 {:toc}
 
 
-|Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |MAX Qty                       |MAX Subtotal                  |
-|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
-|[Track Extrusion](#track-extrusion)|$30.00                        |4                             |$120.00                       |8                             |$240.00                       |24                            |$720.00
-|[Gantry Column](#gantry-column)|$15.00                        |2                             |$30.00                        |2                             |$30.00                        |2                             |$30.00
-|[Gantry Main Beam](#gantry-main-beam)|$35.00                        |1                             |$35.00                        |2                             |$70.00                        |2                             |$70.00
-|[Z-Axis Extrusion](#z-axis-extrusion)|$20.00                        |1                             |$20.00                        |1                             |$20.00                        |1                             |$20.00
-|**TOTALS**                    |                              |**8**                         |**$205.00**                   |**13**                        |**$360.00**                   |**29**                        |**$840.00**
-
-
+|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
+|---------|------|-----------|----------------|------|-----------|-------|--------|
+|[Track Extrusion](#track-extrusion)|$30.00|4|$120.00|8|$240.00|24|$720.00
+|[Gantry Column](#gantry-column)|$15.00|2|$30.00|2|$30.00|2|$30.00
+|[Gantry Main Beam](#gantry-main-beam)|$35.00|1|$35.00|2|$70.00|2|$70.00
+|[Z-Axis Extrusion](#z-axis-extrusion)|$20.00|1|$20.00|1|$20.00|1|$20.00
+|**TOTALS**||**8**|**$205.00**|**13**|**$360.00**|**29**|**$840.00**
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FLWvoSmqNwyA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLWvoSmqNwyA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FLWvoSmqNwyA%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
-
-
 
 # Track Extrusion
 
@@ -35,6 +31,15 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 |**Price**                     |$30.00
 |**Quantity**                  |Genesis - 4<br>Genesis XL - 8<br>Genesis MAX - 24
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`20 x 40 x 1500mm V-Slot Silver (Track)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$6.20
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![IMG_0544.jpg](_images/IMG_0544.jpg)
@@ -55,6 +60,15 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`20 x 60 x 500mm V-Slot Silver (Gantry column)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$3.10
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
+|**Notes**                     |
+{:.internal}
+
 {% include gallery.html images="
 ![IMG_0532.jpg](_images/IMG_0532.jpg)
 ![IMG_0535.jpg](_images/IMG_0535.jpg)
@@ -74,6 +88,15 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 |**Quantity**                  |Genesis - 1<br>Genesis XL - 2<br>Genesis MAX - 2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`20 x 60 x 1500mm V-Slot Silver (Gantry main beam)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$9.30
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
+|**Notes**                     |
+{:.internal}
+
 {% include gallery.html images="
 ![IMG_0547.jpg](_images/IMG_0547.jpg)
 ![IMG_0535.jpg](_images/IMG_0535_02.jpg)
@@ -92,6 +115,15 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 |**Price**                     |$20.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`20 x 20 x 1000mm V-Slot Silver (Z-axis)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$2.50
+|**Component Tests**           |[Extrusion tests](../../manufacturing/component-tests/extrusions.md)
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![IMG_0542.jpg](_images/IMG_0542.jpg)

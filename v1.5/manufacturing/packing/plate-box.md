@@ -11,8 +11,8 @@ There are two versions of the plate box: one for **Genesis** kits and one for **
 
 # Packing list
 
-|Item                   |Sub-packing            |Genesis Qty            |Genesis XL Qty         |
-|-----------------------|-----------------------|-----------------------|-----------------------|
+|Item|Sub-packing|Genesis Qty|Genesis XL Qty|
+|----|-----------|-----------|--------------|
 |[Track End Plates](../../Extras/bom/plates-and-brackets.md#track-end-plate)|Wrapped in tissue paper|4|4
 |[Track Joining Plates](../../Extras/bom/plates-and-brackets.md#track-joining-plate)|Wrapped in tissue paper|2|6
 |[Gantry Wheel Plates](../../Extras/bom/plates-and-brackets.md#gantry-wheel-plate)|Wrapped in tissue paper|2|2
@@ -24,7 +24,7 @@ There are two versions of the plate box: one for **Genesis** kits and one for **
 |[80mm Cable Carrier Mount](../../Extras/bom/plates-and-brackets.md#80mm-cable-carrier-mount)|Wrapped in tissue paper|1|1
 |[3-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#3-slot-toolbay)|Separated by thick recycled kraft paper|2|2
 |[1-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#1-slot-toolbay)|Separated by thick recycled kraft paper|-|3
-|Pack of:<br>- 6x [Belt Clips](../../Extras/bom/plates-and-brackets.md#belt-clip)<br>- 6x [Belt Sleeves](../../Extras/bom/drivetrain.md#belt-sleeve)<br>- 2x [Z-Axis Hardstops](../../Extras/bom/plates-and-brackets.md#z-axis-hardstop)<br>- 5x [Jumper Links](../../Extras/bom/electronics-and-wiring.md#jumper-links)<br>- 1x [Seed Trough Holder Mount](../../Extras/bom/plates-and-brackets.md#seed-trough-holder-mount)|In press-to-seal bag (no individual wrapping)|1 pack|1 pack
+|Pack of:<br>- 6x [Belt Clips](../../Extras/bom/plates-and-brackets.md#belt-clip)<br>- 6x [Belt Sleeves](../../Extras/bom/drivetrain.md#belt-sleeve)<br>- 2x [Z-Axis Hardstops](../../Extras/bom/plates-and-brackets.md#z-axis-hardstop)<br>- 1x [Seed Trough Holder Mount](../../Extras/bom/plates-and-brackets.md#seed-trough-holder-mount)|In press-to-seal bag (no individual wrapping)|1 pack|1 pack
 
 # Box specifications
 
