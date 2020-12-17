@@ -35,7 +35,15 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |**Precision Shim Dimensions** |10mm OD, 5mm ID, 1mm thickness
 |**Price**                     |$6.00
 |**Quantity**                  |30
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`V-Wheels (pre-assembled w/ SS M5 precision shim and SS bearings)`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FR4hbZb2wRmY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR4hbZb2wRmY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR4hbZb2wRmY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
@@ -53,7 +61,15 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |**Color**                     |Black (no markings)
 |**Price**                     |2m - $20.00<br>3.5m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
 |**Quantity**                  |**Genesis**<br>2m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.5m - 1<br>7.5m - 2<br><br>**Genesis MAX**<br>3.5m - 1<br>19.5m - 2
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`GT2 Timing Belt - [length]`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDu2sdMXKPEw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDu2sdMXKPEw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDu2sdMXKPEw%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
@@ -69,7 +85,15 @@ These sleeves secure the loose end of a belt to itself.
 |**Surface Finish**            |Sand blasted and clear anodized
 |**Price**                     |$0.50
 |**Quantity**                  |6
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Belt Sleeve`
+|**Vendor**                    |LDO
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 ![Belt Sleeves](_images/Belt_Sleeves.jpeg)
 
@@ -89,7 +113,15 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 |**Pitch**                     |GT2 (2mm)
 |**Price**                     |$6.00
 |**Quantity**                  |3
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 ![GT2 Pulley](_images/Pulley_2.jpg)
 
@@ -106,7 +138,15 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 |**Screws**                    |Stainless steel with 2mm hex drive
 |**Price**                     |$6.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`5mm to 8mm Shaft Coupler w/ SS Setscrews w/ 2mm drive`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![5mm to 8mm Shaft Coupling](_images/Couplper_1.jpeg)
@@ -127,7 +167,15 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 |**Lead**                      |8mm
 |**Price**                     |$35.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`8mm x 800mm SS ACME Leadscrew`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2GPDnuH1k9o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2GPDnuH1k9o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2GPDnuH1k9o%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
@@ -152,7 +200,15 @@ This delrin block attaches to the cross-slide plate so that the leadscrew can mo
 |**Thickness**                 |12mm
 |**Price**                     |$7.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`Leadscrew Block`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![Leadscrew Block](_images/Leadscrew_Block_1.JPG)
