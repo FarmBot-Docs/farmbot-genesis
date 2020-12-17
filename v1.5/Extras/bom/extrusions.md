@@ -31,7 +31,15 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 |**Price**                     |$30.00
 |**Quantity**                  |Genesis - 4<br>Genesis XL - 8<br>Genesis MAX - 24
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`20 x 40 x 1500mm V-Slot Silver (Track)`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![IMG_0544.jpg](_images/IMG_0544.jpg)
@@ -51,7 +59,15 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 |**Price**                     |$15.00
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`20 x 60 x 500mm V-Slot Silver (Gantry column)`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![IMG_0532.jpg](_images/IMG_0532.jpg)
@@ -71,7 +87,15 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 |**Price**                     |$35.00
 |**Quantity**                  |Genesis - 1<br>Genesis XL - 2<br>Genesis MAX - 2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`20 x 60 x 1500mm V-Slot Silver (Gantry main beam)`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![IMG_0547.jpg](_images/IMG_0547.jpg)
@@ -91,7 +115,15 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 |**Price**                     |$20.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+|                              |                              |
+|------------------------------|------------------------------|
 |**Internal Part Name**        |`20 x 20 x 1000mm V-Slot Silver (Z-axis)`
+|**Vendor**                    |
+|**$/pc**                      |$
+|**Component Tests**           |
+|**Notes**                     |
+{:.internal}
 
 {% include gallery.html images="
 ![IMG_0542.jpg](_images/IMG_0542.jpg)
