@@ -221,3 +221,8 @@ This component allows for the seed trough holder to be mounted offset from the g
 |**Price**                     |$5.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+{% include gallery.html images="
+![Seed Trough Holder Mount](_images/seed_trough_holder_mount_1.jpg)
+![Seed Trough Holder Mount](_images/seed_trough_holder_mount_2.jpg)
+" %}
