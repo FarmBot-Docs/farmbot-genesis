@@ -83,7 +83,7 @@ data:
       - section: npt-to-barb-adapter
         image: Extras/bom/_images/npt_to_barb_adapter_1.jpg
       - section: garden-hose-to-barb-adapter
-        image: Extras/bom/_images/IMG_0501.jpg
+        image: Extras/bom/_images/GHT_to_barb_adapter_1.jpg
       - section: o-rings
         image: Extras/bom/_images/O-rings.jpg
       - section: pressure-regulator
@@ -252,3 +252,5 @@ data:
         image: Extras/bom/_images/Belt_Clips.jpeg
       - section: z-axis-hardstop
         image: Extras/bom/_images/zhardstops.JPG
+      - section: seed-trough-holder-mount
+        image: Extras/bom/_images/seed_trough_holder_mount_1.jpg

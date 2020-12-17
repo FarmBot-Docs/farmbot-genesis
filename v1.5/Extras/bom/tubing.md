@@ -126,8 +126,9 @@ content="v1.5 kits shipped before November 1st, 2020 had unmarked adapters, whil
 %}
 
 {% include gallery.html images="
-![Garden Hose to Barb Adapter](_images/IMG_0501.jpg)
-![Garden Hose to Barb Adapter](_images/IMG_0502.jpg)
+![Garden Hose to Barb Adapter](_images/GHT_to_barb_adapter_1.jpg)
+![Garden Hose to Barb Adapter](_images/GHT_to_barb_adapter_2.jpg)
+![Garden Hose to Barb Adapter](_images/GHT_to_barb_adapter_3.jpg)
 " %}
 
 # Pressure Regulator
