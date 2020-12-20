@@ -68,7 +68,7 @@ Carefully drape the cable carrier assembly into position. Attach the cross-slide
 
 Now attach the z-axis end of the **cable carrier** to the lowest **vertical cable carrier support** on the **z-axis** using two **M5 x 16mm screws** and **M5 flange locknuts**. The screws should thread firmly through the cable carrier end piece.
 
-![Mount the cabble carrier to the z-axis](_images/mount_z_cable_carrier_to_z_axis.png)
+![mount the cable carrier to the z-axis](_images/mount_the_cable_carrier_to_the_z-axis.png)
 
 # Step 6: Connect the z-axis motor and encoder
 

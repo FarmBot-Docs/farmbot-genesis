@@ -6,12 +6,10 @@ slug: "control-servos"
 * toc
 {:toc}
 
-Interested in making your own servo powered tool or peripheral? You can easily control PWM servo motors by using the [Set Servo Angle Farmware](https://github.com/FarmBot-Labs/set-servo-angle). Simply [install the farmware](https://software.farm.bot/docs/farmware#installing-farmware) onto your FarmBot, and then use the Run Farmware command in your sequences to programmatically control servos.
+Interested in making your own servo powered tool or peripheral? You can easily control PWM servo motors via the __CONTROL SERVO__ sequence command.
 
-![inputs_1030x1349_crop_center.png](_images/inputs_1030x1349_crop_center.png)
+![control_servo sequence step](_images/control_servo.png)
 
-You can also set the servo angle from the farmware page.
-
-![33814989-f6aaba2c-dde2-11e7-9a5a-d1ba24e3293a.png](_images/33814989-f6aaba2c-dde2-11e7-9a5a-d1ba24e3293a.png)
+For additional information, see the [sequence command documentation](https://software.farm.bot/docs/sequence-commands).
 
 Make sure to let us know what you make in [the forum](https://forum.farmbot.org)!

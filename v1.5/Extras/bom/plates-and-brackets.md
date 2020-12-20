@@ -40,8 +40,8 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 {% include gallery.html images="
-![Track End Plate 1.JPG](_images/Track_End_Plate_1.JPG)
-![Track End Plates 3.JPG](_images/Track_End_Plates_3.JPG)
+![track end plate](_images/track_end_plate.jpg)
+![Track End Plates](_images/track_end_plates_2.jpg)
 " %}
 
 # Track Joining Plate
@@ -55,7 +55,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |Genesis - 2<br>Genesis XL - 6<br>Genesis MAX - 22
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![Track Joining Plates.JPG](_images/Track_Joining_Plates.JPG)
+![track joining plates](_images/track_joining_plates.jpg)
 
 # Gantry Wheel Plate
 
@@ -68,7 +68,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![Gantry Wheel Plates 1.JPG](_images/Gantry_Wheel_Plates_1.JPG)
+![Gantry Wheel Plates](_images/gantry_wheel_plates.jpg)
 
 # Gantry Corner Bracket
 
@@ -82,8 +82,8 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 {% include gallery.html images="
-![83ac568-Gantry_Corner_Brackets.jpeg](_images/Gantry_Corner_Brackets.jpeg)
-![a529504-Gantry_Corner_Brackets_2.jpeg](_images/Gantry_Corner_Brackets_2.jpeg)
+![gantry corner brackets](_images/gantry_corner_brackets_1.jpeg)
+![gantry corner brackets](_images/gantry_corner_brackets.jpeg)
 " %}
 
 # Gantry Joining Bracket
@@ -98,8 +98,8 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 {% include gallery.html images="
-![594ebb7-Gantry_Joining_Bracket_2.jpeg](_images/Gantry_Joining_Bracket_2.jpeg)
-![6deac68-Gantry_Joining_Bracket.jpeg](_images/Gantry_Joining_Bracket.jpeg)
+![Gantry Joining Bracket](_images/gantry_joining_bracket_1.jpeg)
+![Gantry Joining Bracket](_images/gantry_joining_bracket_2.jpeg)
 " %}
 
 # Cross-Slide Plate
@@ -113,7 +113,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![Cross-Slide plate1.JPG](_images/Cross-Slide_plate1.JPG)
+![cross-slide plate](_images/cross-slide_plate.jpg)
 
 # Z-Axis Motor Mount
 This component securely attached the z-axis motor to the z-axis extrusion.
@@ -126,7 +126,7 @@ This component securely attached the z-axis motor to the z-axis extrusion.
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![Zmotor1.JPG](_images/Zmotor1.JPG)
+![z-axis motor mount](_images/z-axis_motor_mount.jpg)
 
 # Toolbays
 
@@ -145,13 +145,13 @@ Toolbays are available in both 1-slot and 3-slot versions.
 
 ## 1-Slot Toolbay
 
-![IMG_0479.jpg](_images/IMG_0479.jpg)
+![1-slot toolbay](_images/1-slot_toolbay.jpg)
 
 ## 3-Slot Toolbay
 
 {% include gallery.html images="
-![Toolbay.JPG](_images/Toolbay.JPG)
-![Toolbay 2.JPG](_images/Toolbay_2.JPG)
+![3-slot toolbay](_images/3-slot_toolbay_1.jpg)
+![3-slot toolbay](_images/3-slot_toolbay_2.jpg)
 " %}
 
 # 50mm Cable Carrier Mount
@@ -165,7 +165,7 @@ This part allows the x-axis cable carrier to be mounted to the gantry column.
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![7703d60-50mm_CC_Mount.jpeg](_images/50mm_CC_Mount.jpeg)
+![50mm cable carrier mount](_images/50mm_cable_carrier_mount.jpeg)
 
 # 80mm Cable Carrier Mount
 This part allows the y-axis cable carrier to be mounted to the cross-slide plate.
@@ -178,7 +178,7 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![Long Cable Carrier Support.JPG](_images/Long_Cable_Carrier_Support.JPG)
+![80mm cable carrier mount](_images/80mm_cable_carrier_mount.jpg)
 
 # Belt Clip
 
@@ -192,8 +192,8 @@ This part allows the y-axis cable carrier to be mounted to the cross-slide plate
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 {% include gallery.html images="
-![875722e-Belt_Clips.jpeg](_images/Belt_Clips.jpeg)
-![4ed0790-Belt_Clips_2.jpeg](_images/Belt_Clips_2.jpeg)
+![belt clips](_images/belt_clips_1.jpeg)
+![belt clips](_images/belt_clips.jpeg)
 " %}
 
 # Z-Axis Hardstop
@@ -208,7 +208,7 @@ These components mount on the z-axis extrusion and physically limit how low and 
 |**Quantity**                  |2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
-![zhardstops.JPG](_images/zhardstops.JPG)
+![z-axis hardstops](_images/z-axis_hardstops.jpg)
 
 # Seed Trough Holder Mount
 This component allows for the seed trough holder to be mounted offset from the gantry column so that the seeder may reach the troughs.

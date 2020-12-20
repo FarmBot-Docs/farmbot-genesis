@@ -22,7 +22,7 @@ content="Sharing stuff on social media? Make sure to use **#FarmBot**!"
 
 
 
-![giphy.gif](_images/giphy.gif)
+![plant growth timelapse](_images/plant_growth_timelapse.gif)
 
 
 
@@ -35,7 +35,7 @@ content="Use the sequence builder and event scheduler of the web app to easily a
 
 
 
-![Screen Shot 2017-02-14 at 10.27.19 AM.png](_images/Screen_Shot_2017-02-14_at_10.27.19_AM.png)
+![timelapse plant photo sequence](_images/timelapse_plant_photo_sequence.png)
 
 
 

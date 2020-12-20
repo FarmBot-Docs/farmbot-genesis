@@ -47,7 +47,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FR4hbZb2wRmY%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DR4hbZb2wRmY&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FR4hbZb2wRmY%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-![V-Wheel](_images/IMG_0472.jpg)
+![V-Wheel](_images/v-wheel.jpg)
 
 # GT2 Timing Belt
 
@@ -73,7 +73,7 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FDu2sdMXKPEw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDu2sdMXKPEw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FDu2sdMXKPEw%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-![7.5m and 3.5m GT2 Timing Belt](_images/IMG_0467.jpg)
+![7.5m and 3.5m GT2 Timing Belt](_images/7.5m_and_3.5m_gt2_timing_belt.jpg)
 
 # Belt Sleeve
 
@@ -95,7 +95,7 @@ These sleeves secure the loose end of a belt to itself.
 |**Notes**                     |
 {:.internal}
 
-![Belt Sleeves](_images/Belt_Sleeves.jpeg)
+![Belt Sleeves](_images/belt_sleeves.jpeg)
 
 # GT2 Pulley
 
@@ -123,7 +123,7 @@ These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the 
 |**Notes**                     |
 {:.internal}
 
-![GT2 Pulley](_images/Pulley_2.jpg)
+![GT2 Pulley](_images/gt2_pulley.jpg)
 
 # 5mm to 8mm Shaft Coupling
 
@@ -149,8 +149,8 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 {:.internal}
 
 {% include gallery.html images="
-![5mm to 8mm Shaft Coupling](_images/Couplper_1.jpeg)
-![5mm to 8mm Shaft Coupling](_images/Coupler_2.jpeg)
+![5mm to 8mm Shaft Coupling](_images/5mm_to_8mm_shaft_coupling_1.jpeg)
+![5mm to 8mm Shaft Coupling](_images/5mm_to_8mm_shaft_coupling_2.jpeg)
 " %}
 
 # Leadscrew
@@ -180,8 +180,8 @@ This stainless steel leadscrew allows FarmBot to move in the Z direction.
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F2GPDnuH1k9o%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D2GPDnuH1k9o&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F2GPDnuH1k9o%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 {% include gallery.html images="
-![Leadscrew](_images/Leadscrew_2.JPG)
-![Leadscrew](_images/Leadscrew_1.JPG)
+![Leadscrew](_images/leadscrew_1.jpg)
+![Leadscrew](_images/leadscrew_2.jpg)
 " %}
 
 # Leadscrew Block
@@ -211,6 +211,6 @@ This delrin block attaches to the cross-slide plate so that the leadscrew can mo
 {:.internal}
 
 {% include gallery.html images="
-![Leadscrew Block](_images/Leadscrew_Block_1.JPG)
-![Leadscrew Block](_images/Leadscrew_Block_2.JPG)
+![Leadscrew Block](_images/leadscrew_block_1.jpg)
+![Leadscrew Block](_images/leadscrew_block_2.jpg)
 " %}

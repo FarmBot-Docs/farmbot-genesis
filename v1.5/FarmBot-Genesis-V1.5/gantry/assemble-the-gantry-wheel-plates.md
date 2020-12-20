@@ -8,7 +8,7 @@ slug: "assemble-the-gantry-wheel-plates"
 
 Each gantry wheel plate will have nine wheel assemblies attached to allow sliding along the tracks. The five wheels that ride on the top of the tracks will be attached to the plates with **[standard spacers](../../Extras/bom/fasteners-and-hardware.md#m5-x-6mm-spacers)**. The four wheels that ride underneath the tracks will be attached to the plates with **[eccentric spacers](../../Extras/bom/fasteners-and-hardware.md#m5-x-6mm-eccentric-spacers)**. The eccentric spacers will be used to finely adjust the spacing between the top and the bottom wheels such that the gantry will roll smoothly and snuggly along the tracks.
 
-![Gantry Wheel Plates.jpg](_images/Gantry_Wheel_Plates.jpg)
+![gantry wheel plates](_images/gantry_wheel_plates.jpg)
 
 _Note that you need to assemble a left-hand and right-hand version of the gantry wheel plate assemblies._
 
@@ -25,13 +25,13 @@ content="It is best to lay out the gantry wheel plates as a mirror image of each
 Insert an **M5 x 30mm screw** through a **V-wheel** and a **standard 6mm spacer**. Then insert this into the **gantry wheel plate** as shown and add an **M5 flange locknut** on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**.
 
 {% include gallery.html images="
-![Screen Shot 2020-02-16 at 9.39.47 AM.png](_images/Screen_Shot_2020-02-16_at_9.39.47_AM.png)
-![Screen Shot 2020-02-16 at 9.42.11 AM.png](_images/Screen_Shot_2020-02-16_at_9.42.11_AM.png)
+![gantry wheel plate with one wheel](_images/gantry_wheel_plate_with_one_wheel.png)
+![gantry wheel plate with one wheel closeup](_images/gantry_wheel_plate_with_one_wheel_closeup.png)
 " %}
 
 Repeat the above process for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
 
-![Screen Shot 2020-02-16 at 9.43.16 AM.png](_images/Screen_Shot_2020-02-16_at_9.43.16_AM.png)
+![gantry wheel plate with five wheels](_images/gantry_wheel_plate_with_five_wheels.png)
 
 # Step 2: Attach the lower V-wheels
 Insert an **eccentric spacer** into the **gantry wheel plate**.
@@ -45,25 +45,25 @@ content="You may need to lightly tap the eccentric spacer into the hole using a 
 
 
 
-![Screen Shot 2020-02-16 at 9.44.01 AM.png](_images/Screen_Shot_2020-02-16_at_9.44.01_AM.png)
+![gantry wheel plate with one eccentric spacer](_images/gantry_wheel_plate_with_one_eccentric_spacer.png)
 
 Then insert an **M5 x 30mm screw** with a **V-wheel** through the spacer and secure the assembly with an **M5 flange locknut** on the other side of the plate.
 
-![Screen Shot 2020-02-16 at 9.45.19 AM.png](_images/Screen_Shot_2020-02-16_at_9.45.19_AM.png)
+![gantry wheel plate with one eccentrically spaced wheel](_images/gantry_wheel_plate_with_one_eccentrically_spaced_wheel.png)
 
 Repeat the above steps for the remaining V-wheels attached with the eccentric spacers.
 
-![Screen Shot 2020-02-16 at 9.46.18 AM.png](_images/Screen_Shot_2020-02-16_at_9.46.18_AM.png)
+![gantry wheel plate with all wheels](_images/gantry_wheel_plate_with_all_wheels.png)
 
 # Step 3: Attach the nut bars
 Loosely attach two **60mm nut bars** to the plate using four **M5 x 10mm screws**. The nut bars should reside on the same side of the plate as the V-wheels.
 
-![Screen Shot 2020-02-16 at 9.48.17 AM.png](_images/Screen_Shot_2020-02-16_at_9.48.17_AM.png)
+![gantry wheel plate with nut bars](_images/gantry_wheel_plate_with_nut_bars.png)
 
 # Step 4: Repeat
 Repeat the above steps for the second gantry wheel plate assembly. You should end up with two gantry wheel plate assemblies that are mirror images of each other.
 
-![Gantry Wheel Plates.jpg](_images/Gantry_Wheel_Plates_02.jpg)
+![gantry wheel plates with nut bars](_images/gantry_wheel_plates_with_nut_bars.jpg)
 
 # Step 5: Adjust the V-wheel spacing
 

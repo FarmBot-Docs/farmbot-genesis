@@ -13,7 +13,7 @@ The weeding tool is a single 3D printable component magnetically mounts onto Far
 
 
 
-![Screen Shot 2017-10-04 at 5.07.25 PM.png](_images/Screen_Shot_2017-10-04_at_5.07.25_PM.png)
+![weeder](_images/weeder.png)
 
 This tool, and FarmBot in general, is designed for removing weeds early and often such that the weeds are always **small, young, and fragile**, and therefore easily removed.
 
@@ -31,12 +31,12 @@ content="Do not expect this tool, or FarmBot in general, to be able to remove la
 # Step 1: Install the basic tool hardware
 Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md).
 
-![087e4fd-Screen_Shot_2017-10-04_at_5.08.21_PM.png](_images/Screen_Shot_2017-10-04_at_5.08.21_PM.png)
+![weeder with basic tool hardware](_images/weeder_with_basic_tool_hardware.png)
 
 # Step 2: Install the implements
 Attach the four **medium weeder blades** to the **weeder** using **M3 x 6mm screws**.
 
-![bcec1dc-Screen_Shot_2017-10-04_at_5.10.55_PM.png](_images/Screen_Shot_2017-10-04_at_5.10.55_PM.png)
+![weeder with implements](_images/weeder_with_implements.png)
 
 # Customizing the weeder
 The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. Feel free to reconfigure the implements or just use some of them. You can also create new implements of your own design with a 3D printer or out of household materials.

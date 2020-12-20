@@ -15,7 +15,7 @@ The Farmduino microcontroller uses Arduino architecture and it communicates with
 
 Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmBot's plants, sequences, regimens, events, and settings. Additionally, the Raspberry Pi is responsible for taking photos with the USB camera, and monitoring and controlling the push buttons and LEDs on top of the electronics box via the Pi adapter board.
 
-![Raspberry_Pi_Diagram_.png](_images/Raspberry_Pi_Diagram_.png)
+![Raspberry Pi Diagram ](_images/Raspberry_Pi_Diagram.png)
 
 
 
@@ -23,7 +23,7 @@ Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmB
 
 Attach the pre-assembled **electronics box** to the **left gantry column** using six **M5 x 10mm screws** and **drop-in tee nuts**. The top flange of the box should be butted against the bottom edge of the **gantry corner bracket**.
 
-![Screen Shot 2020-02-17 at 3.44.04 PM.png](_images/Screen_Shot_2020-02-17_at_3.44.04_PM.png)
+![electronics box attached to gantry](_images/electronics_box_attached_to_gantry.png)
 
 # Step 2: Connect the peripherals
 
@@ -50,7 +50,7 @@ When plugging in cables in the following steps, ensure that you pass **every cab
 * Connect the **solenoid valve cable** (with blue heat shrink) to the **Farmduino** peripheral connector labelled `WATER` (directly underneath the lighting connector). The connector will only fit in one direction.
 * Connect the **vacuum pump cable** (with gray heat shrink) to the **Farmduino** peripheral connector labelled `VACUUM` (directly underneath the water connector). The connector will only fit in one direction.
 
-![Screen Shot 2020-02-17 at 3.51.08 PM.png](_images/Screen_Shot_2020-02-17_at_3.51.08_PM.png)
+![farmduino peripheral connectors](_images/farmduino_peripheral_connectors.png)
 
 _The peripheral connectors are highlighted in orange_
 
@@ -66,7 +66,7 @@ content="See [Farmduino Peripheral Pin Numbers](../Extras/reference/farmduino-pe
 # Step 3: Plug in the stepper motors and rotary encoders
 Plug in the **motor and encoder cables** to the **Farmduino**. Each cable is labelled with a white sleeve, which corresponds to the connectors on the Farmduino. From left to right, the connectors on Farmduino are `X1`, `X2`, `Y`, and `Z`. Each connector can only be inserted in one direction, and has a locking tab to prevent it from falling out.
 
-![Screen Shot 2020-02-17 at 3.51.51 PM.png](_images/Screen_Shot_2020-02-17_at_3.51.51_PM.png)
+![farmduino motor and encoder connectors](_images/farmduino_motor_and_encoder_connectors.png)
 
 _The motor and encoder connectors are highlighted in orange_
 
@@ -84,28 +84,28 @@ We recommend slightly pushing the connector away from the locking tab (while you
 # Step 4: Plug in the camera
 Plug in the **camera** to the **Raspberry Pi**.
 
-![Screen Shot 2020-02-17 at 3.52.48 PM.png](_images/Screen_Shot_2020-02-17_at_3.52.48_PM.png)
+![pi usb port](_images/pi_usb_port.png)
 
 _The USB port on the Raspberry Pi is highlighted in orange_
 
 # Step 5: Plug in the UTM cable
 Plug in the **UTM cable** to the **Farmduino**. The connector will only fit in one direction.
 
-![Screen Shot 2020-02-17 at 3.53.22 PM.png](_images/Screen_Shot_2020-02-17_at_3.53.22_PM.png)
+![farmduino utm connector](_images/farmduino_utm_connector.png)
 
 _The UTM connector is highlighted in orange_
 
 # Step 6: Plug the power supply into the Farmduino
 Connect the red **2-pin power supply connector** to the **Farmduino's power input**. The connector will only fit in one direction.
 
-![Screen Shot 2020-02-17 at 3.53.59 PM.png](_images/Screen_Shot_2020-02-17_at_3.53.59_PM.png)
+![farmduino power connector](_images/farmduino_power_connector.png)
 
 _The power input connector is highlighted in orange_
 
 # Step 7: Insert the supergland
 Insert one half of the **supergland** into the slot in the bottom of the **electronics box**. The left-most hole in the supergland should be small (it is for the camera) while the right-most hole should be medium-sized (it is for the power supply).
 
-![Supergland.JPG](_images/Supergland.JPG)
+![supergland](_images/supergland.jpg)
 
 Organize and position the **cables** into the **supergland**. From left to right, the cables should be: camera, UTM, motors, encoders, peripherals, power supply.
 
@@ -120,7 +120,7 @@ content="Do not pull any cables away from the electronics box during this proces
 
 
 
-![4509f77-IMG_20170923_131922.jpg](_images/IMG_20170923_131922.jpg)
+![supergland with cables installed](_images/supergland_with_cables_installed.jpg)
 
 # Step 8: Install FarmBot OS onto the microSD card
 Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the software documentation hub to install **FarmBot OS** onto the **microSD card**.
@@ -128,12 +128,12 @@ Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the so
 # Step 9: Mount the power supply
 Mount the **power supply** to your **supporting infrastructure** using four **25mm wood screws**. The power supply is IP67 rated, so it can withstand rain and the elements.
 
-![Mounted PSU.JPG](_images/Mounted_PSU.JPG)
+![mounted power supply](_images/mounted_power_supply.jpg)
 
 # Step 10: Plug in the power supply
 Connect the **waterproof screw-together 2-pin connector** of the **power supply cable** into the **power supply output**.
 
-![Screen Shot 2018-08-10 at 6.14.43 PM.png](_images/Screen_Shot_2018-08-10_at_6.14.43_PM.png)
+![power supply connector](_images/power_supply_connector.png)
 
 Before plugging the power supply into an outlet or an extension cord, please read the precaution below.
 
@@ -151,8 +151,8 @@ If everything looks good, and you understand the precautions needed around power
 If an appropriate outlet is not close enough to plug in directly, use an extension cord and the provided green outdoor electrical connection protector.
 
 {% include gallery.html images="
-![Cord Protect.JPG](_images/Cord_Protect.JPG)
-![Cord protect clear.JPG](_images/Cord_protect_clear.JPG)
+![cord protector](_images/cord_protector.jpg)
+![cord protector with cord inside](_images/cord_protector_with_cord_inside.jpg)
 " %}
 
 {%

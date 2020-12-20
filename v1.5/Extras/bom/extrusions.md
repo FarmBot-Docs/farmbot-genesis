@@ -42,8 +42,8 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 {:.internal}
 
 {% include gallery.html images="
-![IMG_0544.jpg](_images/IMG_0544.jpg)
-![IMG_0541.jpg](_images/IMG_0541.jpg)
+![track extrusion](_images/track_extrusion.jpg)
+![track extrusion closeup](_images/track_extrusion_closeup.jpg)
 " %}
 
 # Gantry Column
@@ -70,8 +70,8 @@ The gantry columns are made from aluminum extrusions. They can be scaled to be t
 {:.internal}
 
 {% include gallery.html images="
-![IMG_0532.jpg](_images/IMG_0532.jpg)
-![IMG_0535.jpg](_images/IMG_0535.jpg)
+![gantry column](_images/gantry_column.jpg)
+![gantry column closeup](_images/gantry_column_closeup.jpg)
 " %}
 
 # Gantry Main Beam
@@ -98,8 +98,8 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 {:.internal}
 
 {% include gallery.html images="
-![IMG_0547.jpg](_images/IMG_0547.jpg)
-![IMG_0535.jpg](_images/IMG_0535_02.jpg)
+![gantry main beam](_images/gantry_main_beam.jpg)
+![gantry main beam closeup](_images/gantry_main_beam_closeup.jpg)
 " %}
 
 # Z-Axis Extrusion
@@ -126,7 +126,7 @@ This aluminum extrusion allows FarmBot to accurately position the UTM and tools 
 {:.internal}
 
 {% include gallery.html images="
-![IMG_0542.jpg](_images/IMG_0542.jpg)
-![IMG_0545.jpg](_images/IMG_0545.jpg)
+![z-axis extrusion closeup](_images/z-axis_extrusion_closeup.jpg)
+![z-axis extrusion](_images/z-axis_extrusion.jpg)
 " %}
 

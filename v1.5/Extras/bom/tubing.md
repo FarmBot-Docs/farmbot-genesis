@@ -40,7 +40,7 @@ These ultra flexible silicone tubes carry water to the UTM.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWQltVvwRYfE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWQltVvwRYfE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWQltVvwRYfE%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
-![Water tubes](_images/IMG_0470.jpg)
+![Water tubes](_images/water_tubes.jpg)
 
 # Vacuum Tube
 
@@ -74,9 +74,9 @@ These brass barbs screw into the UTM's three liquid/gas ports and accept the thr
 |**Quantity**                  |3
 
 {% include gallery.html images="
-![Barb](_images/barb_1.jpg)
-![Barb](_images/barb_2.jpg)
-![Barbs on UTM](_images/IMG_0487.jpg)
+![Barb](_images/barb.jpg)
+![barb threads](_images/barb_threads.jpg)
+![Barbs on UTM](_images/barbs_on_utm.jpg)
 " %}
 
 # NPT to Barb Adapter
@@ -148,8 +148,8 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 |**Quantity**                  |1
 
 {% include gallery.html images="
-![Pressure Regulator](_images/Pressure2.JPG)
-![Pressure Regulator](_images/Pressure1.JPG)
+![Pressure Regulator](_images/pressure_regulator_1.jpg)
+![Pressure Regulator](_images/pressure_regulator_2.jpg)
 " %}
 
 # Rubber Gasket
@@ -181,7 +181,7 @@ These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when t
 |**Price**                     |$0.50
 |**Quantity**                  |3
 
-![O-rings](_images/O-rings.jpg)
+![O-rings](_images/o-rings.jpg)
 
 # Luer Lock Adapter
 
@@ -195,7 +195,7 @@ This adapter screws into the tool head and allows various luer lock needles to b
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-![Luer Lock Adapter](_images/Luer_Lock_Adapter.jpeg)
+![Luer Lock Adapter](_images/luer_lock_adapter.jpeg)
 
 # Luer Lock Needles
 
@@ -211,7 +211,7 @@ These needles are used for seed injection.
 |**Price**                     |$3.00
 |**Quantity**                  |3 of each gauge
 
-![Luer Lock Needles](_images/IMG_0530.jpg)
+![Luer Lock Needles](_images/luer_lock_needles.jpg)
 
 # Teflon Tape
 
@@ -226,4 +226,4 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 |**Price**                     |$5.00
 |**Quantity**                  |1
 
-![Teflon Tape](_images/Teflon_Tape.JPG)
+![Teflon Tape](_images/teflon_tape.jpg)

@@ -9,7 +9,7 @@ description: "Problem description: FarmBot is having trouble with measuring move
 
 A rotary encoder, also called a shaft encoder, is an electro-mechanical device that converts the angular position or motion of a shaft or axle to analog or digital output signals.  The output of the FarmBot encoder provides information about the motion of the shaft, which is processed by the Farmduino into information such as position, speed and acceleration. The FarmBot Genesis
 
-![NEMA_17_Stepper_Motor_w_rotary_encoder.jpg](_images/NEMA_17_Stepper_Motor_w_rotary_encoder.jpg)
+![nema 17 stepper motor with rotary encoder](_images/nema_17_stepper_motor_with_rotary_encoder.jpg)
 
 _FarmBot Genesis v1.4 NEMA 17 Stepper Motor with  pre-mounted rotary encoders_
 
@@ -22,7 +22,7 @@ In this case you have enabled the encoders in the Hardware widget on the Device 
 1. The motors keep moving and don’t stop when hitting the end of an axis.
 2. The encoders always display 0 in Controls page Move widget, even when motors do not.
 
-![Encoder_menu.png](_images/Encoder_menu.png)
+![move settings encoder position display](_images/move_settings_encoder_position_display.png)
 
 _Image credit: @Ascend_
 
@@ -62,7 +62,7 @@ The graphic below is an excerpt from the Honest Sensor HS28A Encoder module data
 There are other resources, documentation and diagnostic available online to help with advanced troubleshooting of rotary encoders. Check out this page by Dynapar on [Encoder Signal Overview & How to Troubleshoot Common Issues](https://www.dynapar.com/knowledge/encoder_issues/encoder_signal/)
 
 
-![Wave_Form_Information.bmp](_images/Wave_Form_Information.bmp)
+![encoder wave form information](_images/encoder_wave_form_information.bmp)
 
 
 

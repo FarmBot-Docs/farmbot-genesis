@@ -72,9 +72,9 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 {:.internal}
 
 {% include gallery.html images="
-![Closed Electronics Box](_images/IMG_0515.jpg)
-![Opened Electronics Box](_images/Electronics.JPG)
-![Upright Electronics Box](_images/IMG_0526.jpg)
+![Closed Electronics Box](_images/closed_electronics_box.jpg)
+![Opened Electronics Box](_images/opened_electronics_box.jpg)
+![Upright Electronics Box](_images/upright_electronics_box.jpg)
 " %}
 
 # Power Supply
@@ -102,9 +102,9 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 {:.internal}
 
 {% include gallery.html images="
-![Power Supply Top](_images/IMG_0507.jpg)
-![Power Supply Side Specs](_images/IMG_0509.jpg)
-![Power Supply Connectors](_images/IMG_0512.jpg)
+![Power Supply Top](_images/power_supply_top.jpg)
+![Power Supply Side Specs](_images/power_supply_side_specs.jpg)
+![Power Supply Connectors](_images/power_supply_connectors.jpg)
 " %}
 
 # Power Supply Cable
@@ -131,8 +131,8 @@ This modular 2-wire cable connects the power supply to the Farmduino. It feature
 {:.internal}
 
 {% include gallery.html images="
-![Power Supply Cable](_images/IMG_0503.jpg)
-![Power Supply Cable](_images/IMG_0505.jpg)
+![Power Supply Cable](_images/power_supply_cable.jpg)
+![Power Supply Cable](_images/power_supply_cable.jpg)
 " %}
 
 # Raspberry Pi 3
@@ -170,9 +170,9 @@ content="v1.5 kits shipped before November 1st, 2020 included the Raspberry Pi m
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 {% include gallery.html images="
-![Raspberry Pi 3](_images/Pi.JPG)
-![Raspberry Pi 3](_images/Pi_2.JPG)
-![Raspberry Pi 3](_images/Pi_3.JPG)
+![Raspberry Pi 3](_images/raspberry_pi_3_1.jpg)
+![Raspberry Pi 3](_images/raspberry_pi_3_2.jpg)
+![raspberry pi 3 back](_images/raspberry_pi_3_back.jpg)
 " %}
 
 # MicroSD Card
@@ -196,7 +196,7 @@ The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
 |**Notes**                     |Must be genuine SanDisk brand, new (not refurbished)
 {:.internal}
 
-![MicroSD Card](_images/IMG_0458.jpg)
+![MicroSD Card](_images/microsd_card.jpg)
 
 # Pi Adapter Board
 
@@ -218,7 +218,7 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 {:.internal}
 
 {% include gallery.html images="
-![Pi Adapter Board](_images/pi_adapter_board.jpg)
+![Pi Adapter Board](_images/pi_adapter_board_1.jpg)
 ![Pi Adapter Board](_images/pi_adapter_board_2.jpg)
 " %}
 
@@ -246,11 +246,11 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 {:.internal}
 
 {% include gallery.html images="
-![Push Buttons Front](_images/push_buttons.jpg)
-![Push Buttons Back](_images/push_buttons_2.jpg)
-![Push Button Wiring Harness](_images/push_button_cable.jpg)
-![Push Buttons installed, external view](_images/IMG_0524.jpg)
-![Push Buttons installed, internal view](_images/IMG_0525.jpg)
+![Push Buttons Front](_images/push_buttons_front.jpg)
+![Push Buttons Back](_images/push_buttons_back.jpg)
+![Push Button Wiring Harness](_images/push_button_wiring_harness.jpg)
+![Push Buttons installed, external view](_images/push_buttons_installed_external_view.jpg)
+![Push Buttons installed, internal view](_images/push_buttons_installed_internal_view.jpg)
 " %}
 
 # LED Indicator
@@ -277,11 +277,11 @@ These waterproof LED indicator lights come pre-mounted on the top of the electro
 {:.internal}
 
 {% include gallery.html images="
-![LED Indicators Front](_images/led_indicators.jpg)
-![LED Indicators Back](_images/led_indicators_2.jpg)
-![LED Indicator Wiring Harness](_images/led_indicator_cable.jpg)
-![LED Indicators installed, eternal view](_images/IMG_0524.jpg)
-![LED Indicators installed, internal view](_images/IMG_0525.jpg)
+![LED Indicators Front](_images/led_indicators_front.jpg)
+![LED Indicators Back](_images/led_indicators_back.jpg)
+![LED Indicator Wiring Harness](_images/led_indicator_wiring_harness.jpg)
+![LED Indicators installed, eternal view](_images/push_buttons_installed_external_view.jpg)
+![LED Indicators installed, internal view](_images/push_buttons_installed_internal_view.jpg)
 " %}
 
 # Farmduino
@@ -323,7 +323,7 @@ The source code for the STM32 firmware for tracking encoder signals is available
 |**Notes**                     |
 {:.internal}
 
-![Farmduino](_images/Farmduino.JPG)
+![Farmduino](_images/Farmduino.jpg)
 
 # Raspberry Pi Power Cable
 
@@ -347,7 +347,7 @@ This USB cable provides power to the Raspberry Pi from the Farmduino's built-in 
 |**Notes**                     |Samples received in July 2020
 {:.internal}
 
-![Raspberry Pi Power Cable](_images/Pi_Power_Cable.jpg)
+![Raspberry Pi Power Cable](_images/pi_power_cable.jpg)
 
 # Farmduino Data Cable
 
@@ -371,7 +371,7 @@ This USB cable is used as a serial connection between the Raspberry Pi and the F
 |**Notes**                     |
 {:.internal}
 
-![Farmduino Data Cable](_images/Farmduino_Data_Cable.jpg)
+![Farmduino Data Cable](_images/farmduino_data_cable.jpg)
 
 # Jumper Wire
 
@@ -394,7 +394,7 @@ Use these jumper wires to connect the UTM headers on Farmduino to other pins suc
 |**Notes**                     |
 {:.internal}
 
-![Jumper Wires](_images/Jumper_Wires.jpg)
+![Jumper Wires](_images/jumper_wires.jpg)
 
 # NEMA 17 Stepper Motor with Rotary Encoder
 
@@ -427,8 +427,8 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWzBrtojVykI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzBrtojVykI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWzBrtojVykI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
 {% include gallery.html images="
-![NEMA 17 Stepper Motors with Rotary Encoders](_images/Motor1.JPG)
-![NEMA 17 Stepper Motors with Rotary Encoders](_images/Motor_2.JPG)
+![NEMA 17 Stepper Motors with Rotary Encoders](_images/nema_17_stepper_motors_with_rotary_encoders_1.jpg)
+![NEMA 17 Stepper Motors with Rotary Encoders](_images/nema_17_stepper_motors_with_rotary_encoders_2.jpg)
 " %}
 
 # Motor Cables
@@ -521,7 +521,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 {:.internal}
 
 {% include gallery.html images="
-![Cable Carrier](_images/IMG_0454.jpg)
+![Cable Carrier](_images/cable_carrier.jpg)
 ![End pieces configuration - X](_images/cable_carrier_end_piece_configuration_x.jpg)
 ![End pieces configuration - Y](_images/cable_carrier_end_piece_configuration_y.jpg)
 ![End pieces configuration - Z](_images/cable_carrier_end_piece_configuration_z.jpg)
@@ -564,9 +564,9 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh_3c8-A966E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_3c8-A966E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh_3c8-A966E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 {% include gallery.html images="
-![Universal Tool Mount Cable](_images/IMG_0492.jpg)
-![Universal Tool Mount Cable](_images/IMG_0494.jpg)
-![Universal Tool Mount Cable](_images/IMG_0496.jpg)
+![Universal Tool Mount Cable](_images/universal_tool_mount_cable_1.jpg)
+![Universal Tool Mount Cable](_images/universal_tool_mount_cable_2.jpg)
+![Universal Tool Mount Cable](_images/universal_tool_mount_cable_3.jpg)
 " %}
 
 # Soil Sensor PCB
@@ -594,8 +594,8 @@ The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil
 {:.internal}
 
 {% include gallery.html images="
-![Soil Sensor PCB](_images/Soil_Sensor_PCB.jpeg)
-![Soil Sensor PCB](_images/Soil_Sensor_PCB_2.jpeg)
+![Soil Sensor PCB](_images/soil_sensor_pcb_1.jpeg)
+![Soil Sensor PCB](_images/soil_sensor_pcb_2.jpeg)
 " %}
 
 # Solenoid Valve
@@ -628,9 +628,9 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 {% include gallery.html images="
-![Solenoid Valve](_images/Solenoid_Valve.JPG)
-![Solenoid Valve](_images/Solenoid_Valve_2.JPG)
-![Solenoid Valve](_images/Solenoid_Valve_3.JPG)
+![Solenoid Valve](_images/solenoid_valve_1.jpg)
+![Solenoid Valve](_images/solenoid_valve_2.jpg)
+![Solenoid Valve](_images/solenoid_valve_3.jpg)
 " %}
 
 # Vacuum Pump
@@ -655,8 +655,8 @@ This 24V vacuum pump sucks air through the seeder's luer lock needle in order to
 {:.internal}
 
 {% include gallery.html images="
-![Vacuum Pump](_images/Vacuum_Pump.JPG)
-![Vacuum Pump](_images/Vacuum_Pump_2.JPG)
+![Vacuum Pump](_images/vacuum_pump_1.jpg)
+![Vacuum Pump](_images/vacuum_pump_2.jpg)
 " %}
 
 # Vacuum Pump Cable
@@ -721,7 +721,7 @@ This cable connects the solenoid valve to the Farmduino.
 |**Notes**                     |
 {:.internal}
 
-![Solenoid Valve Cable](_images/IMG_0466.jpg)
+![Solenoid Valve Cable](_images/solenoid_valve_cable.jpg)
 
 # Peripheral Lead
 
@@ -748,7 +748,7 @@ These extra leads make it easy to connect new, additional peripherals to your Fa
 |**Notes**                     |
 {:.internal}
 
-![Peripheral Leads](_images/IMG_0478.jpg)
+![Peripheral Leads](_images/peripheral_leads.jpg)
 
 # Camera
 
@@ -778,9 +778,9 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
 
 {% include gallery.html images="
-![Camera](_images/Camera_1.jpg)
-![Camera](_images/Camera_2.jpg)
-![Camera](_images/Camera_3.jpg)
+![Camera](_images/camera_1.jpg)
+![Camera](_images/camera_2.jpg)
+![Camera](_images/camera_3.jpg)
 " %}
 
 # Camera Cable
@@ -805,7 +805,7 @@ This cable connects the camera to the Raspberry Pi through the y-axis cable carr
 |**Notes**                     |Cable must be shielded USB cable or there will be EMI issues.
 {:.internal}
 
-![Camera Cable](_images/Camera_Cable.jpg)
+![Camera Cable](_images/camera_cable.jpg)
 
 # Camera Calibration Card
 
@@ -828,7 +828,7 @@ Use this card to perform an automatic calibration of FarmBot's camera.
 |**Notes**                     |2-sided print
 {:.internal}
 
-![Camera Calibration Card](_images/MVIMG_20200727_180001.jpg)
+![Camera Calibration Card](_images/camera_calibration_card.jpg)
 
 # Jumper Link
 
@@ -851,7 +851,7 @@ These connect the Grounded electronic pin to the Digital In pin, allowing FarmBo
 |**Notes**                     |
 {:.internal}
 
-![Jumper Links](_images/Jumper_Links.jpg)
+![Jumper Links](_images/jumper_links.jpg)
 
 # LED Strip
 
@@ -876,7 +876,7 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 |**Notes**                     |LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 {:.internal}
 
-![LED Strip](_images/LED_Strip.jpg)
+![LED Strip](_images/led_strip.jpg)
 
 # UTM PCB
 
@@ -933,6 +933,6 @@ content="v1.5 kits shipped before November 1st, 2020 included a power cord prote
 {:.internal}
 
 {% include gallery.html images="
-![Power Cord Protector](_images/power_cord_protector.jpg)
+![Power Cord Protector](_images/power_cord_protector_1.jpg)
 ![Power Cord Protector](_images/power_cord_protector_2.jpg)
 " %}

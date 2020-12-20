@@ -28,12 +28,12 @@ content="Position your posts such that you will be able to access all sides of y
 
 
 
-![post holes.jpg](_images/post_holes.jpg)
+![post holes](_images/post_holes.jpg)
 
 # Step 2: Install the first track's posts
 Install short (500mm) wood posts for the first track. The top of the posts should protrude at least 60mm from the ground, with at least 60mm of mounting width in the direction of the planned track. Space the posts 1500mm apart, center to center, unless you are using shorter track extrusions, in which case space the posts that far apart.
 
-![posts.png](_images/posts.png)
+![posts drawing](_images/posts_drawing.png)
 
 
 
@@ -60,7 +60,7 @@ You can use shims or other spacers to better align track plates in case your pos
 
 
 
-![posts.png](_images/posts_02.png)
+![posts drawing top and side views](_images/posts_drawing_top_and_side_views.png)
 
 Once you have positioned the second track's posts, bury or secure them however you like, again ensuring that they will not significantly move once installed.
 

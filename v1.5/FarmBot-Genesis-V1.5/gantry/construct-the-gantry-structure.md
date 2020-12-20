@@ -34,10 +34,10 @@ content="Pay special attention to the orientation of the brackets, extrusions, a
 %}
 
 {% include gallery.html images="
-![Prepare a corner bracket](_images/Screen_Shot_2020-02-16_at_10.06.30_AM.png)
-![Attach the corner bracket to the column](_images/Screen_Shot_2020-02-16_at_10.07.33_AM.png)
-![Align the top of the extrusion with the bracket notch](_images/Screen_Shot_2020-02-16_at_10.08.21_AM.png)
-![Repeat for the second column and corner bracket](_images/Screen_Shot_2020-02-16_at_10.10.05_AM.png)
+![Prepare a corner bracket](_images/corner_bracket_with_column_screws.png)
+![Attach the corner bracket to the column](_images/corner_bracket_attached_to_column.png)
+![Align the top of the extrusion with the bracket notch](_images/bracket_notch_aligned_with_extrusion_top.png)
+![Repeat for the second column and corner bracket](_images/both_columns.png)
 " %}
 
 # Step 3: Slide onto the tracks
@@ -51,7 +51,7 @@ content="This step is assuming that you have already adjusted the **eccentric sp
 
 Slide the **gantry columns** onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the FarmBot.
 
-![Slide the gantry colmuns onto the tracks](_images/Screen_Shot_2020-02-16_at_10.11.37_AM.png)
+![slide the gantry columns onto the tracks](_images/slide_the_gantry_columns_onto_the_tracks.png)
 
 # Step 4: Assemble the main beam
 
@@ -71,17 +71,17 @@ title="Your kit may not include 140mm nut bars"
 content="If your kit was shipped before November of 2020, it does not include 140mm nut bars. Instead, use four 60mm nut bars to attach each extrusion to the gantry joining bracket."
 %}
 
-![Attach the gantry joining bracket](_images/Screen_Shot_2020-02-16_at_10.18.09_AM.png)
+![Attach the gantry joining bracket](_images/attach_the_gantry_joining_bracket.png)
 
 # Step 5: Attach the cable carrier supports
 
 Using **M5 x 10mm screws** and **40mm nut bars**, attach six **60mm horizontal cable carrier supports** to the *middle slot* of the **gantry main beam extrusion**. For genesis kits, there is only one main beam extrusion, so only six supports will be used.
 
-![Cable carrier supports on a Genesis gantry](_images/Screen_Shot_2020-02-16_at_10.30.32_AM.png)
+![Cable carrier supports on a Genesis gantry](_images/cable_carrier_supports_on_a_genesis_gantry.png)
 
 For Genesis XL and MAX kits, there are two main beam extrusions, so 12 supports will be used, and they should be positioned on the same side of the extrusions as the gantry joining bracket.
 
-![Cable carrier supports on a Genesis XL or MAX gantry](_images/Screen_Shot_2020-02-16_at_10.33.58_AM.png)
+![Cable carrier supports on a Genesis XL or MAX gantry](_images/cable_carrier_supports_on_a_genesis_xl_or_max_gantry.png)
 
 # Step 6: Attach the main beam
 
@@ -95,13 +95,13 @@ content="The next step requires an additional person to complete."
 Lift up the **gantry main beam** and position it onto the front of the **gantry corner brackets**. The cable carrier supports should be on the same side of the main beam as the gantry corner brackets. Secure the main beam in place using four **60mm nut bars** and **M5 x 10mm screws**. The nut bars should be positioned in the *lower two extrusion slots* of the main beam such that the top face of the main beam is 20mm *above* the top edges of the gantry corner brackets.
 
 {% include gallery.html images="
-![Attach the gantry main beam](_images/Screen_Shot_2020-02-16_at_10.51.21_AM.png)
-![Attach the gantry main beam](_images/Screen_Shot_2020-02-16_at_10.50.50_AM.png)
+![Attach the gantry main beam](_images/attach_the_gantry_main_beam_1.png)
+![Attach the gantry main beam](_images/attach_the_gantry_main_beam_2.png)
 " %}
 
 Ensure that the gantry columns are vertical and form a 90 degree angle with the main beam. Then tighten the **M5 x 10mm screws**. Depending on the spacing of your tracks, the gantry main beam may extend beyond the corner brackets. This is ok.
 
-![Ensure the gantry is square](_images/Screen_Shot_2020-02-16_at_11.58.25_AM.png)
+![Ensure the gantry is square](_images/ensure_the_gantry_is_square.png)
 
 _This image is from the front of FarmBot_
 
@@ -109,7 +109,7 @@ _This image is from the front of FarmBot_
 
 Use two **M5 x 10mm screws** and **drop-in tee nuts** to attach the aluminum **50mm cable carrier mount** to the bottom of the **left gantry column**.
 
-![Attach the x-axis cable carrier mount](_images/Screen_Shot_2020-05-04_at_3.54.42_PM.png)
+![Attach the x-axis cable carrier mount](_images/attach_the_x-axis_cable_carrier_mount.png)
 
 # What's next?
 

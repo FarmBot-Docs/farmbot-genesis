@@ -11,7 +11,7 @@ slug: "x-axis-motors"
 
 Connect the **X1 motor and encoder cables** to the **X1 motor and encoder** on the right side of FarmBot (when looking at the device from the back). The electronics box will be attached to this side in a later step.
 
-![X1 motor cable from back.png](_images/X1_motor_cable_from_back.png)
+![x1 motor cable from back](_images/x1_motor_cable_from_back.png)
 
 _(highlighted in orange)_
 
@@ -21,7 +21,7 @@ _(highlighted in orange)_
 
 Connect the **X2 motor and encoder cables** to the **X2 motor and encoder** on the left side of FarmBot (when looking at the device from the back) by feeding the cables through the slots in all of the **horizontal cable carrier supports** along the **gantry main beam**.
 
-![X2 motor cable from back.png](_images/X2_motor_cable_from_back.png)
+![x2 motor cable from back](_images/x2_motor_cable_from_back.png)
 
 _(highlighted in orange)_
 

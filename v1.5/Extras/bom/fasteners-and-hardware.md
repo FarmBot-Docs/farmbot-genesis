@@ -61,7 +61,7 @@ These screws are used to mount the electronics boards into the electronics box w
 |**Notes**                     |
 {:.internal}
 
-![M2.5x4.jpg](_images/M2.5x4.jpg)
+![m2.5x4](_images/m2.5x4.jpg)
 
 # M3 Screws
 
@@ -90,11 +90,11 @@ M3 screws are used throughout FarmBot for mounting motors and other small electr
 
 ## M3 x 6mm Screws
 
-![M3x5.jpg](_images/M3x5.jpg)
+![m3x5](_images/m3x5.jpg)
 
 ## M3 x 12mm Screws
 
-![Msx10.jpg](_images/Msx10.jpg)
+![M3x12](_images/m3x12.jpg)
 
 ## M3 x 35mm Screws
 
@@ -127,15 +127,15 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 
 ## M5 x 10mm Screws
 
-![M5x10.jpg](_images/M5x10.jpg)
+![m5x10](_images/m5x10.jpg)
 
 ## M5 x 16mm Screws
 
-![M5x16.jpg](_images/M5x16.jpg)
+![m5x16](_images/m5x16.jpg)
 
 ## M5 x 30mm Screws
 
-![M5x30.jpg](_images/M5x30.jpg)
+![m5x30](_images/m5x30.jpg)
 
 # Locknuts
 
@@ -162,11 +162,11 @@ Locknuts are used throughout FarmBot to secure M3 and M5 screws in place. The ny
 
 ## M3 Locknuts
 
-![M3 locknuts.jpg](_images/M3_locknuts.jpg)
+![m3 locknuts](_images/m3_locknuts.jpg)
 
 ## M5 Flange Locknuts
 
-![M5_Flange_Locknuts.jpeg](_images/M5_Flange_Locknuts.jpeg)
+![m5 flange locknuts](_images/m5_flange_locknuts.jpeg)
 
 # Spacers
 
@@ -192,7 +192,7 @@ These spacers are used to offset V-wheels from plates so that they may engage ex
 
 ## M5 x 6mm Spacers
 
-![M5 Spacer.jpg](_images/M5_Spacer.jpg)
+![m5 spacer](_images/m5_spacer.jpg)
 
 # Eccentric Spacers
 
@@ -220,7 +220,7 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 
 ## M5 x 6mm Eccentric Spacers
 
-![Eccentric `.jpg](_images/Eccentric_.jpg)
+![eccentric spacers](_images/eccentric_spacers.jpg)
 
 # Standoffs
 
@@ -264,7 +264,7 @@ Combined with screws, these drop-in style tee nuts allow components such as plat
 |**Notes**                     |
 {:.internal}
 
-![Tee Nuts.jpg](_images/Tee_Nuts.jpg)
+![tee nuts](_images/tee_nuts.jpg)
 
 # Nut Bars
 
@@ -297,23 +297,23 @@ content="v1.5 kits shipped before November 1st, 2020 included **dowel pins** to 
 
 ## 20mm Nut Bar
 
-![83b126a-20mm_Nut_Bar.jpeg](_images/20mm_Nut_Bar.jpeg)
+![20mm nut bar](_images/20mm_nut_bar.jpeg)
 
 ## 40mm Nut Bar
 
-![7254193-40mm_Nut_Bar.jpeg](_images/40mm_Nut_Bar.jpeg)
+![40mm nut bar](_images/40mm_nut_bar.jpeg)
 
 ## 60mm Nut Bar
 
-![c6cee37-60mm_Nut_Bars.jpeg](_images/60mm_Nut_Bars.jpeg)
+![60mm nut bars](_images/60mm_nut_bars.jpeg)
 
 ## 100mm Nut Bar
 
-![100mm_nut_bar.jpg](_images/100mm_nut_bar.jpg)
+![100mm nut bar](_images/100mm_nut_bar.jpg)
 
 ## 140mm Nut Bar
 
-![140mm_nut_bar.jpg](_images/140mm_nut_bar.jpg)
+![140mm nut bar](_images/140mm_nut_bar.jpg)
 
 # Wood Screws
 
@@ -337,7 +337,7 @@ These are used to attach the track end plates and track joining plates to suppor
 |**Notes**                     |
 {:.internal}
 
-![Wood Screws.jpg](_images/Wood_Screws.jpg)
+![wood screws](_images/wood_screws.jpg)
 
 # Dowel Pins
 
@@ -359,7 +359,7 @@ content="v1.5 kits shipped before November 1st, 2020 included dowel pins to help
 |**Price**                     |$2.00
 |**Quantity**                  |Genesis: 6 or 0 (see note above)<br>Genesis XL: 20 or 0 (see note above)<br>Genesis MAX: 52
 
-![IMG_0514.jpg](_images/IMG_0514.jpg)
+![dowel pins](_images/dowel_pins.jpg)
 
 # Ring Magnets
 
@@ -386,8 +386,8 @@ These magnets keep tools attached to the UTM.
 {:.internal}
 
 {% include gallery.html images="
-![Magnets 1.jpg](_images/Magnets_1.jpg)
-![Magnet2.jpg](_images/Magnet2.jpg)
+![magnets](_images/magnets.jpg)
+![magnet](_images/magnet.jpg)
 " %}
 
 # Zip Ties
@@ -420,15 +420,15 @@ content="v1.5 kits shipped before November 1st, 2020 included **60mm zip ties**,
 
 ## 60mm Zip Ties
 
-![Zip Ties.jpg](_images/Zip_Ties.jpg)
+![60mm zip ties](_images/60mm_zip_ties.jpg)
 
 ## 100mm Zip Ties
 
-![100mm zip ties.JPG](_images/100mm_zip_ties.JPG)
+![100mm zip ties](_images/100mm_zip_ties.jpg)
 
 ## 200mm Zip Ties
 
-![200mm zip ties.JPG](_images/200mm_zip_ties.JPG)
+![200mm zip ties](_images/200mm_zip_ties.jpg)
 
 # Tools
 
@@ -458,7 +458,7 @@ This hex (allen) driver is used to tighten all of the M5 screws on FarmBot.
 |**Notes**                     |
 {:.internal}
 
-![3mm Driver.JPG](_images/3mm_Driver.JPG)
+![3mm driver](_images/3mm_driver.jpg)
 
 ## 2mm Hex Driver
 
@@ -482,7 +482,7 @@ This hex (allen) driver is used to tighten all of the M3 screws and setscrews on
 |**Notes**                     |
 {:.internal}
 
-![2mm Driver.JPG](_images/2mm_Driver.JPG)
+![2mm driver](_images/2mm_driver.jpg)
 
 ## 8mm Box Wrench
 
@@ -505,7 +505,7 @@ This box wrench is used to tighten all of the M5 screws on FarmBot.
 |**Notes**                     |
 {:.internal}
 
-![8mm Box Wrench.JPG](_images/8mm_Box_Wrench.JPG)
+![8mm box wrench](_images/8mm_box_wrench.jpg)
 
 ## 5.5mm Box Wrench
 
@@ -528,7 +528,7 @@ This box wrench is used to tighten all of the M3 locknuts on FarmBot.
 |**Notes**                     |
 {:.internal}
 
-![5.5mm Box Wrench.JPG](_images/5.5mm_Box_Wrench.JPG)
+![5.5mm box wrench](_images/5.5mm_box_wrench.jpg)
 
 ## 8mm Wrench
 
@@ -550,7 +550,7 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 |**Notes**                     |
 {:.internal}
 
-![8mm wrench.jpg](_images/8mm_wrench.jpg)
+![8mm wrench](_images/8mm_wrench.jpg)
 
 ## 5.5mm Wrench
 
@@ -570,7 +570,7 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 |**Notes**                     |
 {:.internal}
 
-![IMG_0475.jpg](_images/IMG_0475.jpg)
+![5.5mm wrench](_images/5.5mm_wrench.jpg)
 
 ## Phillips Screwdriver
 
@@ -593,7 +593,7 @@ Use this screwdriver to mount your track end plates, track joining plates, and t
 |**Notes**                     |
 {:.internal}
 
-![IMG_0462.jpg](_images/IMG_0462.jpg)
+![phillips screwdriver](_images/phillips_screwdriver.jpg)
 
 ## 2mm Allen Key
 
@@ -614,4 +614,4 @@ Use this tool to tighten the bits in the handles of the other drivers.
 |**Notes**                     |
 {:.internal}
 
-![IMG_0476.jpg](_images/IMG_0476.jpg)
+![2mm allen key](_images/2mm_allen_key.jpg)
