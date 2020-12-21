@@ -8,7 +8,7 @@ slug: "control-servos"
 
 Interested in making your own servo powered tool or peripheral? You can easily control PWM servo motors via the __CONTROL SERVO__ sequence command.
 
-![control_servo sequence step](_images/control_servo.png)
+![control servo sequence step](_images/control_servo.png)
 
 For additional information, see the [sequence command documentation](https://software.farm.bot/docs/sequence-commands).
 
