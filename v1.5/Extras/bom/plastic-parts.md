@@ -32,7 +32,7 @@ description: "Tech specs for the plastic parts in FarmBot Genesis. Visit [our sh
 |[Weeder Blades](#weeder)|$2.00|12|$24.00|12|$24.00|12|$24.00
 |**TOTALS**||**53**|**$246.00**|**71**|**$300.00**|**119**|**$444.00**
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FODUmjM1LhTA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DODUmjM1LhTA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FODUmjM1LhTA%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/ODUmjM1LhTA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # 40mm Horizontal Cable Carrier Support
 
@@ -47,7 +47,7 @@ These parts are used to mount and support the x-axis cable carrier. The gusset a
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`40mm Horizontal CC Support Rev B`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -72,7 +72,7 @@ These parts are used to mount and support the y-axis cable carrier. The gusset a
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`60mm Horizontal CC Support Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -98,7 +98,7 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`60mm Vertical CC Support Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -123,7 +123,7 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`60mm CC Spacer Block Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -148,7 +148,7 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`75mm Horizontal Motor Housing Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -174,7 +174,7 @@ This component protects the z-axis motor from rain.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`80mm Vertical Motor Housing Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -199,7 +199,7 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Camera Mount Halves Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -222,11 +222,11 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Seeder Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |Include ONLY **M5** brass inserts
 {:.internal}
 
 {% include gallery.html images='
@@ -248,7 +248,7 @@ This plastic bin allows you to load many seeds of the same type into your FarmBo
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Seed Bin Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -273,7 +273,7 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Seed Tray Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -298,7 +298,7 @@ These troughs fit into the seed trough holder, allowing FarmBot to bring seeds w
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Seed Trough Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -320,7 +320,7 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Seed Trough Holder Rev B`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -342,7 +342,7 @@ This tool acts as a mount for the soil sensor circuit board.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Soil Sensor Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -368,7 +368,7 @@ This component features slots for the solenoid valve to be mounted with zip ties
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Solenoid Valve Mount Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -393,7 +393,7 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`UTM Rev B`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -421,7 +421,7 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Vacuum Pump Housing Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -446,7 +446,7 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Vacuum Pump Mount Rev B`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -471,7 +471,7 @@ This two-part tool distributes the stream of water coming from the UTM into a ge
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Watering Nozzle Top Rev A`<br>`Watering Nozzle Bottom Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
@@ -501,11 +501,11 @@ The weeding tool allows FarmBot to smash weeds into the ground, thereby killing 
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |
+|**Internal Part Name**        |`Weeder Rev A`<br>`Weeder Blades (Wide) Rev A`<br>`Weeder Blades (Medium) Rev A`<br>`Weeder Blades (Medium) Rev A`
 |**Vendor**                    |
 |**$/pc**                      |
 |**Component Tests**           |
-|**Notes**                     |
+|**Notes**                     |`Weeder Rev A` injection mold needs work: Remove ejector pin artifacts on bottom inside of part.
 {:.internal}
 
 {% include gallery.html images='
