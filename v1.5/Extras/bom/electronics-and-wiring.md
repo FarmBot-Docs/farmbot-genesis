@@ -44,13 +44,11 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[Power Cord Protector](#power-cord-protector)|$7.00|1|$7.00|1|$7.00|1|$7.00
 |**TOTALS**||**68**|**$1,187.00**|**68**|**$1,337.00**|**68**|**$1,467.00**
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3qtDwTwSx9w%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3qtDwTwSx9w&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3qtDwTwSx9w%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/3qtDwTwSx9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Electronics Box
 
 This rainproof box protects FarmBot's electronics from rain and debris. It features an easy-to-use tool-less double latch design for quickly opening and closing the box, a rubber gasket to keep moisture out, and a custom gland for all of FarmBot's cables to be passed through. The lid, latches, and box are made of UV stabilized materials.
-
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fr6vjSrMhUc0%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dr6vjSrMhUc0&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fr6vjSrMhUc0%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -71,11 +69,12 @@ This rainproof box protects FarmBot's electronics from rain and debris. It featu
 |**Notes**                     |
 {:.internal}
 
-{% include gallery.html images="
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/r6vjSrMhUc0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Closed Electronics Box](_images/IMG_0515.jpg)
 ![Opened Electronics Box](_images/Electronics.JPG)
 ![Upright Electronics Box](_images/IMG_0526.jpg)
-" %}
+' %}
 
 # Power Supply
 
@@ -167,13 +166,12 @@ content="v1.5 kits shipped before November 1st, 2020 included the Raspberry Pi m
 |**Notes**                     |Ensure the model is `3B+` (not `3B`)
 {:.internal}
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjF8q6WAS-rU%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjF8q6WAS-rU&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjF8q6WAS-rU%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-{% include gallery.html images="
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/jF8q6WAS-rU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Raspberry Pi 3](_images/Pi.JPG)
 ![Raspberry Pi 3](_images/Pi_2.JPG)
 ![Raspberry Pi 3](_images/Pi_3.JPG)
-" %}
+' %}
 
 # MicroSD Card
 
@@ -424,12 +422,11 @@ These powerful 200 resolution stepper motors allow FarmBot to move precisely in 
 |**Notes**                     |Logo engraving must NOT be stretched. Please send photo of first samples to verify.
 {:.internal}
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWzBrtojVykI%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWzBrtojVykI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWzBrtojVykI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
-
-{% include gallery.html images="
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/WzBrtojVykI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![NEMA 17 Stepper Motors with Rotary Encoders](_images/Motor1.JPG)
 ![NEMA 17 Stepper Motors with Rotary Encoders](_images/Motor_2.JPG)
-" %}
+' %}
 
 # Motor Cables
 
@@ -561,13 +558,12 @@ This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, di
 |**Notes**                     |
 {:.internal}
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fh_3c8-A966E%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dh_3c8-A966E&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fh_3c8-A966E%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-{% include gallery.html images="
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/h_3c8-A966E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Universal Tool Mount Cable](_images/IMG_0492.jpg)
 ![Universal Tool Mount Cable](_images/IMG_0494.jpg)
 ![Universal Tool Mount Cable](_images/IMG_0496.jpg)
-" %}
+' %}
 
 # Soil Sensor PCB
 
@@ -625,13 +621,12 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 |**Notes**                     |
 {:.internal}
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMkIYGSv_tdA%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMkIYGSv_tdA&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMkIYGSv_tdA%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-{% include gallery.html images="
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/MkIYGSv_tdA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Solenoid Valve](_images/Solenoid_Valve.JPG)
 ![Solenoid Valve](_images/Solenoid_Valve_2.JPG)
 ![Solenoid Valve](_images/Solenoid_Valve_3.JPG)
-" %}
+' %}
 
 # Vacuum Pump
 
@@ -775,13 +770,12 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 |**Notes**                     |Inspect the camera module to ensure there are no obstructions in front of the lens, such as foam or glue.
 {:.internal}
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F-6rKclV82EQ%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-6rKclV82EQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F-6rKclV82EQ%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-{% include gallery.html images="
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/-6rKclV82EQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Camera](_images/Camera_1.jpg)
 ![Camera](_images/Camera_2.jpg)
 ![Camera](_images/Camera_3.jpg)
-" %}
+' %}
 
 # Camera Cable
 
