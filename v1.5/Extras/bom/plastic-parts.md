@@ -49,8 +49,8 @@ These parts are used to mount and support the x-axis cable carrier. The gusset a
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`40mm Horizontal CC Support Rev B`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$0.82
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -74,8 +74,8 @@ These parts are used to mount and support the y-axis cable carrier. The gusset a
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`60mm Horizontal CC Support Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$0.92
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -100,8 +100,8 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`60mm Vertical CC Support Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$.95
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -125,8 +125,8 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`60mm CC Spacer Block Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.20
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -150,8 +150,8 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`75mm Horizontal Motor Housing Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.38
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -176,8 +176,8 @@ This component protects the z-axis motor from rain.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`80mm Vertical Motor Housing Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.93
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -199,10 +199,10 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |`Camera Mount Halves Rev A`
+|**Internal Part Name**        |`Camera Mount Half Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$0.95
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -224,8 +224,8 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Seeder Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.35
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |Include ONLY **M5** brass inserts
 {:.internal}
 
@@ -250,8 +250,8 @@ This plastic bin allows you to load many seeds of the same type into your FarmBo
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Seed Bin Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.25
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -275,8 +275,8 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Seed Tray Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.35
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -300,8 +300,8 @@ These troughs fit into the seed trough holder, allowing FarmBot to bring seeds w
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Seed Trough Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.00
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -322,8 +322,8 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Seed Trough Holder Rev B`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.60
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -344,8 +344,8 @@ This tool acts as a mount for the soil sensor circuit board.
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Soil Sensor Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.50
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -370,8 +370,8 @@ This component features slots for the solenoid valve to be mounted with zip ties
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Solenoid Valve Mount Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.30
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -395,8 +395,8 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`UTM Rev B`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$2.10
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -423,8 +423,8 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Vacuum Pump Housing Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$3.50
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -448,8 +448,8 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Vacuum Pump Mount Rev B`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |$1.90
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -473,8 +473,8 @@ This two-part tool distributes the stream of water coming from the UTM into a ge
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Watering Nozzle Top Rev A`<br>`Watering Nozzle Bottom Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |Top - $1.30<br>Bottom - $1.00
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |
 {:.internal}
 
@@ -503,8 +503,8 @@ The weeding tool allows FarmBot to smash weeds into the ground, thereby killing 
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`Weeder Rev A`<br>`Weeder Blades (Wide) Rev A`<br>`Weeder Blades (Medium) Rev A`<br>`Weeder Blades (Medium) Rev A`
 |**Vendor**                    |LDO
-|**$/pc**                      |
-|**Component Tests**           |[Plastic Parts Tests](../../manufacturing/component-tests/plastic-parts.md)
+|**$/pc**                      |Weeder - $1.45<br>Blades - $1.00
+|**Component Tests**           |[Plastic Part Tests](../../manufacturing/component-tests/plastic-parts.md)
 |**Notes**                     |`Weeder Rev A` injection mold needs work: Remove ejector pin artifacts on bottom inside of part.
 {:.internal}
 
