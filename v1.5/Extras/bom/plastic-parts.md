@@ -434,7 +434,7 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 ![utm bottom view](_images/utm_bottom_view.jpg)
 ' %}
 
-# Pump Housing
+# Vacuum Pump Housing
 
 This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion.
 
