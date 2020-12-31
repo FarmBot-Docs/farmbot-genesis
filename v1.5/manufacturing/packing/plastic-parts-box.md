@@ -23,9 +23,9 @@ There are two versions of the plastic parts box: one for **Genesis** kits and on
 |[Vacuum Pump Mount](../../Extras/bom/plastic-parts.md#vacuum-pump-mount)|None                          |1                             |1
 |[Solenoid Valve Mount](../../Extras/bom/plastic-parts.md#solenoid-valve-mount)|None                          |1                             |1
 |[Seeder](../../Extras/bom/plastic-parts.md#seeder)|None                          |1                             |1
-|[Watering Nozzle Top](../../Extras/bom/plastic-parts.md#watering-nozzle-top) and [Watering Nozzle Bottom](../../Extras/bom/plastic-parts.md#watering-nozzle-bottom)|Bottom should be inserted into top. No other sub-packing.|1 set                         |1 set
+|[Watering Nozzle Top](../../Extras/bom/plastic-parts.md#watering-nozzle) and [Watering Nozzle Bottom](../../Extras/bom/plastic-parts.md#watering-nozzle)|Bottom should be inserted into top. No other sub-packing.|1 set                         |1 set
 |[Weeder](../../Extras/bom/plastic-parts.md#weeder)|None                          |1                             |1
-|Pack of:<br>- 4x [Wide Weeder Blades](../../Extras/bom/plastic-parts.md#wide-weeder-blade)<br>- 4x [Medium Weeder Blades](../../Extras/bom/plastic-parts.md#medium-weeder-blade)<br>- 4x [Narrow Weeder Blades](../../Extras/bom/plastic-parts.md#narrow-weeder-blade)|Press-to-seal bag             |1 pack                        |1 pack
+|Pack of:<br>- 4x [Wide Weeder Blades](../../Extras/bom/plastic-parts.md#weeder)<br>- 4x [Medium Weeder Blades](../../Extras/bom/plastic-parts.md#weeder)<br>- 4x [Narrow Weeder Blades](../../Extras/bom/plastic-parts.md#weeder)|Press-to-seal bag             |1 pack                        |1 pack
 |[Soil Sensor](../../Extras/bom/plastic-parts.md#soil-sensor)|None                          |1                             |1
 |[Seed Bin](../../Extras/bom/plastic-parts.md#seed-bin)|None                          |2                             |2
 |[Seed Tray](../../Extras/bom/plastic-parts.md#seed-tray)|None                          |2                             |2
