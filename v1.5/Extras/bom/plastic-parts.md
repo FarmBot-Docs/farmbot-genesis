@@ -342,7 +342,6 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 |**Price**                     |$8.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
-=======
 
 |                              |                              |
 |------------------------------|------------------------------|
