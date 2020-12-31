@@ -22,8 +22,8 @@ There are two versions of the plate box: one for **Genesis** kits and one for **
 |[Z-Axis Motor Mount](../../Extras/bom/plates-and-brackets.md#z-axis-motor-mount)|Wrapped in tissue paper|1|1
 |[50mm Cable Carrier Mount](../../Extras/bom/plates-and-brackets.md#50mm-cable-carrier-mount)|Wrapped in tissue paper|1|1
 |[80mm Cable Carrier Mount](../../Extras/bom/plates-and-brackets.md#80mm-cable-carrier-mount)|Wrapped in tissue paper|1|1
-|[3-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#3-slot-toolbay)|Separated by thick recycled kraft paper|2|2
-|[1-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#1-slot-toolbay)|Separated by thick recycled kraft paper|-|3
+|[3-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#toolbay)|Separated by thick recycled kraft paper|2|2
+|[1-Slot Toolbays](../../Extras/bom/plates-and-brackets.md#toolbay)|Separated by thick recycled kraft paper|-|3
 |Pack of:<br>- 6x [Belt Clips](../../Extras/bom/plates-and-brackets.md#belt-clip)<br>- 6x [Belt Sleeves](../../Extras/bom/drivetrain.md#belt-sleeve)<br>- 2x [Z-Axis Hardstops](../../Extras/bom/plates-and-brackets.md#z-axis-hardstop)<br>- 1x [Seed Trough Holder Mount](../../Extras/bom/plates-and-brackets.md#seed-trough-holder-mount)|In press-to-seal bag (no individual wrapping)|1 pack|1 pack
 
 # Box specifications

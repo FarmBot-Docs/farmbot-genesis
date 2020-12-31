@@ -15,7 +15,7 @@ Components subject to **plate and bracket tests**:
 * [Gantry Joining Bracket](../../Extras/bom/plates-and-brackets.md#gantry-joining-bracket)
 * [Cross-Slide Plate](../../Extras/bom/plates-and-brackets.md#cross-slide-plate)
 * [Z-Axis Motor Mount](../../Extras/bom/plates-and-brackets.md#z-axis-motor-mount)
-* [Toolbays](../../Extras/bom/plates-and-brackets.md#toolbays)
+* [Toolbays](../../Extras/bom/plates-and-brackets.md#toolbay)
 * [50mm Cable Carrier Mounts](../../Extras/bom/plates-and-brackets.md#50mm-cable-carrier-mount)
 * [80mm Cable Carrier Mounts](../../Extras/bom/plates-and-brackets.md#80mm-cable-carrier-mount)
 * [Belt Clip](../../Extras/bom/plates-and-brackets.md#belt-clip)
