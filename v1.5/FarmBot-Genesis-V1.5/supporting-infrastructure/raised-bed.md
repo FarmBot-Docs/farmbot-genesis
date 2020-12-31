@@ -53,7 +53,7 @@ content="While FarmBot Genesis and Genesis XL kits only include enough extrusion
 * Use **heavy duty** 35 to 90mm thick (1.5 to 3.5 inch) walls so that your bed will last a lifetime and resist bowing under soil expansion pressures.
 * **Fill** your bed to the brim with rich, soft soil and compost. Leave out rocks and branches.
 
-![raised_bed_drawing.png](_images/raised_bed_drawing.png)
+![raised bed drawing](_images/raised_bed_drawing.png)
 
 _Dimensions are in mm and represent the maximum length and width a raised bed should be for FarmBot Genesis. Posts and hardware not shown._
 
@@ -71,7 +71,7 @@ content="This is the estimated time it will take to build a fixed raised bed."
   * You'll also need to pick up some hardware for fastening your raised bed together. For example, 3/8" x 4" lag bolts (M10 x 100mm) and some large washers.
   * Depending on your climate, you'll likely want to put some type of sealer, stain, or polyurethane on your wood to protect its color and water resistance like Thompson's water sealer.
 
-![IMG_20141203_125632.jpg](_images/IMG_20141203_125632.jpg)
+![fixed raised bed materials](_images/fixed_raised_bed_materials.jpg)
 
 # Step 2: Dig post holes
 Position the lumber roughly where your bed will be so that you may find out where to dig your post holes.
@@ -85,33 +85,33 @@ content="Position the raised bed such that you will be able to access all sides 
 
 
 
-![IMG_20141203_131420.jpg](_images/IMG_20141203_131420.jpg)
+![positioned lumber](_images/positioned_lumber.jpg)
 
 Dig the post holes. A post hole digger and pick axe can help greatly.
 
-![IMG_20141203_151353.jpg](_images/IMG_20141203_151353.jpg)
+![shovel in hole](_images/shovel_in_hole.jpg)
 
 # Step 3: Prepare the materials
 Sand the wood to remove any weird markings and splinters.
 
-![IMG_20141203_134314.jpg](_images/IMG_20141203_134314.jpg)
+![sandpaper on wood](_images/sandpaper_on_wood.jpg)
 
 If desired, stain the wood or apply a protective coating of your choice.
 
-![IMG_20141203_151418.jpg](_images/IMG_20141203_151418.jpg)
+![sealed wood](_images/sealed_wood.jpg)
 
 Setup the lumber upside down on a flat surface. We'll drill holes and screw together the bed in this orientation and then flip it over and position it in our holes.
 
-![IMG_20141203_160452.jpg](_images/IMG_20141203_160452.jpg)
+![lumber positioned upside down](_images/lumber_positioned_upside_down.jpg)
 
 # Step 4: Assemble the raised bed
 Measure out and mark where the posts will be. Remember this must correspond to where you dug your post holes!
 
-![IMG_20141203_160442.jpg](_images/IMG_20141203_160442.jpg)
+![measuring post placement](_images/measuring_post_placement.jpg)
 
 Clamp the posts into place, making sure they are square with the bed sides.
 
-![IMG_20141203_161309.jpg](_images/IMG_20141203_161309.jpg)
+![post clamped with square](_images/post_clamped_with_square.jpg)
 
 Mark locations where you will drill holes and fasten the boards to the posts. This example uses 2 lag bolts and washers per board/post interface.
 
@@ -124,11 +124,11 @@ content="On the corner posts, make sure to stagger the bolts slightly so that th
 
 
 
-![IMG_20141203_161836.jpg](_images/IMG_20141203_161836.jpg)
+![mark post bolt hole locations](_images/mark_post_bolt_hole_locations.jpg)
 
 Pre-drill the holes for the lag bolts.
 
-![IMG_20141203_161544.jpg](_images/IMG_20141203_161544.jpg)
+![drill post bolt holes](_images/drill_post_bolt_holes.jpg)
 
 Use a ratcheting socket wrench to quickly screw in the lag bolts.
 
@@ -141,11 +141,11 @@ content="If you are using fancy washers like those shown, orient them all in the
 
 
 
-![IMG_20141203_162606.jpg](_images/IMG_20141203_162606.jpg)
+![bolt and washer install with wrench](_images/bolt_and_washer_install_with_wrench.jpg)
 
 Notice how the corner bolts are staggered so that they do not hit each other, and the washers are oriented the same way.
 
-![IMG_20141203_165123.jpg](_images/IMG_20141203_165123.jpg)
+![drilling offset post corner holes](_images/drilling_offset_post_corner_holes.jpg)
 
 # Step 5: Install the raised bed
 
@@ -172,14 +172,14 @@ With larger raised beds, especially those for XL sized bots and larger, it is po
 All components should be stainless steel or galvanized (zinc plated) to resist corrosion.
 
 {% include gallery.html images="
-![MVIMG_20190516_145750.jpg](_images/MVIMG_20190516_145750.jpg)
-![XL Bed Tensioning Cables Close Up.jpg](_images/XL_Bed_Tensioning_Cables_Close_Up.jpg)
+![tensioning cables](_images/tensioning_cables.jpg)
+![xl bed tensioning cables close up](_images/xl_bed_tensioning_cables_close_up.jpg)
 " %}
 
 # Step 7: Fill the bed
 Use a mix of soil and compost, and keep out large rocks and branches.
 
-![20150113_140811 (1).jpg](_images/20150113_140811_(1).jpg)
+![fixed raised bed filled with soil](_images/fixed_raised_bed_filled_with_soil.jpg)
 
 
 

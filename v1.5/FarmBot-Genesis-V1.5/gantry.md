@@ -8,7 +8,7 @@ description: "Documentation and assembly instructions for the FarmBot Genesis ga
 {:toc}
 
 
-![Screen Shot 2020-02-16 at 9.37.15 AM.png](_images/Screen_Shot_2020-02-16_at_9.37.15_AM.png)
+![back side of the gantry](_images/back_side_of_the_gantry.png)
 
 _The back side of the gantry_
 

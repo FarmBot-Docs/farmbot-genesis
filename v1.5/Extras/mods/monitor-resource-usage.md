@@ -15,7 +15,7 @@ The easiest way to record how much electricity FarmBot uses is to place a device
 
 While you will not be able to collect and view historical data of energy usage, the Kill a Watt is the easiest way to measure your FarmBot's energy use - just look at the screen after a few days, weeks, or months. You can also use the device to measure other appliances in your home!
 
-![91g4wJga4LL._SL1500_.jpg](_images/91g4wJga4LL._SL1500_.jpg)
+![kill-a-watt](_images/kill-a-watt.jpg)
 
 There are other options for monitoring energy. For example, you could [hack your Kill a Watt to stream its data over wifi](http://gizmosnack.blogspot.se/2014/11/power-plug-energy-meter-now-wireless.html). Maybe you could hack it to feed the data directly into FarmBot's Arduino!
 
@@ -32,5 +32,5 @@ content="The FarmBot Arduino Firmware, Raspberry Pi Controller, and Web App do n
 
 
 
-![828-02.jpg](_images/02.jpg)
+![flow meter](_images/flow_meter.jpg)
 

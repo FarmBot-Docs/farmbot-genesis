@@ -12,7 +12,7 @@ Each V-Wheel consists of four components:
 * Two [bearings](../../Extras/bom/drivetrain.md#v-wheel)
 * One [M5 shim](../../Extras/bom/drivetrain.md#v-wheel)
 
-![v_wheel_pre_assembly_1.JPG](_images/v_wheel_pre_assembly_1.JPG)
+![v-wheel parts](_images/v-wheel_parts.jpg)
 
 # Step 1: Insert the first bearing
 
@@ -26,8 +26,8 @@ content="It can be easy to accidentally press in a bearing crooked. Try your bes
 %}
 
 {% include gallery.html images="
-![v_wheel_pre_assembly_2.JPG](_images/v_wheel_pre_assembly_2.JPG)
-![v_wheel_pre_assembly_3.JPG](_images/v_wheel_pre_assembly_3.JPG)
+![insert the first bearing](_images/insert_the_first_bearing.jpg)
+![bearing inserted](_images/bearing_inserted.jpg)
 " %}
 
 {%
@@ -41,15 +41,15 @@ content="If all goes well, you should here a satisfying 'pop' each time a bearin
 
 Insert the **precision shim** such that it is resting on the first bearing on the inside of the wheel. Try to position the shim in the center of the wheel.
 
-![v_wheel_pre_assembly_4.JPG](_images/v_wheel_pre_assembly_4.JPG)
+![insert precision shim](_images/insert_precision_shim.jpg)
 
 # Step 3: Insert the second bearing
 
  Press the second **bearing** into the **v-wheel**.
 
 {% include gallery.html images="
-![v_wheel_pre_assembly_5.JPG](_images/v_wheel_pre_assembly_5.JPG)
-![v_wheel_pre_assembly_6.JPG](_images/v_wheel_pre_assembly_6.JPG)
+![insert second bearing](_images/insert_second_bearing.jpg)
+![second bearing inserted](_images/second_bearing_inserted.jpg)
 " %}
 
 {%
@@ -61,5 +61,5 @@ content="If the second bearing doesn't seem to fit all the way into the wheel, i
 
 
 
-![v_wheel_pre_assembly_7.JPG](_images/v_wheel_pre_assembly_7.JPG)
+![algin the shim](_images/algin_the_shim.jpg)
 

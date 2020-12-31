@@ -21,17 +21,17 @@ content="Ensure the kits are centered on the pallet. This will minimize overhang
 
 
 
-![Screen Shot 2020-05-27 at 5.52.03 PM.png](_images/Screen_Shot_2020-05-27_at_5.52.03_PM.png)
+![main carton pallet first 3 layers](_images/main_carton_pallet_first_3_layers.png)
 
 ## Step 2: Cardboard separator
 Place a **cardboard separator** on top of the first three layers. This will help stabilize the stack.
 
-![Screen Shot 2020-05-27 at 5.52.42 PM.png](_images/Screen_Shot_2020-05-27_at_5.52.42_PM.png)
+![main carton pallet cardboard separator](_images/main_carton_pallet_cardboard_separator.png)
 
 ## Step 3: Three more layers
 Place three more layers of main cartons onto the stack.
 
-![Screen Shot 2020-05-27 at 5.53.05 PM.png](_images/Screen_Shot_2020-05-27_at_5.53.05_PM.png)
+![main carton pallet 6 layers](_images/main_carton_pallet_6_layers.png)
 
 ## Step 4: Plastic wrap
 Wrap the entire stack with clear plastic.
@@ -50,25 +50,25 @@ content="Ensure the kits are centered on the pallet. This will minimize overhang
 
 
 
-![Screen Shot 2020-05-27 at 3.53.34 PM.png](_images/Screen_Shot_2020-05-27_at_3.53.34_PM.png)
+![genesis extrusion pallet first 3 layers of 7](_images/genesis_extrusion_pallet_first_3_layers_of_7.png)
 
 _Genesis kits (7 on each layer)_
 
 XL kits must be stacked **horizontally** to provide better stability.
 
-![Screen Shot 2020-05-27 at 3.53.13 PM.png](_images/Screen_Shot_2020-05-27_at_3.53.13_PM.png)
+![genesis xl extrusion pallet first 3 layers of 6](_images/genesis_xl_extrusion_pallet_first_3_layers_of_6.png)
 
 _Genesis XL kits (6 on each layer)_
 
 ## Step 2: Cardboard separator
 Place a **cardboard separator** on top of the first three layers. This will help stabilize the stack.
 
-![Screen Shot 2020-05-27 at 3.45.33 PM.png](_images/Screen_Shot_2020-05-27_at_3.45.33_PM.png)
+![extrusion and leadscrew pallet cardboard separator](_images/extrusion_and_leadscrew_pallet_cardboard_separator.png)
 
 ## Step 3: Second three layers
 Place three more layers of extrusion and leadscrew kits onto the stack.
 
-![Screen Shot 2020-05-27 at 3.48.59 PM.png](_images/Screen_Shot_2020-05-27_at_3.48.59_PM.png)
+![extrusion and leadscrew pallet 6 layers](_images/extrusion_and_leadscrew_pallet_6_layers.png)
 
 ## Step 5: Plastic wrap
 Wrap the entire stack with clear plastic.

@@ -55,8 +55,8 @@ These parts are used to mount and support the x-axis cable carrier. The gusset a
 {:.internal}
 
 {% include gallery.html images="
-![7322e80-40mm_Horizontal_CC_Support_2.jpeg](_images/40mm_Horizontal_CC_Support_2.jpeg)
-![fd5b309-40mm_Horizontal_CC_Support.jpeg](_images/40mm_Horizontal_CC_Support.jpeg)
+![40mm Horizontal CC Support](_images/40mm_horizontal_cc_support_1.jpeg)
+![40mm Horizontal CC Support](_images/40mm_horizontal_cc_support_2.jpeg)
 " %}
 
 # 60mm Horizontal Cable Carrier Support
@@ -80,9 +80,9 @@ These parts are used to mount and support the y-axis cable carrier. The gusset a
 {:.internal}
 
 {% include gallery.html images="
-![HCCS0.JPG](_images/HCCS0.JPG)
-![HCCS1.JPG](_images/HCCS1.JPG)
-![HCCS2.JPG](_images/HCCS2.JPG)
+![60mm Horizontal CC Support](_images/60mm_horizontal_cc_support_1.jpg)
+![60mm Horizontal CC Support](_images/60mm_horizontal_cc_support_2.jpg)
+![60mm Horizontal CC Support](_images/60mm_horizontal_cc_support_3.jpg)
 " %}
 
 # 60mm Vertical Cable Carrier Support
@@ -106,8 +106,8 @@ These parts are used to guide and support the z-axis cable carrier. The gusset a
 {:.internal}
 
 {% include gallery.html images="
-![VCCS1.JPG](_images/VCCS1.JPG)
-![VCCS2.JPG](_images/VCCS2.JPG)
+![60mm vertical cable carrier support](_images/60mm_vertical_cable_carrier_support_1.jpg)
+![60mm vertical cable carrier support](_images/60mm_vertical_cable_carrier_support_2.jpg)
 " %}
 
 # 60mm Cable Carrier Spacer Block
@@ -121,6 +121,15 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
+{% include gallery.html images="
+![60mm cable carrier spacer block](_images/60mm_cable_carrier_spacer_block_1.jpg)
+![60mm cable carrier spacer block](_images/60mm_cable_carrier_spacer_block_2.jpg)
+" %}
+
+# Solenoid Valve Mount
+
+This component features slots for the solenoid valve to be mounted with zip ties. It also doubles as a cable management part for routing cables behind the electronics box.
+
 |                              |                              |
 |------------------------------|------------------------------|
 |**Internal Part Name**        |`60mm CC Spacer Block Rev A`
@@ -131,8 +140,24 @@ This component offsets the z-axis cable carrier from the cross-slide plate.
 {:.internal}
 
 {% include gallery.html images="
-![CCB1.JPG](_images/CCB1.JPG)
-![CCB2.JPG](_images/CCB2.JPG)
+![Solenoid mount](_images/solenoid_mount_1.jpeg)
+![solenoid mount](_images/solenoid_mount_2.jpeg)
+" %}
+
+# Vacuum Pump Mount
+
+The vacuum pump mount features slots for zip ties to secure the vacuum pump to the z-axis extrusion.
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Material**                  |Gray UV stabilized ABS
+|**Price**                     |$6.00
+|**Quantity**                  |1
+|**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+
+{% include gallery.html images="
+![Vacuum Pump Mount](_images/vacuum_pump_mount_1.jpeg)
+![Vacuum Pump Mount](_images/vacuum_pump_mount_2.jpeg)
 " %}
 
 # 75mm Horizontal Motor Housing
@@ -157,8 +182,8 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/CQfkuFBVsek" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![Horizontal Motor Housing 1.JPG](_images/Horizontal_Motor_Housing_1.JPG)
-![Horizontal Motor Housing 2.JPG](_images/Horizontal_Motor_Housing_2.JPG)
+![Horizontal Motor Housing](_images/horizontal_motor_housing_1.jpg)
+![Horizontal Motor Housing](_images/horizontal_motor_housing_2.jpg)
 ' %}
 
 # 80mm Vertical Motor Housing
@@ -182,8 +207,8 @@ This component protects the z-axis motor from rain.
 {:.internal}
 
 {% include gallery.html images="
-![z cove 1.JPG](_images/z_cove_1.JPG)
-![Z cover 2.JPG](_images/Z_cover_2.JPG)
+![80mm vertical motor housing](_images/80mm_vertical_motor_housing_1.jpg)
+![80mm vertical motor housing](_images/80mm_vertical_motor_housing_2.jpg)
 " %}
 
 # Camera Mount Half
@@ -206,7 +231,7 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 |**Notes**                     |
 {:.internal}
 
-![Camera Mounts.JPG](_images/Camera_Mounts.JPG)
+![camera mounts](_images/camera_mounts.jpg)
 
 # Seeder
 
@@ -231,8 +256,8 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/nXFdJIQaQB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![Seeder1.JPG](_images/Seeder1.JPG)
-![Seeder2.JPG](_images/Seeder2.JPG)
+![Seeder](_images/seeder_1.jpg)
+![Seeder](_images/seeder_2.jpg)
 ' %}
 
 # Seed Bin
@@ -257,7 +282,7 @@ This plastic bin allows you to load many seeds of the same type into your FarmBo
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/guJK9498ZA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![Seeds.JPG](_images/Seeds.JPG)
+![seed bin](_images/seed_bin.jpg)
 ' %}
 
 # Seed Tray
@@ -281,8 +306,8 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 {:.internal}
 
 {% include gallery.html images="
-![Seed Trays.JPG](_images/Seed_Trays.JPG)
-![Seed Tray.JPG](_images/Seed_Tray.JPG)
+![seed trays](_images/seed_trays.jpg)
+![seed tray](_images/seed_tray.jpg)
 " %}
 
 # Seed Trough
@@ -305,7 +330,7 @@ These troughs fit into the seed trough holder, allowing FarmBot to bring seeds w
 |**Notes**                     |
 {:.internal}
 
-![43d2061-Seed_Troughs.jpeg](_images/Seed_Troughs.jpeg)
+![seed troughs](_images/seed_troughs.jpeg)
 
 # Seed Trough Holder
 
@@ -317,6 +342,7 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 |**Price**                     |$8.00
 |**Quantity**                  |1
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
+=======
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -327,7 +353,7 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 |**Notes**                     |
 {:.internal}
 
-![0eb03b6-Seed_Trough_Holder.jpeg](_images/Seed_Trough_Holder.jpeg)
+![seed trough holder](_images/seed_trough_holder.jpeg)
 
 # Soil Sensor
 
@@ -351,8 +377,8 @@ This tool acts as a mount for the soil sensor circuit board.
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/p6CPnJoHf8E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![soil sensor base 1.JPG](_images/soil_sensor_base_1.JPG)
-![soil sensor base.JPG](_images/soil_sensor_base.JPG)
+![soil sensor base](_images/soil_sensor_base_1.jpg)
+![soil sensor base](_images/soil_sensor_base_2.jpg)
 ' %}
 
 # Solenoid Valve Mount
@@ -376,8 +402,8 @@ This component features slots for the solenoid valve to be mounted with zip ties
 {:.internal}
 
 {% include gallery.html images="
-![2abefbe-Solenoid_mount_1.jpeg](_images/Solenoid_mount_1.jpeg)
-![0c94c75-Solenoid_mount_2.jpeg](_images/Solenoid_mount_2.jpeg)
+![Solenoid mount](_images/solenoid_mount_1.jpeg)
+![solenoid mount](_images/solenoid_mount_2.jpeg)
 " %}
 
 # Universal Tool Mount
@@ -402,13 +428,13 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/q8xjCBq32C8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![IMG_0487.jpg](_images/IMG_0487.jpg)
-![IMG_0489.jpg](_images/IMG_0489.jpg)
-![IMG_0490.jpg](_images/IMG_0490.jpg)
-![IMG_0491.jpg](_images/IMG_0491.jpg)
+![Barbs on UTM](_images/barbs_on_utm.jpg)
+![utm top view](_images/utm_top_view.jpg)
+![utm side and bottom view](_images/utm_side_and_bottom_view.jpg)
+![utm bottom view](_images/utm_bottom_view.jpg)
 ' %}
 
-# Vacuum Pump Housing
+# Pump Housing
 
 This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion.
 
@@ -429,8 +455,8 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 {:.internal}
 
 {% include gallery.html images="
-![Vacuum Cover 1.JPG](_images/Vacuum_Cover_1.JPG)
-![Vacuum Cover2.JPG](_images/Vacuum_Cover2.JPG)
+![Vacuum pump housing](_images/vacuum_pump_housing_1.jpg)
+![Vacuum pump housing](_images/vacuum_pump_housing_2.jpg)
 " %}
 
 # Vacuum Pump Mount
@@ -454,8 +480,8 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 {:.internal}
 
 {% include gallery.html images="
-![01eb394-Vacuum_Pump_Mount.jpeg](_images/Vacuum_Pump_Mount.jpeg)
-![f9ced9e-Vacuum_Pump_Mount_2.jpeg](_images/Vacuum_Pump_Mount_2.jpeg)
+![Vacuum Pump Mount](_images/vacuum_pump_mount_1.jpeg)
+![Vacuum Pump Mount](_images/vacuum_pump_mount_2.jpeg)
 " %}
 
 # Watering Nozzle
@@ -480,11 +506,11 @@ This two-part tool distributes the stream of water coming from the UTM into a ge
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/xh7imhENpLQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![WaterNozzle.JPG](_images/WaterNozzle.JPG)
-![Water Top 1.JPG](_images/Water_Top_1.JPG)
-![Water Top 2.JPG](_images/Water_Top_2.JPG)
-![Water Bottom.JPG](_images/Water_Bottom.JPG)
-![Water Bottom 0.JPG](_images/Water_Bottom_0.JPG)
+![watering nozzle](_images/watering_nozzle.jpg)
+![watering nozzle top](_images/watering_nozzle_top.jpg)
+![watering nozzle top inside](_images/watering_nozzle_top_inside.jpg)
+![watering nozzle bottom](_images/watering_nozzle_bottom_1.jpg)
+![watering nozzle bottom](_images/watering_nozzle_bottom_2.jpg)
 ' %}
 
 # Weeder
@@ -510,9 +536,9 @@ The weeding tool allows FarmBot to smash weeds into the ground, thereby killing 
 
 {% include gallery.html images='
 <iframe width="854" height="480" src="https://www.youtube.com/embed/NsEdALh3ZYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-![weeder.JPG](_images/weeder.JPG)
-![weeder2.JPG](_images/weeder2.JPG)
-![wideblade1.JPG](_images/wideblade1.JPG)
-![mediumblade2.JPG](_images/mediumblade2.JPG)
-![narrowblade1.JPG](_images/narrowblade1.JPG)
+![weeder](_images/weeder_1.jpg)
+![weeder](_images/weeder_2.jpg)
+![wide weeder blade](_images/wide_weeder_blade.jpg)
+![medium weeder blade](_images/medium_weeder_blade.jpg)
+![narrow weeder blade](_images/narrow_weeder_blade.jpg)
 ' %}

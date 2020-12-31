@@ -13,7 +13,7 @@ No matter how well FarmBot tends to your plants, they won't do well without nutr
 
 First find a location for your composter. Ideally it should be located near your FarmBot and in direct sunlight so that you can easily and quickly move plants and yard waste into it and so that the sun helps to cook the compost. The area should also be flat, and have adequate space around it so that the composter can be accessed and tumbled easily. You might also consider positioning it near your kitchen or other major sources of organic material that you plan on composting.
 
-![FarmBot SOlar Compost.jpg](_images/FarmBot_SOlar_Compost.jpg)
+![farmbot with solar and compost](_images/farmbot_with_solar_and_compost.jpg)
 
 _Can you spot the composter?_
 

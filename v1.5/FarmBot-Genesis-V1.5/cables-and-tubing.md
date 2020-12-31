@@ -33,11 +33,11 @@ title="Labelled for clarity"
 content="All of FarmBot's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly."
 %}
 
-![v1.3-Motor-Cables.jpg](_images/v1.3-Motor-Cables.jpg)
+![v1.3-motor-cables](_images/v1.3-motor-cables.jpg)
 
 _Motor cables_
 
-![v1.3-Encoder-Cables.jpg](_images/v1.3-Encoder-Cables.jpg)
+![v1.3-encoder-cables](_images/v1.3-encoder-cables.jpg)
 
 _Encoder cables_
 

@@ -27,7 +27,7 @@ content="See the [FarmBot Web App Documentation](https://software.farmbot.io/doc
 %}
 
 {% include gallery.html images="
-![peripherals.png](_images/peripherals.png)
-![light_flash.png](_images/light_flash.png)
+![peripherals list](_images/peripherals_list.png)
+![light flash sequence](_images/light_flash_sequence.png)
 " %}
 

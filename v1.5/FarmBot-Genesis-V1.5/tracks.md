@@ -9,7 +9,7 @@ description: "Documentation and assembly instructions for the FarmBot Genesis tr
 
 FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models, 6m for Genesis XL, and 18m for Genesis MAX.
 
-![Completed tracks](_images/Screen_Shot_2020-02-15_at_6.27.12_PM.png)
+![Completed tracks](_images/completed_tracks.png)
 
 {%
 include callout.html
@@ -62,9 +62,9 @@ Attach six **40mm horizontal cable carrier supports** to the *lower slot* of a *
 Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis XL, and 12 for Genesis MAX).
 
 {% include gallery.html images="
-![Attach horizontal cable carrier supports](_images/Screen_Shot_2020-02-15_at_10.29.10_PM.png)
-![Attach horizontal cable carrier supports](_images/Screen_Shot_2020-02-15_at_10.29.37_PM.png)
-![Attach horizontal cable carrier supports](_images/Screen_Shot_2020-02-15_at_10.31.35_PM.png)
+![Attach horizontal cable carrier supports](_images/attach_horizontal_cable_carrier_supports_1.png)
+![Attach horizontal cable carrier supports](_images/attach_horizontal_cable_carrier_supports_2.png)
+![Attach horizontal cable carrier supports](_images/attach_horizontal_cable_carrier_supports_3.png)
 " %}
 
 # Step 3: Attach a track end plate
@@ -79,13 +79,13 @@ content="Use the small **notches** in the **track end plates** and **track joini
 If the top edge of your supporting infrastructure is *not* level or straight, then you will need to manually ensure that your track plates are vertically aligned with other means. Because the gantry has wheels that ride on the bottom face of the track extrusions, you need to ensure that the bottom of the track extrusion will be at least 25mm away from the top of the supporting infrastructure so that the wheels have adequate clearance."
 %}
 
-![Mount first track end plate](_images/Screen_Shot_2020-02-15_at_6.32.13_PM.png)
+![Mount first track end plate](_images/mount_first_track_end_plate.png)
 
 # Step 4: Attach a track joining plate
 
 Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
-![Mount first track joining plate](_images/Screen_Shot_2020-02-15_at_6.36.55_PM.png)
+![Mount first track joining plate](_images/mount_first_track_joining_plate.png)
 
 # Step 5: Attach the first track extrusion
 
@@ -161,13 +161,13 @@ Repeat to install subsequent **track joining plates** and **track extrusions**.
 
 Position the second **track end plate** and secure it to the **supporting infrastructure** with three **wood screws**. Then fasten the final **track extrusion** to the plate using a **60mm nut bar** and **M5 x 10mm screws**.
 
-![Completed single track](_images/Screen_Shot_2020-02-15_at_11.01.15_PM.png)
+![Completed single track](_images/completed_single_track.png)
 
 # Step 9: Install the other track
 
 Repeat steps 3 through 8 for the track on the other side of the bed. Note that the second track will not have any horizontal cable carrier supports.
 
-![Completed tracks](_images/Screen_Shot_2020-02-15_at_6.27.12_02.png)
+![Completed tracks](_images/completed_tracks.png)
 
 {%
 include callout.html
@@ -182,7 +182,7 @@ You can use shims or other spacers to better align track plates in case your sup
 
 If needed, use **150 grit sand paper** to sand away any bumps on the diagonal surfaces of the **extrusions** that the FarmBot wheels ride upon. This will ease the movements of the FarmBot and improve longevity. Make sure that both the upper surfaces and lower surfaces are smooth to the touch and that there is no bump or uneven edges in the transition from one extrusion to another.
 
-![Sand track joints to remove bumps](_images/SANDING_TRACKS.bmp)
+![Sand track joints to remove bumps](_images/sanding_tracks.bmp)
 
 _This photo shows that the aluminum tracks can be sanded down so that there is no bump on the transition between one section of track to another._
 

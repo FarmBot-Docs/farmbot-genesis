@@ -43,7 +43,7 @@ The tables below show the items that should be packed into the **main carton** f
 # Edge protectors and straps
 Add four cardboard **edge protectors** on the four longest edges of the main carton. Then add three pairs of black polystraps.
 
-![Screen Shot 2020-06-03 at 6.34.00 PM.png](_images/Screen_Shot_2020-06-03_at_6.34.00_PM.png)
+![main carton edge protectors and straps](_images/main_carton_edge_protectors_and_straps.png)
 
 # Box specifications
 

@@ -21,11 +21,11 @@ The camera has a light that is controlled by a dial on the USB connector that yo
 
 Sandwich the **camera** between the two **camera mounts**.
 
-![Screen Shot 2017-10-04 at 6.02.58 PM.png](_images/Screen_Shot_2017-10-04_at_6.02.58_PM.png)
+![camera between camera mounts](_images/camera_between_camera_mounts.png)
 
 Attach the **camera and mounts** to the **z-axis** using the two **M5 x 10mm screws** and **M5 tee nuts**.
 
-![Screen Shot 2017-10-04 at 6.08.22 PM.png](_images/Screen_Shot_2017-10-04_at_6.08.22_PM.png)
+![camera mounted to z-axis](_images/camera_mounted_to_z-axis.png)
 
 
 # What's next?

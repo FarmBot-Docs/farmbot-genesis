@@ -44,13 +44,13 @@ content="FarmBot Genesis is always being improved and has undergone many iterati
 
 
 
-![c0bee16-FarmBot_Genesis_v1-4.jpg](_images/FarmBot_Genesis_v1-4.jpg)
+![farmbot genesis v1-4](_images/farmbot_genesis_v1-4.jpg)
 
 _Genesis v1.4_
 
 
 
-![67b4ba1-FarmBot_Genesis_XL_v1-4.jpg](_images/FarmBot_Genesis_XL_v1-4.jpg)
+![farmbot genesis xl v1-4](_images/farmbot_genesis_xl_v1-4.jpg)
 
 _Genesis XL v1.4_
 
@@ -79,7 +79,7 @@ _Genesis XL v1.4_
 
 
 
-![66e6338-Screen_Shot_2017-10-10_at_1.33.35_AM.png](_images/Screen_Shot_2017-10-10_at_1.33.35_AM.png)
+![farmbot genesis v1.3](_images/farmbot_genesis_v1.3.png)
 
 # [Genesis v1.2](http://genesis.farm.bot/docs/v1.2)
 **Major changes**
@@ -106,7 +106,7 @@ _Genesis XL v1.4_
 
 
 
-![FarmBot Genesis v1.2.JPG](_images/FarmBot_Genesis_v1.2.JPG)
+![farmbot genesis v1.2](_images/farmbot_genesis_v1.2.jpg)
 
 # [Genesis v1.1](http://genesis.farm.bot/docs/v1.1)
 **Major changes**
@@ -125,7 +125,7 @@ _Genesis XL v1.4_
   * Improved watering nozzle design for SLA printing
   * Switched the entire CAD workflow from Solidworks to Onshape
 
-![v1.1.png](_images/v1.1.png)
+![farmbot genesis v1.1](_images/farmbot_genesis_v1.1.png)
 
 # [Genesis v1.0](http://genesis.farm.bot/docs/v1.0)
 **Major changes**
@@ -142,7 +142,7 @@ _Genesis XL v1.4_
   * Significant modifications to the UTM and UTM cover
   * Switched to button head M5 screws
 
-![v1.0.JPG](_images/v1.0.JPG)
+![farmbot genesis v1.0](_images/farmbot_genesis_v1.0.jpg)
 
 # [Genesis v0.9](http://genesis.farm.bot/docs/v0.9)
 **Major changes**
@@ -151,7 +151,7 @@ _Genesis XL v1.4_
   * Larger gantry extrusions for added rigidity
   * Introduced the weed suppressor tool
 
-![v0.9.jpg](_images/v0.9.jpg)
+![farmbot genesis v0.9](_images/farmbot_genesis_v0.9.jpg)
 
 # [Genesis v0.8](http://genesis.farm.bot/docs/v0.8)
 **Major changes**
@@ -159,7 +159,7 @@ _Genesis XL v1.4_
   * Upgraded to 5mm thick plates
   * Improvements to the UTM, cable carrier brackets, and electronics enclosure
 
-![v0.8.png](_images/v0.8.png)
+![farmbot genesis v0.8](_images/farmbot_genesis_v0.8.png)
 
 # [Genesis v0.7](http://genesis.farm.bot/docs/v0.7)
 **Major changes**
@@ -171,13 +171,13 @@ _Genesis XL v1.4_
   * Designed a quick access electronics enclosure
   * Now using larger cable carriers
 
-![v0.7.jpg](_images/v0.7.jpg)
+![farmbot genesis v0.7](_images/farmbot_genesis_v0.7.jpg)
 
 # [Genesis v0.6](http://genesis.farm.bot/docs/v0.6)
 **Major changes**
   * Reliability improvements to the universal tool mount
 
-![v0.6.jpg](_images/v0.6.jpg)
+![farmbot genesis v0.6](_images/farmbot_genesis_v0.6.jpg)
 
 # [Genesis v0.5](http://genesis.farm.bot/docs/v0.5)
 **Major changes**
@@ -185,7 +185,7 @@ _Genesis XL v1.4_
   * Integrated water, vacuum, and liquid amendments into universal tool mount
   * Part simplification
 
-![v0.5.jpg](_images/v0.5.jpg)
+![farmbot genesis v0.5](_images/farmbot_genesis_v0.5.jpg)
 
 # [Genesis v0.4](http://genesis.farm.bot/docs/v0.4)
 **Major changes**
@@ -193,14 +193,14 @@ _Genesis XL v1.4_
   * Cable carrier cable management
   * Magnetic universal tool mount design
 
-![v.04.jpg](_images/v.04.jpg)
+![farmbot genesis v0.4](_images/farmbot_genesis_v0.4.jpg)
 
 # [Genesis v0.3](http://genesis.farm.bot/docs/v0.3)
 **Major changes**
   * Wire and trolley cable management
   * Part simplification
 
-![v0.3.jpg](_images/v0.3.jpg)
+![farmbot genesis v0.3](_images/farmbot_genesis_v0.3.jpg)
 
 # [Genesis v0.2](http://genesis.farm.bot/docs/v0.2)
 **Major changes**
@@ -208,20 +208,20 @@ _Genesis XL v1.4_
   * Custom brackets and plates
   * Universal tool mount
 
-![v0.2.jpg](_images/v0.2.jpg)
+![farmbot genesis v0.2](_images/farmbot_genesis_v0.2.jpg)
 
 # [Genesis v0.1](http://genesis.farm.bot/docs/v0.1)
 Focused on being a quick and easy first prototype, v0.1 was constructed from all off-the-shelf components.
 
 {% include gallery.html images="
-![v0.1.jpg](_images/v0.1.jpg)
-![v0.1 2.JPG](_images/v0.1_2.JPG)
+![farmbot genesis v0.1](_images/farmbot_genesis_v0.1.jpg)
+![FarmBot Genesis v0.1 rendering](_images/farmbot_genesis_v0.1_rendering.jpg)
 " %}
 
 # Genesis v0.0
 The very first physical FarmBot prototype was made from welded steel square stock, C-channel, angle iron, garage door wheels, and a trowel. It served primarily as a visual aid.
 
-![v0.0 3.JPG](_images/v0.0_3.JPG)
+![farmbot genesis v0.0](_images/farmbot_genesis_v0.0.jpg)
 
 
 # What's next?

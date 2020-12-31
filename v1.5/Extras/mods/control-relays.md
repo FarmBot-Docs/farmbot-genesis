@@ -13,7 +13,7 @@ We recommend purchasing a 110V relay such as the [Tails PowerSwitch 2](https://w
 2. Connecting the peripheral to the relay's output, and
 3. Wiring the relay up to spare digital I/O pins on your electronics board.
 
-![tWxhvm0tSReYyAzRF3e9_268-02.jpg](_images/268-02.jpg)
+![110v relay switch](_images/110v_relay_switch.jpg)
 
 You can then control the peripheral from sequences with the [write pin command](https://software.farm.bot/docs/sequences#sequence-commands-aka-steps) or by adding it to the [peripherals widget](https://software.farm.bot/docs/controls#peripherals).
 

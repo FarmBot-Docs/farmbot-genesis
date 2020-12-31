@@ -18,7 +18,7 @@ content="Please use the following information for inspiration only. The instruct
 
 
 
-![IMG_5931.JPG](_images/IMG_5931.JPG)
+![farmbot in greenhouse](_images/farmbot_in_greenhouse.jpg)
 
 
 
@@ -31,8 +31,8 @@ Follow the greenhouse manufacturer's instructions to setup the greenhouse. In ge
 4. Secure the sheeting to the frame
 
 {% include gallery.html images="
-![IMG_20160611_131330.jpg](_images/IMG_20160611_131330.jpg)
-![IMG_5896.JPG](_images/IMG_5896.JPG)
+![greenhouse structure](_images/greenhouse_structure.jpg)
+![greenhouse structure and covering](_images/greenhouse_structure_and_covering.jpg)
 " %}
 
 # Control the greenhouse environment with FarmBot

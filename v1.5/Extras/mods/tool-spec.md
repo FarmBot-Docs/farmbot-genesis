@@ -26,7 +26,7 @@ content="These specs must be followed to ensure your tool works with a stock Far
 
 
 
-![IMG_20160310_133648.jpg](_images/IMG_20160310_133648.jpg)
+![3d printing a tool](_images/3d_printing_a_tool.jpg)
 
 
 
