@@ -7,14 +7,10 @@ description: "Documentation and assembly instructions for the FarmBot Genesis cr
 * toc
 {:toc}
 
-
+{% include gallery.html images="
 ![View of the cross-slide from the front of FarmBot](_images/cross-slide_1.png)
-
-_View of the cross-slide from the front of FarmBot_
-
 ![View of the cross-slide from the back of FarmBot](_images/cross-slide_2.jpg)
-
-_View of the cross-slide from the back of FarmBot_
+" %}
 
 {%
 include callout.html
@@ -29,9 +25,12 @@ type="warning"
 title="Before beginning: check the dimensions of the cross-slide plate"
 content="Unfortunately we have identified that some Genesis and Genesis XL kits shipped after December 1, 2020 included an incorrect **cross-slide plate**.
 
-Before beginning the assembly steps on this page, please measure the outer dimensions of your cross-slide plate. It should measure 180mm wide by 150mm tall, and have a hole layout that exactly matches the images shown on this page.
+We have pro-actively remedied this issue by sending replacement plates to all kit owners or by including an extra plate in every kit shipped in mid-December 2020 or later.
 
-If your cross-slide plate is different, please email [contact@farm.bot](mailto:contact@farm.bot) and we will send you the correct plate free of charge. We are sorry for this inconvenience."
+**Before beginning the assembly steps on this page, please ensure you are using the correct plate.** The correct plate should measure 180mm wide by 150mm tall, and have a hole layout that exactly matches this image:
+
+![correct cross-slide plate](_images/correct_cross_slide_plate.jpg)
+"
 %}
 
 # Step 1: Add the gantry V-wheels
