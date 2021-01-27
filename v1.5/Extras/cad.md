@@ -8,52 +8,12 @@ slug: "cad"
 
 FarmBot Genesis was designed in **Onshape**, allowing you to have full access to **view**, **copy**, **edit**, and **export** all of the source 3D CAD models for *free* from any computer or mobile device! Simply click the links below to access the various assemblies and other resources.
 
-<table>
-  <thead>
-    <tr>
-      <th>Category</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Top-level assembly</td>
-      <td>{% include cad.html type='assembly' name='FarmBot Genesis v1.5' %}</td>
-    </tr>
-    <tr>
-      <td>Major subassemblies</td>
-      <td>
-        {% include cad.html type='assembly' name='Tracks' %}<br>
-        {% include cad.html type='assembly' name='Gantry' %}<br>
-        {% include cad.html type='assembly' name='Cross-Slide' %}<br>
-        {% include cad.html type='assembly' name='Z-Axis' %}<br>
-        {% include cad.html type='assembly' name='UTM' %}<br>
-        {% include cad.html type='assembly' name='Electronics Box' %}
-      </td>
-    </tr>
-    <tr>
-      <td>Tools</td>
-      <td>
-        {% include cad.html type='assembly' name='Seeder' %}<br>
-        {% include cad.html type='assembly' name='Watering Nozzle' %}<br>
-        {% include cad.html type='assembly' name='Weeder' %}<br>
-        {% include cad.html type='assembly' name='Soil Sensor' %}<br>
-        {% include cad.html type='part' name='Seed Bin' %}<br>
-        {% include cad.html type='part' name='Seed Tray' %}<br>
-        {% include cad.html type='assembly' name='Seed Trough' %}<br>
-        {% include cad.html type='assembly' name='Toolbays' %}
-      </td>
-    </tr>
-    <tr>
-      <td>Farmduino</td>
-      <td>
-        <a href="https://drive.google.com/drive/folders/1mUYvzC2uOgCfWoyfXvQitavsMF2ly5H-?usp=sharing">
-          PCB layout and schematic
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+|Category                      |Link                          |
+|------------------------------|------------------------------|
+|Top-level assembly            |{% include cad.html type='assembly' name='FarmBot Genesis v1.5' %}
+|Major subassemblies           |{% include cad.html type='assembly' name='Tracks' %}<br>{% include cad.html type='assembly' name='Gantry' %}<br>{% include cad.html type='assembly' name='Cross-Slide' %}<br>{% include cad.html type='assembly' name='Z-Axis' %}<br>{% include cad.html type='assembly' name='UTM' %}<br>{% include cad.html type='assembly' name='Electronics Box' %}
+|Tools                         |{% include cad.html type='assembly' name='Seeder' %}<br>{% include cad.html type='assembly' name='Watering Nozzle' %}<br>{% include cad.html type='assembly' name='Weeder' %}<br>{% include cad.html type='assembly' name='Soil Sensor' %}<br>{% include cad.html type='part' name='Seed Bin' %}<br>{% include cad.html type='part' name='Seed Tray' %}<br>{% include cad.html type='assembly' name='Seed Trough' %}<br>{% include cad.html type='assembly' name='Toolbays' %}
+|Farmduino                     |<a href="https://drive.google.com/drive/folders/1mUYvzC2uOgCfWoyfXvQitavsMF2ly5H-?usp=sharing">PCB layout and schematic</a>
 
 # Copying and modifying parts
 When you click any of the links above, you will be shown our original copy of the FarmBot CAD files. In order to make any changes, you need to make your own copy. To do so, you will need to first make a free Onshape account. Then you can press “Make a copy” in the top left of the Onshape workspace. Onshape will copy the entire Workspace into a new document (owned by you) which will include all of the parts, drawings, assemblies, and other files.
