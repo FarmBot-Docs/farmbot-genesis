@@ -13,6 +13,8 @@ description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](htt
 |[Water Tube](#water-tube)|$5.00 to $35.00|3|$23.00|3|$32.00|3|$52.00
 |[Vacuum Tube](#vacuum-tube)|$1.00|2|$2.00|2|$2.00|2|$2.00
 |[Barbs](#barbs)|$6.00|3|$18.00|3|$18.00|3|$18.00
+|[Inline Air Filter](#inline-air-filter)|$10.00|1|$10.00|1|$10.00|1|$10.00
+|[90-Degree Barb](#90-degree-barb)|$2.00|1|$2.00|1|$2.00|1|$2.00
 |[NPT to Barb Adapter](#npt-to-barb-adapter)|$5.00|3|$15.00|3|$15.00|3|$15.00
 |[Garden Hose to Barb Adapter](#garden-hose-to-barb-adapter)|$7.00|1|$7.00|1|$7.00|1|$7.00
 |[Pressure Regulator](#pressure-regulator)|$8.00|1|$8.00|1|$8.00|1|$8.00
@@ -38,9 +40,19 @@ These ultra flexible silicone tubes carry water to the UTM.
 |**Price**                     |$5.00 - 0.95m<br>$8.00 - 2.1m<br>$10.00 - 3m<br>$12.00 - 3.6m<br>$15.00 - 4.5m<br>$35.00 - 10.5m
 |**Quantity**                  |One of each length
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FWQltVvwRYfE%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWQltVvwRYfE&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FWQltVvwRYfE%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Names**        |**Genesis**<br>`6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)`<br>`6 x 10mm Tube - 2.1m (Water, Y-axis, Genesis)`<br>`6 x 10mm Tube - 3.0m (Water, X-Axis, Genesis)`<br><br>**Genesis XL**<br>`6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)`<br>`6 x 10mm Tube - 3.6m (Water, Y-Axis Genesis XL)`<br>`6 x 10mm Tube - 4.5m (Water, X-Axis, Genesis XL)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.80 - 0.95m<br>$1.80 - 2.1m<br>$2.70 - 3.0m<br>$3.00 - 3.6m<br>$3.80 - 4.5m
+|**Component Tests**           |[Tube tests](../../manufacturing/component-tests/tubing.md#tubes)
+|**Notes**                     |
+{:.internal}
 
+{% include gallery.html images='
+<iframe width="854" height="480" src="https://www.youtube.com/embed/WQltVvwRYfE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ![Water tubes](_images/water_tubes.jpg)
+' %}
 
 # Vacuum Tube
 
@@ -56,6 +68,15 @@ These ultra flexible silicone tubes carry vacuum suction from the vacuum pump to
 |**Outer Diameter**            |9mm
 |**Price**                     |$1.00
 |**Quantity**                  |2
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`6 x 10mm Tube - 0.15m (Vacuum)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.30
+|**Component Tests**           |[Tube tests](../../manufacturing/component-tests/tubing.md#tubes)
+|**Notes**                     |
+{:.internal}
 
 ![Vacuum tubes](_images/vacuum_tubes.jpg)
 
@@ -73,15 +94,64 @@ These brass barbs screw into the UTM's three liquid/gas ports and accept the thr
 |**Price**                     |$6.00
 |**Quantity**                  |3
 
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`Barbs for 6mm ID tubing w/ M5 Threads, 8mm hex, o-ring`
+|**Vendor**                    |LDO
+|**$/pc**                      |$1.00
+|**Component Tests**           |[Barb tests](../../manufacturing/component-tests/tubing.md#barb)
+|**Notes**                     |
+{:.internal}
+
 {% include gallery.html images="
 ![Barb](_images/barb.jpg)
 ![barb threads](_images/barb_threads.jpg)
 ![Barbs on UTM](_images/barbs_on_utm.jpg)
 " %}
 
+# Inline Air Filter
+
+This filter is used to prevent soil and other debris from entering the vacuum pump.
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Price**                     |$10.00
+|**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`Inline Air Filter (Barbs for 6mm ID tubing)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.75
+|**Component Tests**           |[Inline Air Filter tests](../../manufacturing/component-tests/tubing.md#inline-air-filter)
+|**Notes**                     |
+{:.internal}
+
+![Inline Air Filter](_images/inline_air_filter.jpg)
+
+# 90-Degree Barb
+
+This barb is used to connect the y-axis water tube to the z-axis water tube.
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Price**                     |$2.00
+|**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`90 Degree Barb for 6mm ID tubing`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.10
+|**Component Tests**           |[90 Degree Barb tests](../../manufacturing/component-tests/tubing.md#90-degree-barb)
+|**Notes**                     |
+{:.internal}
+
+![90 Degree Barb](_images/90_degree_barb.jpg)
+
 # NPT to Barb Adapter
 
-These adapters are used throughout the water tubing system.
+These adapters are used on the inlet of the solenoid valve and the outlet of the pressure reducer.
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -89,8 +159,18 @@ These adapters are used throughout the water tubing system.
 |**For Tube ID**               |6mm
 |**Threads**                   |3/4" female NPT (National Pipe Thread)
 |**Engraving**                 |`NPT`
+|**Rubber Gasket?**            |Included
 |**Price**                     |$5.00
-|**Quantity**                  |3
+|**Quantity**                  |2
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`NPT to Barb Adapter (3/4" female NPT to Barb for 6mm ID tubing)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$3.50
+|**Component Tests**           |[NPT to Barb Adapter tests](../../manufacturing/component-tests/tubing.md#npt-to-barb-adapter)
+|**Notes**                     |Includes "NPT" laser engraving and pre-inserted rubber gasket.
+{:.internal}
 
 {%
 include callout.html
@@ -107,7 +187,7 @@ content="v1.5 kits shipped before November 1st, 2020 had unmarked adapters, whil
 
 # Garden Hose to Barb Adapter
 
-This adapter connects standard US garden hoses to a barbed adapter.
+This adapter connects standard US garden hoses to 6mm ID tubing.
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -115,8 +195,18 @@ This adapter connects standard US garden hoses to a barbed adapter.
 |**For Tube ID**               |6mm
 |**Threads**                   |3/4" Female GHT (Garden Hose Thread)<br>3/4" Male NPT (National Pipe Thread)
 |**Engraving**                 |`GHT`
+|**Rubber Gasket?**            |Included
 |**Price**                     |$7.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`Garden Hose to Barb Adapter (3/4" female GHT to Barb for 6mm ID tubing)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$3.50
+|**Component Tests**           |[Garden Hose to Barb Adapter tests](../../manufacturing/component-tests/tubing.md#garden-hose-to-barb-adapter)
+|**Notes**                     |Includes "GHT" laser engraving and pre-inserted rubber gasket.
+{:.internal}
 
 {%
 include callout.html
@@ -144,8 +234,18 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 |**Outer Diameter**            |1.25 inches (31.75mm)
 |**Outlet Pressure**           |15 PSI (103 kpa, 1.02 bar)
 |**Max Input Pressure**        |100 PSI (688 kpa, 6.88 bar)
+|**Rubber Gasket?**            |Included
 |**Price**                     |$8.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`15 psi Pressure Reducer (3/4" female NPT to 3/4" male NPT)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$1.00
+|**Component Tests**           |[Pressure Regulator tests](../../manufacturing/component-tests/tubing.md#pressure-regulator)
+|**Notes**                     |Includes pre-inserted rubber gasket.
+{:.internal}
 
 {% include gallery.html images="
 ![Pressure Regulator](_images/pressure_regulator_1.jpg)
@@ -163,6 +263,15 @@ These gaskets are used with the NPT to barb adapter, garden hose to barb adapter
 |**Price**                     |$1.00
 |**Quantity**                  |4
 
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`3/4" Rubber Gasket`
+|**Vendor**                    |LDO
+|**$/pc**                      |Inlcuded in price of adapters
+|**Component Tests**           |[Rubber Gasket tests](../../manufacturing/component-tests/tubing.md#rubber-gasket)
+|**Notes**                     |Pre-inserted into `Garden Hose to Barb Adapter`, `NPT to Barb Adapter`, and `Pressure Regulator`
+{:.internal}
+
 ![Rubber Gaskets](_images/rubber_gaskets.jpg)
 
 # O-rings
@@ -171,15 +280,24 @@ These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when t
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Material**                  |Buna-N
+|**Material**                  |Viton
 |**Durometer**                 |A70 (Medium)
 |**Outer Diameter**            |10.5mm
-|**Inner Diameter**            |7.5mm
-|**Thickness**                 |1.5mm
+|**Inner Diameter**            |7.65mm
+|**Thickness**                 |1.78mm
 |**Temperature Range**         |-30° to 212° F
 |**Color**                     |Black
 |**Price**                     |$0.50
 |**Quantity**                  |3
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`X profile O-rings`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.33
+|**Component Tests**           |[O-ring tests](../../manufacturing/component-tests/tubing.md#o-rings)
+|**Notes**                     |
+{:.internal}
 
 ![O-rings](_images/o-rings.jpg)
 
@@ -194,6 +312,15 @@ This adapter screws into the tool head and allows various luer lock needles to b
 |**Interface**                 |1/4 turn luer lock
 |**Price**                     |$5.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`M5 to Luer Lock Adapter (Stainless Steel)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.50
+|**Component Tests**           |[Luer Lock Adapter tests](../../manufacturing/component-tests/tubing.md#luer-lock-adapter)
+|**Notes**                     |
+{:.internal}
 
 ![Luer Lock Adapter](_images/luer_lock_adapter.jpeg)
 
@@ -211,6 +338,15 @@ These needles are used for seed injection.
 |**Price**                     |$3.00
 |**Quantity**                  |3 of each gauge
 
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`Luer Lock Needle w/ cover (16 Gauge)`<br>`Luer Lock Needle w/ cover (19 Gauge)`<br>`Luer Lock Needle w/ cover (22 Gauge)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.08
+|**Component Tests**           |[Luer Lock Needle tests](../../manufacturing/component-tests/tubing.md#luer-lock-needles)
+|**Notes**                     |
+{:.internal}
+
 ![Luer Lock Needles](_images/luer_lock_needles.jpg)
 
 # Teflon Tape
@@ -220,10 +356,19 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |PTFE
-|**Length**                    |9m
+|**Length**                    |10m
 |**Width**                     |1.5cm
 |**Color**                     |White
 |**Price**                     |$5.00
 |**Quantity**                  |1
+
+|                              |                              |
+|------------------------------|------------------------------|
+|**Internal Part Name**        |`Teflon Tape (1.5cm wide, 10m long)`
+|**Vendor**                    |LDO
+|**$/pc**                      |$0.20
+|**Component Tests**           |[Teflon tape tests](../../manufacturing/component-tests/tubing.md#teflon-tape)
+|**Notes**                     |
+{:.internal}
 
 ![Teflon Tape](_images/teflon_tape.jpg)

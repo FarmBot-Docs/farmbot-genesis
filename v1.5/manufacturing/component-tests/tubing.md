@@ -18,13 +18,27 @@ Each component in the tubing category has its own unique tests.
 |Kink resistance|Bend the tube into a 10cm diameter circle.|The tube should not kink|N/A
 |Barb compatibility|Connect to a barbed adapter.|The tube should connect securely and resist being disconnected by hand.|N/A
 
-# Barbs
+# Barb
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
 |Threads      |Connect to an M5 brass insert on top of the UTM.|Parts should connect as expected|N/A
 |Hex size     |Use an 8mm wrench to tighten the barb on top of the UTM.|The hex size should work with an 8mm wrench|N/A
 |Barb         |Connect a 6mm ID tube.|The tube should connect securely and have mildly resist being disconnected by hand.|N/A
+
+# Inline Air Filter
+
+|Test         |Description  |Target       |Tolerance    |
+|-------------|-------------|-------------|-------------|
+|Barb size    |Connect a 6mm ID tube to both ends of the air filter.|Tube should fit snugly onto the barbs and not fall off.|N/A
+|Airflow      |Connect the filter inline to a vacuum pump and UTM. Turn on the pump and mount a seed injector tool to the UTM.|The vacuum should provide enough suction even with the inline filter installed to pick up seeds.|N/A# Inline Air Filter
+
+# 90 Degree Barb
+
+|Test         |Description  |Target       |Tolerance    |
+|-------------|-------------|-------------|-------------|
+|Barb size    |Connect a 6mm ID tube to both ends.|Tube should fit snugly onto the barbs and not fall off.|N/A
+|Water flow   |Connect the barb inline to a water line and turn on the water.|The water should flow sufficiently without issue.|N/A
 
 # NPT to Barb Adapter
 
@@ -79,7 +93,7 @@ Each component in the tubing category has its own unique tests.
 |Luer lock    |Connect a needle to a luer lock adapter.|Should connect securely with a 1/4 turn|N/A
 |Covers?      |Ensure the needles have covers.|Included cover|N/A
 
-# Rubber Gaskets
+# Rubber Gasket
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
