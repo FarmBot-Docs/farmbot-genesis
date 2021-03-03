@@ -204,6 +204,7 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 |------------------------------|------------------------------|
 |**Price**                     |$10.00
 |**PCB Color**                 |Black
+|**Battery**                   |CR1220
 |**Quantity**                  |1
 
 |                              |                              |
