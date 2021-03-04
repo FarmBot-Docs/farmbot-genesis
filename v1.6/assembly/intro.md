@@ -25,9 +25,7 @@ Genesis is available in two sizes: **Genesis** and **Genesis XL** as shown in th
 |Genesis   |1.5m        |3m          |4.5m<sup>2</sup>|0.5m
 |Genesis XL|3m          |6m          |18m<sup>2</sup> |0.5m
 
-{% include gallery.html images='
 <iframe width="560" height="315" src="https://www.youtube.com/embed/60htrqei_U0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-' %}
 
 Genesis and Genesis XL share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of both models. When certain information only applies to one model or the other, there will be clear indication.
 
@@ -37,9 +35,7 @@ Our kits include everything you need in one box and are backed by our customer s
 
 **[Order your FarmBot here!](http://buy.farm.bot)**
 
-{% include gallery.html images='
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_jw98qozK4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-' %}
 
 # License
 
