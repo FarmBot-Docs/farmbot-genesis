@@ -50,7 +50,7 @@ _The belt has been highlighted orange for clarity._
 
 # Step 3: Secure the belts
 
-Secure one end of the belt to the front end of the tracks by using a **belt clip**, **belt sleeve**, **20mm nut bar**, and two **M5 x 10mm screws**. The belt must be wrapped through the clip as outlined in the [belt installation guide](../../Extras/reference/belt-installation.md).
+Secure one end of the belt to the front end of the tracks by using a **belt clip**, **belt sleeve**, **20mm nut bar**, and two **M5 x 10mm screws**. The belt must be wrapped through the clip as outlined in the [belt installation guide](../../extras/reference/belt-installation.md).
 
 ![x-axis belt secured](_images/x-axis_belt_secured.png)
 

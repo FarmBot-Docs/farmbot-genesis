@@ -31,12 +31,12 @@ Keeping the mounting orientation of the cable carrier in mind, lay the **UTM cab
 
 |Cable/Tube|Extension<br>(beyond the Z end)|
 |----------|-------------------------------|
-|[Z-axis water tube](../../Extras/bom/tubing.md#water-tube)<br>_0.95m long_|10cm
-|[UTM cable](../../Extras/bom/electronics-and-wiring.md#universal-tool-mount-cable)<br>_End with the yellow and black connectors_|10cm
-|[Camera](../../Extras/bom/electronics-and-wiring.md#camera)|15cm
-|[Vacuum pump cable (z-axis section)](../../Extras/bom/electronics-and-wiring.md#vacuum-pump-cable)<br>_End with the quick-connect terminals_|30cm
-|[Z-axis motor cable (z-axis section)](../../Extras/bom/electronics-and-wiring.md#motor-cables)<br>_End with the white motor plug_|100cm
-|[Z-axis encoder cable (z-axis section)](../../Extras/bom/electronics-and-wiring.md#encoder-cables)<br>_End with the white encoder plug_|100cm
+|[Z-axis water tube](../../extras/bom/tubing.md#water-tube)<br>_0.95m long_|10cm
+|[UTM cable](../../extras/bom/electronics-and-wiring.md#universal-tool-mount-cable)<br>_End with the yellow and black connectors_|10cm
+|[Camera](../../extras/bom/electronics-and-wiring.md#camera)|15cm
+|[Vacuum pump cable (z-axis section)](../../extras/bom/electronics-and-wiring.md#vacuum-pump-cable)<br>_End with the quick-connect terminals_|30cm
+|[Z-axis motor cable (z-axis section)](../../extras/bom/electronics-and-wiring.md#motor-cables)<br>_End with the white motor plug_|100cm
+|[Z-axis encoder cable (z-axis section)](../../extras/bom/electronics-and-wiring.md#encoder-cables)<br>_End with the white encoder plug_|100cm
 
 
 {% include gallery.html images="

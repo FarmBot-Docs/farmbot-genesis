@@ -110,7 +110,7 @@ Use two **M5 x 16mm screws** and **M5 flange locknuts** to secure the **80mm cab
 
 # Step 6: Adjust the eccentric spacers
 
-In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must first adjust the eccentric spacers of the bottom three V-wheels. Adjust the eccentric spacers using the [eccentric spacer adjustment reference guide](../Extras/reference/eccentric-spacer-adjustment.md).# Step 7: Slide the cross-slide onto the gantry main beam
+In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must first adjust the eccentric spacers of the bottom three V-wheels. Adjust the eccentric spacers using the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md).# Step 7: Slide the cross-slide onto the gantry main beam
 Once you have adjusted the eccentric spacers, slide the cross-slide onto the gantry main beam.
 
 ![Adjust the eccentric spacers](_images/cross_slide_on_gantry.png)
@@ -125,7 +125,7 @@ _This is a view of the attached cross slide looking up at the Y-Axis motor_
 
 # Step 8: Feed and secure the belt
 
-Attach a **belt clip** to the end of the gantry main beam using two **M5 x 10mm screws** and a **20mm nut bar**. Then secure one end of the **y-axis GT2 timing belt** (2m long for Genesis, 3.5m long for XL or MAX) to the belt clip using the [belt installation](../Extras/reference/belt-installation.md) reference guide.
+Attach a **belt clip** to the end of the gantry main beam using two **M5 x 10mm screws** and a **20mm nut bar**. Then secure one end of the **y-axis GT2 timing belt** (2m long for Genesis, 3.5m long for XL or MAX) to the belt clip using the [belt installation](../extras/reference/belt-installation.md) reference guide.
 
 ![Secure one end of the belt](_images/y_axis_belt_beginning.png)
 

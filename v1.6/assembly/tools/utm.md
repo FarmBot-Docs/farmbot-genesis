@@ -56,7 +56,7 @@ content="Only four of the 12 wires/UTM pins are currently mapped. This is becaus
 include callout.html
 type="success"
 title="Want to make your own UTM compatible tools?"
-content="Check out the [tool spec](../../Extras/mods/tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
+content="Check out the [tool spec](../../extras/mods/tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
 %}
 
 # Step 1: Install the UTM onto the Z-axis

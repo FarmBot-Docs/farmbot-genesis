@@ -19,7 +19,7 @@ Press the **watering nozzle bottom** into the **watering nozzle top**. The two p
 ![watering nozzle pieces connected](_images/watering_nozzle_pieces_connected.png)
 
 # Step 2: Install the basic tool hardware
-Install the **magnets** and tool verification **jumper link** using **M5 x 30mm screws** and **M3 x 10mm screws** and the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
+Install the **magnets** and tool verification **jumper link** using **M5 x 30mm screws** and **M3 x 10mm screws** and the instructions in the [basic tool hardware reference guide](../../extras/reference/basic-tool-hardware.md). The M5 screws will secure the **watering nozzle bottom** and the **watering nozzle top** together.
 
 {% include gallery.html images="
 ![watering nozzle with basic tool hardware](_images/watering_nozzle_with_basic_tool_hardware_1.png)

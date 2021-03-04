@@ -29,7 +29,7 @@ content="Do not expect this tool, or FarmBot in general, to be able to remove la
 %}
 
 # Step 1: Install the basic tool hardware
-Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md).
+Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../extras/reference/basic-tool-hardware.md).
 
 ![weeder with basic tool hardware](_images/weeder_with_basic_tool_hardware.png)
 

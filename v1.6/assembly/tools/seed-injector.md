@@ -15,7 +15,7 @@ The seed injector works by using a vacuum pump to suction-hold a single seed at 
 
 # Step 1: Install the basic tool hardware
 
-Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md).
+Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../extras/reference/basic-tool-hardware.md).
 
 ![seeder with basic tool hardware](_images/seeder_with_basic_tool_hardware.png)
 

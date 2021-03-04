@@ -53,7 +53,7 @@ _The peripheral connectors are highlighted in orange_
 include callout.html
 type="info"
 title=""
-content="See [Farmduino Peripheral Pin Numbers](../Extras/reference/farmduino-peripheral-pin-numbers.md) for information about controlling the peripherals from the web app."
+content="See [Farmduino Peripheral Pin Numbers](../extras/reference/farmduino-peripheral-pin-numbers.md) for information about controlling the peripherals from the web app."
 %}
 
 # Step 3: Plug in the stepper motors and rotary encoders
@@ -89,7 +89,7 @@ Plug in the **UTM cable** to the **Farmduino**. The connector will only fit in o
 
 _The UTM connector is highlighted in orange_
 
-Once the UTM cable is _physically_ connected to the Farmduino, you need to _electrically_ connect it to the microcontroller using **[jumper wires](../Extras/bom/electronics-and-wiring.md#jumper-wire)**. To use the default [UTM pin mapping](../FarmBot-Genesis-V1.5/tools/utm.md#pin-mapping), connect five jumper wires from the upper row of pins to the lower row of pins as highlighted below. You should have one jumper wire connecting `A` to `5V`, `B` to `GND`, `C` to `A9`, `D` to `A5`, and `E` to `D48`.
+Once the UTM cable is _physically_ connected to the Farmduino, you need to _electrically_ connect it to the microcontroller using **[jumper wires](../extras/bom/electronics-and-wiring.md#jumper-wire)**. To use the default [UTM pin mapping](../FarmBot-Genesis-V1.5/tools/utm.md#pin-mapping), connect five jumper wires from the upper row of pins to the lower row of pins as highlighted below. You should have one jumper wire connecting `A` to `5V`, `B` to `GND`, `C` to `A9`, `D` to `A5`, and `E` to `D48`.
 
 ![jumpers](_images/jumpers.jpg)
 

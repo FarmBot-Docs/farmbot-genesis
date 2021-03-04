@@ -16,7 +16,7 @@ This single 3D printable component magnetically mounts onto FarmBot's UTM like a
 ![soil sensor](_images/soil_sensor.png)
 
 # Step 1: Install the magnets
-Install *only* the **magnets** using the instructions in the [basic tool hardware reference guide](../../Extras/reference/basic-tool-hardware.md).
+Install *only* the **magnets** using the instructions in the [basic tool hardware reference guide](../../extras/reference/basic-tool-hardware.md).
 
 ![soil sensor with magnets](_images/soil_sensor_with_magnets.png)
 
