@@ -1,0 +1,91 @@
+version_number: 1.6
+document: 6626b842adca229e69544ad1
+workspace: 89ac2637f82d915f22c2bcd0
+part:
+  - name: 40mm Horizontal Cable Carrier Support
+    id: 37ed606d6a8d1cd01d7f3e1c
+  - name: 60mm Horizontal Cable Carrier Support
+    id: 3576465d04194d337ac5e8be
+  - name: 60mm Vertical Cable Carrier Support
+    id: ba1e8270ace8fa619571ec17
+  - name: 75mm Horizontal Motor Housing
+    id: 4e3a2ca8e14939e7bc0efc8f
+  - name: 80mm Cable Carrier Mount
+    id: bc3c0f291e84b6f61eb4889c
+  - name: 80mm Vertical Motor Housing
+    id: 3735a9474c0a2bdc12ed7548
+  - name: 60mm Cable Carrier Spacer Block
+    id: f74bae803734d8f8012c14f2
+  - name: Cross-Slide Plate
+    id: 5328b88cc1189e61559c88e2
+  - name: Gantry Wheel Plate
+    id: 18af90bf27d61e15bb2d4c60
+  - name: Seed Bin
+    id: 15a8803a30f567a3061ece42
+  - name: Seed Tray
+    id: ba2cf5c1c9299c7597d773d1
+  - name: Seed Trough Holder Mount
+    id: d288bd5039fad6a4ab78f7f6
+  - name: Seed Trough
+    id: 20f4f367da1d0fa717875c56
+  - name: Seed Trough Holder
+    id: 20f4f367da1d0fa717875c56
+  - name: Seeder
+    id: 2e13647341309ee7cf1aa13d
+  - name: Soil Sensor
+    id: 18ef30238a45bbc09fbc0da0
+  - name: Solenoid Valve Mount
+    id: 0be2a7a0b87f2f425bd65ee0
+  - name: Toolbay
+    id: 0113b7ea4c453bd1666c667a
+  - name: Track End Plate
+    id: af3b445ecd1327c0d4c7e578
+  - name: Track Joining Plate
+    id: 2b4caa53af2ee8d67bb3f1a7
+  - name: Universal Tool Mount
+    id: f38f17f31f1024b3e3650d61
+  - name: Vacuum Pump Housing
+    id: 60a6ab9e171dba64e5d39626
+  - name: Vacuum Pump Mount
+    id: 82681dc901e843ea41fe1d92
+  - name: Watering Nozzle
+    id: 48323740413d42887c867e4e
+  - name: Weeder
+    id: 4452cc96fe86fa3a408ffee2
+  - name: Z-Axis Motor Mount
+    id: 0fd6ad1954eed57305f56362
+assembly:
+  - name: Cross-Slide
+    id: 4a0e5719f2deccae067da885
+  - name: Electronics Box
+    id: 99a8452234dd7e0eda029c8c
+  - name: FarmBot Genesis v1.5
+    id: 3a231755273e980d277c3a4c
+  - name: Gantry
+    id: 5ff2d1974113b312add42bf7
+  - name: Gantry Main Beam
+    id: f1fcd214733059fd8465325f
+  - name: Gantry Wheel Plate
+    id: 33c3dd58328095f9e1e1dcee
+  - name: Left Gantry Column
+    id: 4a83a81b41f6b4b970677eda
+  - name: Toolbays
+    id: db3f560afd88927dc57a5088
+  - name: Right Gantry Column
+    id: be773ec8da404e731fa4baef
+  - name: Seed Trough
+    id: 752fa7f2bba8b0042c906b5d
+  - name: Seeder
+    id: 1449bd11dc3cf8a5f2563601
+  - name: Soil Sensor
+    id: 6ca8f07ff28a92ec08c70e71
+  - name: Tracks
+    id: 4f2419dcd7e12ae6c15214e7
+  - name: UTM
+    id: 5875313f78d29a5696eb9956
+  - name: Watering Nozzle
+    id: 3f379dda94032bbfb6429694
+  - name: Weeder
+    id: d8f735e3055725dc0155a480
+  - name: Z-Axis
+    id: 7235dee3bc8ca8612a85267a
