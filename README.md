@@ -2,9 +2,9 @@
 
 Hardware documentation and assembly instructions for FarmBot Genesis and FarmBot Genesis XL.
 
-View the documentation at https://genesis.farm.bot.
+View the documentation at [genesis.farm.bot](https://genesis.farm.bot).
 
-For additional FarmBot documentation, visit https://docs.farm.bot.
+For additional FarmBot documentation, visit [docs.farm.bot](https://docs.farm.bot).
 
 ---
 
