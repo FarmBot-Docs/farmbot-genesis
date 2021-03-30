@@ -6,3 +6,4 @@ _site
 vendor
 Gemfile
 Gemfile.lock
+*.log
