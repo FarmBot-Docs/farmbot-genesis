@@ -209,7 +209,7 @@ content="Sanding away any minor bumps will help the movements of the FarmBot and
 
 
 
-![SANDING_TRACKS.bmp](_images/SANDING_TRACKS.bmp)
+![sand track joints to remove bumps](_images/sanding_tracks.png)
 
 _Sanding away any minor bumps will help the movements of the FarmBot and improve motor longevity._
 

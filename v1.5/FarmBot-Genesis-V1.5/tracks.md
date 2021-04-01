@@ -182,7 +182,7 @@ You can use shims or other spacers to better align track plates in case your sup
 
 If needed, use **150 grit sand paper** to sand away any bumps on the diagonal surfaces of the **extrusions** that the FarmBot wheels ride upon. This will ease the movements of the FarmBot and improve longevity. Make sure that both the upper surfaces and lower surfaces are smooth to the touch and that there is no bump or uneven edges in the transition from one extrusion to another.
 
-![Sand track joints to remove bumps](_images/sanding_tracks.bmp)
+![sand track joints to remove bumps](_images/sanding_tracks.png)
 
 _This photo shows that the aluminum tracks can be sanded down so that there is no bump on the transition between one section of track to another._
 
