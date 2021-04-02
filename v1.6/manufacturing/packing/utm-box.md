@@ -11,7 +11,7 @@ description: "Packing details for the UTM box"
 
 |Item                          |Qty                           |
 |------------------------------|------------------------------|
-|[Pre-Assembled UTM](../pre-assembly/utm.md)|1
+|[Pre-Assembled UTM](../pre-assembly/tools/utm.md)|1
 |Pogo Pin (spare)|1
 |Jam Nuts (spare)|2
 

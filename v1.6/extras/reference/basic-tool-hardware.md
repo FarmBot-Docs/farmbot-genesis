@@ -7,10 +7,7 @@ description: "This reference guide applies to all of FarmBot's tools"
 * toc
 {:toc}
 
-
 # Step 1: Install the magnets
-
-
 
 {%
 include callout.html
@@ -18,8 +15,6 @@ type="danger"
 title="Handle magnets with care"
 content="In general, magnets are brittle and can be easily broken if dropped or if they attract to each other in an uncontrolled manner and collide. **When handling the magnets, DO NOT separate them individually and place them on a table.** It is too easy for two of them to attract to each other, collide, and break. Instead, keep them in a stack and pull them off individually as you mount them to the UTM and various tools."
 %}
-
-
 
 {%
 include callout.html
@@ -53,4 +48,3 @@ Insert two **M3 x 12mm screws** into the holes labelled **B** and **C** on the t
 Secure the **jumper link** to the bottom of the screws with two **M3 locknuts**.
 
 ![jumper link installed bottom view](_images/jumper_link_installed_bottom_view.png)
-
