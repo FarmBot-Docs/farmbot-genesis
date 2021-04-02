@@ -196,12 +196,23 @@ contents:
       - title: Pre-Assembly
         url: pre-assembly
         pages:
+          - title: Tools
+            url: tools
+            pages:
+              - title: UTM
+                url: utm
+              - title: Seed Injector
+                url: seed-injector
+              - title: Watering Nozzle
+                url: watering-nozzle
+              - title: Weeder
+                url: weeder
+              - title: Soil Sensor
+                url: soil-sensor
           - title: V-Wheels
             url: v-wheels
           - title: Electronics Box
             url: electronics-box
-          - title: UTM
-            url: utm
       - title: Packing
         url: packing
         pages:

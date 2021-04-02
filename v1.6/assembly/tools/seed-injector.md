@@ -7,39 +7,34 @@ description: "Documentation for the FarmBot Genesis seed injector"
 * toc
 {:toc}
 
-The seed injector works by using a vacuum pump to suction-hold a single seed at the end of a needle.
+The **seed injector** works by using a **vacuum pump** to suction-hold a single seed at the end of a **needle**.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FnXFdJIQaQB4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnXFdJIQaQB4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnXFdJIQaQB4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="840" height="473" src="https://www.youtube.com/embed/nXFdJIQaQB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![seeder](_images/seeder.png)
 
-# Step 1: Install the basic tool hardware
+{%
+include callout.html
+type="success"
+title="Pre-assembled for your convenience"
+content="As of the v1.6 hardware release, the seed injector tool comes pre-assembled. In the next steps we'll hook up the rest of FarmBot's vacuum system."
+%}
 
-Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../extras/reference/basic-tool-hardware.md).
-
-![seeder with basic tool hardware](_images/seeder_with_basic_tool_hardware.png)
-
-# Step 2: Add the luer lock adapter
-
-Screw the **luer lock adapter** into the brass insert on the bottom of the **seeder**.
-
-![seeder with luer lock adapter](_images/seeder_with_luer_lock_adapter.png)
-
-# Step 3: Selecting a luer lock needle
+# Step 1: Selecting a luer lock needle
 
 We've shipped all of the FarmBots with three different **luer lock needle** sizes so that you can experiment and find the best needle for your needs.
 
-|Size                          |Gauge                         |Inner Diameter                |Good for                      |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|Large                         |14                            |1.72mm (0.067")               |Large seeds (eg: pumpkin)
-|Medium                        |19                            |0.83mm (0.032")               |Most seeds
-|Small                         |22                            |0.48mm (0.019")               |Small seeds (eg: lettuce)
+|Size  |Gauge|Inner Diameter |Good for                 |
+|------|-----|---------------|-------------------------|
+|Large |16   |1.35mm (0.053")|Large seeds (eg: pumpkin)
+|Medium|19   |0.83mm (0.032")|Most seeds
+|Small |22   |0.48mm (0.019")|Small seeds (eg: lettuce)
 
 Once you've selected a needle, attach it to the **luer lock adapter** with a 1/4 turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
 
 ![seeder with needle](_images/seeder_with_needle.png)
 
-# Step 4: Connect the vacuum tubes and filter
+# Step 2: Connect the vacuum tubes and filter
 
 {%
 include callout.html
@@ -64,13 +59,13 @@ title="Is your seeder blowing?"
 content="If you find during testing that there is air blowing out of the seeder tool, you may try connecting the tube to the other port. We use parts from different suppliers and the vacuum pump configuration may be different on your model."
 %}
 
-# Step 5: Wire up the vacuum pump
+# Step 3: Wire up the vacuum pump
 
 Connect the **vacuum pump cable** to the **vacuum pump's** terminals. While the cable has red/black wires, the vacuum pump has no polarity. Thus, you can connect the red/black wires to either terminal without changing the operation of the pump. In a few steps from now, you will connect the other end of the cable to the Farmduino.
 
 ![Wire up the vacuum pump](_images/wire_up_vacuum_pump.png)
 
-# Step 6: Attach the seed trough holder
+# Step 4: Attach the seed trough holder
 
 Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and **M5 flange locknuts**. Then mount the assembly to the **left gantry column** using a **40mm nut bar** and two **M5 x 10mm screws**. 
 
@@ -81,13 +76,14 @@ Place the two **seed troughs** into the holder. Optionally, you may store up to 
 ![Mounted seed trough holder](_images/mounted_seed_trough_holder.png)
 " %}
 
-# Step 7: Understanding the seed containers
+# Step 5: Understanding the seed containers
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FguJK9498ZA4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DguJK9498ZA4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FguJK9498ZA4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
+<iframe width="840" height="473" src="https://www.youtube.com/embed/guJK9498ZA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We offer the following types of seed containers, each optimized for different purposes.
 
 ## Seed bins
+
 The **seed bins** are for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply slide it into the **toolbay** and fill it with seeds. Then run a planting sequence from the web app with the corresponding seed bin sequence and location.
 
 ![seed bin](_images/seed_bin.jpg)

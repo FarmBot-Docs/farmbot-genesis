@@ -13,4 +13,8 @@ Some subassemblies of FarmBot Genesis come pre-assembled in the box. The followi
 
  * [V-Wheels](pre-assembly/v-wheels.md)
  * [Electronics Box](pre-assembly/electronics-box.md)
- * [UTM](pre-assembly/utm.md)
+ * [UTM](pre-assembly/tools/utm.md)
+ * [Seed Injector](pre-assembly/tools/seed-injector.md)
+ * [Watering Nozzle](pre-assembly/tools/watering-nozzle.md)
+ * [Weeder](pre-assembly/tools/weeder.md)
+ * [Soil Sensor](pre-assembly/tools/soil-sensor.md)
