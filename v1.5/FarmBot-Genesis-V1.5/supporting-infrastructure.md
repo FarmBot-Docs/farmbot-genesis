@@ -10,7 +10,7 @@ FarmBot's tracks need to be attached to **supporting infrastructure** such as a 
 
 In the next sections we offer advice for building three types of supporting infrastructure: a **fixed raised bed**, a **mobile raised bed**, and **pier block supports**. However, not every type of infrastructure is suitable for all of our kits. Refer to the table below to see our recommendations.
 
-|                              |Fixed Raised Bed              |Mobile Raised Bed             |Pier Block Supports           |
+|<i></i>                       |Fixed Raised Bed              |Mobile Raised Bed             |Pier Block Supports           |
 |------------------------------|------------------------------|------------------------------|------------------------------|
 |Genesis                       |:white_check_mark:            |:white_check_mark:            |:white_check_mark:
 |Genesis XL                    |:white_check_mark:            |:no_entry:                    |:white_check_mark:
