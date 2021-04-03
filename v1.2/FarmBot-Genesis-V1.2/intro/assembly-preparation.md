@@ -40,7 +40,7 @@ For many, grouping parts by type helps with locating them quickly later on. For 
 include callout.html
 type="success"
 title="We'll make it right"
-content="If anything is missing or damaged from your box of components, let us know right away at [support@farmbot.io](mailto:support@farmbot.io). We'll ship out replacement parts as soon as we can."
+content="If anything is missing or damaged from your box of components, let us know right away at [support@farm.bot](mailto:support@farm.bot). We'll ship out replacement parts as soon as we can."
 %}
 
 

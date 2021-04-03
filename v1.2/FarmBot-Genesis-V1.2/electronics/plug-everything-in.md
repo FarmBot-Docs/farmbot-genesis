@@ -148,7 +148,7 @@ content="If all has gone well, your Raspberry Pi should boot up and you should r
 include callout.html
 type="info"
 title="Something wrong?"
-content="See smoke? Heard a loud *pop*? If anything seems suspicious or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farmbot.io](mailto:support@farmbot.io)."
+content="See smoke? Heard a loud *pop*? If anything seems suspicious or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
 %}
 
 
