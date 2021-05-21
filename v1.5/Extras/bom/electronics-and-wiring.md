@@ -198,7 +198,7 @@ The microSD card holds FarmBot OS and is inserted into the Raspberry Pi.
 
 # Pi Adapter Board
 
-This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for time keeping in offline situtations. [Click here to download the source files](https://drive.google.com/drive/folders/1smMUQ9R8Rn1bX8MzWhdo6laAXFfcK3Vo).
+This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for time keeping in offline situations. [Click here to download the source files](https://drive.google.com/drive/folders/1smMUQ9R8Rn1bX8MzWhdo6laAXFfcK3Vo).
 
 |                              |                              |
 |------------------------------|------------------------------|
