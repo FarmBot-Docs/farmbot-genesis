@@ -25,7 +25,7 @@ content="This is the estimated time it will take to build a fixed raised bed."
 
 The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis XL kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
-We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro.md#economies-of-scale) section for more information on maximizing FarmBot value.
+We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
 If you are going to modify our reference design, use the dimension guidelines below to ensure compatibility with the FarmBot.
 
@@ -168,6 +168,11 @@ Repeat for the remaining **long wall(s)** on the opposite side of the bed.
 # Step 7: Install tensioning cables (optional)
 
 With larger raised beds, especially those for FarmBot Genesis XL, it is possible that expansion and contraction of the soil will cause the longer sides of the raised bed to bend outwards, causing track misalignment. If you think that your bed will not be sturdy enough to resist bending, consider adding stainless steel tensioning cables every 3m to prevent the long sides of the bed from being pushed away from each other. The cables should be positioned in the lower half of the bed so as to not interfere with the FarmBot's tools once buried in the soil.
+
+{% include gallery.html images="
+![tensioning cables](_images/fixed_raised_bed_tensioning_cables.jpg)
+![tensioning cables detail](_images/fixed_raised_bed_tensioning_cables_detail.jpg)
+" %}
 
 # Step 8: Fill the bed
 
