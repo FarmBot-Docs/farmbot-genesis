@@ -14,7 +14,6 @@ In the next sections we offer advice for building three types of supporting infr
 |-------------|:------------------:|:------------------:|:-------------------:|
 |Genesis      |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:
 |Genesis XL   |:heavy_check_mark:  |:no_entry:          |:heavy_check_mark:
-|Genesis MAX  |:no_entry:          |:no_entry:          |:heavy_check_mark:
 
 {%
 include callout.html
