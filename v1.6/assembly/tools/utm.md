@@ -35,14 +35,14 @@ content="As of the v1.4 hardware release, the UTM comes pre-assembled so all you
 |**B** /<span class="cable-color yellow">yellow</span>|Ground (0V)              |Ground
 |**C** /<span class="cable-color green">green</span>  |Pin D63 - Digital-In     |Tool verification
 |**D** /<span class="cable-color black">black</span>  |Pin D59 (A5) - Analog-In |Soil sensor and other analog signal tools
-|**E** /<span class="cable-color white">white</span>  |Pin D48                  |Anything you want
+|**E** /<span class="cable-color white">white</span>  |BDC 1                    |Rotary tool
 |**F** /<span class="cable-color brown">brown</span>  |Your choice              |Anything you want
 |**G** /<span class="cable-color blue">blue</span>    |Your choice              |Anything you want
-|**H** /<span class="cable-color grey">grey</span>    |Your choice              |Anything you want
+|**H** /<span class="cable-color grey">grey</span>    |BDC 2                    |Rotary tool
 |**I** /<span class="cable-color orange">orange</span>|Your choice              |Anything you want
 |**J** /<span class="cable-color purple">purple</span>|Your choice              |Anything you want
 |**K** /<span class="cable-color pink">pink</span>    |Your choice              |Anything you want
-|**L** /<span class="cable-color cyan">cyan</span>    |Your choice              |Anything you want
+|**L** /<span class="cable-color cyan">cyan</span>    |Earth ground             |Ground
 
 {%
 include callout.html
