@@ -469,12 +469,13 @@ These extra leads make it easy to connect new, additional peripherals to your Fa
 
 # Pi Adapter Board
 
-This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for time keeping in offline situations. [Click here to download the source files](https://drive.google.com/drive/folders/1smMUQ9R8Rn1bX8MzWhdo6laAXFfcK3Vo).
+This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for timekeeping in offline situations. [Click here to download the source files](https://drive.google.com/drive/folders/1P8Pdpv2Jrlygh-WBlnO5RMSocQVUQCna?usp=sharing).
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Price**                     |$10.00
 |**PCB Color**                 |Black
+|**Realtime Clock**            |Integrated
 |**Battery**                   |CR1220
 |**Quantity**                  |1
 
