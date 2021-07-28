@@ -2,7 +2,6 @@ title: FarmBot Genesis Documentation
 url: https://genesis.farm.bot
 description: Hardware documentation and assembly instructions for FarmBot Genesis and FarmBot Genesis XL
 logo: /assets/images/documentation.png
-theme: jekyll-theme-cayman
 remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#783f04'
@@ -13,6 +12,7 @@ plugins:
   - jemoji
   - jekyll-redirect-from
   - jekyll-remote-theme
+  - jekyll-seo-tag
 include:
   - _images
   - _redirects
