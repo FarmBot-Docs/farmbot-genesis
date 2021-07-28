@@ -165,7 +165,8 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Cores**                     |7
 |**Gauge**                     |20
 |**Encoder Connector**         |8 pin connector
-|**Farmduino Connector**       |2.54mm pitch 7-pin dupont connector with locking tab
+|**Intermediate connector**<br>(Z cable only)|7-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+|**Farmduino Connector**       |2.54mm pitch 7-pin connector with locking tab ([Molex Part 50579407](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407))
 |**Outer Color**               |Black
 |**Labels**                    |`X1`, `X2`, `Y`, `ZY`, and `ZZ`
 |**Price**                     |**Genesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
@@ -197,7 +198,7 @@ content="[Click here to download](https://drive.google.com/drive/folders/1mUYvzC
 
 The source code for the main Arduino MCU firmware is available [here](https://github.com/FarmBot/farmbot-arduino-firmware).
 
-The source code for the STM32 firmware for tracking encoder signals is available [here](https://github.com/MotorDynamicsLab/encoder-tracker)."
+The source code for the STM32 firmware for tracking encoder signals is available [here](https://github.com/MotorDynamicsLab/encoder-tracker/releases/tag/v1.0.2)."
 %}
 
 |                              |                              |
@@ -206,18 +207,24 @@ The source code for the STM32 firmware for tracking encoder signals is available
 |**Stepper Drivers**           |Trinamic TMC2130
 |**Input Voltage**             |24V
 |**Fuse**                      |15 amp blade fuse
-|**Power Connector**           |Red 2-pin connector ([Molex Part Number 151048-1209](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510481209_PCB_HEADERS.xml))
-|**Peripheral Connectors**     |Black 2-pin connector ([Molex Part Number 151048-1206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510481206_PCB_HEADERS.xml))
+|**Power Receptacle**          |Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
+|**Peripheral Receptacle**<br>(Vaccum)|Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
+|**Peripheral Receptacles**<br>(Water, Lighting, and Peripherals 4 and 5)|Black 2-pin receptacle ([Molex Part 151048-1206](https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206))
+|**UTM Receptacle**            |Black 12-pin receptacle ([Molex Part 430451212](https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212))
+|**Motor Receptacles**         |Black 4-pin receptacle ([Molex Part 705430038](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430038))
+|**Encoder Receptacles**       |Black 7-pin receptacle ([Molex Part 705430041](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430041))
+|**Rotary Tool Driver**        |[Texas Instruments DRV8876](https://www.ti.com/lit/ds/symlink/drv8876.pdf) H-bridge motor driver with integrated current sense and regulation
 |**DC Current per I/O Pin**    |40 mA
 |**DC Current for 3.3V Pin**   |50 mA
 |**PCB Color**                 |Black
 |**RoHS Compliant**            |Yes
-|**Price**                     |$120.00
+|**CE Certification**          |Yes
+|**Price**                     |$150.00
 |**Quantity**                  |1
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |`Farmduino v1.5 Rev A`
+|**Internal Part Name**        |`Farmduino v1.6 Rev A`
 |**Vendor**                    |LDO
 |**$/pc**                      |$77.50
 |**Component Tests**           |
@@ -385,7 +392,8 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Cores**                     |4
 |**Gauge**                     |18
 |**Motor Connector**           |6 pin connector (only 4 pins used)
-|**Farmduino Connector**       |2.54mm pitch 4 pin dupont connector with locking tab
+|**Intermediate connector**<br>(Z cable only)|4-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+|**Farmduino Connector**       |2.54mm pitch 4-pin connector with locking tab ([Molex Part 50579404](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579404))
 |**Outer Color**               |Black
 |**Inner Colors**              |Black, Red, Yellow, White
 |**Labels**                    |`X1`, `X2`, `Y`, `ZY`, and `ZZ`
@@ -469,12 +477,13 @@ These extra leads make it easy to connect new, additional peripherals to your Fa
 
 # Pi Adapter Board
 
-This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for time keeping in offline situations. [Click here to download the source files](https://drive.google.com/drive/folders/1smMUQ9R8Rn1bX8MzWhdo6laAXFfcK3Vo).
+This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for timekeeping in offline situations. [Click here to download the source files](https://drive.google.com/drive/folders/1P8Pdpv2Jrlygh-WBlnO5RMSocQVUQCna?usp=sharing).
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Price**                     |$10.00
 |**PCB Color**                 |Black
+|**Realtime Clock**            |Integrated
 |**Battery**                   |CR1220
 |**Quantity**                  |1
 
@@ -530,7 +539,7 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Output Power**              |150 watts (24 volts DC, 6.25 amps)
-|**Output Cable**              |0.2m long black cable with waterproof 2-pin screw-together connector
+|**Output Cable**              |0.2m long black cable with waterproof 3-pin screw-together connector
 |**Input Power**               |110 volts AC with a max current draw of 1.36 amps (150 watts)<br><br>or<br><br>220 volt AC with a max current draw of 0.68 amps (150 watts)
 |**Input Cable**               |0.3m long black cable with standard US 3-prong plug
 |**Waterproof Rating**         |IP67
@@ -540,9 +549,9 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |`IP67 24V 6.25A Power Supply w/ 3m Modular Cable`<br>`IP67 24V 6.25A Power Supply w/ 4.5m Modular Cable`
+|**Internal Part Name**        |`IP67 24V 6.25A Power Supply`
 |**Vendor**                    |Weho
-|**$/pc**                      |Genesis (3m cable) - $33.60<br>Genesis XL (4.5m cable) - $35.60
+|**$/pc**                      |$30.00
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -555,23 +564,23 @@ This universal input IP67 waterproof power supply provides FarmBot with all the 
 
 # Power Supply Cable
 
-This modular 2-wire cable connects the power supply to the Farmduino. It features a waterproof 2-pin connector to attach to the power supply, and a red molex connector to attach to the Farmduino.
+This modular 3-wire cable connects the power supply to the Farmduino. It features a waterproof 3-pin connector to attach to the power supply, and a black molex connector to attach to the Farmduino.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Number of Cores**           |2
+|**Number of Cores**           |3
 |**Outer Color**               |Black
-|**Connector 1**               |Waterproof 2-pin screw-together connector
-|**Connector 2**               |Red 2-pin connector ([Molex Part Number 151049-2209](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492209_CRIMP_HOUSINGS.xml))
-|**Length**                    |Genesis: 3m<br>Genesis XL: 4.5m<br>Genesis MAX: 10.5m
+|**Connector 1**               |Waterproof 3-pin screw-together connector
+|**Connector 2**               |Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
+|**Length**                    |Genesis: 3m<br>Genesis XL: 4.5m
 |**Quantity**                  |1
-|**Price**                     |3m: $20.00<br>4.5m: $30.00<br>10.5m: $70.00
+|**Price**                     |3m: $20.00<br>4.5m: $30.00
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |See [Power Supply](#power-supply)
+|**Internal Part Name**        |`Power Supply Cable - 3m Rev B`<br>`Power Supply Cable - 4.5m Rev B`
 |**Vendor**                    |
-|**$/pc**                      |See [Power Supply](#power-supply)
+|**$/pc**                      |3m: $3.60<br>4.5m: $5.60
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -615,13 +624,6 @@ These waterproof push buttons come pre-mounted on the top of the electronics box
 # Raspberry Pi 3
 
 This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection.
-
-{%
-include callout.html
-type="info"
-title="Model may vary"
-content="v1.5 kits shipped before November 1st, 2020 included the Raspberry Pi model **3B**, while v1.5 kits shipped after November 1st, 2020 included model **3B+**."
-%}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -768,27 +770,29 @@ This cable connects the solenoid valve to the Farmduino.
 
 # Universal Tool Mount Cable
 
-This 12-wire cable connects the Farmduino to the UTM. It provides Ground, 5V, digital and analog I/O, and can be configured at the Farmduino to provide I2C, PWM, and more. It features connectors on both ends for easy connection to both the UTM and Farmduino, as well as a rubber shroud to protect the inside of the UTM from the elements.
+This 12-wire shielded cable connects the Farmduino to the UTM. It comes in two pieces, a Y-axis section and a Z-axis section that connect with a 90-degree screw-together waterproof connection at the cross-slide. It provides Ground, 5V, 24V, digital and analog I/O, with a pin mapping that can be configured at the Farmduino to support custom tools. It features connectors on both ends for easy connection to both the UTM and Farmduino, as well as a rubber shroud to protect the inside of the UTM from the elements.
 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Number of Wires**           |12
 |**Wire Colors**               |All different
-|**Shielded?**                 |No
-|**Wire Gauge**                |20
-|**Length**                    |Genesis: 4m<br>Genesis XL and MAX: 5.5m
-|**Outer Diameter**            |9.5mm
+|**Shielded?**                 |Yes
+|**Wire Gauge**                |24
+|**Lengths**                   |**Genesis**<br>Y-axis section: 2.6m<br>Z-axis section: 1.0m<br><br>**Genesis XL**<br>Y-axis section: 4.1m<br>Z-axis section: 1.0m
+|**Outer Diameter**            |7mm
 |**Outer Color**               |Black
-|**Shroud?**                   |Included
-|**Shroud Material**           |Black silicone rubber
-|**Price**                     |4m - $40.00<br>5.5m - $50.00
+|**Shroud**                    |Included black silicone rubber
+|**Farmduino connector**       |Black 12-pin connector ([Molex Part 430251200](https://www.molex.com/molex/products/part-detail/crimp_housings/0430251200))
+|**Intermediate connectors**   |12-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+|**UTM connectors**            |2x3 2.54mm pitch plug (yellow shrinkwrap)<br>2x4 2.54mm pitch plug (black shrinkwrap)
+|**Price**                     |Genesis - $50.00<br>Genesis XL - $60.00
 |**Quantity**                  |1
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |Genesis: `UTM Cable (4m) with Shroud`<br>Genesis XL: `UTM Cable (5.5m) with Shroud`
+|**Internal Part Name**        |**Genesis**<br>`UTM Cable Y-Axis Section - 2.6m (Genesis) Rev A`<br>`UTM Cable Z-Axis Section with Shroud - 1.0m Rev A`<br><br>**Genesis XL**<br>`UTM Cable Y-Axis Section - 4.1m (Genesis XL) Rev A`<br>`UTM Cable Z-Axis Section with Shroug - 1.0m Rev A`
 |**Vendor**                    |
-|**$/pc**                      |4m (Genesis) - $9.90<br> 5.5m (Genesis XL) - $12.90
+|**$/pc**                      |Y-Axis Section - 2.6m (Genesis) - $6.00<br>Y-Axis Section - 4.1m (Genesis XL) - $8.00<br>Z-Axis Section - 1.0m (Genesis and Genesis XL) - $5.00
 |**Component Tests**           |
 |**Notes**                     |
 {:.internal}
@@ -861,16 +865,16 @@ This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a 
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Wire Type**                 |18 AWG stranded copper, 2 core
+|**Wire Type**                 |18 AWG stranded copper, 3 core
 |**Shielded?**                 |Yes
 |**Lengths**                   |**Genesis**<br>Y-axis section: 2.6m<br>Z-axis section: 1.0m<br><br>**Genesis XL**<br>Y-axis section: 4.1m<br>Z-axis section: 1.0m
 |**Rated Voltage**             |300V
 |**Inner Colors**              |Red and black
 |**Outer Color**               |Black
 |**Heat Shrink Color**         |Gray
-|**Farmduino connector**       |Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-|**Intermediate connectors**   |2-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
-|**Vacuum pump connectors**    |Two 3/16" female insulated quick-connect terminals
+|**Farmduino connector**       |Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
+|**Intermediate connectors**   |3-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+|**Vacuum pump connectors**    |Three 3/16" female insulated quick-connect terminals
 |**Price**                     |Genesis - $20.00<br>Genesis XL - $25.00
 |**Quantity**                  |1
 
