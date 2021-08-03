@@ -21,7 +21,7 @@ If the needle is too large, then the seeds may accidentally get sucked fully int
 
 # 3. Check that the vacuum pump tube is connected to the inlet of the vacuum pump
 
-The vacuum pump has an inlet port that sucks air in and an outlet port that blows air out. The ports are denoted by arrows embossed into the black plastic of the vacuum pump. Double check that the vacuum pump tube running between the 3-in-1 tool head and the pump is connected to the **inlet port** of the pump.
+The vacuum pump has an inlet port that sucks air in and an outlet port that blows air out. The ports are denoted by arrows embossed into the black plastic of the vacuum pump. Double check that the vacuum pump tube running between the UTM and the pump is connected to the **inlet port** of the pump.
 
 ![vacuum pump inlet](_images/vacuum_pump_inlet.jpg)
 
