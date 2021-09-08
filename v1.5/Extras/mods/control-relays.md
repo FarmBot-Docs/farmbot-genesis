@@ -15,7 +15,7 @@ We recommend purchasing a 110V relay such as the [Tails PowerSwitch 2](https://w
 
 ![110v relay switch](_images/110v_relay_switch.jpg)
 
-You can then control the peripheral from sequences with the [write pin command](https://software.farm.bot/docs/sequences#sequence-commands-aka-steps) or by adding it to the [peripherals widget](https://software.farm.bot/docs/controls#peripherals).
+You can then control the peripheral from sequences with the [control peripheral command](https://software.farm.bot/docs/peripherals-and-sensors-sequence-commands) or by adding it to the [peripherals widget](https://software.farm.bot/docs/controls#peripherals).
 
 {%
 include callout.html
