@@ -32,6 +32,7 @@ algolia:
   max_record_size: 20000
   files_to_exclude:
     - index.md
+    - /**/manufacturing/**/*
     - v0.1/**/*
     - v0.2/**/*
     - v0.3/**/*
