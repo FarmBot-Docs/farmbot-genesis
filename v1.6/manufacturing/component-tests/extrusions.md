@@ -33,9 +33,9 @@ Components subject to **extrusion tests**:
 
 # Function
 
-|Test         |Description  |Target       |Tolerance    |
-|-------------|-------------|-------------|-------------|
-|Drop-In Tee Nut|Assembly a drop-in tee nut, M5 screw, and horizontal cable carrier support. Fasten the parts straight to an extrusion face and slot (without sliding the tee nut in from the end of the extrusion).|The parts should fasten securely to the extrusion.|N/A
-|Nut Bar      |Assembly a nut bar, M5 screw, and horizontal cable carrier support. Slide the parts into the slot from the end of the extrusion and tighten.|The parts should fasten securely to the extrusion.|N/A
-|V-Wheel      |Slide an assembled gantry wheel plate and an assembled cross-slide onto an extrusion and adjust the eccentric spacers.|The subassemblies should glide smoothly along the full length of the extrusion.|N/A
+|Test           |Description  |Target       |Tolerance    |
+|---------------|-------------|-------------|-------------|
+|Drop-In Tee Nut|Assemble a drop-in tee nut, M5 screw, and horizontal cable carrier support. Fasten the parts straight to an extrusion face and slot (without sliding the tee nut in from the end of the extrusion).|The parts should fasten securely to the extrusion.|N/A
+|Nut Bar        |Assemble a nut bar, M5 screw, and horizontal cable carrier support. Slide the parts into the slot from the end of the extrusion and tighten.|The parts should fasten securely to the extrusion.|N/A
+|V-Wheel        |Slide an assembled gantry wheel plate and an assembled cross-slide onto an extrusion and adjust the eccentric spacers.|The subassemblies should glide smoothly along the full length of the extrusion.|N/A
 
