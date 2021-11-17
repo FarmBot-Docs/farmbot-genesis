@@ -34,7 +34,7 @@ Components subject to **plastic part tests**: All parts listed [here](../../extr
 |M3 screws    |Insert M3 screws into M3 holes to ensure fit.|Screws should be insertable without interference.|N/A
 |M5 screws    |Insert M5 screws into M5 holes to ensure fit.|Screws should be insertable without interference.|N/A
 |Nut bars     |Fasten nut bars of appropriate lengths between holes according to FarmBot system design.|Nut bars should be fastenable without screw/hole interference.|N/A
-|Extrusion slots|Fasten part to an extrusion according to FarmBot system design.|Part should mate with extrusion slot as intended.|N/A
-|Cable carrier|Fasten cable carrier end pieces to cable carrier supports.|End pieces should fasten flush to mounting surface and have adequate clearance on sides.|N/A
-|Vacuum pump  |Fasten together the vacuum pump, vacuum pump mount, vacuum pump housing, and the z-axis extrusion according to the FarmBot system design.|The vacuum pump and mount should fit inside the housing without interference.|N/A
+|Extrusion fit|Fasten part to an extrusion according to FarmBot system design.|Part should mate with extrusion slot as intended.|N/A
+|Cable carrier fit|Fasten cable carrier end pieces to cable carrier supports.|End pieces should fasten flush to mounting surface and have adequate clearance on sides.|N/A
+|Vacuum pump fit|Fasten together the vacuum pump, vacuum pump mount, vacuum pump housing, and the z-axis extrusion according to the FarmBot system design.|The vacuum pump and mount should fit inside the housing without interference.|N/A
 

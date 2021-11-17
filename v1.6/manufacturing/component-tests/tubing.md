@@ -86,12 +86,12 @@ Each component in the tubing category has its own unique tests.
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Outer diameter (guage)|Measure the out diameter using digital calipers.|1.65mm (16 guage)<br>1.07mm (19 guage)<br>0.71mm (22 guage)|+/- .05mm
+|Outer diameter|Measure the outer diameter using digital calipers.|1.65mm (16 guage)<br>1.07mm (19 guage)<br>0.71mm (22 guage)|+/- .05mm
 |Length       |Measure the length using digital calipers.|40mm|+/- 1mm
 |Material     |Ensure the needle is stainless steel and will not rust by holding a magnet to the part.|Stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
 |Color        |Inspect the color of each needle's plastic luer lock connector.|The color should be different depending on the needle size.|N/A
 |Luer lock    |Connect a needle to a luer lock adapter.|Should connect securely with a 1/4 turn|N/A
-|Covers?      |Ensure the needles have covers.|Included cover|N/A
+|Covers      |Ensure the needles have covers.|Included cover|N/A
 
 # Rubber Gasket
 

@@ -24,7 +24,7 @@ Genesis is available in three sizes: **Genesis**, **Genesis XL**, and **Genesis 
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|
 |Genesis                       |1.5m                          |3m                            |4.5m<sup>2</sup>              |0.5m
 |Genesis XL                    |3m                            |6m                            |18m<sup>2</sup>               |0.5m
-|Genesis MAX<br>([cancelled](https://farm.bot/blogs/news/putting-farmbot-genesis-max-and-express-max-on-hold))|3m                            |18m                           |54m<sup>2</sup>               |0.5m
+|Genesis MAX<br>([on hold](https://farm.bot/blogs/news/putting-farmbot-genesis-max-and-express-max-on-hold))|3m                            |18m                           |54m<sup>2</sup>               |0.5m
 
 
 

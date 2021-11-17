@@ -10,12 +10,15 @@ Each component in the drivetrain category has its own unique tests.
 
 # V-wheel
 
-|Test         |Description  |Target       |Tolerance    |
-|-------------|-------------|-------------|-------------|
+|Test          |Description  |Target       |Tolerance    |
+|--------------|-------------|-------------|-------------|
 |Outer diameter|Measure the outer diameter of the v-wheel with digital calipers.|23.89mm|+/- 0.1mm
-|Inner diameter|Measure the inner diameter of the v-wheel (where the bearings will sit) with digital calipers.|15.974|+/- 0.05mm
-|Width        |Measure the width of the v-wheel with digital calipers.|10.23mm|+/- 0.1mm
-|Smoothness   |Inspect the wheel to ensure there are no eroneous grooves, cuts, or knicks|No blemishes|N/A
+|Inner diameter|Measure the inner diameter of the v-wheel (where the bearings will sit) with digital calipers.|15.974mm|+/- 0.05mm
+|Bearing fit   |Assemble a V-wheel, two bearings, and an M5 precision shim.|Assembly should fit together snug without play.|N/A
+|Width         |Measure the width of the v-wheel with digital calipers.|10.23mm|+/- 0.1mm
+|V-angle       |Using a digital protractor, measure the angle that the two V-sides of the wheel create.|90 degrees|+/- 2 degrees
+|Extrusion fit |Roll a V-wheel along an extrusion.|The wheel should fit properly in the V-slot of the extrusion.|N/A
+|Smoothness    |Inspect the wheel to ensure there are no eroneous grooves, cuts, or knicks|No blemishes|N/A
 
 # GT2 Timing Belt
 
@@ -23,9 +26,12 @@ Each component in the drivetrain category has its own unique tests.
 |-------------|-------------|-------------|-------------|
 |Length       |Measure the length of the belt using a measuring tape.|See BOM spec.|+/- 1cm
 |Width        |Measure the width of the belt using digital calipers.|5mm|+/- 0.25mm
+|Extrusion fit|Lay the belt into the V-slot of an extrusion.|The belt should pass through the narrowest section and lay flat in the bottom of the slot.|N/A
 |Pitch        |Measure the distance between one tooth and another one 50 teeth away using digital calipers, then divide by 50.|2mm|+/- 0.02mm (1%)
+|Pulley fit   |Engage the belt to a GT2 pulley.|The belt should fully engage with the pulley's teeth.|N/A
 |Thickness    |Measure the thickness of the belt using digital calipers.|0.75mm|+/- 0.05mm
-|Stretchiness |Tie a belt to a fixture 1.5m or more off the ground. Mark the belt just below the knot and then add a second mark exactly 1000mm below the first. Hang a 10kg weight from the belt (below the 1000mm mark) and measure the distance between the two marks.|1000m|+ 10mm (1%)
+|Belt sleeve fit|Assemble the belt to a belt clip and secure with a belt sleeve.|The belt sleeve should fit snugly over the two belt sections and provide adequate holding force.|N/A
+|Stretch      |Tie a belt to a fixture 1.5m or more off the ground. Mark the belt just below the knot and then add a second mark exactly 1000mm below the first. Hang a 10kg weight from the belt (below the 1000mm mark) and measure the distance between the two marks.|1000m|+ 10mm (1%)
 |Strength     |Use a tensile testing machine to measure the equivalent hung weight at which the belt will break.|100kg|- 20kg
 |Color        |Inspect the belt for any discoloration or markings|Black, no markings.|N/A
 
@@ -39,6 +45,7 @@ Each component in the drivetrain category has its own unique tests.
 |Overall length|Measure the overall length using digital calipers.|14mm|+/- 0.5mm
 |Outer Diameter|Measure using digital calipers.|15mm|+/- 0.5mm
 |Hole diameter|Measure the diameter of the motor shaft hole using digital calipers.|5mm|+ 0.05mm
+|Motor shaft fit|Assemble the pulley to a NEMA 17 motor shaft and tighten the setscrews.|Pulley should fit snug and concentrically.|N/A
 |Number of setscrews|Count the number of setscrews.|2|N/A
 |Setscrew drive size|Use a hex driver to validate the drive size of the setscrews.|2mm|N/A
 |Material     |Ensure the material is aluminum and stainless steel and will not rust by holding a magnet to the part.|Aluminum and stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
@@ -49,6 +56,7 @@ Each component in the drivetrain category has its own unique tests.
 |-------------|-------------|-------------|-------------|
 |Inner width  |Measure using digital calipers.|7.5mm|+/- 0.1mm
 |Inner height |Measure using digital calipers.|2.15mm|+/- 0.05mm
+|Belt fit     |Assemble the belt sleeve with a belt and belt clip.|The belt sleeve should fit snugly over the two belt sections and provide adequate holding force.|N/A
 |Outer width  |Measure using digital calipers.|10mm|+/- 0.2mm
 |Outer height |Measure using digital calipers.|5mm|+/- 0.2mm
 |Length       |Measure using digital calipers.|10mm|+/- 0.5mm
@@ -62,12 +70,12 @@ Each component in the drivetrain category has its own unique tests.
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
 |Inner diameters|Measure using digital calipers.|5mm and 8mm|+/- 0.05mm
+|Motor shaft fit|Connect the coupling to a motor shaft.|The coupling should be easy to connect and resist pulling off by hand once tightened.|N/A
+|Leadscrew fit|Connect the coupling to a leadscrew.|The coupling should be easy to connect and resist pulling off by hand once tightened.|N/A
 |Outer diameter|Measure using digital calipers.|18mm|+/- 0.5mm
 |Length       |Measure using digital calipers.|25mm|+/- 0.5mm
 |Setscrew drive size|Use a hex driver to validate the drive size of the setscrews.|2mm|N/A
 |Material     |Ensure the material is aluminum or stainless steel and will not rust by holding a magnet to the part.|Aluminum and stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
-|Fits motor shaft|Connect the coupling to a motor shaft.|The coupling should be easy to connect and resist pulling off by hand once tightened.|N/A
-|Fits leadscrew|Connect the coupling to a leadscrew.|The coupling should be easy to connect and resist pulling off by hand once tightened.|N/A
 
 # Leadscrew
 
