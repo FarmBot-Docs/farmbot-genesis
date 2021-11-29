@@ -1,7 +1,7 @@
 ---
 title: "Pier Block Supports"
 slug: "pier-block-supports"
-description: "Step-by-step instructions for setting up pier block supports for FarmBot Genesis, Genesis XL, or Genesis MAX"
+description: "Step-by-step instructions for setting up pier block supports for FarmBot Genesis or Genesis XL"
 ---
 
 * toc

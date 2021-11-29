@@ -43,7 +43,7 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |[Power Cord Protector](../../extras/bom/electronics-and-wiring.md#power-cord-protector)|None|1|1
 |[NPT to Barb Adapter](../../extras/bom/tubing.md#npt-to-barb-adapter)|None|2|2
 |[Garden Hose to Barb Adapter](../../extras/bom/tubing.md#garden-hose-to-barb-adapter)|None|1|1
-|[Pressure Regulator](../../extras/bom/tubing.md#pressure-regulator)None|1|1
+|[Pressure Regulator](../../extras/bom/tubing.md#pressure-regulator)|None|1|1
 |Getting Started Guide / Camera Calibration Card|None|1|1
 |Crop Stickers|None|1|1
 

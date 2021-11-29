@@ -10,21 +10,21 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 
 # Cable carrier reference
 
-|Axis                          |Genesis                       |Genesis XL                    |Genesis MAX                   |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|X                             |85 links (1700mm)             |160 links (3200mm)            |480 links (9600mm)
-|Y                             |85 links (1700mm)             |160 links (3200mm)            |160 links (3200mm)
-|Z                             |37 links (740mm)              |37 links (740mm)              |37 links (740mm)
+|Axis                          |Genesis                       |Genesis XL                    |
+|------------------------------|------------------------------|------------------------------|
+|X                             |85 links (1700mm)             |160 links (3200mm)
+|Y                             |85 links (1700mm)             |160 links (3200mm)
+|Z                             |37 links (740mm)              |37 links (740mm)
 
 # Motor and encoder cable reference
 
-|Axis                          |Genesis                       |Genesis XL                    |Genesis MAX                   |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|X1                            |0.95m                         |0.95m                         |0.95m
-|X2                            |2.6m                          |4.1m                          |4.1m
-|Y                             |3.1m                          |4.6m                          |4.6m
-|Z (Y-axis section)            |2.6m                          |4.1m                          |4.1m
-|Z (Z-axis section)            |1.8m                          |1.8m                          |1.8m
+|Axis                          |Genesis                       |Genesis XL                    |
+|------------------------------|------------------------------|------------------------------|
+|X1                            |0.95m                         |0.95m
+|X2                            |2.6m                          |4.1m
+|Y                             |3.1m                          |4.6m
+|Z (Y-axis section)            |2.6m                          |4.1m
+|Z (Z-axis section)            |1.8m                          |1.8m
 
 {%
 include callout.html

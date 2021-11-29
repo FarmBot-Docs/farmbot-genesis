@@ -18,6 +18,7 @@ Components subject to **fasteners and hardware tests**: All parts listed [here](
 |Head diameter|Measure the diameter of screw heads with digital calipers.|See BOM spec.|+/- 0.2mm
 |Head height  |Measure the height of screw heads with digital calipers.|See BOM spec.|+/- 0.2mm
 |Nut height   |Measure the height of nuts with digital calipers|See BOM spec.|+/- 0.2mm
+|Flange diameter|Measure the diameter of locknut flanges with digital calipers.|See BOM spec.|+/- 0.2mm
 
 # Material and appearance
 

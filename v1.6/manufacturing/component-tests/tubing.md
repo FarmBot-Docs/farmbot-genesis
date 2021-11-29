@@ -12,7 +12,8 @@ Each component in the tubing category has its own unique tests.
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Diameters    |Measure the inner and outer diameters with digital calipers.|6mm and 9mm|+/- 0.2mm
+|ID           |Measure the inner diameter with digital calipers.|6mm|+/- 0.1mm
+|OD           |Measure the outer diameter with digital calipers.|10mm|+/- 0.25mm
 |Length       |Measure the length with a tape measure.|See BOM spec.|+/- 10mm
 |Flexibility  |Inspect for flexibility.|Tubing should be very flexible|N/A
 |Kink resistance|Bend the tube into a 10cm diameter circle.|The tube should not kink|N/A
@@ -31,7 +32,7 @@ Each component in the tubing category has its own unique tests.
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
 |Barb size    |Connect a 6mm ID tube to both ends of the air filter.|Tube should fit snugly onto the barbs and not fall off.|N/A
-|Airflow      |Connect the filter inline to a vacuum pump and UTM. Turn on the pump and mount a seed injector tool to the UTM.|The vacuum should provide enough suction even with the inline filter installed to pick up seeds.|N/A# Inline Air Filter
+|Airflow      |Connect the filter inline to a vacuum pump and UTM. Turn on the pump and mount a seed injector tool to the UTM.|The vacuum should provide enough suction even with the inline filter installed to pick up seeds.|N/A
 
 # 90 Degree Barb
 
@@ -91,7 +92,7 @@ Each component in the tubing category has its own unique tests.
 |Material     |Ensure the needle is stainless steel and will not rust by holding a magnet to the part.|Stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
 |Color        |Inspect the color of each needle's plastic luer lock connector.|The color should be different depending on the needle size.|N/A
 |Luer lock    |Connect a needle to a luer lock adapter.|Should connect securely with a 1/4 turn|N/A
-|Covers      |Ensure the needles have covers.|Included cover|N/A
+|Covers       |Ensure the needles have covers.|Included cover|N/A
 
 # Rubber Gasket
 

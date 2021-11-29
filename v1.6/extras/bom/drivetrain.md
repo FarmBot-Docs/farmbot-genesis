@@ -54,13 +54,13 @@ These polycarbonate V-wheels are precision machined to allow FarmBot to move in 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Neoprene with fiberglass cords
-|**Lengths**                   |**Genesis**: 1.7m, 4.5m<br>**Genesis XL**: 3.2m, 7.5m<br>**Genesis MAX**: 3.2m, 19.5m
+|**Lengths**                   |**Genesis**: 1.7m, 4.5m<br>**Genesis XL**: 3.2m, 7.5m
 |**Width**                     |5mm
 |**Thickness**                 |0.75mm
 |**Pitch**                     |GT2 (2mm)
 |**Color**                     |Black (no markings)
 |**Price**                     |1.7m - $20.00<br>3.2m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
-|**Quantity**                  |**Genesis**<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2<br><br>**Genesis MAX**<br>3.5m - 1<br>19.5m - 2
+|**Quantity**                  |**Genesis**<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -133,7 +133,7 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 |------------------------------|------------------------------|
 |**Material**                  |Aluminum
 |**Length**                    |25mm
-|**Outer Diameter**            |18mm
+|**Outer Diameter**            |20mm
 |**Inner Diameters**           |5mm and 8mm
 |**Screws**                    |Stainless steel with 2mm hex drive
 |**Price**                     |$6.00
@@ -141,11 +141,11 @@ This aluminum coupling connects the Z-axis stepper motor to the leadscrew to all
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |`5mm to 8mm Shaft Coupler w/ SS Setscrews w/ 2mm drive`
+|**Internal Part Name**        |`5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive`
 |**Vendor**                    |
 |**$/pc**                      |$1.60
 |**Component Tests**           |
-|**Notes**                     |`v1.5 Production Run 2`: screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoide adding extra hex key.
+|**Notes**                     |`v1.5 Production Run 2` and `v1.6 Production Run 1`: screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoide adding extra hex key.
 {:.internal}
 
 {% include gallery.html images="

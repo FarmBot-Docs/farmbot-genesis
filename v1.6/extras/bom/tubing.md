@@ -31,12 +31,12 @@ These ultra flexible silicone tubes carry water to the UTM.
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Lengths**                   |**Genesis**<br>3m, 2.1m, and 0.95m<br><br>**Genesis XL**<br>4.5m, 3.6m, and 0.95m<br><br>**Genesis MAX**<br>10.5m, 3.6m, and 0.95m
+|**Lengths**                   |**Genesis**<br>3m, 2.1m, and 0.95m<br><br>**Genesis XL**<br>4.5m, 3.6m, and 0.95m
 |**Material**                  |Semi-clear silicone
 |**Flexibility**               |Very flexible
 |**Compatible Tube Fittings**  |Barbs
 |**Inner Diameter**            |6mm
-|**Outer Diameter**            |9mm
+|**Outer Diameter**            |10mm
 |**Price**                     |$5.00 - 0.95m<br>$8.00 - 2.1m<br>$10.00 - 3m<br>$12.00 - 3.6m<br>$15.00 - 4.5m<br>$35.00 - 10.5m
 |**Quantity**                  |One of each length
 
@@ -65,7 +65,7 @@ These ultra flexible silicone tubes carry vacuum suction from the vacuum pump to
 |**Flexibility**               |Very flexible
 |**Compatible Tube Fittings**  |Barbs
 |**Inner Diameter**            |6mm
-|**Outer Diameter**            |9mm
+|**Outer Diameter**            |10mm
 |**Price**                     |$1.00
 |**Quantity**                  |2
 
@@ -333,7 +333,7 @@ These needles are used for seed injection.
 |**Material**                  |Stainless steel and plastic
 |**Gauges**                    |16, 19, and 22
 |**Length**                    |40mm
-|**Covers?**                   |Included
+|**Covers**                   |Included
 |**Interface**                 |1/4 turn luer lock
 |**Price**                     |$3.00
 |**Quantity**                  |3 of each gauge

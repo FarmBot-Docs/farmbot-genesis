@@ -14,6 +14,8 @@ Each component in the drivetrain category has its own unique tests.
 |--------------|-------------|-------------|-------------|
 |Outer diameter|Measure the outer diameter of the v-wheel with digital calipers.|23.89mm|+/- 0.1mm
 |Inner diameter|Measure the inner diameter of the v-wheel (where the bearings will sit) with digital calipers.|15.974mm|+/- 0.05mm
+|Bearing material|Ensure the material is stainless steel and will not rust by holding a magnet to the bearing.|Stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
+|Bearing trade size|Inspect the bearing's trade size|`S625RS` or `SS-625-2RS`|N/A
 |Bearing fit   |Assemble a V-wheel, two bearings, and an M5 precision shim.|Assembly should fit together snug without play.|N/A
 |Width         |Measure the width of the v-wheel with digital calipers.|10.23mm|+/- 0.1mm
 |V-angle       |Using a digital protractor, measure the angle that the two V-sides of the wheel create.|90 degrees|+/- 2 degrees
@@ -74,7 +76,7 @@ Each component in the drivetrain category has its own unique tests.
 |Leadscrew fit|Connect the coupling to a leadscrew.|The coupling should be easy to connect and resist pulling off by hand once tightened.|N/A
 |Outer diameter|Measure using digital calipers.|18mm|+/- 0.5mm
 |Length       |Measure using digital calipers.|25mm|+/- 0.5mm
-|Setscrew drive size|Use a hex driver to validate the drive size of the setscrews.|2mm|N/A
+|Screw drive size|Use a hex driver to validate the drive size of the screws.|2mm|N/A
 |Material     |Ensure the material is aluminum or stainless steel and will not rust by holding a magnet to the part.|Aluminum and stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
 
 # Leadscrew

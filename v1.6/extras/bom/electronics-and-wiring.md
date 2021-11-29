@@ -206,7 +206,7 @@ The source code for the STM32 firmware for tracking encoder signals is available
 |**Microcontrollers**          |ATmega2560<br>STM32
 |**Stepper Drivers**           |Trinamic TMC2130
 |**Input Voltage**             |24V
-|**Fuse**                      |15 amp blade fuse
+|**Fuse**                      |7.5 amp blade fuse
 |**Power Receptacle**          |Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
 |**Peripheral Receptacle**<br>(Vaccum)|Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
 |**Peripheral Receptacles**<br>(Water, Lighting, and Peripherals 4 and 5)|Black 2-pin receptacle ([Molex Part 151048-1206](https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206))
@@ -779,7 +779,7 @@ This 12-wire shielded cable connects the Farmduino to the UTM. It comes in two p
 |**Shielded?**                 |Yes
 |**Wire Gauge**                |24
 |**Lengths**                   |**Genesis**<br>Y-axis section: 2.6m<br>Z-axis section: 1.0m<br><br>**Genesis XL**<br>Y-axis section: 4.1m<br>Z-axis section: 1.0m
-|**Outer Diameter**            |7mm
+|**Outer Diameter**            |8mm
 |**Outer Color**               |Black
 |**Shroud**                    |Included black silicone rubber
 |**Farmduino connector**       |Black 12-pin connector ([Molex Part 430251200](https://www.molex.com/molex/products/part-detail/crimp_housings/0430251200))
@@ -903,7 +903,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Black Nylon PA66
-|**Lengths**                   |**Genesis**<br>X-Axis - 1.7m (85 links + end pieces)<br>Y-Axis - 1.7m (85 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)<br><br>**Genesis XL**<br>X-Axis - 3.2m (160 links + end pieces)<br>Y-Axis - 3.2m (160 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)<br><br>**Genesis MAX**<br>X-Axis - 9.2m (460 links + end pieces)<br>Y-Axis - 3.2m (160 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)
+|**Lengths**                   |**Genesis**<br>X-Axis - 1.7m (85 links + end pieces)<br>Y-Axis - 1.7m (85 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)<br><br>**Genesis XL**<br>X-Axis - 3.2m (160 links + end pieces)<br>Y-Axis - 3.2m (160 links + end pieces)<br>Z-Axis - 0.74m (37 links + end pieces)
 |**Inside Height**             |15mm
 |**Inside Width**              |X-Axis - 20mm<br>Y-Axis - 50mm<br>Z-Axis - 50mm
 |**Outside Height**            |20mm
@@ -911,7 +911,7 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 |**Pitch**                     |20mm
 |**Bending Radius**            |28mm
 |**End Piece Configuration**   |X-Axis - `X configuration` (see image below)<br>Y-Axis - `Y configuration` (see image below)<br>Z-Axis - `Z configuration` (see image below)
-|**Price**                     |**Genesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00<br><br>**Genesis MAX**<br>X-Axis - $200.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
+|**Price**                     |**Genesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
 |**Quantity**                  |1 for each axis
 
 |                              |                              |
@@ -920,8 +920,15 @@ These hollow plastic chains are used throughout FarmBot to manage cables and tub
 |**Vendor**                    |JFLO
 |**Vendor Part Number**        |**Genesis and Genesis XL**<br>X-Axis - `J15BF.1.20N R28`<br>Y-Axis - `J15BF.1.50N R28`<br>Z-Axis - `J15BF.1.50N R28`
 |**$/pc**                      |**Genesis**<br>X-Axis - $11.20<br>Y-Axis - $13.10<br>Z-Axis - $5.90<br><br>**Genesis XL**<br>X-Axis - $19.90<br>Y-Axis - $24.50<br>Z-Axis - $5.90
-|**Component Tests**           |
-|**Notes**                     |
+{:.internal}
+
+|Test         |Description  |Target       |Tolerance    |
+|-------------|-------------|-------------|-------------|
+|Size         |Inspect the size marking embossed into the plastic.|See BOM spec|N/A
+|Length       |Measure the length of the cable carrier using a measuring tape.|See BOM spec|0
+|End pieces   |Inspect the orientation of the end pieces.|Oriented according to FarmBot system design|N/A
+|Mount fit    |Connect the end pieces to the appropriate cable carrier mounts/supports using the appropriate hardware.|Should fit as expected|N/A
+|Contents fit |Inert all cables and tubing into each cable carrier according to FarmBot system design.|Should fit as expected|N/A
 {:.internal}
 
 {% include gallery.html images="
