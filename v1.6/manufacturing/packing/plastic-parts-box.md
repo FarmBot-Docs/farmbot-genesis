@@ -23,7 +23,7 @@ There are two versions of the plastic parts box: one for **Genesis** kits and on
 |[Vacuum Pump Mount](../../extras/bom/plastic-parts/vacuum-pump.md#vacuum-pump-mount)|None                          |1                             |1
 |[Solenoid Valve Mount](../../extras/bom/plastic-parts/solenoid-valve-mount.md#solenoid-valve-mount)|None                          |1                             |1
 |[Seeder](../../extras/bom/plastic-parts/seeder.md#seeder)|None                          |1                             |1
-|[Watering Nozzle Top](../../extras/bom/plastic-parts/watering-nozzle.md#watering-nozzle) and [Watering Nozzle Bottom](../../extras/bom/plastic-parts/watering-nozzle.md#watering-nozzle)|Bottom should be inserted into top. No other sub-packing.|1 set                         |1 set
+|[Watering Nozzle Top](../../extras/bom/plastic-parts/watering-nozzle.md#watering-nozzle-top) and [Watering Nozzle Bottom](../../extras/bom/plastic-parts/watering-nozzle.md#watering-nozzle-bottom)|Bottom should be inserted into top. No other sub-packing.|1 set                         |1 set
 |[Weeder](../../extras/bom/plastic-parts/weeder.md#weeder)|None                          |1                             |1
 |Pack of:<br>- 4x [Wide Weeder Blades](../../extras/bom/plastic-parts/weeder.md#weeder-blades)<br>- 4x [Medium Weeder Blades](../../extras/bom/plastic-parts/weeder.md#weeder-blades)<br>- 4x [Narrow Weeder Blades](../../extras/bom/plastic-parts/weeder.md#weeder-blades)|Press-to-seal bag             |1 pack                        |1 pack
 |[Soil Sensor](../../extras/bom/plastic-parts/soil-sensor.md#soil-sensor)|None                          |1                             |1
