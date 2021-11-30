@@ -103,13 +103,6 @@ This modular 3-wire cable connects the power supply to the Farmduino. It feature
 
 # Power Cord Protector
 
-{%
-include callout.html
-type="info"
-title="Size and appearance may vary"
-content="v1.5 kits shipped before November 1st, 2020 included a power cord protector from one manufacturer while kits shipped after November 1st, 2020 inclde a power cord protector from a different manufacturer."
-%}
-
 {% include gallery.html images="
 ![Power Cord Protector](_images/power_cord_protector_1.jpg)
 ![Power Cord Protector](_images/power_cord_protector_2.jpg)
