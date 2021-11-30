@@ -7,6 +7,8 @@ description: "Tech specs for the cable carrier in FarmBot Genesis. Visit [our sh
 * toc
 {:toc}
 
+# Cable Carrier
+
 These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes.
 
 ![Cable Carrier](_images/cable_carrier.jpg)

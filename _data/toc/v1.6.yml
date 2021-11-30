@@ -116,10 +116,40 @@ contents:
             url: extrusions
           - title: Plates and Brackets
             url: plates-and-brackets
+            pages:
+              - title: Belt Clips
+                url: belt-clips
+              - title: Cable Carrier Mounts
+                url: cable-carrier-mounts
+              - title: Cross-Slide
+                url: cross-slide
+              - title: Gantry
+                url: gantry
+              - title: Toolbays
+                url: toolbays
+              - title: Track Plates
+                url: track-plates
+              - title: Z-Axis
+                url: z-axis
           - title: Plastic Parts
             url: plastic-parts
           - title: Fasteners and Hardware
             url: fasteners-and-hardware
+            pages:
+              - title: Assembly Tools
+                url: assembly-tools
+              - title: Locknuts
+                url: locknuts
+              - title: Magnets
+                url: magnets
+              - title: Nut Bars
+                url: nut-bars
+              - title: Screws
+                url: screws
+              - title: Spacers
+                url: spacers
+              - title: Zip Ties
+                url: zip-ties
           - title: Drivetrain
             url: drivetrain
           - title: Electronics and Wiring
@@ -207,23 +237,6 @@ contents:
     url: manufacturing
     top: true
     pages:
-      - title: Component Tests
-        url: component-tests
-        pages:
-          - title: Extrusions
-            url: extrusions
-          - title: Plates and Brackets
-            url: plates-and-brackets
-          - title: Plastic Parts
-            url: plastic-parts
-          - title: Fasteners and Hardware
-            url: fasteners-and-hardware
-          - title: Drivetrain
-            url: drivetrain
-          - title: Electronics and Wiring
-            url: electronics-and-wiring
-          - title: Tubing
-            url: tubing
       - title: Pre-Assembly
         url: pre-assembly
         pages:
