@@ -133,6 +133,29 @@ contents:
                 url: z-axis
           - title: Plastic Parts
             url: plastic-parts
+            pages:
+              - title: Cable Carrier Supports
+                url: cable-carrier-supports
+              - title: Camera Mount
+                url: camera-mount
+              - title: Motor Housings
+                url: motor-housings
+              - title: Seed Containers
+                url: seed-containers
+              - title: Seeder
+                url: seeder
+              - title: Soil Sensor
+                url: soil-sensor
+              - title: Solenoid Valve Mount
+                url: solenoid-valve-mount
+              - title: UTM
+                url: utm
+              - title: Vacuum Pump
+                url: vacuum-pump
+              - title: Watering Nozzle
+                url: watering-nozzle
+              - title: Weeder
+                url: weeder
           - title: Fasteners and Hardware
             url: fasteners-and-hardware
             pages:
