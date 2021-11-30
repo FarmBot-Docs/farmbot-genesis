@@ -237,23 +237,6 @@ contents:
     url: manufacturing
     top: true
     pages:
-      - title: Component Tests
-        url: component-tests
-        pages:
-          - title: Extrusions
-            url: extrusions
-          - title: Plates and Brackets
-            url: plates-and-brackets
-          - title: Plastic Parts
-            url: plastic-parts
-          - title: Fasteners and Hardware
-            url: fasteners-and-hardware
-          - title: Drivetrain
-            url: drivetrain
-          - title: Electronics and Wiring
-            url: electronics-and-wiring
-          - title: Tubing
-            url: tubing
       - title: Pre-Assembly
         url: pre-assembly
         pages:
