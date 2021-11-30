@@ -116,6 +116,21 @@ contents:
             url: extrusions
           - title: Plates and Brackets
             url: plates-and-brackets
+            pages:
+              - title: Belt Clips
+                url: belt-clips
+              - title: Cable Carrier Mounts
+                url: cable-carrier-mounts
+              - title: Cross-Slide
+                url: cross-slide
+              - title: Gantry
+                url: gantry
+              - title: Toolbays
+                url: toolbays
+              - title: Track Plates
+                url: track-plates
+              - title: Z-Axis
+                url: z-axis
           - title: Plastic Parts
             url: plastic-parts
           - title: Fasteners and Hardware

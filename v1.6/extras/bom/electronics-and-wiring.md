@@ -20,7 +20,7 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[Jumper Link](electronics-and-wiring/miscellaneous.md#jumper-link)|$0.25|4|$1.00|4|$1.00|4|$1.00
 |[Jumper Wire](electronics-and-wiring/miscellaneous.md#jumper-wire)|$0.25|12|$3.00|12|$3.00|12|$3.00
 |[LED Indicator](electronics-and-wiring/electronics-box.md#led-indicator)|$5.00|4|$20.00|4|$20.00|4|$20.00
-|[LED Strip](electronics-and-wiring/led-strip.md)|$25.00 to $50.00|1|$25.00|1|$50.00|1|$50.00
+|[LED Strip](electronics-and-wiring/led-strip.md#led-strip)|$25.00 to $50.00|1|$25.00|1|$50.00|1|$50.00
 |[MicroSD Card](electronics-and-wiring/raspberry-pi.md#microsd-card)|$15.00|1|$15.00|1|$15.00|1|$15.00
 |[Motor Cables](electronics-and-wiring/motors.md#motor-cables)|$15.00 to $32.00|4|$80.00|4|$95.00|4|$95.00
 |[NEMA 17 Stepper Motor with Rotary Encoder](electronics-and-wiring/motors.md#nema-17-stepper-motor-with-rotary-encoder)|$60.00|4|$240.00|4|$240.00|4|$240.00
@@ -39,9 +39,9 @@ description: "Tech specs for the electronics and wiring in FarmBot Genesis. Visi
 |[UTM PCB](electronics-and-wiring/utm.md#utm-pcb)|$35.00|1|$35.00|1|$35.00|1|$35.00
 |[Vacuum Pump with EMI Filter](electronics-and-wiring/vacuum-pump.md#vacuum-pump)|$15.00|1|$15.00|1|$15.00|1|$15.00
 |[Vacuum Pump Cable](electronics-and-wiring/vacuum-pump.md#vacuum-pump-cable)|$15.00 to $20.00|1|$15.00|1|$20.00|1|$20.00
-|[X-Axis Cable Carrier](electronics-and-wiring/cable-carrier.md)|$40.00 to $200.00|1|$40.00|1|$70.00|1|$200.00
-|[Y-Axis Cable Carrier](electronics-and-wiring/cable-carrier.md)|$50.00 to $80.00|1|$50.00|1|$80.00|1|$80.00
-|[Z-Axis Cable Carrier](electronics-and-wiring/cable-carrier.md)|$30.00|1|$30.00|1|$30.00|1|$30.00
+|[X-Axis Cable Carrier](electronics-and-wiring/cable-carrier.md#cable-carrier)|$40.00 to $200.00|1|$40.00|1|$70.00|1|$200.00
+|[Y-Axis Cable Carrier](electronics-and-wiring/cable-carrier.md#cable-carrier)|$50.00 to $80.00|1|$50.00|1|$80.00|1|$80.00
+|[Z-Axis Cable Carrier](electronics-and-wiring/cable-carrier.md#cable-carrier)|$30.00|1|$30.00|1|$30.00|1|$30.00
 |**TOTALS**||**68**|**$1,187.00**|**68**|**$1,337.00**|**68**|**$1,467.00**
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/3qtDwTwSx9w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
