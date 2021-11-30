@@ -10,7 +10,7 @@ description: "Add the LED light strip to the Gantry"
 
 # Install the light strip
 
-Feed the [LED light strip](../../extras/bom/electronics-and-wiring/led-strip.md#led-strip) through the horizontal cable carrier supports on the Gantry.
+Feed the [LED light strip](../../extras/bom/electronics-and-wiring/led-strip.md) through the horizontal cable carrier supports on the Gantry.
 
 ![lights](_images/lights.png)
 

@@ -20,7 +20,7 @@ There are two versions of the **cable and tubing box**: one for **Genesis** kits
 |[Vacuum Tubes](../../extras/bom/tubing.md#vacuum-tube)|None|2
 |[Camera](../../extras/bom/electronics-and-wiring/camera.md#camera) and [Camera Cable](../../extras/bom/electronics-and-wiring/camera.md#camera-cable) - 2.6m|Press-to-seal bag|1
 |[Solenoid Valve Cable](../../extras/bom/electronics-and-wiring/solenoid-valve.md#solenoid-valve-cable) - 0.5m|None|1
-|[LED Strip](../../extras/bom/electronics-and-wiring/led-strip.md#led-strip) - 1.5m w/ 0.7m lead|Anti-static bag|1
+|[LED Strip](../../extras/bom/electronics-and-wiring/led-strip.md) - 1.5m w/ 0.7m lead|Anti-static bag|1
 |[UTM Cable](../../extras/bom/electronics-and-wiring/utm.md#utm-cable) - 4m|Twist-tied|1
 |[Power Supply Cable](../../extras/bom/electronics-and-wiring/power-supply.md#power-supply-cable) - 3m|Twist-tied|1
 |[Jumper Wires](../../extras/bom/electronics-and-wiring/miscellaneous.md#jumper-wire)|Twist-tied|8
@@ -37,7 +37,7 @@ There are two versions of the **cable and tubing box**: one for **Genesis** kits
 |[Vacuum Tubes](../../extras/bom/tubing.md#vacuum-tube)|None|2
 |[Camera](../../extras/bom/electronics-and-wiring/camera.md#camera) and [Camera Cable](../../extras/bom/electronics-and-wiring/camera.md#camera-cable) - 4.1m|Press-to-seal bag|1
 |[Solenoid Valve Cable](../../extras/bom/electronics-and-wiring/solenoid-valve.md#solenoid-valve-cable) - 0.5m|None|1
-|[LED Strip](../../extras/bom/electronics-and-wiring/led-strip.md#led-strip) - 3.0m w/ 0.7m lead|Anti-static bag|1
+|[LED Strip](../../extras/bom/electronics-and-wiring/led-strip.md) - 3.0m w/ 0.7m lead|Anti-static bag|1
 |[UTM Cable](../../extras/bom/electronics-and-wiring/utm.md#utm-cable) - 5.5m|Twist-tied|1
 |[Power Supply Cable](../../extras/bom/electronics-and-wiring/power-supply.md#power-supply-cable) - 4.5m|Twist-tied|1
 |[Jumper Wires](../../extras/bom/electronics-and-wiring/miscellaneous.md#jumper-wire)|Twist-tied|8
