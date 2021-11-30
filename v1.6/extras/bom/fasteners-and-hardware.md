@@ -25,8 +25,8 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visi
 |[20mm Nut Bar](fasteners-and-hardware/nut-bars.md#20mm-nut-bar)|$1.50|6|$9.00|6|$9.00|6|$9.00
 |[40mm Nut Bar](fasteners-and-hardware/nut-bars.md#40mm-nut-bar)|$1.75|28|$49.00|54|$94.50|134|$234.50
 |[60mm Nut Bar](fasteners-and-hardware/nut-bars.md#60mm-nut-bar)|$2.00|20|$40.00|24|$48.00|24|$48.00
-|[100mm Nut Bar](fasteners-and-hardware/nut-bars.md#60mm-nut-bar)|$2.50|2|$5.00|6|$15.00|-|-
-|[140mm Nut Bar](fasteners-and-hardware/nut-bars.md#60mm-nut-bar)|$3.00|-|-|2|$6.00|-|-
+|[100mm Nut Bar](fasteners-and-hardware/nut-bars.md#100mm-nut-bar)|$2.50|2|$5.00|6|$15.00|-|-
+|[140mm Nut Bar](fasteners-and-hardware/nut-bars.md#140mm-nut-bar)|$3.00|-|-|2|$6.00|-|-
 |[25mm Wood Screws](fasteners-and-hardware/screws.md#wood-screws)|$0.05|35|$1.75|60|$3.00|124|$6.20
 |[15 x 5 x 5mm Ring Magnets](fasteners-and-hardware/magnets.md#ring-magnets)|$3.00|21|$63.00|21|$63.00|21|$63.00
 |[Zip Ties](fasteners-and-hardware/zip-ties.md#zip-ties)|$0.05 to $0.10|85|$5.25|85|$5.25|85|$5.25
