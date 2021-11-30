@@ -8,6 +8,8 @@ description: "Tech specs for the cross-slide in FarmBot Genesis. Visit [our shop
 {:toc}
 
 
+# Cross-Slide Plate
+
 ![cross-slide plate](_images/cross-slide_plate.jpg)
 
 |                              |                              |

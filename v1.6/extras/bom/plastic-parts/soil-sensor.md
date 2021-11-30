@@ -8,6 +8,8 @@ description: "Tech specs for the soil sensor in FarmBot Genesis. Visit [our shop
 {:toc}
 
 
+# Soil Sensor
+
 This tool acts as a mount for the soil sensor circuit board.
 
 {% include gallery.html images='

@@ -8,6 +8,8 @@ description: "Tech specs for the solenoid valve mount in FarmBot Genesis. Visit 
 {:toc}
 
 
+# Solenoid Valve Mount
+
 This component features slots for the solenoid valve to be mounted with zip ties. It also doubles as a cable management part for routing cables behind the electronics box.
 
 {% include gallery.html images="

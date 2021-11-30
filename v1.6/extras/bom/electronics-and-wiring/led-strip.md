@@ -7,6 +7,7 @@ description: "Tech specs for the LED strip in FarmBot Genesis. Visit [our shop](
 * toc
 {:toc}
 
+# LED Strip
 
 This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a "grow light".
 

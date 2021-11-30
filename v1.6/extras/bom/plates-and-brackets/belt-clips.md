@@ -7,6 +7,9 @@ description: "Tech specs for the belt clips in FarmBot Genesis. Visit [our shop]
 * toc
 {:toc}
 
+
+# Belt Clip
+
 {% include gallery.html images="
 ![belt clips](_images/belt_clips_1.jpeg)
 ![belt clips](_images/belt_clips.jpeg)

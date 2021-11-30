@@ -8,6 +8,8 @@ description: "Tech specs for the zip ties in FarmBot Genesis. Visit [our shop](h
 {:toc}
 
 
+# Zip Ties
+
 Zip ties are used to fasten the vacuum pump and solenoid valve to their mounts, and for cable management throughout FarmBot.
 
 |                              |                              |

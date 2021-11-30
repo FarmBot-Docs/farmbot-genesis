@@ -8,6 +8,8 @@ description: "Tech specs for the seeder in FarmBot Genesis. Visit [our shop](htt
 {:toc}
 
 
+# Seeder
+
 The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and deposit them precisely in the ground.
 
 {% include gallery.html images='
