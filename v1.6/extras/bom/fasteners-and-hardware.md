@@ -270,13 +270,6 @@ Combined with screws, these drop-in style tee nuts allow components such as plat
 
 These stainless steel bars act as long tee nuts allowing M5 screws to securely hold plates, brackets, and other components to a v-slot extrusion.
 
-{%
-include callout.html
-type="info"
-title="Quantities may vary"
-content="v1.5 kits shipped before November 1st, 2020 included **dowel pins** to help better align extrusions. However, due to feedback from customers that the dowel pins were difficult to use, v1.5 kits shipped after November 1st, 2020 replaced the function dowel pins provided with new extra-long **100mm and 140mm nut bars**."
-%}
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Stainless steel
