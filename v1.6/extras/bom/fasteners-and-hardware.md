@@ -29,7 +29,6 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visi
 |[100mm Nut Bar](#60mm-nut-bar) **\***|$2.50|2|$5.00|6|$15.00|-|-
 |[140mm Nut Bar](#60mm-nut-bar) **\***|$3.00|-|-|2|$6.00|-|-
 |[25mm Wood Screws](#wood-screws)|$0.05|35|$1.75|60|$3.00|124|$6.20
-|[Dowel Pins](#dowel-pins) **\***|$2.00|6|$12.00|20|$40.00|52|$104.00
 |[15 x 5 x 5mm Ring Magnets](#ring-magnets)|$3.00|21|$63.00|21|$63.00|21|$63.00
 |[Zip Ties](#zip-ties) **\***|$0.05 to $0.10|85|$5.25|85|$5.25|85|$5.25
 |[Assembly Tools](#tools)|$1.00 to $5.00|8|$32.00|8|$32.00|8|$32.00
@@ -339,28 +338,6 @@ These are used to attach the track end plates and track joining plates to suppor
 {:.internal}
 
 ![wood screws](_images/wood_screws.jpg)
-
-# Dowel Pins
-
-These pins are used to help align track extrusions and the gantry main beams.
-
-{%
-include callout.html
-type="info"
-title="Not inlcuded with all v1.5 kits"
-content="v1.5 kits shipped before November 1st, 2020 included dowel pins to help better align extrusions. However, due to feedback from customers that the dowel pins were difficult to use, v1.5 kits shipped after November 1st, 2020 replaced the function dowel pins provided with new extra-long **100mm and 140mm nut bars**."
-%}
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Stainless steel
-|**Length**                    |40mm
-|**Diameter 1**                |4.2mm
-|**Diameter 2**                |4.25mm
-|**Price**                     |$2.00
-|**Quantity**                  |Genesis: 6 or 0 (see note above)<br>Genesis XL: 20 or 0 (see note above)
-
-![dowel pins](_images/dowel_pins.jpg)
 
 # Ring Magnets
 
