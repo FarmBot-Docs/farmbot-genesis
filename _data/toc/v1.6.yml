@@ -135,6 +135,21 @@ contents:
             url: plastic-parts
           - title: Fasteners and Hardware
             url: fasteners-and-hardware
+            pages:
+              - title: Assembly Tools
+                url: assembly-tools
+              - title: Locknuts
+                url: locknuts
+              - title: Magnets
+                url: magnets
+              - title: Nut Bars
+                url: nut-bars
+              - title: Screws
+                url: screws
+              - title: Spacers
+                url: spacers
+              - title: Zip Ties
+                url: zip-ties
           - title: Drivetrain
             url: drivetrain
           - title: Electronics and Wiring
