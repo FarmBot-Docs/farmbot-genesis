@@ -26,16 +26,16 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |[GT2 Timing Belt](../../extras/bom/drivetrain.md#gt2-timing-belt) (4.5m)|Coiled|2|-
 |[GT2 Timing Belt](../../extras/bom/drivetrain.md#gt2-timing-belt) (7.5m)|Coiled|-|2
 |[Pre-Assembled V-Wheels](../pre-assembly/v-wheels.md)|Press-to-seal bag|30|30
-|[M5 Drop-in Tee Nuts](../../extras/bom/fasteners-and-hardware.md#tee-nuts)|Press-to-seal bag|20|20
-|[20mm Nut Bar](../../extras/bom/fasteners-and-hardware.md#20mm-nut-bar)|Press-to-seal bag|6|6
-|[40mm Nut Bar](../../extras/bom/fasteners-and-hardware.md#40mm-nut-bar)|Press-to-seal bag|28|54
-|[60mm Nut Bar](../../extras/bom/fasteners-and-hardware.md#60mm-nut-bar)|Press-to-seal bag|20|24
-|[100mm Nut Bar](../../extras/bom/fasteners-and-hardware.md#100mm-nut-bar)|Press-to-seal bag|2|6
-|[140mm Nut Bar](../../extras/bom/fasteners-and-hardware.md#140mm-nut-bar)|Press-to-seal bag|-|2
-|[M5 x 6mm Eccentric Spacer](../../extras/bom/fasteners-and-hardware.md#eccentric-spacers)|Press-to-seal bag|15|15
-|[Ring Magnets](../../extras/bom/fasteners-and-hardware.md#ring-magnets)|Press-to-seal bag|18|18
-|[100mm Zip Ties](../../extras/bom/fasteners-and-hardware.md#100mm-zip-ties)|Press-to-seal bag|25|25
-|[200mm Zip Ties](../../extras/bom/fasteners-and-hardware.md#200mm-zip-ties)|Press-to-seal bag|4|4
+|[M5 Drop-in Tee Nuts](../../extras/bom/fasteners-and-hardware/nut-bars.md#tee-nuts)|Press-to-seal bag|20|20
+|[20mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#20mm-nut-bar)|Press-to-seal bag|6|6
+|[40mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#40mm-nut-bar)|Press-to-seal bag|28|54
+|[60mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#60mm-nut-bar)|Press-to-seal bag|20|24
+|[100mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#100mm-nut-bar)|Press-to-seal bag|2|6
+|[140mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#140mm-nut-bar)|Press-to-seal bag|-|2
+|[M5 x 6mm Eccentric Spacer](../../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)|Press-to-seal bag|15|15
+|[Ring Magnets](../../extras/bom/fasteners-and-hardware/magnets.md#ring-magnets)|Press-to-seal bag|18|18
+|[100mm Zip Ties](../../extras/bom/fasteners-and-hardware/zip-ties.md#100mm-zip-ties)|Press-to-seal bag|25|25
+|[200mm Zip Ties](../../extras/bom/fasteners-and-hardware/zip-ties.md#200mm-zip-ties)|Press-to-seal bag|4|4
 |[Rubber Gasket](../../extras/bom/tubing.md#rubber-gasket)|Press-to-seal bag|4|4
 |[Jumper Links](../../extras/bom/electronics-and-wiring/miscellaneous.md#jumper-link)|Press-to-seal bag|5|5
 |[Teflon Tape](../../extras/bom/tubing.md#teflon-tape)|Factory packaging|1|1
