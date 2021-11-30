@@ -56,6 +56,7 @@ The camera is mounted on the z-axis and allows FarmBot to take photos of the gar
 |Sealing      |Inspect the sealing where the cable enters the camera module housing.|The cable should be well sealed|N/A
 |Lens         |Inspect the camera lens for obstructions and straightness.|The camera lens should be free of obstructions and point straight out of the camera module.|N/A
 |Color        |Inspect the color of the cable.|Black|N/A
+{:.internal}
 
 # Camera Cable
 
