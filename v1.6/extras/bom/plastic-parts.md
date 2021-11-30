@@ -42,7 +42,7 @@ These parts are used to mount and support the x-axis cable carrier. The gusset a
 |------------------------------|------------------------------|
 |**Material**                  |Gray UV stabilized ABS
 |**Price**                     |$3.00
-|**Quantity**                  |Genesis - 12<br>Genesis XL - 24<br>Genesis MAX - 72
+|**Quantity**                  |Genesis - 12<br>Genesis XL - 24
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 |                              |                              |

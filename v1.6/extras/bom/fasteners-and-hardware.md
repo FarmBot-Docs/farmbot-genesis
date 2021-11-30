@@ -29,7 +29,6 @@ description: "Tech specs for the fasteners and hardware in FarmBot Genesis. Visi
 |[100mm Nut Bar](#60mm-nut-bar) **\***|$2.50|2|$5.00|6|$15.00|-|-
 |[140mm Nut Bar](#60mm-nut-bar) **\***|$3.00|-|-|2|$6.00|-|-
 |[25mm Wood Screws](#wood-screws)|$0.05|35|$1.75|60|$3.00|124|$6.20
-|[Dowel Pins](#dowel-pins) **\***|$2.00|6|$12.00|20|$40.00|52|$104.00
 |[15 x 5 x 5mm Ring Magnets](#ring-magnets)|$3.00|21|$63.00|21|$63.00|21|$63.00
 |[Zip Ties](#zip-ties) **\***|$0.05 to $0.10|85|$5.25|85|$5.25|85|$5.25
 |[Assembly Tools](#tools)|$1.00 to $5.00|8|$32.00|8|$32.00|8|$32.00
@@ -114,7 +113,7 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 |**Head Diameter**             |9.5mm
 |**Drive Size**                |3mm hex
 |**Price**                     |10mm - $0.15<br>16mm - $0.20<br>30mm - $0.30
-|**Quantity**                  |10mm - Genesis: 150, Genesis XL: 225, Genesis MAX: 400<br>16mm - 40<br>30mm - 45
+|**Quantity**                  |10mm - Genesis: 150, Genesis XL: 225<br>16mm - 40<br>30mm - 45
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -145,8 +144,9 @@ Locknuts are used throughout FarmBot to secure M3 and M5 screws in place. The ny
 |------------------------------|------------------------------|
 |**Trade Name**                |Nylon-Insert Locknut
 |**Threads**                   |M3 x 0.5mm<br>M5 x 0.8mm
-|**Height**                    |M3 - 4mm<br>M5 - 5mm
-|**Width**                     |M3 - 5.5mm<br>M5 - 8mm
+|**Height**                    |M3 - 4mm<br>M5 - 7mm
+|**Hex Width**                 |M3 - 5.5mm<br>M5 - 8mm
+|**Flange Diameter**           |M3 - None<br>M5 - 11.5mm
 |**Material**                  |Stainless Steel
 |**Price**                     |M3 - $0.10<br>M5 - $0.15
 |**Quantity**                  |M3 - 20 (4 pieces pre-assembled in electronics box, 16 pieces packed in bag)<br>M5 - 70
@@ -270,13 +270,6 @@ Combined with screws, these drop-in style tee nuts allow components such as plat
 
 These stainless steel bars act as long tee nuts allowing M5 screws to securely hold plates, brackets, and other components to a v-slot extrusion.
 
-{%
-include callout.html
-type="info"
-title="Quantities may vary"
-content="v1.5 kits shipped before November 1st, 2020 included **dowel pins** to help better align extrusions. However, due to feedback from customers that the dowel pins were difficult to use, v1.5 kits shipped after November 1st, 2020 replaced the function dowel pins provided with new extra-long **100mm and 140mm nut bars**."
-%}
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Stainless steel
@@ -284,7 +277,7 @@ content="v1.5 kits shipped before November 1st, 2020 included **dowel pins** to 
 |**Threads**                   |M5 x 0.8mm
 |**Fits Slot Size**            |6
 |**Price**                     |20mm - $1.50<br>40mm - $1.75<br>60mm - $2.00<br>100mm - $2.50<br>140mm - $3.00
-|**Quantity**                  |**Genesis**<br>20mm - 6<br>40mm - 28<br>60mm - 20<br>100mm - 2 or 0 (see note above)<br><br>**Genesis XL**<br>20mm - 6<br>40mm - 54<br>60mm - 24<br>100mm - 6 or 0 (see note above)<br>140mm - 2 or 0 (see note above)<br><br>**Genesis MAX**<br>20mm - 6<br>40mm - 134<br>60mm - 24
+|**Quantity**                  |**Genesis**<br>20mm - 6<br>40mm - 28<br>60mm - 20<br>100mm - 2 or 0 (see note above)<br><br>**Genesis XL**<br>20mm - 6<br>40mm - 54<br>60mm - 24<br>100mm - 6 or 0 (see note above)<br>140mm - 2 or 0 (see note above)
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -326,7 +319,7 @@ These are used to attach the track end plates and track joining plates to suppor
 |**Length**                    |25mm
 |**Head Diameter**             |12mm
 |**Price**                     |$0.05
-|**Quantity**                  |Genesis - 35<br>Genesis XL - 60<br>Genesis MAX - 124
+|**Quantity**                  |Genesis - 35<br>Genesis XL - 60
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -338,28 +331,6 @@ These are used to attach the track end plates and track joining plates to suppor
 {:.internal}
 
 ![wood screws](_images/wood_screws.jpg)
-
-# Dowel Pins
-
-These pins are used to help align track extrusions and the gantry main beams.
-
-{%
-include callout.html
-type="info"
-title="Not inlcuded with all v1.5 kits"
-content="v1.5 kits shipped before November 1st, 2020 included dowel pins to help better align extrusions. However, due to feedback from customers that the dowel pins were difficult to use, v1.5 kits shipped after November 1st, 2020 replaced the function dowel pins provided with new extra-long **100mm and 140mm nut bars**."
-%}
-
-|                              |                              |
-|------------------------------|------------------------------|
-|**Material**                  |Stainless steel
-|**Length**                    |40mm
-|**Diameter 1**                |4.2mm
-|**Diameter 2**                |4.25mm
-|**Price**                     |$2.00
-|**Quantity**                  |Genesis: 6 or 0 (see note above)<br>Genesis XL: 20 or 0 (see note above)<br>Genesis MAX: 52
-
-![dowel pins](_images/dowel_pins.jpg)
 
 # Ring Magnets
 

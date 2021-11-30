@@ -61,7 +61,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Material**                  |6061 Aluminum
 |**Surface Treatments**        |Tumble polished<br>Sand blasted<br>Clear anodized
 |**Price**                     |$15.00
-|**Quantity**                  |Genesis - 2<br>Genesis XL - 6<br>Genesis MAX - 22
+|**Quantity**                  |Genesis - 2<br>Genesis XL - 6
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 |                              |                              |

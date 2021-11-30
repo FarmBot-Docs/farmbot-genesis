@@ -29,7 +29,7 @@ Track extrusions are the primary structural component of the tracks sub-assembly
 |**Material**                  |6063-T5 Aluminum
 |**Surface Treatment**         |Sand blasted and clear anodized
 |**Price**                     |$30.00
-|**Quantity**                  |Genesis - 4<br>Genesis XL - 8<br>Genesis MAX - 24
+|**Quantity**                  |Genesis - 4<br>Genesis XL - 8
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 |                              |                              |
@@ -85,7 +85,7 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 |**Material**                  |6063-T5 Aluminum
 |**Surface Treatment**         |Sand blasted and clear anodized
 |**Price**                     |$35.00
-|**Quantity**                  |Genesis - 1<br>Genesis XL - 2<br>Genesis MAX - 2
+|**Quantity**                  |Genesis - 1<br>Genesis XL - 2
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 |                              |                              |

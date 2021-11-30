@@ -124,6 +124,37 @@ contents:
             url: drivetrain
           - title: Electronics and Wiring
             url: electronics-and-wiring
+            pages:
+              - title: Cable Carrier
+                url: cable-carrier
+              - title: Camera
+                url: camera
+              - title: Electronics Box
+                url: electronics-box
+              - title: Farmduino
+                url: farmduino
+              - title: LED Strip
+                url: led-strip
+              - title: Power Supply
+                url: power-supply
+              - title: Miscellaneous
+                url: miscellaneous
+              - title: Motors
+                url: motors
+              - title: Power Supply
+                url: power-supply
+              - title: Raspberry Pi
+                url: raspberry-pi
+              - title: Rotary Tool
+                url: rotary-tool
+              - title: Soil Sensor
+                url: soil-sensor
+              - title: Solenoid Valve
+                url: solenoid-valve
+              - title: UTM
+                url: utm
+              - title: Vacuum Pump
+                url: vacuum-pump
           - title: Tubing
             url: tubing
       - title: Mods and Add-Ons

@@ -11,7 +11,7 @@ description: "Packing details for the power supply box inside each main carton"
 
 |Item                          |Qty                           |
 |------------------------------|------------------------------|
-|[Power Supply](../../extras/bom/electronics-and-wiring.md#power-supply)|1
+|[Power Supply](../../extras/bom/electronics-and-wiring/power-supply.md#power-supply)|1
 
 # Step 1: Pack the power supply
 Pack the **power supply** into the box.

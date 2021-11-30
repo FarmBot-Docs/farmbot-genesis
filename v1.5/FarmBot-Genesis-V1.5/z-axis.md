@@ -40,6 +40,13 @@ Attach the **z-axis motor mount** to the **z-axis extrusion** using a **60mm nut
 
 Slide the **5mm to 8mm shaft coupling** onto the **motor shaft** and tighten the top screw with the **2.5mm hex key**.
 
+{%
+include callout.html
+type="warning"
+title="Mind the gap"
+content="Make sure there is a small gap (about 2mm) between the shaft coupling and the z-axis motor mount. You might use a credit card to help provide the correct spacing needed."
+%}
+
 ![z-axis motor with coupling](_images/z-axis_motor_with_coupling.png)
 
 # Step 4: Attach three cable carrier supports
