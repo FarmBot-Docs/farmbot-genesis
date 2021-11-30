@@ -41,9 +41,9 @@ An equalized gantry is one that is exactly perpendicular to the tracks such that
 
 ![completed tracks](_images/completed_tracks.jpg)
 
-The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](../../FarmBot-Genesis-V1.5/supporting-infrastructure/raised-bed.md)
+The detailed instructions to build the raised bed supporting infrastructure for the FarmBot are located [here](../../assembly/supporting-infrastructure/raised-bed.md)
 
- The detailed instructions to install the tracks on the raised bed supporting infrastructure for the FarmBot are located [here](../../FarmBot-Genesis-V1.5/tracks.md)
+ The detailed instructions to install the tracks on the raised bed supporting infrastructure for the FarmBot are located [here](../../assembly/tracks.md)
 
 ## Test the gantry
 
@@ -62,7 +62,7 @@ title="Alignment is key"
 content="For track plates that join two track extrusions together, position the extrusions tightly together at the middle of the plate. Make sure the top and bottom of the extrusions are flush so that the gantry can move across the tracks smoothly. Also make sure that the extrusions are straight, so there is no 'kink' in the tracks at the joint."
 %}
 
-Review the track assembly procedure [here](../../FarmBot-Genesis-V1.5/tracks.md).
+Review the track assembly procedure [here](../../assembly/tracks.md).
 
 # 4. Adjust the belt tension
 
@@ -77,7 +77,7 @@ Procedure for adjusting the belt tension:
 3. Re-tighten the clip.
 4. Make sure to check all three belts: the two along the tracks, and the one across the gantry main beam.
 The belts should not be under extreme tension. If they are, FarmBot’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
-5. [Re-equalize the gantry](#2--equalize-the-gantry) to prevent binding.
+5. [Re-equalize the gantry](#3--equalize-the-gantry) to prevent binding.
 
 ![belt tightening](_images/belt_tightening.png)
 
@@ -87,7 +87,7 @@ Eccentric spacers are used for making fine adjustments to the spacing between th
 
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or there will be significant friction when moving. If the spacing is too great, then the connection will be wobbly and loose.
 
-Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../FarmBot-Genesis-V1.5/gantry/attach-the-drivetrain.md), and secure the belts back into place for normal operation.
+Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry/attach-the-drivetrain.md), and secure the belts back into place for normal operation.
 
 ![gantry wheel plate eccentric spacers](_images/gantry_wheel_plate_eccentric_spacers.png)
 

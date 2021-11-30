@@ -19,8 +19,8 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |Genesis <span class="fb-xl-sticker">XL</span> Screw Pack:<br>- 60x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 225x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|-|1 pack
 |[Tools Box](tools-box.md)|-|1|1
 |[UTM Box](utm-box.md)|-|1|1
-|[Solenoid Valve](../../extras/bom/electronics-and-wiring.md#solenoid-valve)|Small box (no printing)|1|1
-|[Vacuum Pump](../../extras/bom/electronics-and-wiring.md#vacuum-pump)|Small box (no printing)|1|1
+|[Solenoid Valve](../../extras/bom/electronics-and-wiring/solenoid-valve.md#solenoid-valve)|Small box (no printing)|1|1
+|[Vacuum Pump](../../extras/bom/electronics-and-wiring/vacuum-pump.md#vacuum-pump)|Small box (no printing)|1|1
 |[GT2 Timing Belt](../../extras/bom/drivetrain.md#gt2-timing-belt) (1.7m)|Coiled|1|-
 |[GT2 Timing Belt](../../extras/bom/drivetrain.md#gt2-timing-belt) (3.2m)|Coiled|-|1
 |[GT2 Timing Belt](../../extras/bom/drivetrain.md#gt2-timing-belt) (4.5m)|Coiled|2|-
@@ -37,10 +37,10 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |[100mm Zip Ties](../../extras/bom/fasteners-and-hardware.md#100mm-zip-ties)|Press-to-seal bag|25|25
 |[200mm Zip Ties](../../extras/bom/fasteners-and-hardware.md#200mm-zip-ties)|Press-to-seal bag|4|4
 |[Rubber Gasket](../../extras/bom/tubing.md#rubber-gasket)|Press-to-seal bag|4|4
-|[Jumper Links](../../extras/bom/electronics-and-wiring.md#jumper-link)|Press-to-seal bag|5|5
+|[Jumper Links](../../extras/bom/electronics-and-wiring/miscellaneous.md#jumper-link)|Press-to-seal bag|5|5
 |[Teflon Tape](../../extras/bom/tubing.md#teflon-tape)|Factory packaging|1|1
-|[Soil Sensor PCB](../../extras/bom/electronics-and-wiring.md#soil-sensor-pcb)|Anti-static bag|1|1
-|[Power Cord Protector](../../extras/bom/electronics-and-wiring.md#power-cord-protector)|None|1|1
+|[Soil Sensor PCB](../../extras/bom/electronics-and-wiring/soil-sensor.md#soil-sensor-pcb)|Anti-static bag|1|1
+|[Power Cord Protector](../../extras/bom/electronics-and-wiring/power-supply.md#power-cord-protector)|None|1|1
 |[NPT to Barb Adapter](../../extras/bom/tubing.md#npt-to-barb-adapter)|None|2|2
 |[Garden Hose to Barb Adapter](../../extras/bom/tubing.md#garden-hose-to-barb-adapter)|None|1|1
 |[Pressure Regulator](../../extras/bom/tubing.md#pressure-regulator)|None|1|1
