@@ -7,17 +7,17 @@ description: "Tech specs for the drivetrain components in FarmBot Genesis. Visit
 * toc
 {:toc}
 
-|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
-|---------|------|-----------|----------------|------|-----------|-------|--------|
-|[5mm to 8mm Shaft Coupling](#5mm-to-8mm-shaft-coupling)|$6.00|1|$6.00|1|$6.00|1|$6.00
-|[20 Tooth GT2 Pulley](#gt2-pulley)|$6.00|3|$18.00|3|$18.00|3|$18.00
-|[Belt Sleeve](#belt-sleeve)|$0.50|6|$3.00|6|$3.00|6|$3.00
-|[Leadscrew](#leadscrew)|$35.00|1|$35.00|1|$35.00|1|$35.00
-|[Leadscrew Block](#leadscrew-block)|$7.00|1|$7.00|1|$7.00|1|$7.00
-|[V-Wheel](#v-wheel)|$6.00|30|$180.00|30|$180.00|30|$180.00
-|[X-Axis GT2 Timing Belt](#gt2-timing-belt)|$40.00 to $180.00|2|$80.00|2|$140.00|2|$360.00
-|[Y-Axis GT2 Timing Belt](#gt2-timing-belt)|$20.00 to $30.00|1|$20.00|1|$30.00|1|$30.00
-|**TOTALS**| |**39**|**$346.00**|**39**|**$416.00**|**39**|**$646.00**
+|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|
+|---------|------|-----------|----------------|------|-----------|
+|[5mm to 8mm Shaft Coupling](#5mm-to-8mm-shaft-coupling)|$6.00|1|$6.00|1|$6.00
+|[20 Tooth GT2 Pulley](#gt2-pulley)|$6.00|3|$18.00|3|$18.00
+|[Belt Sleeve](#belt-sleeve)|$0.50|6|$3.00|6|$3.00
+|[Leadscrew](#leadscrew)|$35.00|1|$35.00|1|$35.00
+|[Leadscrew Block](#leadscrew-block)|$7.00|1|$7.00|1|$7.00
+|[V-Wheel](#v-wheel)|$6.00|30|$180.00|30|$180.00
+|[X-Axis GT2 Timing Belt](#gt2-timing-belt)|$40.00 to $180.00|2|$80.00|2|$140.00
+|[Y-Axis GT2 Timing Belt](#gt2-timing-belt)|$20.00 to $30.00|1|$20.00|1|$30.00
+|**TOTALS**| |**39**|**$346.00**|**39**|**$416.00**
 
 # 5mm to 8mm Shaft Coupling
 

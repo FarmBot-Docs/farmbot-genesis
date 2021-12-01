@@ -70,7 +70,7 @@ description: "Tech specs for the gantry wheel plates, gantry corner brackets, an
 |**Material**                  |6061 Aluminum
 |**Surface Treatments**        |Tumble polished<br>Sand blasted<br>Clear anodized
 |**Price**                     |$35.00
-|**Quantity**                  |1 (Genesis XL and MAX only)
+|**Quantity**                  |1 (Genesis XL only)
 |**Recommended Supplier**      |[The FarmBot Shop](http://shop.farm.bot)
 
 **Internal specs**{:.internal}

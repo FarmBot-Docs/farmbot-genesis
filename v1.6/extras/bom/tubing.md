@@ -8,22 +8,22 @@ description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](htt
 {:toc}
 
 
-|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
-|---------|------|-----------|----------------|------|-----------|-------|------------|
-|[90-Degree Barb](#90-degree-barb)|$2.00|1|$2.00|1|$2.00|1|$2.00
-|[Barbs](#barbs)|$6.00|3|$18.00|3|$18.00|3|$18.00
-|[Garden Hose to Barb Adapter](#garden-hose-to-barb-adapter)|$7.00|1|$7.00|1|$7.00|1|$7.00
-|[Inline Air Filter](#inline-air-filter)|$10.00|1|$10.00|1|$10.00|1|$10.00
-|[Luer Lock Adapter](#luer-lock-adapter)|$5.00|1|$5.00|1|$5.00|1|$5.00
-|[Luer Lock Needles](#luer-lock-needles)|$3.00|9|$27.00|9|$27.00|9|$27.00
-|[NPT to Barb Adapter](#npt-to-barb-adapter)|$5.00|3|$15.00|3|$15.00|3|$15.00
-|[O-rings](#o-rings)|$0.50|3|$1.50|3|$1.50|3|$1.50
-|[Pressure Regulator](#pressure-regulator)|$8.00|1|$8.00|1|$8.00|1|$8.00
-|[Rubber Gasket](#rubber-gasket)|$1.00|4|$4.00|4|$4.00|4|$4.00
-|[Teflon Tape](#teflon-tape)|$5.00|1|$5.00|1|$5.00|1|$5.00
-|[Vacuum Tube](#vacuum-tube)|$1.00|2|$2.00|2|$2.00|2|$2.00
-|[Water Tube](#water-tube)|$5.00 to $35.00|3|$23.00|3|$32.00|3|$52.00
-|**TOTALS**||**26**|**$111.50**|**26**|**$120.50**|**26**|**$140.50**
+|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|
+|---------|------|-----------|----------------|------|-----------|
+|[90-Degree Barb](#90-degree-barb)|$2.00|1|$2.00|1|$2.00
+|[Barbs](#barbs)|$6.00|3|$18.00|3|$18.00
+|[Garden Hose to Barb Adapter](#garden-hose-to-barb-adapter)|$7.00|1|$7.00|1|$7.00
+|[Inline Air Filter](#inline-air-filter)|$10.00|1|$10.00|1|$10.00
+|[Luer Lock Adapter](#luer-lock-adapter)|$5.00|1|$5.00|1|$5.00
+|[Luer Lock Needles](#luer-lock-needles)|$3.00|9|$27.00|9|$27.00
+|[NPT to Barb Adapter](#npt-to-barb-adapter)|$5.00|3|$15.00|3|$15.00
+|[O-rings](#o-rings)|$0.50|3|$1.50|3|$1.50
+|[Pressure Regulator](#pressure-regulator)|$8.00|1|$8.00|1|$8.00
+|[Rubber Gasket](#rubber-gasket)|$1.00|4|$4.00|4|$4.00
+|[Teflon Tape](#teflon-tape)|$5.00|1|$5.00|1|$5.00
+|[Vacuum Tube](#vacuum-tube)|$1.00|2|$2.00|2|$2.00
+|[Water Tube](#water-tube)|$5.00 to $35.00|3|$23.00|3|$32.00
+|**TOTALS**||**26**|**$111.50**|**26**|**$120.50**
 
 # 90-Degree Barb
 
