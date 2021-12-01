@@ -44,9 +44,9 @@ content="Pay special attention to the orientation of the brackets, extrusions, a
 
 {%
 include callout.html
-type="info"
+type="wrench"
 title="Adjust the eccentric spacers first"
-content="This step is assuming that you have already adjusted the **eccentric spacers** according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
+content="This step is assuming that you have already adjusted the **[eccentric spacers](../../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
 %}
 
 Slide the **gantry columns** onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the FarmBot.
@@ -58,36 +58,29 @@ Slide the **gantry columns** onto the **tracks**. The direction that the wheel p
 {%
 include callout.html
 type="info"
-title="This step applies to XL and MAX kits only"
+title="This step applies to XL kits only"
 content="If you have a standard sized Genesis kit (1.5m wide), proceed to the [next step](#step-5-attach-the-cable-carrier-supports)."
 %}
 
 Place both **gantry main beams** on a flat surface such as a table or patio. Using two **140mm nut bars** and eight **M5 x 10mm screws**, attach the **gantry joining bracket** to the *lower two slots* of both extrusions. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
 
-{%
-include callout.html
-type="info"
-title="Your kit may not include 140mm nut bars"
-content="If your kit was shipped before November of 2020, it does not include 140mm nut bars. Instead, use four 60mm nut bars to attach each extrusion to the gantry joining bracket."
-%}
-
 ![Attach the gantry joining bracket](_images/attach_the_gantry_joining_bracket.png)
 
 # Step 5: Attach the cable carrier supports
 
-Using **M5 x 10mm screws** and **40mm nut bars**, attach six **60mm horizontal cable carrier supports** to the *middle slot* of the **gantry main beam extrusion**. For genesis kits, there is only one main beam extrusion, so only six supports will be used.
+Using **M5 x 10mm screws** and **40mm nut bars**, attach six **60mm horizontal cable carrier supports** to the *middle slot* of the **gantry main beam extrusion**. For Genesis kits, there is only one main beam extrusion, so only six supports will be used.
 
 ![Cable carrier supports on a Genesis gantry](_images/cable_carrier_supports_on_a_genesis_gantry.png)
 
-For Genesis XL and MAX kits, there are two main beam extrusions, so 12 supports will be used, and they should be positioned on the same side of the extrusions as the gantry joining bracket.
+For Genesis XL kits, there are two main beam extrusions, so 12 supports will be used, and they should be positioned on the same side of the extrusions as the gantry joining bracket.
 
-![Cable carrier supports on a Genesis XL or MAX gantry](_images/cable_carrier_supports_on_a_genesis_xl_or_max_gantry.png)
+![Cable carrier supports on a Genesis XL gantry](_images/cable_carrier_supports_on_a_genesis_xl_gantry.png)
 
 # Step 6: Attach the main beam
 
 {%
 include callout.html
-type="warning"
+type="users"
 title="Grab a friend"
 content="The next step requires an additional person to complete."
 %}

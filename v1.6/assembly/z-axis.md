@@ -88,7 +88,7 @@ Slide the **z-axis extrusion** through the v-wheels on the **cross-slide** until
 include callout.html
 type="wrench"
 title="Adjust the eccentric spacers as needed"
-content="In order to slide the z-axis through the v-wheels you will need to adjust the eccentric spacers of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md) for how to do this."
+content="In order to slide the z-axis through the v-wheels you will need to adjust the **[eccentric spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md) for how to do this."
 %}
 
 {% include gallery.html images="
@@ -98,7 +98,7 @@ content="In order to slide the z-axis through the v-wheels you will need to adju
 
 # Step 9: Install the hardstops
 
-Attach the **z-axis hardstops** onto the backside of the **z-axis extrusion** approximately 200mm from the top of the extrusion and 100mm from the bottom of the extrusion using **M5 x 10mm screws** and **tee nuts**. Later, you can quickly adjust these to physically prevent FarmBot from moving too low or too hight within its working space.
+Attach the **z-axis hardstops** onto the back side of the **z-axis extrusion** approximately 200mm from the top of the extrusion and 100mm from the bottom of the extrusion using **M5 x 10mm screws** and **tee nuts**. Later, you can quickly adjust these to physically prevent FarmBot from moving too low or too high within its working space.
 
 {% include gallery.html images="
 ![z-axis top hardstop](_images/z-axis_top_hardstop.png)
