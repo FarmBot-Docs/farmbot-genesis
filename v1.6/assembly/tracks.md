@@ -95,13 +95,6 @@ Attach one end of the first **track extrusion** to the **track end plate** using
 
 Attach the other end of the extrusion to the **track joining plate** using a **100mm nut bar** and two **M5 x 10mm screws**. Do not fully tighten the screws on the track joining plate yet.
 
-{%
-include callout.html
-type="info"
-title="Your kit may not include 100mm nut bars"
-content="If your kit was shipped before November of 2020, it does not include 100mm nut bars. Instead, use 40mm nut bars to attach the track extrusion to the track joining plate."
-%}
-
 {% include gallery.html images="
 ![Mount the first track extrusion](_images/first_track_extrusion_4.png)
 ![Mount the first track extrusion](_images/first_track_extrusion_2.png)
@@ -111,13 +104,6 @@ content="If your kit was shipped before November of 2020, it does not include 10
 # Step 6: Attach the next extrusion
 
 Slide the *lower* V-slot of the **second track extrusion** onto the **100mm nut bar**. If it does not slide on easily, you may need to loosen the screws holding the first extrusion in place.
-
-{%
-include callout.html
-type="info"
-title=""
-content="If your kit is from before November 2020, use a 40mm nut bar instead."
-%}
 
 {% include gallery.html images="
 ![Mount the second track extrusion](_images/second_track_extrusion_1.png)
@@ -147,7 +133,7 @@ content="At this time the 100mm nut bar will be keeping the two extrusions align
 {%
 include callout.html
 type="info"
-title="This step applies to XL and MAX kits only"
+title="This step applies to XL kits only"
 content="If you have a standard sized Genesis kit (3m long), proceed to the [next step](#step-8-attach-the-second-track-end-plate)."
 %}
 
