@@ -46,8 +46,6 @@ data:
         image: extras/bom/fasteners-and-hardware/_images/140mm_nut_bar.jpg
       - section: wood-screws
         image: extras/bom/fasteners-and-hardware/_images/wood_screws.jpg
-      - section: dowel-pins
-        image: extras/bom/fasteners-and-hardware/_images/dowel_pins.jpg
       - section: ring-magnets
         image: extras/bom/fasteners-and-hardware/_images/magnets.jpg
       - section: 60mm-zip-ties
@@ -66,8 +64,6 @@ data:
         image: extras/bom/fasteners-and-hardware/_images/5.5mm_box_wrench.jpg
       - section: 8mm-wrench
         image: extras/bom/fasteners-and-hardware/_images/8mm_wrench.jpg
-      - section: 55mm-wrench
-        image: extras/bom/fasteners-and-hardware/_images/5.5mm_wrench.jpg
       - section: 2mm-allen-key
         image: extras/bom/fasteners-and-hardware/_images/2mm_allen_key.jpg
   - page: tubing
