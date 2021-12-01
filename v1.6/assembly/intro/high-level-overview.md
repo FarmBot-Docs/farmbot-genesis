@@ -80,7 +80,7 @@ content="For FarmBots to properly grow taller plants, the gantry, cross-slide, z
 
 In general, using low tracks with a tall gantry is the better design, especially for larger applications because it saves on material cost, is less of an eyesore, blocks less sunlight, and would be easier to maintain. However, in the case of a FarmBot being installed in a greenhouse or other structure, utilizing the existing walls to support the tracks higher may be a better solution.
 
-![rasied tracks vs low tracks](_images/raised_tracks_vs_low_tracks.png)"
+![rasied tracks vs low tracks](_images/track_types.png)"
 %}
 
 ## Gantry
