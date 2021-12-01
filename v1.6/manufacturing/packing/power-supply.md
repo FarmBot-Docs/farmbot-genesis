@@ -1,7 +1,7 @@
 ---
-title: "UTM Box"
-slug: "utm-box"
-description: "Packing details for the UTM box"
+title: "Power Supply"
+slug: "power-supply"
+description: "Packing details for the power supply inside each main carton"
 ---
 
 * toc
@@ -11,19 +11,15 @@ description: "Packing details for the UTM box"
 
 |Item                          |Qty                           |
 |------------------------------|------------------------------|
-|[Pre-Assembled UTM](../pre-assembly/tools/utm.md)|1
-|Pogo Pin (spare)|1
-|Jam Nuts (spare)|2
+|[Power Supply](../../extras/bom/electronics-and-wiring/power-supply.md#power-supply)|1
 
-# Step 1: Pack the spare parts
-Insert the spare **pogo pin** and **jam nuts** into a small **press-to-seal bag**.
+# Step 1: Pack the power supply
 
-# Step 2: Pack the items
-Pack the **pre-assembled UTM** and **spare parts bag** into the box.
+Pack the **power supply** into the box.
 
-# Step 3: Add fill
+# Step 2: Add fill
+
 Fill remaining space with **recycled kraft paper**.
-
 
 # Box specifications
 

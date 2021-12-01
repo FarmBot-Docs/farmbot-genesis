@@ -210,6 +210,8 @@ contents:
                 url: vacuum-pump
           - title: Tubing
             url: tubing
+          - title: Packaging
+            url: packaging
       - title: Mods and Add-Ons
         url: mods
         pages:
@@ -276,6 +278,8 @@ contents:
                 url: weeder
               - title: Soil Sensor
                 url: soil-sensor
+              - title: Rotary Tool
+                url: rotary-tool
           - title: V-Wheels
             url: v-wheels
           - title: Electronics Box
@@ -283,25 +287,27 @@ contents:
       - title: Packing
         url: packing
         pages:
-          - title: Hardware Box
-            url: hardware-box
-          - title: Plate Box
-            url: plate-box
-          - title: Plastic Parts Box
-            url: plastic-parts-box
-          - title: Cable and Tubing Box
-            url: cable-and-tubing-box
-          - title: Motor Box
-            url: motor-box
-          - title: Power Supply Box
-            url: power-supply-box
-          - title: UTM Box
-            url: utm-box
-          - title: Tools Box
-            url: tools-box
-          - title: Main Carton Packing
-            url: main-carton-packing
-          - title: Extrusion and Leadscrew Packing
-            url: extrusion-and-leadscrew-packing
           - title: Pallet Stacking
             url: pallet-stacking
+          - title: Extrusion and Leadscrew Kit
+            url: extrusion-and-leadscrew-kit
+          - title: Main Carton
+            url: main-carton
+          - title: Hardware Kit
+            url: hardware-kit
+          - title: Plate Kit
+            url: plate-kit
+          - title: Plastic Parts Kit
+            url: plastic-parts-kit
+          - title: Cable Kit
+            url: cable-kit
+          - title: Motor Kit
+            url: motor-kit
+          - title: Power Supply
+            url: power-supply
+          - title: Assembly Tools
+            url: assembly-tools
+          - title: Solenoid Valve
+            url: solenoid-valve
+          - title: Vacuum Pump
+            url: vacuum-pump

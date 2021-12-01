@@ -7,6 +7,21 @@ description: "Pre-assembly instructions for the Genesis and Genesis XL UTM"
 * toc
 {:toc}
 
+
+# Component list
+
+|Component                     |Qty  |
+|------------------------------|-----|
+|UTM                           |1
+|UTM PCB                       |1
+|Pogo Pin                      |12
+|Pogo Pin Jam Nut              |24
+|Ring Magnet                   |3
+|M5 x 16mm Screw               |3
+|Barb                          |3
+|X-Profile O-Ring              |3
+|UTM Box                       |1
+
 # Step 1: Attach pogo pins to the PCB
 
 Attach 12 **pogo pins** to the **UTM PCB** using 24 **jam nuts** (2 per pogo pin).
@@ -45,3 +60,19 @@ Slide three **x-profile o-rings** onto the **UTM**.
 Screw three **barbs** into the top of the **UTM**.
 
 ![utm with barbs](_images/utm_with_barbs.png)
+
+# Step 5: Pack
+
+Pack the **pre-assembled UTM** into the **UTM box**.
+
+# Box specifications
+
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
+|**Inner dimensions (L x W x H)**|
+|**Outer dimensions (L x W x H)**|
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |**[UTM.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Fill**                        |None

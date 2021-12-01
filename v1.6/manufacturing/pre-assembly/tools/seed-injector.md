@@ -21,7 +21,9 @@ description: "Pre-assembly instructions for the Genesis and Genesis XL seed inje
 |M3 x 12mm Screws              |2
 |M3 Locknuts                   |2
 |Jumper Link                   |1
-|Bag of:<br>- 2x Luer Lock Needle w/ cover (16 Gauge)<br>- 2x Luer Lock Needle w/ cover (19 Gauge)<br>- 2x Luer Lock Needle w/ cover (22 Gauge)|1
+|Seeder Accessory Bag:<br>- 2x Luer Lock Needle w/ cover (16 Gauge)<br>- 2x Luer Lock Needle w/ cover (19 Gauge)<br>- 2x Luer Lock Needle w/ cover (22 Gauge)|1
+|Seeder Box                    |1
+|Seeder Box Insert             |1
 
 # Step 1: Install the basic tool hardware
 
@@ -37,4 +39,16 @@ Screw the **luer lock adapter** into the brass insert on the bottom of the **see
 
 # Step 3: Pack
 
-Place the **bag of luer lock needles** into the box and then the **pre-assembled seed injector** on top of the bag. Close the box.
+Place the **seeder box insert** into the **seeder box**. Then insert the **seeder accessory bag** into the box followed by the **pre-assembled seed injector**. Close the box.
+
+# Box specifications
+
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
+|**Inner dimensions (L x W x H)**|
+|**Outer dimensions (L x W x H)**|
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |**[SEEDER.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Fill**                        |Cardboard insert

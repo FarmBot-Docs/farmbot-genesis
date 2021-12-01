@@ -1,18 +1,18 @@
 ---
-title: "Cable and Tubing Box"
-slug: "cable-and-tubing-box"
-description: "Packing details for the cable and tubing box inside each main carton"
+title: "Cable Kit"
+slug: "cable-kit"
+description: "Packing details for the cable kit inside each main carton"
 ---
 
 * toc
 {:toc}
 
-There are two versions of the **cable and tubing box**: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
+There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
 
 # Genesis packing list
 
-|Item                          |Sub-packing                   |Genesis Qty                   |
-|------------------------------|------------------------------|------------------------------|
+|Item|Sub-packing|Genesis Qty|
+|----|-----------|-----------|
 |[Motor Cables](../../extras/bom/electronics-and-wiring/motors.md#motor-cables)<br>- X1 - 0.9m<br>- X2 - 2.3m<br>- Y - 2.7m<br>- Z (Y-Axis Section) - 2.6m<br>- Z (Z-Axis Section) - 1.8m|Twist-tied|1 each
 |[Encoder Cables](../../extras/bom/electronics-and-wiring/motors.md#encoder-cables)<br>- X1 - 0.9m<br>- X2 - 2.3m<br>- Y - 2.7m<br>- Z (Y-Axis Section) - 2.6m<br>- Z (Z-Axis Section) - 1.8m|Twist-tied|1 each
 |[Vacuum Pump Cables](../../extras/bom/electronics-and-wiring/vacuum-pump.md#vacuum-pump-cable)<br>- Y-Axis Section - 2.6m<br>- Z-Axis Section - 1.0m|Twist-tied|1 each
@@ -45,14 +45,14 @@ There are two versions of the **cable and tubing box**: one for **Genesis** kits
 
 # Box specifications
 
-|                              |                              |
-|------------------------------|------------------------------|
-|**Box style**                 |Top flap (standard FarmBot box design)
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
 |**Inner dimensions (L x W x H)**|
 |**Outer dimensions (L x W x H)**|
-|**Material**                  |Cardboard
-|**Color**                     |Brown
-|**Printing**                  |None
-|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
-|**Fill**                      |Recycled kraft paper
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |None
+|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Fill**                        |Recycled kraft paper
 

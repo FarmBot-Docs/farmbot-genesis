@@ -1,19 +1,18 @@
 ---
-title: "Hardware Box"
-slug: "hardware-box"
-description: "Packing details for the hardware box inside each main carton"
+title: "Hardware Kit"
+slug: "hardware-kit"
+description: "Packing details for the hardware kit inside each main carton"
 ---
 
 * toc
 {:toc}
 
-There are two versions of the hardware box: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the hardware kit: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
 |Item|Sub-packing|Genesis Qty|Genesis XL Qty|
 |----|-----------|-----------|--------------|
-|Pack of:<br>- 1x M5 to Luer Lock Adapter<br>- 3x Luer Lock Needle w/ cover (16 Gauge)<br>- 3x Luer Lock Needle w/ cover (19 Gauge)<br>- 3x Luer Lock Needle w/ cover (22 Gauge)|Press-to-seal bag|1 pack|1 pack
 |Pack of:<br>- 3x 20 Tooth GT2 Pulleys<br>- 1x 5mm to 8mm Shaft Coupler<br>- 1x Leadscrew Block<br>- 1x 90 Degree Barb<br>- 1x Inline Air Filter|Press-to-seal bag|1 pack|1 pack
 |Genesis Screw Pack:<br>- 35x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 150x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|1 pack|-
 |Genesis <span class="fb-xl-sticker">XL</span> Screw Pack:<br>- 60x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 225x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|-|1 pack
@@ -33,30 +32,28 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |[100mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#100mm-nut-bar)|Press-to-seal bag|2|6
 |[140mm Nut Bar](../../extras/bom/fasteners-and-hardware/nut-bars.md#140mm-nut-bar)|Press-to-seal bag|-|2
 |[M5 x 6mm Eccentric Spacer](../../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)|Press-to-seal bag|15|15
-|[Ring Magnets](../../extras/bom/fasteners-and-hardware/magnets.md#ring-magnets)|Press-to-seal bag|18|18
 |[100mm Zip Ties](../../extras/bom/fasteners-and-hardware/zip-ties.md#100mm-zip-ties)|Press-to-seal bag|25|25
 |[200mm Zip Ties](../../extras/bom/fasteners-and-hardware/zip-ties.md#200mm-zip-ties)|Press-to-seal bag|4|4
 |[Rubber Gasket](../../extras/bom/tubing.md#rubber-gasket)|Press-to-seal bag|4|4
-|[Jumper Links](../../extras/bom/electronics-and-wiring/miscellaneous.md#jumper-link)|Press-to-seal bag|5|5
 |[Teflon Tape](../../extras/bom/tubing.md#teflon-tape)|Factory packaging|1|1
-|[Soil Sensor PCB](../../extras/bom/electronics-and-wiring/soil-sensor.md#soil-sensor-pcb)|Anti-static bag|1|1
 |[Power Cord Protector](../../extras/bom/electronics-and-wiring/power-supply.md#power-cord-protector)|None|1|1
 |[NPT to Barb Adapter](../../extras/bom/tubing.md#npt-to-barb-adapter)|None|2|2
 |[Garden Hose to Barb Adapter](../../extras/bom/tubing.md#garden-hose-to-barb-adapter)|None|1|1
 |[Pressure Regulator](../../extras/bom/tubing.md#pressure-regulator)|None|1|1
-|Getting Started Guide / Camera Calibration Card|None|1|1
+|Getting Started Guide|None|1|1
+|Camera Calibration Card|None|1|1
 |Crop Stickers|None|1|1
 
 # Box specifications
 
-|                              |                              |
-|------------------------------|------------------------------|
-|**Box style**                 |Top flap (standard FarmBot box design)
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
 |**Inner dimensions (L x W x H)**|
 |**Outer dimensions (L x W x H)**|
-|**Material**                  |Cardboard
-|**Color**                     |Brown
-|**Printing**                  |None
-|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
-|**Fill**                      |Recycled kraft paper
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |None
+|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Fill**                        |Recycled kraft paper
 
