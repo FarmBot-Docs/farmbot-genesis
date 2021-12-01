@@ -7,15 +7,12 @@ description: "Bird's eye view of FarmBot Genesis and Genesis XL"
 * toc
 {:toc}
 
-**FarmBot Genesis** and **Genesis XL** are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 54m<sup>2</sup>, and plants as tall as 1m.
+**FarmBot Genesis** and **Genesis XL** are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
 
-![farmbot genesis v1.5](_images/farmbot_genesis_v1.5.png)
-
-_FarmBot Genesis v1.5_
-
-![farmbot genesis xl v1.5](_images/farmbot_genesis_xl_v1.5.png)
-
-_FarmBot Genesis XL v1.5_
+{% include gallery.html images="
+![farmbot genesis v1.6](_images/farmbot_genesis_v1.6.png)
+![farmbot genesis xl v1.6](_images/farmbot_genesis_xl_v1.6.png)
+" %}
 
 {%
 include callout.html
@@ -30,24 +27,7 @@ Go ahead and make your tracks longer, design a tool that electrocutes weeds, pro
 We hope you'll find our documentation useful and a great starting point for working with FarmBot and making it your own. If you ever have any questions, please head on over to the [forum](http://forum.farmbot.org). Cheers! 🍻"
 %}
 
-# Tracks
-
-**Tracks** are one of the components that really differentiate FarmBot Genesis from traditional free-driving wheeled tractors. The tracks are what allow the system to have great precision in an efficient and simple manner. There are many reasons of why tracks are superior, a few of which are listed below.
-1. Tracks provide great precision and allow the FarmBot to return to the same position repeatedly
-2. Any type of packing structure of plants can be created and managed
-3. Tracks take up less area than paths for tractor wheels and do not compact the soil
-
-# Gantry
-
-The **gantry** is the the structural component that bridges the two tracks and moves along the x-axis via a belt and pulley drive system. It also serves as a linear guide for the cross-slide to move across the gantry along the y-axis. The gantry can also serve as a base for mounting other tools, electronics, supplies, and/or sensors.
-
-# Cross-slide
-
-The **cross-slide** moves across the gantry along the y-axis. This motion provides the second major degree of freedom for FarmBots and allows operations such as planting to be done anywhere in the X/Y plane. The cross-slide is moved using a belt and pulley drive system and serves as the base for the z-axis to attach to.
-
-# Z-axis
-
-The **z-axis** attaches to the cross-slide and provides the FarmBot with movement along the z-axis. It serves as the base for attaching the universal tool mount and other tools.
+# Architecture
 
 <div class="tracks-image">
   <a href="_images/FarmBot_Coordinate_System_and_Major_Components.png">
@@ -82,41 +62,38 @@ img.fb {
 }
 </style>
 
-# Raised tracks vs low tracks
+## Tracks
 
-For FarmBots to properly grow taller plants, the gantry, cross-slide, z-axis, and tools must have adequate vertical clearance from the plants. This can generally be accomplished in two ways:
+**Tracks** are one of the components that really differentiate FarmBot Genesis from traditional free-driving wheeled tractors. The tracks are what allow the system to have great precision in an efficient and simple manner. There are many reasons of why tracks are superior, a few of which are listed below.
+1. Tracks provide great precision and allow the FarmBot to return to the same position repeatedly
+2. Any type of packing structure of plants can be created and managed
+3. Tracks take up less area than paths for tractor wheels and do not compact the soil
+
+{%
+include callout.html
+type="info"
+title="Raised tracks vs low tracks"
+content="For FarmBots to properly grow taller plants, the gantry, cross-slide, z-axis, and tools must have adequate vertical clearance from the plants. This can generally be accomplished in two ways:
 
 1. Using raised tracks and a low-profile gantry
 2. Using low tracks with a tall gantry
 
 In general, using low tracks with a tall gantry is the better design, especially for larger applications because it saves on material cost, is less of an eyesore, blocks less sunlight, and would be easier to maintain. However, in the case of a FarmBot being installed in a greenhouse or other structure, utilizing the existing walls to support the tracks higher may be a better solution.
 
-<div class="hardware-overview-image">
-  <a href="_images/Raised_Tracks_vs_Low_Tracks.png">
-  <img class="fb" src="https://cloud.githubusercontent.com/assets/12681652/15698343/672605a4-2778-11e6-9d69-5b27df2bab3a.png" />
-  </a>
-  <p style="top:5%;left:8%;width:350px;">Raised Tracks with Low-Profile Gantry</p>
-  <p style="top:5%;left:52%;width:100px;">vs.</p>
-  <p style="top:5%;left:62%;width:250px;">Low Tracks with Raised Gantry</p>
-</div>
+![rasied tracks vs low tracks](_images/raised_tracks_vs_low_tracks.png)"
+%}
 
-<style>
-img.fb {
-  width: 100%;
-}
-.hardware-overview-image {
-	position: relative;
-  width: 100%;
-  border: 3px solid #eee;
-  border-radius: 3px;
-}
-.hardware-overview-image p {
-  position: absolute;
-  font-size: 16px;
-  font-weight: bold;
-  text-align: center;
-}
-</style>
+## Gantry
+
+The **gantry** is the the structural component that bridges the two tracks and moves along the x-axis via a belt and pulley drive system. It also serves as a linear guide for the cross-slide to move across the gantry along the y-axis. The gantry can also serve as a base for mounting other tools, electronics, supplies, and/or sensors.
+
+## Cross-slide
+
+The **cross-slide** moves across the gantry along the y-axis. This motion provides the second major degree of freedom for FarmBots and allows operations such as planting to be done anywhere in the X/Y plane. The cross-slide is moved using a belt and pulley drive system and serves as the base for the z-axis to attach to.
+
+## Z-axis
+
+The **z-axis** attaches to the cross-slide and provides the FarmBot with movement along the z-axis. It serves as the base for attaching the universal tool mount and other tools.
 
 # Economies of scale
 
@@ -126,8 +103,8 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 
 |Model        |Track Length|Gantry Width|Growing Area     |Cost    |Cost/m^2|
 |-------------|------------|------------|-----------------|--------|--------|
-|Genesis      |3m          |1.5m        |4.5m<sup>2</sup> |~$2,600 |$578
-|Genesis XL   |6m          |3m          |18m<sup>2</sup>  |~$4,000 |$222
+|Genesis      |3m          |1.5m        |4.5m<sup>2</sup> |~$3,000 |$667
+|Genesis XL   |6m          |3m          |18m<sup>2</sup>  |~$5,000 |$278
 
 
 # What's next?
