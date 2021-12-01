@@ -1,7 +1,7 @@
 ---
 title: "Watering Nozzle"
 slug: "watering-nozzle"
-description: "Pre-assembly instructions for the Genesis and Genesis XL watering nozzle"
+description: "Pre-assembly and packing instructions for the watering nozzle"
 ---
 
 * toc

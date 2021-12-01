@@ -1,7 +1,7 @@
 ---
 title: "Weeder"
 slug: "weeder"
-description: "Pre-assembly instructions for the Genesis and Genesis XL weeder"
+description: "Pre-assembly and packing instructions for the weeder"
 ---
 
 * toc

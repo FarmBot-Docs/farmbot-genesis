@@ -1,7 +1,7 @@
 ---
 title: "Rotary Tool"
 slug: "rotary-tool"
-description: "Pre-assembly instructions for the Genesis and Genesis XL rotary tool"
+description: "Pre-assembly and packing instructions for the rotary tool"
 ---
 
 * toc

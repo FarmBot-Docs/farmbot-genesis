@@ -18,3 +18,4 @@ Some subassemblies of FarmBot Genesis come pre-assembled in the box. The followi
  * [Watering Nozzle](pre-assembly/tools/watering-nozzle.md)
  * [Weeder](pre-assembly/tools/weeder.md)
  * [Soil Sensor](pre-assembly/tools/soil-sensor.md)
+ * [Rotary Tool](pre-assembly/tools/rotary-tool.md)

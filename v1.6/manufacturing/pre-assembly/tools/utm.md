@@ -1,12 +1,14 @@
 ---
 title: "UTM Pre-Assembly"
 slug: "utm"
-description: "Pre-assembly instructions for the Genesis and Genesis XL UTM"
+description: "Pre-assembly and packing instructions for the UTM"
 ---
 
 * toc
 {:toc}
 
+
+![utm with barbs](_images/utm_with_barbs.png)
 
 # Component list
 

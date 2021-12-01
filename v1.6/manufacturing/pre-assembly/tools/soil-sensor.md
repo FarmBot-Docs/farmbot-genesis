@@ -1,7 +1,7 @@
 ---
 title: "Soil Sensor"
 slug: "soil-sensor"
-description: "Pre-assembly instructions for the Genesis and Genesis XL soil sensor"
+description: "Pre-assembly and packing instructions for the soil sensor"
 ---
 
 * toc

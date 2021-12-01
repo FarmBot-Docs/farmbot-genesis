@@ -1,7 +1,7 @@
 ---
 title: "Seed Injector"
 slug: "seed-injector"
-description: "Pre-assembly instructions for the Genesis and Genesis XL seed injector"
+description: "Pre-assembly and packing instructions for the seed injector"
 ---
 
 * toc
