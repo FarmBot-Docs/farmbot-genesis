@@ -68,7 +68,7 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 {%
 include callout.html
 type="success"
-title="Genesis XL and MAX kits also include three 1-slot toolbays"
+title="Genesis XL kits also include three 1-slot toolbays"
 content="Mount them using the same method used for the 3-slot toolbays."
 %}
 

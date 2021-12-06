@@ -1,7 +1,7 @@
 ---
 title: "Soil Sensor"
 slug: "soil-sensor"
-description: "Pre-assembly instructions for the Genesis and Genesis XL soil sensor"
+description: "Pre-assembly and packing instructions for the soil sensor"
 ---
 
 * toc
@@ -21,6 +21,8 @@ description: "Pre-assembly instructions for the Genesis and Genesis XL soil sens
 |M3 x 12mm Screws              |8
 |M3 Locknuts                   |8
 |Jumper Link                   |1
+|Soil Sensor Box               |1
+|Soil Sensor Box Insert        |1
 
 # Step 1: Install the magnets
 
@@ -64,4 +66,16 @@ Attach a **jumper link** to positions **B** and **C** using two **M3 x 12mm scre
 
 # Step 5: Pack
 
-Place the **pre-assembled soil sensor** into the box. Close the box.
+Place the **soil sensor box insert** into the **soil sensor box**. Then insert the **pre-assembled soil sensor** into the box and close the lid.
+
+# Box specifications
+
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
+|**Inner dimensions (L x W x H)**|
+|**Outer dimensions (L x W x H)**|
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |**[SOIL SENSOR.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Fill**                        |Cardboard insert

@@ -1,13 +1,13 @@
 ---
-title: "Plate Box"
-slug: "plate-box"
-description: "Packing details for the plate box inside each main carton"
+title: "Plate Kit"
+slug: "plate-kit"
+description: "Packing details for the plate kit inside each main carton"
 ---
 
 * toc
 {:toc}
 
-There are two versions of the plate box: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the plate kit: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
@@ -22,20 +22,20 @@ There are two versions of the plate box: one for **Genesis** kits and one for **
 |[Z-Axis Motor Mount](../../extras/bom/plates-and-brackets/z-axis.md#z-axis-motor-mount)|Wrapped in tissue paper|1|1
 |[50mm Cable Carrier Mount](../../extras/bom/plates-and-brackets/cable-carrier-mounts.md#50mm-cable-carrier-mount)|Wrapped in tissue paper|1|1
 |[80mm Cable Carrier Mount](../../extras/bom/plates-and-brackets/cable-carrier-mounts.md#80mm-cable-carrier-mount)|Wrapped in tissue paper|1|1
-|[3-Slot Toolbays](../../extras/bom/plates-and-brackets/toolbays.md#1-slot-toolbay)|Separated by thick recycled kraft paper|2|2
-|[1-Slot Toolbays](../../extras/bom/plates-and-brackets/toolbays.md#3-slot-toolbay)|Separated by thick recycled kraft paper|-|3
+|[3-Slot Toolbays](../../extras/bom/plates-and-brackets/toolbays.md#1-slot-toolbay)|100% recycled 50lb kraft paper|2|2
+|[1-Slot Toolbays](../../extras/bom/plates-and-brackets/toolbays.md#3-slot-toolbay)|100% recycled 50lb kraft paper|-|3
 |Pack of:<br>- 6x [Belt Clips](../../extras/bom/plates-and-brackets/belt-clips.md#belt-clip)<br>- 6x [Belt Sleeves](../../extras/bom/drivetrain.md#belt-sleeve)<br>- 2x [Z-Axis Hardstops](../../extras/bom/plates-and-brackets/z-axis.md#z-axis-hardstop)<br>- 1x [Seed Trough Holder Mount](../../extras/bom/plates-and-brackets/toolbays.md#seed-trough-holder-mount)|In press-to-seal bag (no individual wrapping)|1 pack|1 pack
 
 # Box specifications
 
-|                              |                              |
-|------------------------------|------------------------------|
-|**Box style**                 |Top flap (standard FarmBot box design)
-|**Inner dimensions (L x W x H)** |
-|**Outer dimensions (L x W x H)** |
-|**Material**                  |Cardboard
-|**Color**                     |Brown
-|**Printing**                  |None
-|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
-|**Fill**                      |Recycled kraft paper
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
+|**Inner dimensions (L x W x H)**|
+|**Outer dimensions (L x W x H)**|
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |None
+|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Fill**                        |100% recycled 50lb kraft paper
 

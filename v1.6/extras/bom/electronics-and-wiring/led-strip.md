@@ -16,7 +16,7 @@ This LED strip is strung through the gantry's horizontal cable carrier supports 
 |                              |                              |
 |------------------------------|------------------------------|
 |**Light Color**               |White 6000K
-|**Strip Length**              |Genesis - 1.5m<br>Genesis XL and MAX - 3m
+|**Strip Length**              |Genesis - 1.5m<br>Genesis XL - 3m
 |**Lead Length**               |1m
 |**Cable Color**               |Black
 |**Connector**                 |Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))

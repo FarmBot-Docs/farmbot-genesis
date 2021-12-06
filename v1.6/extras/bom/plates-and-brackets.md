@@ -8,23 +8,23 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 {:toc}
 
 
-|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
-|---------|------|-----------|----------------|------|-----------|-------|------------|
-|[1-Slot Toolbay](plates-and-brackets/toolbays.md#1-slot-toolbay)|$25.00|-|-|3|$75.00|3|$75.00
-|[3-Slot Toolbay](plates-and-brackets/toolbays.md#3-slot-toolbay)|$40.00|2|$80.00|2|$80.00|2|$80.00
-|[50mm Cable Carrier Mount](plates-and-brackets/cable-carrier-mounts.md#50mm-cable-carrier-mount)|$8.00|1|$8.00|1|$8.00|1|$8.00
-|[80mm Cable Carrier Mount](plates-and-brackets/cable-carrier-mounts.md#80mm-cable-carrier-mount)|$10.00|1|$10.00|1|$10.00|1|$10.00
-|[Belt Clip](plates-and-brackets/belt-clips.md#belt-clip)|$3.00|6|$18.00|6|$18.00|6|$18.00
-|[Cross-Slide Plate](plates-and-brackets/cross-slide.md#cross-slide-plate)|$25.00|1|$25.00|1|$25.00|1|$25.00
-|[Gantry Corner Bracket](plates-and-brackets/gantry.md#gantry-corner-bracket)|$30.00|2|$60.00|2|$60.00|2|$60.00
-|[Gantry Joining Bracket](plates-and-brackets/gantry.md#gantry-joining-bracket)|$35.00|-|-|1|$35.00|1|$35.00
-|[Gantry Wheel Plate](plates-and-brackets/gantry.md#gantry-wheel-plate)|$25.00|2|$50.00|2|$50.00|2|$50.00
-|[Seed Trough Holder Mount](plates-and-brackets/toolbays.md#seed-trough-holder-mount)|$5.00|1|$5.00|1|$5.00|1|$6.00
-|[Track End Plate](plates-and-brackets/track-plates.md#track-end-plate)|$12.00|4|$48.00|4|$48.00|4|$48.00
-|[Track Joining Plate](plates-and-brackets/track-plates.md#track-joining-plate)|$15.00|2|$30.00|6|$90.00|22|$330.00
-|[Z-Axis Hardstop](plates-and-brackets/z-axis.md#z-axis-hardstop)|$3.00|2|$6.00|2|$6.00|2|$6.00
-|[Z-Axis Motor Mount](plates-and-brackets/z-axis.md#z-axis-motor-mount)|$20.00|1|$20.00|1|$20.00|1|$20.00
-|**TOTALS**||**24**|**$355.00**|**32**|**$525.00**|**48**|**$765.00**
+|Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|
+|---------|------|-----------|----------------|------|-----------|
+|[1-Slot Toolbay](plates-and-brackets/toolbays.md#1-slot-toolbay)|$25.00|-|-|3|$75.00
+|[3-Slot Toolbay](plates-and-brackets/toolbays.md#3-slot-toolbay)|$40.00|2|$80.00|2|$80.00
+|[50mm Cable Carrier Mount](plates-and-brackets/cable-carrier-mounts.md#50mm-cable-carrier-mount)|$8.00|1|$8.00|1|$8.00
+|[80mm Cable Carrier Mount](plates-and-brackets/cable-carrier-mounts.md#80mm-cable-carrier-mount)|$10.00|1|$10.00|1|$10.00
+|[Belt Clip](plates-and-brackets/belt-clips.md#belt-clip)|$3.00|6|$18.00|6|$18.00
+|[Cross-Slide Plate](plates-and-brackets/cross-slide.md#cross-slide-plate)|$25.00|1|$25.00|1|$25.00
+|[Gantry Corner Bracket](plates-and-brackets/gantry.md#gantry-corner-bracket)|$30.00|2|$60.00|2|$60.00
+|[Gantry Joining Bracket](plates-and-brackets/gantry.md#gantry-joining-bracket)|$35.00|-|-|1|$35.00
+|[Gantry Wheel Plate](plates-and-brackets/gantry.md#gantry-wheel-plate)|$25.00|2|$50.00|2|$50.00
+|[Seed Trough Holder Mount](plates-and-brackets/toolbays.md#seed-trough-holder-mount)|$5.00|1|$5.00|1|$5.00
+|[Track End Plate](plates-and-brackets/track-plates.md#track-end-plate)|$12.00|4|$48.00|4|$48.00
+|[Track Joining Plate](plates-and-brackets/track-plates.md#track-joining-plate)|$15.00|2|$30.00|6|$90.00
+|[Z-Axis Hardstop](plates-and-brackets/z-axis.md#z-axis-hardstop)|$3.00|2|$6.00|2|$6.00
+|[Z-Axis Motor Mount](plates-and-brackets/z-axis.md#z-axis-motor-mount)|$20.00|1|$20.00|1|$20.00
+|**TOTALS**||**24**|**$355.00**|**32**|**$525.00**
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/poZNFG8F3Jo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

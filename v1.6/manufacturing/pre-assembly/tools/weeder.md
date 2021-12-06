@@ -1,7 +1,7 @@
 ---
 title: "Weeder"
 slug: "weeder"
-description: "Pre-assembly instructions for the Genesis and Genesis XL weeder"
+description: "Pre-assembly and packing instructions for the weeder"
 ---
 
 * toc
@@ -22,7 +22,9 @@ description: "Pre-assembly instructions for the Genesis and Genesis XL weeder"
 |M3 x 12mm Screws              |2
 |M3 Locknuts                   |2
 |Jumper Link                   |1
-|Bag of:<br>- 3x M3 x 6mm Screws<br>- 4x Weeder Blades (Wide)<br>- 4x Weeder Blades (Narrow)|1
+|Weeder accessory bag:<br>- 3x M3 x 6mm Screws<br>- 4x Weeder Blades (Wide)<br>- 4x Weeder Blades (Narrow)|1
+|Weeder Box                    |1
+|Weeder Box Insert             |1
 
 # Step 1: Install the basic tool hardware
 
@@ -38,4 +40,16 @@ Attach the four **medium weeder blades** to the **weeder** using **M3 x 6mm scre
 
 # Step 3: Pack
 
-Place the **bag of M3 x 6mm screws and weeder blades** into the box and then the **pre-assembled weeder** on top of the bag. Close the box.
+Place the **weeder box insert** into the **weeder box**. Then insert the **weeder accessory bag** followed by the **pre-assembled weeder**. Close the lid.
+
+# Box specifications
+
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
+|**Inner dimensions (L x W x H)**|
+|**Outer dimensions (L x W x H)**|
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |**[WEEDER.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Fill**                        |Cardboard insert

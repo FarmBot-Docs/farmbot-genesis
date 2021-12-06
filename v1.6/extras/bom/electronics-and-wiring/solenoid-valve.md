@@ -39,8 +39,6 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 |**Internal Part Name**        |`24V Solenoid Valve`
 |**Vendor**                    |
 |**$/pc**                      |$2.30
-|**Component Tests**           |
-|**Notes**                     |
 {:.internal}
 
 **Component tests**{:.internal}
@@ -51,6 +49,8 @@ This 24V valve controls the flow of water from your garden hose to FarmBot's tub
 |Voltage      |Connect the solenoid valve to a Farmduino and test operation.|Opens and does not get hot with 24V input|+/- 3V
 |Terminal size|Connnect a solenoid valve cable.|The cable's connectors should connect to the terminals as expected|N/A
 |Terminal direction|Inspect the direction the terminals face.|Terminals should face the inlet|N/A
+|Normal state |Try to blow air through the solenoid valve when it is unplugged/inactive.|Air should not pass through (the valve should be closed)|N/A
+|Pressure Range|Inspect the label on the solenoid valve for the working pressure range.|0.02 to 0.8 Mpa<br>(3 to 116 PSI)|N/A
 {:.internal}
 
 # Solenoid Valve Cable
@@ -79,8 +79,6 @@ This cable connects the solenoid valve to the Farmduino.
 |**Internal Part Name**        |`Solenoid Valve Cable - 0.5m`
 |**Vendor**                    |
 |**$/pc**                      |$1.70
-|**Component Tests**           |
-|**Notes**                     |
 {:.internal}
 
 **Component tests**{:.internal}

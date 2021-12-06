@@ -1,7 +1,7 @@
 ---
 title: "Watering Nozzle"
 slug: "watering-nozzle"
-description: "Pre-assembly instructions for the Genesis and Genesis XL watering nozzle"
+description: "Pre-assembly and packing instructions for the watering nozzle"
 ---
 
 * toc
@@ -21,6 +21,8 @@ description: "Pre-assembly instructions for the Genesis and Genesis XL watering 
 |M3 x 12mm Screws              |2
 |M3 Locknuts                   |2
 |Jumper Link                   |1
+|Watering Nozzle Box           |1
+|Watering Nozzle Box Insert    |1
 
 # Step 1: Assemble the watering nozzle
 
@@ -39,4 +41,16 @@ Install the **magnets** and tool verification **jumper link** using **M5 x 30mm 
 
 # Step 3: Pack
 
-Place the **pre-assembled watering nozzle** into the box. Close the box.
+Insert the **watering nozzle box insert** in the **watering nozzle box**. Then place the **pre-assembled watering nozzle** into the box and close the lid.
+
+# Box specifications
+
+|                                |                              |
+|--------------------------------|------------------------------|
+|**Box style**                   |Top flap (standard FarmBot box design)
+|**Inner dimensions (L x W x H)**|
+|**Outer dimensions (L x W x H)**|
+|**Material**                    |Cardboard
+|**Color**                       |Brown
+|**Printing**                    |**[WATERING NOZZLE.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Fill**                        |Cardboard insert

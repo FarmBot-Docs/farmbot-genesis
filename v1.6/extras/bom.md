@@ -9,16 +9,16 @@ description: "Top-level BOM for all components in FarmBot Genesis, grouped by ca
 
 The table below lists all of the components used in FarmBot Genesis grouped by category. To see detailed tech specs and photos of each component, start by clicking a category and then choosing a component from the following page.
 
-|Category|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
-|--------|-----------|----------------|------|-----------|-------|------------|
-|[Extrusions](bom/extrusions.md)|8|$205.00|13|$360.00|29|$840.00
-|[Plates and Brackets](bom/plates-and-brackets.md)|23|$347.00|31|$517.00|47|$757.00
-|[Plastic Parts](bom/plastic-parts.md)|53|$246.00|71|$300.00|119|$440.00
-|[Fasteners and Hardware](bom/fasteners-and-hardware.md)|665|$252.20|809|$415.20|1,160|$648.65
-|[Drivetrain](bom/drivetrain.md)|39|$346.00|39|$416.00|39|$646.00
-|[Electronics and Wiring](bom/electronics-and-wiring.md)|67|$1,186.00|67|$1,336.00|67|$1,466.00
-|[Tubing](bom/tubing.md)|26|$111.50|26|$120.50|26|$140.50
-|[Supporting Infrastructure](../assembly/supporting-infrastructure.md) **\***|50|$200.00|80|$500.00|200|$1200.00
+|Category|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|
+|--------|-----------|----------------|------|-----------|
+|[Extrusions](bom/extrusions.md)|8|$205.00|13|$360.00
+|[Plates and Brackets](bom/plates-and-brackets.md)|23|$347.00|31|$517.00
+|[Plastic Parts](bom/plastic-parts.md)|53|$246.00|71|$300.00
+|[Fasteners and Hardware](bom/fasteners-and-hardware.md)|665|$252.20|809|$415.20
+|[Drivetrain](bom/drivetrain.md)|39|$346.00|39|$416.00
+|[Electronics and Wiring](bom/electronics-and-wiring.md)|67|$1,186.00|67|$1,336.00
+|[Tubing](bom/tubing.md)|26|$111.50|26|$120.50
+|[Supporting Infrastructure](../assembly/supporting-infrastructure.md) **\***|50|$200.00|80|$500.00
 |**GRAND TOTAL**|**931**|**$2,893.70**|**1,136**|**$3,964.70**|**1,1687**|**$6,138.15**
 
 **\*** Supporting infrastructure is not included in FarmBot kits, but has been included here for estimation purposes. Part quantity and price will vary.

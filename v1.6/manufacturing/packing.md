@@ -19,14 +19,13 @@ The information is shared here as part of our commitment to 100% open-source [ha
 
 # What's next?
 
- * [Hardware Box](packing/hardware-box.md)
- * [Plate Box](packing/plate-box.md)
- * [Plastic Parts Box](packing/plastic-parts-box.md)
- * [Cable and Tubing Box](packing/cable-and-tubing-box.md)
- * [Motor Box](packing/motor-box.md)
- * [Power Supply Box](packing/power-supply-box.md)
- * [UTM Box](packing/utm-box.md)
- * [Tools Box](packing/tools-box.md)
- * [Main Carton Packing](packing/main-carton-packing.md)
- * [Extrusion and Leadscrew Packing](packing/extrusion-and-leadscrew-packing.md)
+ * [Hardware Kit](packing/hardware-kit.md)
+ * [Plate Kit](packing/plate-kit.md)
+ * [Plastic Parts Kit](packing/plastic-parts-kit.md)
+ * [Cable Kit](packing/cable-kit.md)
+ * [Motor Kit](packing/motor-kit.md)
+ * [Power Supply](packing/power-supply.md)
+ * [Assembly Tools](packing/assembly-tools.md)
+ * [Main Carton Packing](packing/main-carton.md)
+ * [Extrusion and Leadscrew Packing](packing/extrusion-and-leadscrew-kit.md)
  * [Pallet Stacking](packing/pallet-stacking.md)

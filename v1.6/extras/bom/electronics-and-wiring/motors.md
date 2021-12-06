@@ -68,7 +68,7 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Lengths**                   |**Genesis**<br>0.7m (X1)<br>2.6m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL and MAX**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
+|**Lengths**                   |**Genesis**<br>0.7m (X1)<br>2.6m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
 |**Cores**                     |4
 |**Gauge**                     |18
 |**Motor Connector**           |6 pin connector (only 4 pins used)
@@ -77,7 +77,7 @@ These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They ar
 |**Outer Color**               |Black
 |**Inner Colors**              |Black, Red, Yellow, White
 |**Labels**                    |`X1`, `X2`, `Y`, `ZY`, and `ZZ`
-|**Price**                     |**Genesis**<br>0.7m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL and MAX**<br>0.7m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
+|**Price**                     |**Genesis**<br>0.7m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL**<br>0.7m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
 
 **Internal specs**{:.internal}
 
@@ -107,7 +107,7 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Lengths**                   |**Genesis**<br>0.7m (X1)<br>2.3m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL and MAX**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
+|**Lengths**                   |**Genesis**<br>0.7m (X1)<br>2.3m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
 |**Cores**                     |7
 |**Gauge**                     |20
 |**Encoder Connector**         |8 pin connector
@@ -115,7 +115,7 @@ These cables connect the four rotary encoders to the Farmduino. They are labelle
 |**Farmduino Connector**       |2.54mm pitch 7-pin connector with locking tab ([Molex Part 50579407](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407))
 |**Outer Color**               |Black
 |**Labels**                    |`X1`, `X2`, `Y`, `ZY`, and `ZZ`
-|**Price**                     |**Genesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL and MAX**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
+|**Price**                     |**Genesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
 
 **Internal specs**{:.internal}
 
