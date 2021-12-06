@@ -11,6 +11,7 @@ description: "Packing details for the motor kit inside each main carton"
 
 |Item|Qty|
 |----|---|
+|Motor Box|1|
 |Motor Box Insert|1|
 |[NEMA 17 Stepper Motor with Rotary Encoder](../../extras/bom/electronics-and-wiring/motors.md#nema-17-stepper-motor-with-rotary-encoder)|4
 
@@ -18,9 +19,17 @@ description: "Packing details for the motor kit inside each main carton"
 
 Insert the **motor box insert** into the **motor box**.
 
+![pack the motor box insert](_images/motor_kit_pack_insert.png)
+
 # Step 2: Pack the motors
 
-Pack the four **NEMA 17 stepper motors with rotary encoders** into the box. The FarmBot logos should be facing up, out of the box.
+Pack the four **NEMA 17 stepper motors with rotary encoders** into the box. The FarmBot logos should be facing down, into the box. Then close the lid.
+
+{% include gallery.html images="
+![pack the motors](_images/motor_kit_pack_motors_1.png)
+![pack the motors](_images/motor_kit_pack_motors_2.png)
+![pack the motors](_images/motor_kit_packed.png)
+" %}
 
 # Box specifications
 
@@ -32,5 +41,4 @@ Pack the four **NEMA 17 stepper motors with rotary encoders** into the box. The 
 |**Material**                    |Cardboard
 |**Color**                       |Brown
 |**Printing**                    |None
-|**Fill**                        |Foam insert
-
+|**Fill**                        |Recycled paper pulp insert
