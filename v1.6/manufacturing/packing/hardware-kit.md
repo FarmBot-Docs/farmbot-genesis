@@ -16,8 +16,8 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |Pack of:<br>- 3x 20 Tooth GT2 Pulleys<br>- 1x 5mm to 8mm Shaft Coupler<br>- 1x Leadscrew Block<br>- 1x 90 Degree Barb<br>- 1x Inline Air Filter|Press-to-seal bag|1 pack|1 pack
 |Genesis Screw Pack:<br>- 35x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 150x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|1 pack|-
 |Genesis <span class="fb-xl-sticker">XL</span> Screw Pack:<br>- 60x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 225x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|-|1 pack
-|[Tools Box](tools-box.md)|-|1|1
-|[UTM Box](utm-box.md)|-|1|1
+|[Assembly Tools Box](assembly-tools.md)|-|1|1
+|[UTM Box](/tools/utm.md)|-|1|1
 |[Solenoid Valve](../../extras/bom/electronics-and-wiring/solenoid-valve.md#solenoid-valve)|Small box (no printing)|1|1
 |[Vacuum Pump](../../extras/bom/electronics-and-wiring/vacuum-pump.md#vacuum-pump)|Small box (no printing)|1|1
 |[GT2 Timing Belt](../../extras/bom/drivetrain.md#gt2-timing-belt) (1.7m)|Coiled|1|-
