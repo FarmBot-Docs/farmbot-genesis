@@ -2,8 +2,8 @@
 title: "Luer Lock Needles"
 slug: "luer-lock-needles"
 description: "These needles are used for seed injection."
-Price: $3.00
-Quantity: 3 of each gauge
+price: $3.00
+quantity: 3 of each gauge
 specs:
   Material: Stainless steel and plastic
   Gauges: 16, 19, and 22

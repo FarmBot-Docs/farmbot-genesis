@@ -19,8 +19,8 @@ This plastic bin allows you to load many seeds of the same type into your FarmBo
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $7.00
-  Quantity: 1
+  price: $7.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Seed Bin Rev A
   Vendor: LDO
@@ -38,8 +38,8 @@ The seed trays feature 16 small bins allowing you to load 16 precise quantities/
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $7.00
-  Quantity: 2
+  price: $7.00
+  quantity: 2
 internal-specs:
   Internal Part Name: Seed Tray Rev A
   Vendor: LDO
@@ -54,8 +54,8 @@ These troughs fit into the seed trough holder, allowing FarmBot to bring seeds w
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $3.00
-  Quantity: 2
+  price: $3.00
+  quantity: 2
 internal-specs:
   Internal Part Name: Seed Trough Rev A
   Vendor: LDO
@@ -70,8 +70,8 @@ This gantry-mounted seed trough holder allows FarmBot to bring seeds with it whi
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $8.00
-  Quantity: 1
+  price: $8.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Seed Trough Holder Rev B
   Vendor: LDO

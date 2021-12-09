@@ -30,8 +30,8 @@ specs:
   Farmduino connector: Black 12-pin connector ([Molex Part 430251200](https://www.molex.com/molex/products/part-detail/crimp_housings/0430251200))
   Intermediate connectors: 12-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   UTM connectors: 2x3 2.54mm pitch plug (yellow shrinkwrap)<br>2x4 2.54mm pitch plug (black shrinkwrap)
-  Price: Genesis - $50.00<br>Genesis XL - $60.00
-  Quantity: 1
+  price: Genesis - $50.00<br>Genesis XL - $60.00
+  quantity: 1
 internal-specs:
   Internal Part Name: enesis**<br>`UTM Cable Y-Axis Section - 2.6m (Genesis) Rev A`<br>`UTM Cable Z-Axis Section with Shroud - 1.0m Rev A`<br><br>**Genesis XL**<br>`UTM Cable Y-Axis Section - 4.1m (Genesis XL) Rev A`<br>`UTM Cable Z-Axis Section with Shroug - 1.0m Rev A`
   Vendor: 
@@ -65,8 +65,8 @@ specs:
   Pre-assembled?: Yes
   Number of pogo pins: 12 (includes 1 extra, and 2 extra jam nuts)
   Color: Matte black
-  Price: $35.00
-  Quantity: 1
+  price: $35.00
+  quantity: 1
 internal-specs:
   Internal Part Name: UTM PCB (assembled with pogo pins)`<br>`Pogo Pins`<br>`Jam Nuts
   Vendor: LDO

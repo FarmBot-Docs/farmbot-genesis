@@ -2,8 +2,8 @@
 title: "Track Joining Plate"
 slug: "track-joining-plate"
 description: "Tech specs for the track joining plates in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
-Price: $15.00
-Quantity:
+price: $15.00
+quantity:
   genesis: 2
   xl: 6
 specs:

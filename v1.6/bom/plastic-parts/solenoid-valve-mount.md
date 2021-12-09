@@ -19,8 +19,8 @@ This component features slots for the solenoid valve to be mounted with zip ties
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $6.00
-  Quantity: 1
+  price: $6.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Solenoid Valve Mount Rev A
   Vendor: LDO

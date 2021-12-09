@@ -2,8 +2,8 @@
 title: "60mm Cable Carrier Spacer Block"
 slug: "60mm-cable-carrier-block"
 description: "This component offsets the z-axis cable carrier from the cross-slide plate."
-Price: $3.00
-Quantity: 1
+price: $3.00
+quantity: 1
 specs:
   Material: Gray UV stabilized ABS
 internal-specs:

@@ -27,8 +27,8 @@ specs:
   Threads: 3/4" female NPT (National Pipe Thread)
   Engraving: `NPT`
   Rubber Gasket?: Included
-  Price: $5.00
-  Quantity: 2
+  price: $5.00
+  quantity: 2
 internal-specs:
   Internal Part Name: NPT to Barb Adapter (3/4" female NPT to Barb for 6mm ID tubing)
   Vendor: LDO
@@ -57,8 +57,8 @@ specs:
   Thickness: 1.78mm
   Temperature Range: -30° to 212° F
   Color: Black
-  Price: $0.50
-  Quantity: 3
+  price: $0.50
+  quantity: 3
 internal-specs:
   Internal Part Name: X profile O-rings
   Vendor: LDO
@@ -92,8 +92,8 @@ specs:
   Outlet Pressure: 15 PSI (103 kpa, 1.02 bar)
   Max Input Pressure: 100 PSI (688 kpa, 6.88 bar)
   Rubber Gasket?: Included
-  Price: $8.00
-  Quantity: 1
+  price: $8.00
+  quantity: 1
 internal-specs:
   Internal Part Name: 15 psi Pressure Reducer (3/4" female NPT to 3/4" male NPT)
   Vendor: LDO
@@ -117,8 +117,8 @@ These gaskets are used with the NPT to barb adapter, garden hose to barb adapter
 specs:
   Material: Rubber
   Size: For 3/4" NPT or GHT connections
-  Price: $1.00
-  Quantity: 4
+  price: $1.00
+  quantity: 4
 internal-specs:
   Internal Part Name: 3/4" Rubber Gasket
   Vendor: LDO
@@ -142,8 +142,8 @@ specs:
   Length: 10m
   Width: 1.5cm
   Color: White
-  Price: $5.00
-  Quantity: 1
+  price: $5.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Teflon Tape (1.5cm wide, 10m long)
   Vendor: LDO
@@ -171,8 +171,8 @@ specs:
   Compatible Tube Fittings: Barbs
   Inner Diameter: 6mm
   Outer Diameter: 10mm
-  Price: $1.00
-  Quantity: 2
+  price: $1.00
+  quantity: 2
 internal-specs:
   Internal Part Name: 6 x 10mm Tube - 0.15m (Vacuum)
   Vendor: LDO
@@ -205,8 +205,8 @@ specs:
   Compatible Tube Fittings: Barbs
   Inner Diameter: 6mm
   Outer Diameter: 10mm
-  Price: $5.00 - 0.95m<br>$8.00 - 2.1m<br>$10.00 - 3m<br>$12.00 - 3.6m<br>$15.00 - 4.5m<br>$35.00 - 10.5m
-  Quantity: One of each length
+  price: $5.00 - 0.95m<br>$8.00 - 2.1m<br>$10.00 - 3m<br>$12.00 - 3.6m<br>$15.00 - 4.5m<br>$35.00 - 10.5m
+  quantity: One of each length
 internal-specs:
   Internal Part Names: enesis**<br>`6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)`<br>`6 x 10mm Tube - 2.1m (Water, Y-axis, Genesis)`<br>`6 x 10mm Tube - 3.0m (Water, X-Axis, Genesis)`<br><br>**Genesis XL**<br>`6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)`<br>`6 x 10mm Tube - 3.6m (Water, Y-Axis Genesis XL)`<br>`6 x 10mm Tube - 4.5m (Water, X-Axis, Genesis XL)`
   Vendor: LDO

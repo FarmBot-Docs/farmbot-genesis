@@ -20,8 +20,8 @@ This tool acts as a mount for the soil sensor circuit board.
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $7.00
-  Quantity: 1
+  price: $7.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Soil Sensor Rev A
   Vendor: LDO

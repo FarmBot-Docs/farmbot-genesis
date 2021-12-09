@@ -2,8 +2,8 @@
 title: "1-Slot Toolbay"
 slug: "1-slot-toolbay"
 description: "Tech specs for the 1-slot toolbays in FarmBot Genesis XL. Visit [our shop](http://shop.farm.bot) to purchase parts."
-Price: $25.00
-Quantity:
+price: $25.00
+quantity:
   genesis: 0
   xl: 3
 specs:

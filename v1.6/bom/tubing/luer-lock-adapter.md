@@ -2,8 +2,8 @@
 title: "Luer Lock Adapter"
 slug: "luer-lock-adapter"
 description: "This adapter screws into the tool head and allows various luer lock needles to be quickly attached for seed injection."
-Price: $5.00
-Quantity: 1
+price: $5.00
+quantity: 1
 specs:
   Material: Stainless steel
   Threads: M5

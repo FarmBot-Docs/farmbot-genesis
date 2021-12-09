@@ -2,8 +2,8 @@
 title: "Gantry Wheel Plates"
 slug: "gantry-wheel-plates"
 description: "Tech specs for the gantry wheel plates."
-Price: $25.00
-Quantity:
+price: $25.00
+quantity:
   genesis: 2
   xl: 2
 specs:

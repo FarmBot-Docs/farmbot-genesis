@@ -19,8 +19,8 @@ specs:
   Lead Length: 1m
   Cable Color: Black
   Connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-  Price: 1.5m - $25.00<br>3m - $50.00
-  Quantity: 1
+  price: 1.5m - $25.00<br>3m - $50.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Genesis: `24V LED Strip - 1.5m strip w/ 0.7m lead`<br>Genesis XL: `24V LED Strip - 3.0m strip w/ 0.7m lead`
   Vendor: 

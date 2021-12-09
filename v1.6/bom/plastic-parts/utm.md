@@ -22,8 +22,8 @@ The UTM allows FarmBot to automatically switch tools for the task at hand. It fe
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $30.00
-  Quantity: 1
+  price: $30.00
+  quantity: 1
 internal-specs:
   Internal Part Name: UTM Rev B
   Vendor: LDO

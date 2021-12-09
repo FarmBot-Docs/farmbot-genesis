@@ -24,8 +24,8 @@ specs:
   Colors: Box - White<br>Lid - Frosted clear<br>Latches, Gasket, and Supergland - Black
   Cover Type: Hinged with latches
   Hinge Type: M3 x 35mm screws with locknuts
-  Price: $95.00
-  Quantity: 1
+  price: $95.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Genesis Electronics Box (Box) Rev A`<br>`Genesis Electronics Box (Lid) Rev A`<br>`Genesis Electronics Box (Gasket) Rev A`<br>`Genesis Electronics Box (Supergland) Rev A`<br>`Electronics Box (Latches) Rev A
   Vendor: 
@@ -49,8 +49,8 @@ specs:
   Waterproof?: Yes
   O-Ring?: Included
   Wiring?: Included
-  Price: $5.00
-  Quantity: 4 total
+  price: $5.00
+  quantity: 4 total
 internal-specs:
   Internal Part Name: Blue LED Indicator`<br>`Green LED Indicator`<br>`White LED Indicator
   Vendor: 
@@ -87,8 +87,8 @@ specs:
   Waterproof?: Yes
   O-Ring?: Included
   Wiring?: Included
-  Price: $7.00
-  Quantity: 5 total
+  price: $7.00
+  quantity: 5 total
 internal-specs:
   Internal Part Name: Yellow LED Push Button`<br>`Red LED Push Button`<br>`White LED Push Button
   Vendor: 

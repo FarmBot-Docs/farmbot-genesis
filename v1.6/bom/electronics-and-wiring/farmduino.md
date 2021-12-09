@@ -46,8 +46,8 @@ specs:
   PCB Color: Black
   RoHS Compliant: Yes
   CE Certification: Yes
-  Price: $150.00
-  Quantity: 1
+  price: $150.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Farmduino v1.6 Rev A
   Vendor: LDO
@@ -81,8 +81,8 @@ specs:
   Connector 2: Right-angle USB 2.0 Type B Male
   Length: 150mm
   Color: Black
-  Price: $5.00
-  Quantity: 1
+  price: $5.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Farmduino Data Cable
   Vendor: 
@@ -111,8 +111,8 @@ specs:
   Connector 1: Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
   Connector 2: Pre-stripped wire (no connector)
   Length: 10cm
-  Price: $3.00
-  Quantity: 2
+  price: $3.00
+  quantity: 2
 internal-specs:
   Internal Part Name: Peripheral Lead
   Vendor: 

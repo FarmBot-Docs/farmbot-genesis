@@ -19,8 +19,8 @@ This housing protects the vacuum pump from rain. It is mounted on the z-axis ext
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $15.00
-  Quantity: 1
+  price: $15.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Vacuum Pump Housing Rev A
   Vendor: LDO
@@ -38,8 +38,8 @@ The vacuum pump mount features slots for zip ties to secure the vacuum pump to t
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $6.00
-  Quantity: 1
+  price: $6.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Vacuum Pump Mount Rev B
   Vendor: LDO

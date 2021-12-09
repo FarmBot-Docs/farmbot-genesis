@@ -15,8 +15,8 @@ These small plastic components fasten the borescope camera to the z-axis extrusi
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $3.00
-  Quantity: 2
+  price: $3.00
+  quantity: 2
 internal-specs:
   Internal Part Name: Camera Mount Half Rev A
   Vendor: LDO

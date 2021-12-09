@@ -25,8 +25,8 @@ specs:
   Pitch: 20mm
   Bending Radius: 28mm
   End Piece Configuration: X-Axis - `X configuration` (see image below)<br>Y-Axis - `Y configuration` (see image below)<br>Z-Axis - `Z configuration` (see image below)
-  Price: enesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
-  Quantity: 1 for each axis
+  price: enesis**<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
+  quantity: 1 for each axis
 internal-specs:
   Internal Part Name: enesis**<br>X-Axis - `15 x 20 x 1700mm (85 links + end pieces in X configuration)`<br>Y-Axis - `15 x 50 x 1700mm (85 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`<br><br>**Genesis XL**<br>X-Axis - `15 x 20 x 3200mm (160 links + end pieces in X configuration)`<br>Y-Axis - `15 x 50 x 3200mm (160 links + end pieces in Y configuration)`<br>Z-Axis - `15 x 50 x 740mm (37 links + end pieces in Z configuration)`
   Vendor: JFLO

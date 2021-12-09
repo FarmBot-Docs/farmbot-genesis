@@ -28,8 +28,8 @@ specs:
   Encoder Connector: 8-pin connector
   Encoder Resolution: 360 lines/revolution
   Encoder Output: Differential
-  Price: $60.00
-  Quantity: 4
+  price: $60.00
+  quantity: 4
 internal-specs:
   Internal Part Name: NEMA 17 Stepper Motor w/ Rotary Encoder
   Vendor: Motor: LDO<br>Encoder: Honest Sensor
@@ -69,7 +69,7 @@ specs:
   Outer Color: Black
   Inner Colors: Black, Red, Yellow, White
   Labels: `X1`, `X2`, `Y`, `ZY`, and `ZZ`
-  Price: enesis**<br>0.7m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL**<br>0.7m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
+  price: enesis**<br>0.7m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL**<br>0.7m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
 internal-specs:
   Internal Part Name: Genesis X1 and Genesis XL X1 Motor Cable - 0.7m`<br>`Genesis X2 Motor Cable - 2.3m`<br>`Genesis Y Motor Cable - 2.7m`<br>`Genesis Z Motor Cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Motor Cable - 3.8m`<br>`Genesis XL Y Motor Cable - 4.2m`<br>`Genesis XL Z Motor cable, Y-axis section - 4.1m`<br>`Z Motor Cable, Z-axis section - 1.8m
   Vendor: 
@@ -100,7 +100,7 @@ specs:
   Farmduino Connector: 2.54mm pitch 7-pin connector with locking tab ([Molex Part 50579407](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407))
   Outer Color: Black
   Labels: `X1`, `X2`, `Y`, `ZY`, and `ZZ`
-  Price: enesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
+  price: enesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
 internal-specs:
   Internal Part Name: Genesis X1 and Genesis XL X1 Encoder Cable - 0.7m`<br>`Genesis X2 Encoder cable - 2.3m`<br>`Genesis Y Encoder cable - 2.7m`<br>`Genesis Z Encoder cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Encoder cable - 3.8m`<br>`Genesis XL Y Encoder cable - 4.2m`<br>`Genesis XL Z Encoder cable, Y-axis section - 4.1m`<br>`Genesis and Genesis XL Z Encoder cable, Z-axis section - 1.8m
   Vendor: 

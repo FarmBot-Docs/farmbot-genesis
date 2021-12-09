@@ -2,8 +2,8 @@
 title: "50mm Cable Carrier Mount"
 slug: "50mm-cable-carrier-mount"
 description: "This part allows the x-axis cable carrier to be mounted to the gantry column."
-Price: $8.00
-Quantity:
+price: $8.00
+quantity:
   genesis: 1
   xl: 1
 specs:

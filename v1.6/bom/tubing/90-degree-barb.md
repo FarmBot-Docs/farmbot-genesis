@@ -2,8 +2,8 @@
 title: "90-Degree Barb"
 slug: "90-degree-barb"
 description: "This barb is used to connect the y-axis water tube to the z-axis water tube."
-Price: $2.00
-Quantity: 1
+price: $2.00
+quantity: 1
 specs:
   material: Plastic
   color: Semi-clear white

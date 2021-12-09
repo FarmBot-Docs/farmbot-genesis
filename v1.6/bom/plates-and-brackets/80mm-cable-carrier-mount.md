@@ -2,8 +2,8 @@
 title: "80mm Cable Carrier Mount"
 slug: "80mm-cable-carrier-mount"
 description: "This part allows the y-axis cable carrier to be mounted to the cross-slide plate."
-Price: $10.00
-Quantity:
+price: $10.00
+quantity:
   genesis: 1
   xl: 1
 specs:

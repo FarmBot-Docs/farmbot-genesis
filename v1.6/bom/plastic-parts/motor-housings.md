@@ -20,8 +20,8 @@ These housings protect the gantry and cross-slide motors and encoders from rain.
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $10.00
-  Quantity: 3
+  price: $10.00
+  quantity: 3
 internal-specs:
   Internal Part Name: 75mm Horizontal Motor Housing Rev A
   Vendor: LDO
@@ -39,8 +39,8 @@ This component protects the z-axis motor from rain.
 
 specs:
   Material: Gray UV stabilized ABS
-  Price: $12.00
-  Quantity: 1
+  price: $12.00
+  quantity: 1
 internal-specs:
   Internal Part Name: 80mm Vertical Motor Housing Rev A
   Vendor: LDO

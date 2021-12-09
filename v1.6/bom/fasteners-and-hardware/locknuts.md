@@ -19,8 +19,8 @@ specs:
   Hex Width: M3 - 5.5mm<br>M5 - 8mm
   Flange Diameter: M3 - None<br>M5 - 11.5mm
   Material: Stainless Steel
-  Price: M3 - $0.10<br>M5 - $0.15
-  Quantity: M3 - 20 (4 pieces pre-assembled in electronics box, 16 pieces packed in bag)<br>M5 - 70
+  price: M3 - $0.10<br>M5 - $0.15
+  quantity: M3 - 20 (4 pieces pre-assembled in electronics box, 16 pieces packed in bag)<br>M5 - 70
 internal-specs:
   Internal Part Name: M3 Locknut`<br>`M5 Flange Locknut
   Vendor: 

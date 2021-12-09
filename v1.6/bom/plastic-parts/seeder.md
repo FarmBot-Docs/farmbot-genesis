@@ -21,8 +21,8 @@ The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and d
 specs:
   Material: Gray UV stabilized ABS
   Brass Insert: M5 threads
-  Price: $7.00
-  Quantity: 1
+  price: $7.00
+  quantity: 1
 internal-specs:
   Internal Part Name: Seeder Rev A
   Vendor: LDO

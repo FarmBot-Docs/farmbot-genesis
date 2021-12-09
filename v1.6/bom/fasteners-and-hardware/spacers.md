@@ -18,8 +18,8 @@ specs:
   Outer Diameter: 10mm
   Inner Diameter: 5.1mm
   Length: 6mm
-  Price: $0.20
-  Quantity: 30 (12 extra)
+  price: $0.20
+  quantity: 30 (12 extra)
 internal-specs:
   Internal Part Name: M5 x 6mm Spacer
   Vendor: 
@@ -47,8 +47,8 @@ specs:
   Rim Diameter: Fits into a 7.12mm hole
   Hex Size: 8mm
   Engraving: `6mm`, on the side with the shortest distance to the bore
-  Price: $2.00
-  Quantity: 15
+  price: $2.00
+  quantity: 15
 internal-specs:
   Internal Part Name: M5 x 6mm Eccentric Spacer
   Vendor: 

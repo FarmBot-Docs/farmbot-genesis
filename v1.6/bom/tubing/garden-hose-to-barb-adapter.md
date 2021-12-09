@@ -2,8 +2,8 @@
 title: "Garden Hose to Barb Adapter"
 slug: "garden-hose-to-barb-adapter"
 description: "This adapter connects standard US garden hoses to 6mm ID tubing."
-Price: $7.00
-Quantity: 1
+price: $7.00
+quantity: 1
 specs:
   Material: Brass
   For Tube ID: 6mm

@@ -2,8 +2,8 @@
 title: "Belt Clips"
 slug: "belt-clips"
 description: "Tech specs for the belt clips in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
-Price: $3.00
-Quantity:
+price: $3.00
+quantity:
   genesis: 6
   xl: 6
 specs:

@@ -2,8 +2,8 @@
 title: "Gantry Joining Bracket"
 slug: "gantry-joining-bracket"
 description: "Tech specs for the gantry joining bracket."
-Price: $35.00
-Quantity:
+price: $35.00
+quantity:
   genesis: 0
   xl: 1
 specs:
