@@ -12,5 +12,5 @@ internal-specs:
   Vendor: LDO
   $/pc: $1.45
   Component Tests: Plastic Part Tests
-  Notes: `Weeder Rev A` injection mold needs work: Remove ejector pin artifacts on bottom inside of part.
+  Notes: Weeder Rev A injection mold needs work - Remove ejector pin artifacts on bottom inside of part.
 ---
