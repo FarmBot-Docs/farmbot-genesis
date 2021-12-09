@@ -11,5 +11,6 @@ internal-specs:
   Internal Part Name: Seeder Rev A
   Vendor: LDO
   $/pc: $1.35
-  Component Tests: [Plastic Part Tests](../plastic-parts.md#component-tests)
-  Notes: Include ONLY **M5: rass inserts
+  Component Tests: Plastic Part Tests
+  Notes: Include ONLY M5 brass inserts
+---
