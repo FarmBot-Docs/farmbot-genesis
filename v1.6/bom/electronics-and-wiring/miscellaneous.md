@@ -17,8 +17,8 @@ specs:
   Material: Aluminum
   Thickness: 1mm
   Hole Sizes: M3
-  price: $0.25
-  quantity: 5
+price: $0.25
+quantity: 5
 internal-specs:
   Internal Part Name: Jumper Link
   Vendor: LDO
@@ -44,8 +44,8 @@ specs:
   Length: 180mm
   Connectors: 2.54mm pitch female dupont contact with heatshrink
   Color: Black
-  price: $0.25
-  quantity: 12
+price: $0.25
+quantity: 12
 internal-specs:
   Internal Part Name: Jumper Wire
   Vendor: 

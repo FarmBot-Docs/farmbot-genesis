@@ -16,8 +16,8 @@ specs:
   Material: Nylon
   Color: Black
   Length: 60mm, 100mm, and 200mm
-  price: 60mm - $0.05<br>100mm - $0.07<br>200mm - $0.10
-  quantity: 60mm - 50 or 0 (see note above)<br>100mm - 25<br>200mm - 10
+price: 60mm - $0.05<br>100mm - $0.07<br>200mm - $0.10
+quantity: 60mm - 50 or 0 (see note above)<br>100mm - 25<br>200mm - 10
 internal-specs:
   Internal Part Name: 100mm Zip Tie`<br>`200mm Zip Tie
   Vendor: 

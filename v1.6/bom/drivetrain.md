@@ -25,8 +25,8 @@ specs:
   Outer Diameter: 20mm
   Inner Diameters: 5mm and 8mm
   Screws: Stainless steel with 2mm hex drive
-  price: $6.00
-  quantity: 1
+price: $6.00
+quantity: 1
 internal-specs:
   Internal Part Name: 5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive
   Vendor: 
@@ -54,8 +54,8 @@ These sleeves secure the loose end of a belt to itself.
 specs:
   Material: Aluminum
   Surface Finish: Sand blasted and clear anodized
-  price: $0.50
-  quantity: 6
+price: $0.50
+quantity: 6
 internal-specs:
   Internal Part Name: Belt Sleeve
   Vendor: LDO
@@ -94,8 +94,8 @@ specs:
   Threads: Tr8*8-2p (4 starts)
   Pitch: 2mm
   Lead: 8mm
-  price: $35.00
-  quantity: 1
+price: $35.00
+quantity: 1
 internal-specs:
   Internal Part Name: 8mm x 800mm SS ACME Leadscrew
   Vendor: 
@@ -129,8 +129,8 @@ specs:
   Length: 34mm
   Width: 20mm
   Thickness: 12mm
-  price: $7.00
-  quantity: 1
+price: $7.00
+quantity: 1
 internal-specs:
   Internal Part Name: Leadscrew Block
   Vendor: 
@@ -162,8 +162,8 @@ specs:
   Bearing Seal: Rubber sealed
   Precision Shim Material: Stainless steel
   Precision Shim Dimensions: 10mm OD, 5mm ID, 1mm thickness
-  price: $6.00
-  quantity: 30
+price: $6.00
+quantity: 30
 internal-specs:
   Internal Part Name: V-Wheels (pre-assembled w/ SS M5 precision shim and SS bearings)
   Vendor: 
@@ -196,8 +196,8 @@ specs:
   Thickness: 0.75mm
   Pitch: GT2 (2mm)
   Color: Black (no markings)
-  price: 1.7m - $20.00<br>3.2m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
-  quantity: enesis**<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2
+price: 1.7m - $20.00<br>3.2m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
+quantity: enesis**<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2
 internal-specs:
   Internal Part Name: GT2 Timing Belt - [length]
   Vendor: 
@@ -233,8 +233,8 @@ specs:
   Setscrews: Two, stainless steel, with 2mm hex drive
   Max Belt Width: 7mm
   Pitch: GT2 (2mm)
-  price: $6.00
-  quantity: 3
+price: $6.00
+quantity: 3
 internal-specs:
   Internal Part Name: 20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive
   Vendor: 

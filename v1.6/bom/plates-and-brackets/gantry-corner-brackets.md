@@ -10,7 +10,7 @@ specs:
   Thickness: 5mm
   Material: 5052 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
-  quantity: 2 (1 left-hand and 1 right-hand version)
+quantity: 2 (1 left-hand and 1 right-hand version)
 internal-specs:
   Internal Part Name: Left Gantry Corner Bracket Rev A<br>Right Gantry Corner Bracket Rev A
   Vendor: LDO

@@ -21,8 +21,8 @@ Use this tool to tighten the bits in the handles of the other drivers.
 
 specs:
   Size: 2mm
-  price: $1.00
-  quantity: 1
+price: $1.00
+quantity: 1
 internal-specs:
   Internal Part Name: 2mm Allen Key
   Vendor: 
@@ -40,8 +40,8 @@ specs:
   Bit: Hardened steel with a titanium nitride coating
   Handle: Blue anodized aluminum
   Label: `2.0mm`
-  price: $5.00
-  quantity: 1
+price: $5.00
+quantity: 1
 internal-specs:
   Internal Part Name: 2mm Hex Driver
   Vendor: 
@@ -59,8 +59,8 @@ specs:
   Bit: Hardened steel with a titanium nitride coating
   Handle: Blue anodized aluminum
   Label: `3.0mm`
-  price: $5.00
-  quantity: 1
+price: $5.00
+quantity: 1
 internal-specs:
   Internal Part Name: 3mm Hex Driver
   Vendor: 
@@ -77,8 +77,8 @@ specs:
   Box Size: 5.5mm
   Handle: Black anodized aluminum
   Label: `5.5 BOX`
-  price: $5.00
-  quantity: 1
+price: $5.00
+quantity: 1
 internal-specs:
   Internal Part Name: 5.5mm Nut Driver
   Vendor: 
@@ -95,8 +95,8 @@ specs:
   Box Size: 8mm
   Handle: Black anodized aluminum
   Label: `8.0 BOX`
-  price: $5.00
-  quantity: 1
+price: $5.00
+quantity: 1
 internal-specs:
   Internal Part Name: 8mm Nut Driver
   Vendor: 
@@ -112,8 +112,8 @@ The wrench is for tightening M5 locknuts and adjusting eccentric spacers through
 specs:
   Size: 8mm
   Label: `8mm`
-  price: $3.00
-  quantity: 1
+price: $3.00
+quantity: 1
 internal-specs:
   Internal Part Name: 8mm Thin Wrench
   Vendor: 

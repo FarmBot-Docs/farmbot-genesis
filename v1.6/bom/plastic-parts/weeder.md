@@ -21,8 +21,8 @@ The weeding tool allows FarmBot to smash weeds into the ground, thereby killing 
 specs:
   Material: Gray UV stabilized ABS
   Brass Inserts: M3 inserts on all blades
-  price: $7.00
-  quantity: 1
+price: $7.00
+quantity: 1
 internal-specs:
   Internal Part Name: Weeder Rev A
   Vendor: LDO
@@ -41,8 +41,8 @@ internal-specs:
 specs:
   Material: Gray UV stabilized ABS
   Brass Inserts: M3 inserts on all blades
-  price: $2.00 each
-  quantity: 4 of each size
+price: $2.00 each
+quantity: 4 of each size
 internal-specs:
   Internal Part Name: Weeder Blades (Wide) Rev A`<br>`Weeder Blades (Medium) Rev A`<br>`Weeder Blades (Medium) Rev A
   Vendor: LDO

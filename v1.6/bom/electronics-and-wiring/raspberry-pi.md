@@ -26,8 +26,8 @@ specs:
   USB: 4x USB 2.0 ports
   Storage: MicroSD
   GPIO: 40-pin header
-  price: $40.00
-  quantity: 1
+price: $40.00
+quantity: 1
 internal-specs:
   Internal Part Name: Raspberry Pi 3B+
   Vendor: 
@@ -54,8 +54,8 @@ specs:
   Connector 2: Right-angle microUSB 2.0 Male
   Length: 300mm
   Color: Black
-  price: $5.00
-  quantity: 1
+price: $5.00
+quantity: 1
 internal-specs:
   Internal Part Name: Raspberry Pi Power Cable
   Vendor: 
@@ -82,11 +82,11 @@ This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides co
 " %}
 
 specs:
-  price: $10.00
+price: $10.00
   PCB Color: Black
   Realtime Clock: Integrated
   Battery: CR1220
-  quantity: 1
+quantity: 1
 internal-specs:
   Internal Part Name: Pi Adapter Board w/ RTC
   Vendor: LDO
@@ -110,8 +110,8 @@ specs:
   Form Factor: MicroSD
   Capacity: 8GB
   Brand: SanDisk
-  price: $15.00
-  quantity: 1
+price: $15.00
+quantity: 1
 internal-specs:
   Internal Part Name: 8GB Sandisk Industrial Micro SD card
   Vendor: 

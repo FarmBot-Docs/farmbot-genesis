@@ -17,8 +17,8 @@ specs:
   Overall Lengths: 20mm, 40mm, 60mm, 100mm, 140mm
   Threads: M5 x 0.8mm
   Fits Slot Size: 6
-  price: 20mm - $1.50<br>40mm - $1.75<br>60mm - $2.00<br>100mm - $2.50<br>140mm - $3.00
-  quantity: enesis**<br>20mm - 6<br>40mm - 28<br>60mm - 20<br>100mm - 2 or 0 (see note above)<br><br>**Genesis XL**<br>20mm - 6<br>40mm - 54<br>60mm - 24<br>100mm - 6 or 0 (see note above)<br>140mm - 2 or 0 (see note above)
+price: 20mm - $1.50<br>40mm - $1.75<br>60mm - $2.00<br>100mm - $2.50<br>140mm - $3.00
+quantity: enesis**<br>20mm - 6<br>40mm - 28<br>60mm - 20<br>100mm - 2 or 0 (see note above)<br><br>**Genesis XL**<br>20mm - 6<br>40mm - 54<br>60mm - 24<br>100mm - 6 or 0 (see note above)<br>140mm - 2 or 0 (see note above)
 internal-specs:
   Internal Part Name: 20mm Nut Bar`<br>`40mm Nut Bar`<br>`60mm Nut Bar`<br>`100mm Nut Bar`<br>`140mm Nut Bar
   Vendor: 
@@ -56,8 +56,8 @@ specs:
   Material: Stainless Steel
   Threads: M5 x 0.8mm
   Fits Slot Size: 6
-  price: $0.40
-  quantity: 20
+price: $0.40
+quantity: 20
 internal-specs:
   Internal Part Name: M5 SS Drop-in Tee Nuts
   Vendor: 

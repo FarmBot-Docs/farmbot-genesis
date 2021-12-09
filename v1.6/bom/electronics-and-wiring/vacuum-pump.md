@@ -21,8 +21,8 @@ specs:
   Current Draw: 0.5A
   Connectors: Three 3/16" male quick-connect terminals for `24V`, `GND`, and `PE` (protected earth)
   Barb Size: For 6mm ID tubing
-  price: $30.00
-  quantity: 1
+price: $30.00
+quantity: 1
 internal-specs:
   Internal Part Name: 24V Vacuum Pump with EMI Filter
   Vendor: LDO
@@ -62,8 +62,8 @@ specs:
   Farmduino connector: Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
   Intermediate connectors: 3-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   Vacuum pump connectors: Three 3/16" female insulated quick-connect terminals
-  price: Genesis - $20.00<br>Genesis XL - $25.00
-  quantity: 1
+price: Genesis - $20.00<br>Genesis XL - $25.00
+quantity: 1
 internal-specs:
   Internal Part Name: enesis**<br>`Vacuum Pump Cable Y-Axis Section - 2.6m (Genesis)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`<br><br>**Genesis XL**<br>`Vacuum Pump Cable Y-Axis Section - 4.1m (Genesis XL)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`
   Vendor: 

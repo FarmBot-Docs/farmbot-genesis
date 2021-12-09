@@ -24,8 +24,8 @@ specs:
   Input Cable: 0.3m long black cable with standard US 3-prong plug
   Waterproof Rating: IP67
   Brand: Weho
-  price: $60.00
-  quantity: 1
+price: $60.00
+quantity: 1
 internal-specs:
   Internal Part Name: IP67 24V 6.25A Power Supply
   Vendor: Weho
@@ -64,8 +64,8 @@ specs:
   Connector 1: Waterproof 3-pin screw-together connector
   Connector 2: Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
   Length: Genesis: 3m<br>Genesis XL: 4.5m
-  quantity: 1
-  price: 3m: $20.00<br>4.5m: $30.00
+quantity: 1
+price: 3m: $20.00<br>4.5m: $30.00
 internal-specs:
   Internal Part Name: Power Supply Cable - 3m Rev B`<br>`Power Supply Cable - 4.5m Rev B
   Vendor: 
@@ -98,8 +98,8 @@ specs:
   Color: Green
   Rainproof?: Yes
   Submersible?: No
-  price: $7.00
-  quantity: 1
+price: $7.00
+quantity: 1
 internal-specs:
   Internal Part Name: Rainproof Power Cord Box
   Vendor: 

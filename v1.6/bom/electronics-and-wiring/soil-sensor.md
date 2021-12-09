@@ -24,8 +24,8 @@ specs:
   Wire Colors: `VCC` - Red<br>`GND` - Black<br>`SIG` - Yellow<br>`SDA` - Green<br>`SCL` - White
   Wire Lengths: 50mm
   Ring Terminals: Insulated M3
-  price: $6.00
-  quantity: 1
+price: $6.00
+quantity: 1
 internal-specs:
   Internal Part Name: Soil Moisture and Temperature Sensor PCB Rev A
   Vendor: LDO

@@ -28,8 +28,8 @@ specs:
   Current Draw: 160mA
   Power Consumption: 3.84 watts
   Electrical Tabs Direction: Facing towards the inlet
-  price: $8.00
-  quantity: 1
+price: $8.00
+quantity: 1
 internal-specs:
   Internal Part Name: 24V Solenoid Valve
   Vendor: 
@@ -61,8 +61,8 @@ specs:
   Heat Shrink Color: Blue
   Connector 1: Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
   Connector 2: Two 1/4" female shielded quick-connect terminals
-  price: $10.00
-  quantity: 1
+price: $10.00
+quantity: 1
 internal-specs:
   Internal Part Name: Solenoid Valve Cable - 0.5m
   Vendor: 

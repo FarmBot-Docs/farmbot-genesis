@@ -26,8 +26,8 @@ specs:
   Camera Length: 38mm
   Cable Length: 1m
   Connector: 4-pin male 90 degree waterproof connector
-  price: $30.00
-  quantity: 1
+price: $30.00
+quantity: 1
 internal-specs:
   Internal Part Name: Camera
   Vendor: Shibang
@@ -62,8 +62,8 @@ specs:
   Cable: `Shielded 28AWG/1p+24AWG/2c`<br><br>`1p` = 1 twisted pair (for data)<br>`2c` = 2 core (for power)
   Connector 1: 4-pin female waterproof 90 degree connector
   Connector 2: Right-angle USB Type A connector
-  price: Genesis: $15.00<br>Genesis XL: $20.00
-  quantity: 1
+price: Genesis: $15.00<br>Genesis XL: $20.00
+quantity: 1
 internal-specs:
   Internal Part Name: Genesis: `Camera Cable - 2.6m`<br>Genesis XL: `Camera Cable - 4.1m`
   Vendor: 
@@ -93,8 +93,8 @@ specs:
   Material: Matte cardstock
   Thickness: 16pt
   Printing: [Front.pdf](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera_Calibration_Card_Rev_A_front.pdf?v=1596066432)<br>[Back.pdf](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera_Calibration_Card_Rev_A_back.pdf?v=1596066431)
-  price: $1.00
-  quantity: 1
+price: $1.00
+quantity: 1
 internal-specs:
   Internal Part Name: Camera Calibration Card
   Vendor: 
