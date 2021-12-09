@@ -66,7 +66,6 @@ price: Genesis - $20.00<br>Genesis XL - $25.00
 quantity: 1
 internal-specs:
   Internal Part Name: enesis**<br>`Vacuum Pump Cable Y-Axis Section - 2.6m (Genesis)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`<br><br>**Genesis XL**<br>`Vacuum Pump Cable Y-Axis Section - 4.1m (Genesis XL)`<br>`Vacuum Pump Cable Z-Axis Section - 1.0m`
-  Vendor: 
   $/pc: Y-Axis Section - 2.6m (Genesis) - $2.50<br>Y-Axis Section - 4.1m (Genesis XL) - $3.20<br>Z-Axis Section - 1.0m (Genesis and Genesis XL) - $1.90
 
 **Component tests**{:.internal}

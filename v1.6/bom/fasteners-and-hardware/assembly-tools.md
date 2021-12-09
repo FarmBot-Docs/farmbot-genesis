@@ -25,7 +25,6 @@ price: $1.00
 quantity: 1
 internal-specs:
   Internal Part Name: 2mm Allen Key
-  Vendor: 
   $/pc: $0.05
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -44,7 +43,6 @@ price: $5.00
 quantity: 1
 internal-specs:
   Internal Part Name: 2mm Hex Driver
-  Vendor: 
   $/pc: $1.80
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -63,7 +61,6 @@ price: $5.00
 quantity: 1
 internal-specs:
   Internal Part Name: 3mm Hex Driver
-  Vendor: 
   $/pc: $1.80
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -81,7 +78,6 @@ price: $5.00
 quantity: 1
 internal-specs:
   Internal Part Name: 5.5mm Nut Driver
-  Vendor: 
   $/pc: $1.90
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -99,7 +95,6 @@ price: $5.00
 quantity: 1
 internal-specs:
   Internal Part Name: 8mm Nut Driver
-  Vendor: 
   $/pc: $1.90
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -116,6 +111,5 @@ price: $3.00
 quantity: 1
 internal-specs:
   Internal Part Name: 8mm Thin Wrench
-  Vendor: 
   $/pc: $0.10
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)

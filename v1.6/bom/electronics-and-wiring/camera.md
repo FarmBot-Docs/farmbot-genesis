@@ -66,7 +66,6 @@ price: Genesis: $15.00<br>Genesis XL: $20.00
 quantity: 1
 internal-specs:
   Internal Part Name: Genesis: `Camera Cable - 2.6m`<br>Genesis XL: `Camera Cable - 4.1m`
-  Vendor: 
   $/pc: Genesis (2.6m) - $3.50<br>Genesis XL (4.1m) - $4.30
   Component Tests: 
   Notes: Cable must be shielded USB cable or there will be EMI issues.
@@ -97,7 +96,6 @@ price: $1.00
 quantity: 1
 internal-specs:
   Internal Part Name: Camera Calibration Card
-  Vendor: 
   $/pc: $0.25
   Component Tests: 
   Notes: 2-sided print

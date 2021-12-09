@@ -23,7 +23,6 @@ price: 1.5m - $25.00<br>3m - $50.00
 quantity: 1
 internal-specs:
   Internal Part Name: Genesis: `24V LED Strip - 1.5m strip w/ 0.7m lead`<br>Genesis XL: `24V LED Strip - 3.0m strip w/ 0.7m lead`
-  Vendor: 
   $/pc: Genesis (1.5m) - $6.00<br>Genesis XL (3m) - $11.00
   Notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 

@@ -30,7 +30,6 @@ price: $40.00
 quantity: 1
 internal-specs:
   Internal Part Name: Raspberry Pi 3B+
-  Vendor: 
   $/pc: $39.70
   Notes: Ensure the model is `3B+` (not `3B`)
 
@@ -58,7 +57,6 @@ price: $5.00
 quantity: 1
 internal-specs:
   Internal Part Name: Raspberry Pi Power Cable
-  Vendor: 
   $/pc: $1.19
   Notes: Samples received in July 2020
 
@@ -114,7 +112,6 @@ price: $15.00
 quantity: 1
 internal-specs:
   Internal Part Name: 8GB Sandisk Industrial Micro SD card
-  Vendor: 
   $/pc: $6.00
   Notes: Must be genuine SanDisk brand, new (not refurbished)
 

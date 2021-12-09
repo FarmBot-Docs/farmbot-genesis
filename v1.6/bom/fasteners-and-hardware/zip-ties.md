@@ -20,7 +20,6 @@ price: 60mm - $0.05<br>100mm - $0.07<br>200mm - $0.10
 quantity: 60mm - 50 or 0 (see note above)<br>100mm - 25<br>200mm - 10
 internal-specs:
   Internal Part Name: 100mm Zip Tie`<br>`200mm Zip Tie
-  Vendor: 
   $/pc: 100mm - $0.006<br>200mm - $0.015
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 

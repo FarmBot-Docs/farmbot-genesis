@@ -68,7 +68,6 @@ quantity: 1
 price: 3m: $20.00<br>4.5m: $30.00
 internal-specs:
   Internal Part Name: Power Supply Cable - 3m Rev B`<br>`Power Supply Cable - 4.5m Rev B
-  Vendor: 
   $/pc: 3m: $3.60<br>4.5m: $5.60
   Component Tests: 
   Notes: 
@@ -102,7 +101,6 @@ price: $7.00
 quantity: 1
 internal-specs:
   Internal Part Name: Rainproof Power Cord Box
-  Vendor: 
   $/pc: $1.50
   Notes: Will use Chinese samples received Aug 2020. Do NOT include plastic piece for hanging product on store shelves.
 

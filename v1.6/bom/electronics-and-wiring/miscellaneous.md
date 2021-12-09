@@ -48,7 +48,6 @@ price: $0.25
 quantity: 12
 internal-specs:
   Internal Part Name: Jumper Wire
-  Vendor: 
   $/pc: $0.14
 
 **Component tests**{:.internal}

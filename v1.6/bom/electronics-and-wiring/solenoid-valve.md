@@ -32,7 +32,6 @@ price: $8.00
 quantity: 1
 internal-specs:
   Internal Part Name: 24V Solenoid Valve
-  Vendor: 
   $/pc: $2.30
 
 **Component tests**{:.internal}
@@ -65,7 +64,6 @@ price: $10.00
 quantity: 1
 internal-specs:
   Internal Part Name: Solenoid Valve Cable - 0.5m
-  Vendor: 
   $/pc: $1.70
 
 **Component tests**{:.internal}

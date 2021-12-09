@@ -34,7 +34,6 @@ price: Genesis - $50.00<br>Genesis XL - $60.00
 quantity: 1
 internal-specs:
   Internal Part Name: enesis**<br>`UTM Cable Y-Axis Section - 2.6m (Genesis) Rev A`<br>`UTM Cable Z-Axis Section with Shroud - 1.0m Rev A`<br><br>**Genesis XL**<br>`UTM Cable Y-Axis Section - 4.1m (Genesis XL) Rev A`<br>`UTM Cable Z-Axis Section with Shroug - 1.0m Rev A`
-  Vendor: 
   $/pc: Y-Axis Section - 2.6m (Genesis) - $6.00<br>Y-Axis Section - 4.1m (Genesis XL) - $8.00<br>Z-Axis Section - 1.0m (Genesis and Genesis XL) - $5.00
 
 **Component tests**{:.internal}

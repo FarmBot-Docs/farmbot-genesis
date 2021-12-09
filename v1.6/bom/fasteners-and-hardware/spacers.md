@@ -22,7 +22,6 @@ price: $0.20
 quantity: 30 (12 extra)
 internal-specs:
   Internal Part Name: M5 x 6mm Spacer
-  Vendor: 
   $/pc: $0.10
 
 **Component tests**{:.internal}
@@ -51,7 +50,6 @@ price: $2.00
 quantity: 15
 internal-specs:
   Internal Part Name: M5 x 6mm Eccentric Spacer
-  Vendor: 
   $/pc: $0.30
 
 **Component tests**{:.internal}

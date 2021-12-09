@@ -29,7 +29,6 @@ price: $6.00
 quantity: 1
 internal-specs:
   Internal Part Name: 5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive
-  Vendor: 
   $/pc: $1.60
   Notes: `v1.5 Production Run 2` and `v1.6 Production Run 1`: screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoide adding extra hex key.
 
@@ -98,8 +97,7 @@ price: $35.00
 quantity: 1
 internal-specs:
   Internal Part Name: 8mm x 800mm SS ACME Leadscrew
-  Vendor: 
-  $/pc: $5.00
+$/pc: $5.00
 
 **Component tests**{:.internal}
 
@@ -133,7 +131,6 @@ price: $7.00
 quantity: 1
 internal-specs:
   Internal Part Name: Leadscrew Block
-  Vendor: 
   $/pc: $1.60
 
 **Component tests**{:.internal}
@@ -166,7 +163,6 @@ price: $6.00
 quantity: 30
 internal-specs:
   Internal Part Name: V-Wheels (pre-assembled w/ SS M5 precision shim and SS bearings)
-  Vendor: 
   $/pc: $1.10
 
 **Component tests**{:.internal}
@@ -200,7 +196,6 @@ price: 1.7m - $20.00<br>3.2m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m
 quantity: enesis**<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2
 internal-specs:
   Internal Part Name: GT2 Timing Belt - [length]
-  Vendor: 
   $/pc: 1.7m - $1.00<br>3.2m - $1.80<br>4.5m - $2.50<br>7.5m - $4.20
 
 **Component tests**{:.internal}
@@ -237,7 +232,6 @@ price: $6.00
 quantity: 3
 internal-specs:
   Internal Part Name: 20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive
-  Vendor: 
   $/pc: $0.75
 
 **Component tests**{:.internal}

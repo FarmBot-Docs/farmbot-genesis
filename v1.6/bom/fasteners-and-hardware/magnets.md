@@ -28,6 +28,5 @@ price: $3.00
 quantity: 21 (6 extras included, 3 come pre-mounted to the UTM)
 internal-specs:
   Internal Part Name: 15 x 5 x 5mm Ring Magnet
-  Vendor: 
   $/pc: $0.36
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)

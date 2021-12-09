@@ -85,7 +85,6 @@ price: $5.00
 quantity: 1
 internal-specs:
   Internal Part Name: Farmduino Data Cable
-  Vendor: 
   $/pc: $1.19
 
 **Component tests**{:.internal}
@@ -115,7 +114,6 @@ price: $3.00
 quantity: 2
 internal-specs:
   Internal Part Name: Peripheral Lead
-  Vendor: 
   $/pc: $1.30
 
 **Component tests**{:.internal}

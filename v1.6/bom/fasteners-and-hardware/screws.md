@@ -23,7 +23,6 @@ price: $0.15
 quantity: 8 (pre-assembled in the electronics box)
 internal-specs:
   Internal Part Name: M2.5 x 4mm Screw (2mm Hex Drive)
-  Vendor: 
   $/pc: $0.009
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -43,7 +42,6 @@ price: 6mm - $0.10<br>12mm - $0.15<br>35mm - $0.20
 quantity: 6mm - 10<br>12mm - 40<br>35mm - 4 (pre-assembled in the electronics box)
 internal-specs:
   Internal Part Name: M3 x 6mm Screw`<br>`M3 x 12mm Screw`<br>`M3 x 35mm Screw
-  Vendor: 
   $/pc: 6mm - $0.008<br>12mm - $0.012<br>35mm - $0.032
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -75,7 +73,6 @@ price: 10mm - $0.15<br>16mm - $0.20<br>30mm - $0.30
 quantity: 10mm - Genesis: 150, Genesis XL: 225<br>16mm - 40<br>30mm - 45
 internal-specs:
   Internal Part Name: M5 x 10mm Screw`<br>`M5 x 16mm Screw`<br>`M5 x 30mm Screw
-  Vendor: 
   $/pc: 10mm - $0.023<br>16mm - $0.029<br>30mm - $0.049
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
 
@@ -106,6 +103,5 @@ price: $0.05
 quantity: Genesis - 35<br>Genesis XL - 60
 internal-specs:
   Internal Part Name: 25mm Wood Screw
-  Vendor: 
   $/pc: $0.006
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)

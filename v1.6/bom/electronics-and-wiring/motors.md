@@ -72,7 +72,6 @@ specs:
 price: enesis**<br>0.7m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL**<br>0.7m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
 internal-specs:
   Internal Part Name: Genesis X1 and Genesis XL X1 Motor Cable - 0.7m`<br>`Genesis X2 Motor Cable - 2.3m`<br>`Genesis Y Motor Cable - 2.7m`<br>`Genesis Z Motor Cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Motor Cable - 3.8m`<br>`Genesis XL Y Motor Cable - 4.2m`<br>`Genesis XL Z Motor cable, Y-axis section - 4.1m`<br>`Z Motor Cable, Z-axis section - 1.8m
-  Vendor: 
   $/pc: enesis**<br>0.7m (X1) - $1.50<br>2.3m (X2) - $1.90<br>2.7m (Y) - $2.10<br>2.6m (ZY) - $3.60<br>1.8m (ZZ) - $2.80<br><br>**Genesis XL**<br>0.7m (X1) - $1.50<br>3.8m (X2) - $2.60<br>4.2m (Y) - $2.80<br>4.1m (ZY) - $4.30<br>1.8m (ZZ) - $2.80
   Notes: What are the part numbers for the connectors?
 
@@ -103,7 +102,6 @@ specs:
 price: enesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
 internal-specs:
   Internal Part Name: Genesis X1 and Genesis XL X1 Encoder Cable - 0.7m`<br>`Genesis X2 Encoder cable - 2.3m`<br>`Genesis Y Encoder cable - 2.7m`<br>`Genesis Z Encoder cable, Y-axis section - 2.6m`<br>`Genesis XL X2 Encoder cable - 3.8m`<br>`Genesis XL Y Encoder cable - 4.2m`<br>`Genesis XL Z Encoder cable, Y-axis section - 4.1m`<br>`Genesis and Genesis XL Z Encoder cable, Z-axis section - 1.8m
-  Vendor: 
   $/pc: enesis**<br>0.7m (X1) - $1.70<br>2.3m (X2) - $2.30<br>2.7m (Y) - $2.70<br>2.6m (ZY) - $5.50<br>1.8m (ZZ) - $5.20<br><br>**Genesis XL**<br>0.7m (X1) - $1.70<br>3.8m (X2) - $3.20<br>4.2m (Y) - $3.70<br>4.1m (ZY) - $6.20<br>1.8m (ZZ) - $5.20
   Notes: What are the part numbers for the connectors?
 

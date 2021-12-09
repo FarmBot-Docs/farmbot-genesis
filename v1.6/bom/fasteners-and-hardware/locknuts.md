@@ -23,7 +23,6 @@ price: M3 - $0.10<br>M5 - $0.15
 quantity: M3 - 20 (4 pieces pre-assembled in electronics box, 16 pieces packed in bag)<br>M5 - 70
 internal-specs:
   Internal Part Name: M3 Locknut`<br>`M5 Flange Locknut
-  Vendor: 
   $/pc: M3 - $0.014<br>M5 - $0.08
   Component Tests: [Fasteners and hardware tests](../fasteners-and-hardware.md#component-tests)
   Notes: 

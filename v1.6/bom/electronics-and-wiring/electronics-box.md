@@ -28,7 +28,6 @@ price: $95.00
 quantity: 1
 internal-specs:
   Internal Part Name: Genesis Electronics Box (Box) Rev A`<br>`Genesis Electronics Box (Lid) Rev A`<br>`Genesis Electronics Box (Gasket) Rev A`<br>`Genesis Electronics Box (Supergland) Rev A`<br>`Electronics Box (Latches) Rev A
-  Vendor: 
   $/pc: Box - $10.60<br>Lid - $5.40<br>Gasket - $1.20<br>Supergland - $0.70<br>Latches - $0.80
 
 # LED Indicator
@@ -53,7 +52,6 @@ price: $5.00
 quantity: 4 total
 internal-specs:
   Internal Part Name: Blue LED Indicator`<br>`Green LED Indicator`<br>`White LED Indicator
-  Vendor: 
   $/pc: Indicator: $0.99<br>Wiring: $0.50
 
 **Component tests**{:.internal}
@@ -91,7 +89,6 @@ price: $7.00
 quantity: 5 total
 internal-specs:
   Internal Part Name: Yellow LED Push Button`<br>`Red LED Push Button`<br>`White LED Push Button
-  Vendor: 
   $/pc: Button: $2.49<br>Wiring: $1.00
 
 **Component tests**{:.internal}
