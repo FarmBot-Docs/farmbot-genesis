@@ -5,7 +5,7 @@ description: "This cable connects the camera to the Raspberry Pi through the y-a
 price: Genesis - $15.00<br>Genesis XL - $20.00
 quantity: 1
 specs:
-  Length: Genesis: 2.6m<br>Genesis XL: 4.1m
+  Length: Genesis - 2.6m<br>Genesis XL - 4.1m
   Cable: Shielded 28AWG/1p+24AWG/2c<br><br>1p = 1 twisted pair (for data)<br>2c = 2 core (for power)
   Connector 1: 4-pin female waterproof 90 degree connector
   Connector 2: Right-angle USB Type A connector

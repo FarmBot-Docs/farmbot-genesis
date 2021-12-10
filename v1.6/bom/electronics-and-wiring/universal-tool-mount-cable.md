@@ -9,7 +9,7 @@ specs:
   Wire Colors: All different
   Shielded?: Yes
   Wire Gauge: 24
-  Lengths: Genesis**<br>Y-axis section - 2.6m<br>Z-axis section - 1.0m<br><br>**Genesis XL**<br>Y-axis section - 4.1m<br>Z-axis section: 1.0m
+  Lengths: Genesis**<br>Y-axis section - 2.6m<br>Z-axis section - 1.0m<br><br>**Genesis XL**<br>Y-axis section - 4.1m<br>Z-axis section - 1.0m
   Outer Diameter: 8mm
   Outer Color: Black
   Shroud: Included black silicone rubber

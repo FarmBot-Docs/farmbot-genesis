@@ -11,7 +11,7 @@ specs:
   Connector 2: Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
   Length: Genesis: 3m<br>Genesis XL: 4.5m
 internal-specs:
-  Internal Part Name: Power Supply Cable - 3m Rev B`<br>`Power Supply Cable - 4.5m Rev B
+  Internal Part Name: Power Supply Cable - 3m Rev B<br>Power Supply Cable - 4.5m Rev B
   $/pc: 3m: $3.60<br>4.5m: $5.60
 ---
 
@@ -26,5 +26,5 @@ internal-specs:
 |Connector 2  |Inspect the connector type.|Should be a 3-pin plug ([Molex 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213)|N/A
 |Cable carrier fit|Insert the cable and a water tube through the X-axis cable carrier (including through the end pieces).|Should fit|N/A
 |Electronics box fit|Insert the cable and connector 2 through the slot in the bottom of the electronics box and then insert the supergland.|Should fit|N/A
-|Farmduino fit|Connect the cable to the Farmduino's `24V POWER IN` connector.|Should connect and power the board|N/A
+|Farmduino fit|Connect the cable to the Farmduino's 24V POWER IN connector.|Should connect and power the board|N/A
 |Color        |Inspect the part's colors.|Black cable<br>Black Molex connector|N/A

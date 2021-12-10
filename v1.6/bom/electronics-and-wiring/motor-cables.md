@@ -8,7 +8,7 @@ specs:
   Cores: 4
   Gauge: 18
   Motor Connector: 6 pin connector (only 4 pins used)
-  Intermediate connector**<br>(Z cable only)|4-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+  Intermediate connector: 4-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   Farmduino Connector: 2.54mm pitch 4-pin connector with locking tab ([Molex Part 50579404](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579404))
   Outer Color: Black
   Inner Colors: Black, Red, Yellow, White

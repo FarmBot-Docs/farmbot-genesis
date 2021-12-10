@@ -4,11 +4,11 @@ slug: "encoder-cables"
 description: "These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end X1, X2, Y, and ZY. The Z-axis cable is split into a Y-axis section labelled ZY and a Z-axis section labelled ZZ that connect with a 90-degree screw-together waterproof connection at the cross-slide."
 price: Genesis**<br>0.7m - $20.00<br>2.3m - $23.00<br>2.7m - $25.00<br>2.6m+1.8m - $35.00<br><br>**Genesis XL**<br>0.7m - $20.00<br>3.8m - $28.00<br>4.2m - $30.00<br>4.1m+1.8m - $40.00
 specs:
-  Lengths: enesis**<br>0.7m (X1)<br>2.3m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
+  Lengths: Genesis**<br>0.7m (X1)<br>2.3m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
   Cores: 7
   Gauge: 20
   Encoder Connector: 8 pin connector
-  Intermediate connector**<br>(Z cable only)|7-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
+  Intermediate connector: 7-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   Farmduino Connector: 2.54mm pitch 7-pin connector with locking tab ([Molex Part 50579407](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407))
   Outer Color: Black
   Labels: X1, X2, Y, ZY, and ZZ

@@ -17,7 +17,7 @@ specs:
   Encoder Output: Differential
 internal-specs:
   Internal Part Name: NEMA 17 Stepper Motor w/ Rotary Encoder
-  Vendor: Motor: LDO<br>Encoder: Honest Sensor
+  Vendor: Motor - LDO<br>Encoder - Honest Sensor
   $/pc: $29.40
   Notes: Logo engraving must NOT be stretched. Please send photo of first samples to verify.
 ---
