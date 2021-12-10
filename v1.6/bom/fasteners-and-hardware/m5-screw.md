@@ -17,15 +17,3 @@ internal-specs:
   $/pc: 10mm - $0.023<br>16mm - $0.029<br>30mm - $0.049
 Component Tests: Fasteners and hardware tests
 ---
-
-## M5 x 10mm Screws
-
-![m5x10](_images/m5x10.jpg)
-
-## M5 x 16mm Screws
-
-![m5x16](_images/m5x16.jpg)
-
-## M5 x 30mm Screws
-
-![m5x30](_images/m5x30.jpg)

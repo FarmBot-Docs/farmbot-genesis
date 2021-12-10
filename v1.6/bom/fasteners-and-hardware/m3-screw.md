@@ -17,15 +17,3 @@ internal-specs:
   $/pc: 6mm - $0.008<br>12mm - $0.012<br>35mm - $0.032
 Component Tests: Fasteners and hardware tests
 ---
-
-## M3 x 6mm Screws
-
-![m3x5](_images/m3x5.jpg)
-
-## M3 x 12mm Screws
-
-![M3x12](_images/m3x12.jpg)
-
-## M3 x 35mm Screws
-
-Image coming soon

@@ -4,7 +4,7 @@ slug: "40mm-horizontal-cable-carrier-support"
 description: "These parts are used to mount and support the x-axis cable carrier. The gusset also functions as an area for cables, tubes, and LED light strips to be routed through."
 price: $3.00
 quantity:
-  Genesis: 12
+  genesis: 12
   xl: 24
 specs:
   Material: Gray UV stabilized ABS

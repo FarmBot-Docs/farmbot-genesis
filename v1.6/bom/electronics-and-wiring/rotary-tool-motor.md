@@ -2,6 +2,10 @@
 title: "Rotary Tool Motor"
 slug: "rotary-tool-motor"
 description: "The muscle of the rotary tool is this 24V DC motor."
+price: $20.00
+quantity:
+  genesis: 1
+  xl: 1
 ---
 
 **Component tests**{:.internal}

@@ -13,15 +13,3 @@ internal-specs:
   $/pc: 100mm - $0.006<br>200mm - $0.015
 Component Tests: Fasteners and hardware tests
 ---
-
-## 60mm Zip Ties
-
-![60mm zip ties](_images/60mm_zip_ties.jpg)
-
-## 100mm Zip Ties
-
-![100mm zip ties](_images/100mm_zip_ties.jpg)
-
-## 200mm Zip Ties
-
-![200mm zip ties](_images/200mm_zip_ties.jpg)

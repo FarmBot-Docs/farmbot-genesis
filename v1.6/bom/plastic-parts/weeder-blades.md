@@ -1,8 +1,10 @@
 ---
 title: "Weeder Blades"
 slug: "weeder-blades"
-price: $2.00 each
-quantity: 4 of each size
+price: $2.00
+quantity:
+  genesis: 12
+  xl: 12
 specs:
   Material: Gray UV stabilized ABS
   Brass Inserts: M3 inserts on all blades

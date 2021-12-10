@@ -16,11 +16,3 @@ internal-specs:
   $/pc: M3 - $0.014<br>M5 - $0.08
 Component Tests: Fasteners and hardware tests
 ---
-
-## M3 Locknuts
-
-![m3 locknuts](_images/m3_locknuts.jpg)
-
-## M5 Flange Locknuts
-
-![m5 flange locknuts](_images/m5_flange_locknuts.jpeg)
