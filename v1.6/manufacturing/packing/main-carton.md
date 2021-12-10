@@ -19,9 +19,9 @@ The tables below show the items that should be packed into the **main carton** f
 |[Cable Kit](cable-kit.md)|None|1
 |[Motor Kit](motor-kit.md)|None|1
 |[Power Supply Box](power-supply.md)|None|1
-|[X-Axis Cable Carrier](../../extras/bom/electronics-and-wiring/cable-carrier.md) (15 x 30 x 1700mm)|None (no plastic bag)|1
-|[Y-Axis Cable Carrier](../../extras/bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 1700mm)|None (no plastic bag)|1
-|[Z-Axis Cable Carrier](../../extras/bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 740mm)|None (no plastic bag)|1
+|[X-Axis Cable Carrier](../../bom/electronics-and-wiring/cable-carrier.md) (15 x 30 x 1700mm)|None (no plastic bag)|1
+|[Y-Axis Cable Carrier](../../bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 1700mm)|None (no plastic bag)|1
+|[Z-Axis Cable Carrier](../../bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 740mm)|None (no plastic bag)|1
 |[Pre-Assembled Electronics Box](../pre-assembly/electronics-box.md)|Thick paper wrapping (no plastic bag or foam)|1
 
 # Genesis XL packing list
@@ -34,9 +34,9 @@ The tables below show the items that should be packed into the **main carton** f
 |<span class="fb-xl-sticker">XL</span> [Cable Kit](cable-kit.md)|None|1
 |[Motor Kit](motor-kit.md)|None|1
 |[Power Supply Box](power-supply.md)|None|1
-|[X-Axis Cable Carrier](../../extras/bom/electronics-and-wiring/cable-carrier.md) (15 x 30 x 3200mm)|None (no plastic bag)|1
-|[Y-Axis Cable Carrier](../../extras/bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 3200mm)|None (no plastic bag)|1
-|[Z-Axis Cable Carrier](../../extras/bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 740mm)|None (no plastic bag)|1
+|[X-Axis Cable Carrier](../../bom/electronics-and-wiring/cable-carrier.md) (15 x 30 x 3200mm)|None (no plastic bag)|1
+|[Y-Axis Cable Carrier](../../bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 3200mm)|None (no plastic bag)|1
+|[Z-Axis Cable Carrier](../../bom/electronics-and-wiring/cable-carrier.md) (15 x 50 x 740mm)|None (no plastic bag)|1
 |[Pre-Assembled Electronics Box](../pre-assembly/electronics-box.md)|Thick paper wrapping (no plastic bag or foam)|1
 
 # Edge protectors and straps

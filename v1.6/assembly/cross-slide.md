@@ -21,7 +21,7 @@ content="This is the estimated time it will take to assemble the cross-slide."
 
 # Step 1: Add the gantry V-wheels
 
-Attach four **V-wheels** with **[standard spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-spacers)** to the **cross-slide plate** using **M5 x 30mm screws** and **M5 flange locknuts**.
+Attach four **V-wheels** with **[standard spacers](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-spacers)** to the **cross-slide plate** using **M5 x 30mm screws** and **M5 flange locknuts**.
 
 {%
 include callout.html
@@ -31,7 +31,7 @@ content="Make sure you attach the V-wheels to the correct side of the cross-slid
 
 ![Add the gantry v-wheels with normal spacers](_images/gantry_v-wheels_with_normal_spacers.jpg)
 
-Attach three **V-wheels** with **[eccentric spacer](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
+Attach three **V-wheels** with **[eccentric spacer](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
 
 ![Add the gantry v-wheels with eccentric spacers](_images/cross_slide_with_gantry_v_wheels.jpg)
 
@@ -41,11 +41,11 @@ Flip the cross-slide over so that all of the V-wheels you have added so far are 
 
 ![Flip the cross-slide over](_images/flip_the_cross-slide_over.jpg)
 
-Attach two **V-wheels** with **[standard spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-spacers)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
+Attach two **V-wheels** with **[standard spacers](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-spacers)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
 
 ![Add the z-axis v-wheels with normal spacers](_images/cross_slide_with_z_axis_v_wheels_with_normal_spacers.jpg)
 
-Attach three **V-wheels** with **[eccentric spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
+Attach three **V-wheels** with **[eccentric spacers](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
 
 ![Add the z-axis v-wheels with eccentric spacers](_images/cross_slide_with_z_axis_v_wheels.jpg)
 
@@ -90,7 +90,7 @@ Attach the **80mm cable carrier mount** to the **cross-slide plate** using **M5 
 
 # Step 6: Slide the cross-slide onto the gantry main beam
 
-In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must first adjust the **[eccentric spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** of the bottom three V-wheels. Adjust the **[eccentric spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** using the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md).
+In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must first adjust the **[eccentric spacers](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** of the bottom three V-wheels. Adjust the **[eccentric spacers](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** using the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md).
 
 Once you have adjusted the eccentric spacers, slide the cross-slide onto the gantry main beam.
 

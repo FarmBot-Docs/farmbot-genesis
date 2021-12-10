@@ -46,7 +46,7 @@ content="Pay special attention to the orientation of the brackets, extrusions, a
 include callout.html
 type="wrench"
 title="Adjust the eccentric spacers first"
-content="This step is assuming that you have already adjusted the **[eccentric spacers](../../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
+content="This step is assuming that you have already adjusted the **[eccentric spacers](../../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
 %}
 
 Slide the **gantry columns** onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the FarmBot.

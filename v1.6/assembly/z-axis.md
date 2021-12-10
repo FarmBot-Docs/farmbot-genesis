@@ -88,7 +88,7 @@ Slide the **z-axis extrusion** through the v-wheels on the **cross-slide** until
 include callout.html
 type="wrench"
 title="Adjust the eccentric spacers as needed"
-content="In order to slide the z-axis through the v-wheels you will need to adjust the **[eccentric spacers](../extras/bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md) for how to do this."
+content="In order to slide the z-axis through the v-wheels you will need to adjust the **[eccentric spacers](../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** of the three v-wheels on the right side of the cross-slide. Refer to the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md) for how to do this."
 %}
 
 {% include gallery.html images="
