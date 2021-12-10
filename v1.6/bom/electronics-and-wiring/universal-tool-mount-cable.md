@@ -3,7 +3,9 @@ title: "UTM Cable"
 slug: "universal-tool-mount-cable"
 description: "This 12-wire shielded cable connects the Farmduino to the UTM. It comes in two pieces, a Y-axis section and a Z-axis section that connect with a 90-degree screw-together waterproof connection at the cross-slide. It provides Ground, 5V, 24V, digital and analog I/O, with a pin mapping that can be configured at the Farmduino to support custom tools. It features connectors on both ends for easy connection to both the UTM and Farmduino, as well as a rubber shroud to protect the inside of the UTM from the elements."
 price: Genesis - $50.00<br>Genesis XL - $60.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Number of Wires: 12
   Wire Colors: All different

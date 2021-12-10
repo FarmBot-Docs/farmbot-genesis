@@ -3,7 +3,9 @@ title: "Camera Calibration Card"
 slug: "camera-calibration-card"
 description: "Use this card to perform an automatic calibration of FarmBot's camera."
 price: $1.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Matte cardstock
   Thickness: 16pt

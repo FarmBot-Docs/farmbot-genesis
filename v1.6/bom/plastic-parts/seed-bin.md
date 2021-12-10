@@ -3,7 +3,9 @@ title: "Seed Bin"
 slug: "seed-bin"
 description: "This plastic bin allows you to load many seeds of the same type into your FarmBot."
 price: $7.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Gray UV stabilized ABS
 internal-specs:

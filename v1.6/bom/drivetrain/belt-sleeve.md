@@ -3,7 +3,9 @@ title: "Belt Sleeve"
 slug: "belt-sleeve"
 description: "These sleeves secure the loose end of a belt to itself."
 price: $0.50
-quantity: 6
+quantity:
+  genesis: 6
+  xl: 6
 specs:
   Material: Aluminum
   Surface Finish: Sand blasted and clear anodized

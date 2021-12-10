@@ -12,7 +12,7 @@ specs:
   Length: Genesis - 3m<br>Genesis XL - 4.5m
 internal-specs:
   Internal Part Name: Power Supply Cable - 3m Rev B<br>Power Supply Cable - 4.5m Rev B
-  $/pc: 3m: $3.60<br>4.5m: $5.60
+  $/pc: 3m - $3.60<br>4.5m - $5.60
 ---
 
 **Component tests**{:.internal}

@@ -3,7 +3,9 @@ title: "Inline Air Filter"
 slug: "inline-air-filter"
 description: "This filter is used to prevent soil and other debris from entering the vacuum pump."
 price: $10.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   material: Plastic
   color: Clear

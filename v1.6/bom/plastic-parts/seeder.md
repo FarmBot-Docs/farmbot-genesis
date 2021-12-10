@@ -3,7 +3,9 @@ title: "Seeder"
 slug: "seeder"
 description: "The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and deposit them precisely in the ground."
 price: $7.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Gray UV stabilized ABS
   Brass Insert: M5 threads

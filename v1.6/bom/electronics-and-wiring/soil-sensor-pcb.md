@@ -3,7 +3,9 @@ title: "Soil Sensor PCB"
 slug: "soil-sensor-pcb"
 description: "The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out."
 price: $6.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Sensor Type: Capacitive (moisture)<br>IC (temperature)
   Output Type: Analog SIG for moisture<br>I2C for temperature

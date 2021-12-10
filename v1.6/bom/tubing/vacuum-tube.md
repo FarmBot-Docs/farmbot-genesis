@@ -3,7 +3,9 @@ title: "Vacuum Tube"
 slug: "vacuum-tube"
 description: "These ultra flexible silicone tubes carry vacuum suction from the vacuum pump to the UTM."
 price: $1.00
-quantity: 2
+quantity:
+  genesis: 2
+  xl: 2
 specs:
   Length: 0.15m
   Material: Semi-clear silicone

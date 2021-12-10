@@ -3,7 +3,9 @@ title: "Leadscrew"
 slug: "leadscrew"
 description: "This stainless steel leadscrew allows FarmBot to move in the Z direction."
 price: $35.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Stainless Steel
   Length: 800mm

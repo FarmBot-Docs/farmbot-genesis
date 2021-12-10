@@ -3,7 +3,9 @@ title: "LED Strip"
 slug: "led-strip"
 description: "This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a grow light."
 price: 1.5m - $25.00<br>3m - $50.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Light Color: White 6000K
   Strip Length: Genesis - 1.5m<br>Genesis XL - 3m

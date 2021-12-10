@@ -3,7 +3,9 @@ title: "Motors"
 slug: "motors"
 description: "These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing)."
 price: $60.00
-quantity: 4
+quantity:
+  genesis: 4
+  xl: 4
 specs:
   Motor Resolution: 200 steps/revolution (1.8 deg/step)
   Winding Type: Bipolar

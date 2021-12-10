@@ -3,7 +3,9 @@ title: "5mm to 8mm Shaft Coupling"
 slug: "5mm-to-8mm-shaft-coupling"
 description: "This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction."
 price: $6.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Aluminum
   Length: 25mm

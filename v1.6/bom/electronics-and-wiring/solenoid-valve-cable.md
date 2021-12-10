@@ -3,7 +3,9 @@ title: "Solenoid Valve Cable"
 slug: "solenoid-valve-cable"
 description: "This cable connects the solenoid valve to the Farmduino."
 price: $10.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Wire Type: 18 AWG stranded copper, 2 core
   Length: 0.5m

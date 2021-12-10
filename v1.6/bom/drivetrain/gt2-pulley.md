@@ -3,7 +3,9 @@ title: "GT2 Pulley"
 slug: "gt2-pulley"
 description: "These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the driveshaft. They transfer power from the motor to the belt such that FarmBot can move in the X and Y directions."
 price: $6.00
-quantity: 3
+quantity:
+  genesis: 3
+  xl: 3
 specs:
   Material: Aluminum
   Number of Teeth: 20

@@ -3,7 +3,9 @@ title: "Jumper Link"
 slug: "jumper-link"
 description: "These connect the Grounded electronic pin to the Digital In pin, allowing FarmBot to detect when a tool has been mounted or dismounted correctly."
 price: $0.25
-quantity: 5
+quantity:
+  genesis: 5
+  xl: 5
 specs:
   Material: Aluminum
   Thickness: 1mm

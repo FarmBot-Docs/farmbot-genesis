@@ -3,7 +3,9 @@ title: "Camera"
 slug: "camera"
 description: "The camera is mounted on the z-axis and allows FarmBot to take photos of the garden and plants for weed detection and tracking plant growth."
 price: $30.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Resolution: 0.3MP
   Waterproof?: Yes

@@ -3,7 +3,9 @@ title: "80mm Vertical Motor Housing"
 slug: "80mm-vertical-motor-housing"
 description: "This component protects the z-axis motor from rain."
 price: $12.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Gray UV stabilized ABS
 internal-specs:

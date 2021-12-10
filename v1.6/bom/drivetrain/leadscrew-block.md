@@ -3,7 +3,9 @@ title: "Leadscrew Block"
 slug: "leadscrew-block"
 description: "This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction."
 price: $7.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Material: Black delrin
   Threads: Tr8*8-2p (4 starts)

@@ -3,7 +3,9 @@ title: "Vacuum Pump Cable"
 slug: "vacuum-pump-cable"
 description: "This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a Y-axis section labelled Y and a Z-axis section labelled Z that connect with a 90-degree screw-together waterproof connection at the cross-slide."
 price: Genesis - $20.00<br>Genesis XL - $25.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Wire Type: 18 AWG stranded copper, 3 core
   Shielded?: Yes

@@ -3,7 +3,9 @@ title: "Power Supply"
 slug: "power-supply"
 description: "This universal input IP67 waterproof power supply provides FarmBot with all the electricity it needs."
 price: $60.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Output Power: 150 watts (24 volts DC, 6.25 amps)
   Output Cable: 0.2m long black cable with waterproof 3-pin screw-together connector
