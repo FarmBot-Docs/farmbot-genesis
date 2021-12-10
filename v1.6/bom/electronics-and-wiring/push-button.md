@@ -12,7 +12,7 @@ specs:
   Wiring?: Included
 internal-specs:
   Internal Part Name: Yellow LED Push Button`<br>`Red LED Push Button`<br>`White LED Push Button
-  $/pc: Button: $2.49<br>Wiring: $1.00
+  $/pc: Button - $2.49<br>Wiring - $1.00
 ---
 
 **Component tests**{:.internal}

@@ -12,7 +12,7 @@ specs:
   Wiring?: Included
 internal-specs:
   Internal Part Name: Blue LED Indicator`<br>`Green LED Indicator`<br>`White LED Indicator
-  $/pc: Indicator: $0.99<br>Wiring: $0.50
+  $/pc: Indicator - $0.99<br>Wiring - $0.50
 ---
 
 **Component tests**{:.internal}

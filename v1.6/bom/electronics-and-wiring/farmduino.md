@@ -17,7 +17,7 @@ specs:
   UTM Receptacle: Black 12-pin receptacle ([Molex Part 430451212](https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212))
   Motor Receptacles: Black 4-pin receptacle ([Molex Part 705430038](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430038))
   Encoder Receptacles: Black 7-pin receptacle ([Molex Part 705430041](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430041))
-  Rotary Tool Driver: [Texas Instruments DRV8876](https://www.ti.com/lit/ds/symlink/drv8876.pdf) H-bridge motor driver with integrated current sense and regulation
+  Rotary Tool Driver: Texas Instruments DRV8876 (https://www.ti.com/lit/ds/symlink/drv8876.pdf) H-bridge motor driver with integrated current sense and regulation
   DC Current per I/O Pin: 40 mA
   DC Current for 3.3V Pin: 50 mA
   PCB Color: Black
