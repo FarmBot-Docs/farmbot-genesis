@@ -1,34 +1,9 @@
 ---
 title: "Farmduino"
 slug: "farmduino"
-description: "Tech specs for the Farmduino, Farmduino data cable, and peripheral leads in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
----
-
-* toc
-{:toc}
-
-# Farmduino
-
-The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders.
-
-![Farmduino](_images/Farmduino.jpg)
-
-## Open-source
-
-{%
-include callout.html
-type="success"
-title="Farmduino is open-source"
-%}
-
-|Resource|Link|
-|--------|----|
-|Schematics, board layout, and hardwrae source files|[Google Drive Folder](https://drive.google.com/drive/folders/1mUYvzC2uOgCfWoyfXvQitavsMF2ly5H-?usp=sharing)
-|Arduino MCU firmware source code|[GitHub](https://github.com/FarmBot/farmbot-arduino-firmware)
-|STM32 firmware for tracking encoder signals|[GitHub](https://github.com/MotorDynamicsLab/encoder-tracker/releases/tag/v1.0.2)
-
-## Specs
-
+description: "The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders."
+price: $150.00
+quantity: 1
 specs:
   Microcontrollers: ATmega2560<br>STM32
   Stepper Drivers: Trinamic TMC2130
@@ -46,12 +21,25 @@ specs:
   PCB Color: Black
   RoHS Compliant: Yes
   CE Certification: Yes
-price: $150.00
-quantity: 1
 internal-specs:
   Internal Part Name: Farmduino v1.6 Rev A
   Vendor: LDO
   $/pc: $77.50
+---
+
+## Open-source
+
+{%
+include callout.html
+type="success"
+title="Farmduino is open-source"
+%}
+
+|Resource|Link|
+|--------|----|
+|Schematics, board layout, and hardwrae source files|[Google Drive Folder](https://drive.google.com/drive/folders/1mUYvzC2uOgCfWoyfXvQitavsMF2ly5H-?usp=sharing)
+|Arduino MCU firmware source code|[GitHub](https://github.com/FarmBot/farmbot-arduino-firmware)
+|STM32 firmware for tracking encoder signals|[GitHub](https://github.com/MotorDynamicsLab/encoder-tracker/releases/tag/v1.0.2)
 
 **Component tests**{:.internal}
 
@@ -67,30 +55,3 @@ internal-specs:
 |Encoder tracking range|Using stock encoder scaling, move to +/- 10,000mm on the X and Y axes and +/- 2,000mm on the Z axis.|STM32 should accurately track encoder positions through the range of movement.|N/A
 |STM32 reset  |Set `pin 49` low and then high.|Encoder tracking should reset.|N/A
 |SPI comms    |Move motors to random positions and then modify Trinamic TMC2130 parameters (eg: motor current)|Parameters should update and encoder tracking should maintain position.|N/A
-
-# Farmduino Data Cable
-
-This USB cable is used as a serial connection between the Raspberry Pi and the Farmduino.
-
-![Farmduino Data Cable](_images/farmduino_data_cable.jpg)
-
-specs:
-  Connector 1: Right-angle USB 2.0 Type A Male
-  Connector 2: Right-angle USB 2.0 Type B Male
-  Length: 150mm
-  Color: Black
-price: $5.00
-quantity: 1
-internal-specs:
-  Internal Part Name: Farmduino Data Cable
-  $/pc: $1.19
-
-**Component tests**{:.internal}
-
-|Test         |Description  |Target       |Tolerance    |
-|-------------|-------------|-------------|-------------|
-|Cable        |Inspect the cable spec.|`Shielded 28AWG/1p+24AWG/2c`<br><br>`1p` = 1 twisted pair (for data)<br>`2c` = 2 core (for power)|N/A
-|Connectors   |Connect the cable to a Raspberry Pi and Farmduino inside a fully assembled electronics box.|The cable should connect to both circuit boards without interference from the box or other components.|N/A
-|Length       |Measure the length using a measuring tape.|150mm|+/- 10mm
-|Color        |Inspect the color of the cable.|Black|N/A
-
