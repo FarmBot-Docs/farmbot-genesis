@@ -9,7 +9,7 @@ specs:
   Outer Color: Black
   Connector 1: Waterproof 3-pin screw-together connector
   Connector 2: Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
-  Length: Genesis: 3m<br>Genesis XL: 4.5m
+  Length: Genesis - 3m<br>Genesis XL - 4.5m
 internal-specs:
   Internal Part Name: Power Supply Cable - 3m Rev B<br>Power Supply Cable - 4.5m Rev B
   $/pc: 3m: $3.60<br>4.5m: $5.60
