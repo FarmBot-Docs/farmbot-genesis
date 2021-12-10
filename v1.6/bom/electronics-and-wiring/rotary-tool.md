@@ -1,13 +1,8 @@
 ---
-title: "Rotary Tool"
-slug: "rotary-tool"
-description: "Tech specs for the rotary tool motor and rotary tool PCB in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+title: "Rotary Tool Motor"
+slug: "rotary-tool-motor"
+description: "The muscle of the rotary tool is this 24V DC motor."
 ---
-
-* toc
-{:toc}
-
-# Rotary Tool Motor
 
 **Component tests**{:.internal}
 
@@ -24,17 +19,3 @@ description: "Tech specs for the rotary tool motor and rotary tool PCB in FarmBo
 |Shaft diameter|Measure the motor shaft diameter using digital calipers.|2mm|+/- 0.1mm
 |Shaft length |Measure the motor shaft length using digital calipers.|8mm|+/- 0.5mm
 |Implement fit|Attach the M5 Shaft Adapter to the motor.|Adapter should securely and concentrically attach|N/A
-
-**Internal specs**{:.internal}
-
-# Rotary Tool PCB
-
-**Component tests**{:.internal}
-
-|Test         |Description  |Target       |Tolerance    |
-|-------------|-------------|-------------|-------------|
-|FWD/REV      |Assemble the PCB into a full Rotary Tool and test with a complete FarmBot.|Allows motor to be powered in forward and reverse at power/speed levels between 20% and 100%|N/A
-|Load sense   |Assemble the PCB into a full Rotary Tool and test with a complete FarmBot.|PCB circuitry does not interfere with load sense readings or stall detection|N/A
-|Color        |Inspect the color of the PCB.|Matte black|N/A
-
-**Internal specs**{:.internal}

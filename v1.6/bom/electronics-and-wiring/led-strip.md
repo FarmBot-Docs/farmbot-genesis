@@ -1,30 +1,20 @@
 ---
 title: "LED Strip"
 slug: "led-strip"
-description: "Tech specs for the LED strip in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
----
-
-* toc
-{:toc}
-
-# LED Strip
-
-This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a "grow light".
-
-![LED Strip](_images/led_strip.jpg)
-
+description: "This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a grow light."
+price: 1.5m - $25.00<br>3m - $50.00
+quantity: 1
 specs:
   Light Color: White 6000K
   Strip Length: Genesis - 1.5m<br>Genesis XL - 3m
   Lead Length: 1m
   Cable Color: Black
   Connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-price: 1.5m - $25.00<br>3m - $50.00
-quantity: 1
 internal-specs:
-  Internal Part Name: Genesis: `24V LED Strip - 1.5m strip w/ 0.7m lead`<br>Genesis XL: `24V LED Strip - 3.0m strip w/ 0.7m lead`
+  Internal Part Name: Genesis - 24V LED Strip - 1.5m strip w/ 0.7m lead<br>Genesis XL - 24V LED Strip - 3.0m strip w/ 0.7m lead
   $/pc: Genesis (1.5m) - $6.00<br>Genesis XL (3m) - $11.00
   Notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
+---
 
 **Component tests**{:.internal}
 
