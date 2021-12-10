@@ -3,7 +3,9 @@ title: "Farmduino Data Cable"
 slug: "farmduino-data-cable"
 description: "This USB cable is used as a serial connection between the Raspberry Pi and the Farmduino."
 price: $5.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   Connector 1: Right-angle USB 2.0 Type A Male
   Connector 2: Right-angle USB 2.0 Type B Male

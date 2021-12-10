@@ -3,7 +3,9 @@ title: "Raspberry Pi"
 slug: "raspberry-pi"
 description: "This is the "host computer" of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection."
 price: $40.00
-quantity: 1
+quantity:
+  genesis: 1
+  xl: 1
 specs:
   CPU: 1.4Ghz Quad Core
   RAM: 1GB
