@@ -25,18 +25,18 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |[GT2 Timing Belt](../../bom/drivetrain.md#gt2-timing-belt) (4.5m)|Coiled|2|-
 |[GT2 Timing Belt](../../bom/drivetrain.md#gt2-timing-belt) (7.5m)|Coiled|-|2
 |[Pre-Assembled V-Wheels](../pre-assembly/v-wheels.md)|Press-to-seal bag|30|30
-|[M5 Drop-in Tee Nuts](../../bom/fasteners-and-hardware/nut-bars.md#tee-nuts)|Press-to-seal bag|20|20
-|[20mm Nut Bar](../../bom/fasteners-and-hardware/nut-bars.md#20mm-nut-bar)|Press-to-seal bag|6|6
-|[40mm Nut Bar](../../bom/fasteners-and-hardware/nut-bars.md#40mm-nut-bar)|Press-to-seal bag|28|54
-|[60mm Nut Bar](../../bom/fasteners-and-hardware/nut-bars.md#60mm-nut-bar)|Press-to-seal bag|20|24
-|[100mm Nut Bar](../../bom/fasteners-and-hardware/nut-bars.md#100mm-nut-bar)|Press-to-seal bag|2|6
-|[140mm Nut Bar](../../bom/fasteners-and-hardware/nut-bars.md#140mm-nut-bar)|Press-to-seal bag|-|2
-|[M5 x 6mm Eccentric Spacer](../../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)|Press-to-seal bag|15|15
-|[100mm Zip Ties](../../bom/fasteners-and-hardware/zip-ties.md#100mm-zip-ties)|Press-to-seal bag|25|25
-|[200mm Zip Ties](../../bom/fasteners-and-hardware/zip-ties.md#200mm-zip-ties)|Press-to-seal bag|4|4
+|[M5 Drop-in Tee Nuts](../../bom/fasteners-and-hardware/tee-nuts.md)|Press-to-seal bag|20|20
+|[20mm Nut Bar](../../bom/fasteners-and-hardware/20mm-nut-bar.md)|Press-to-seal bag|6|6
+|[40mm Nut Bar](../../bom/fasteners-and-hardware/40mm-nut-bar.md)|Press-to-seal bag|28|54
+|[60mm Nut Bar](../../bom/fasteners-and-hardware/60mm-nut-bar.md)|Press-to-seal bag|20|24
+|[100mm Nut Bar](../../bom/fasteners-and-hardware/100mm-nut-bar.md)|Press-to-seal bag|2|6
+|[140mm Nut Bar](../../bom/fasteners-and-hardware/140mm-nut-bar.md)|Press-to-seal bag|-|2
+|[M5 x 6mm Eccentric Spacer](../../bom/fasteners-and-hardware/m5-x-6mm-eccentric-spacers.md)|Press-to-seal bag|15|15
+|[100mm Zip Ties](../../bom/fasteners-and-hardware/100mm-zip-ties.md)|Press-to-seal bag|25|25
+|[200mm Zip Ties](../../bom/fasteners-and-hardware/200mm-zip-ties.md)|Press-to-seal bag|4|4
 |[Rubber Gasket](../../bom/tubing.md#rubber-gasket)|Press-to-seal bag|4|4
 |[Teflon Tape](../../bom/tubing.md#teflon-tape)|Factory packaging|1|1
-|[Power Cord Protector](../../bom/electronics-and-wiring/power-supply.md#power-cord-protector)|None|1|1
+|[Power Cord Protector](../../bom/electronics-and-wiring/power-cord-protector.md)|None|1|1
 |[NPT to Barb Adapter](../../bom/tubing.md#npt-to-barb-adapter)|None|2|2
 |[Garden Hose to Barb Adapter](../../bom/tubing.md#garden-hose-to-barb-adapter)|None|1|1
 |[Pressure Regulator](../../bom/tubing.md#pressure-regulator)|None|1|1

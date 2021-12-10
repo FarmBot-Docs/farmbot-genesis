@@ -14,7 +14,7 @@ For additional information, see the [sequence command documentation](https://sof
 
 Up to four servo motors can be connected to the `SERVOS` pins on the Farmduino.
 To control a servo directly from the pins, connect a set of servo pins (`GND`, `5V`, and one of the four available control pins `D4`, `D5`, `D6`, or `D11`) to a servo.
-To control a servo through the UTM, connect a set of servo pins (`GND`, `5V`, and one of the four available control pins `D4`, `D5`, `D6`, or `D11`) to [available UTM pins](../../assembly/tools/utm.md#pin-mapping) using [jumper wires](../bom/electronics-and-wiring/miscellaneous.md#jumper-wire). Then, connect the servo to the corresponding pins at the UTM with the same labels you chose at the Farmduino.
+To control a servo through the UTM, connect a set of servo pins (`GND`, `5V`, and one of the four available control pins `D4`, `D5`, `D6`, or `D11`) to [available UTM pins](../../assembly/tools/utm.md#pin-mapping) using [jumper wires](../bom/electronics-and-wiring/jumper-wire.md). Then, connect the servo to the corresponding pins at the UTM with the same labels you chose at the Farmduino.
 
 ![farmduino genesis servo pins](_images/farmduino_genesis_servo_pins.png)
 

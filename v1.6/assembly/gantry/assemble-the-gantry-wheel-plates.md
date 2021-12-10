@@ -18,7 +18,7 @@ content="You need to assemble a left-hand and right-hand version of the gantry w
 
 # Step 1: Attach the upper V-wheels
 
-Insert an **M5 x 30mm screw** through a **V-wheel** and a **[standard spacer](../../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-spacers)**. Then insert this into the **gantry wheel plate** as shown and add an **M5 flange locknut** on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**, then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
+Insert an **M5 x 30mm screw** through a **V-wheel** and a **[standard spacer](../../bom/fasteners-and-hardware/m5-x-6mm-spacers.md)**. Then insert this into the **gantry wheel plate** as shown and add an **M5 flange locknut** on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**, then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
 
 {% include gallery.html images="
 ![gantry wheel plate with one wheel](_images/gantry_wheel_plate_with_one_wheel.png)
@@ -28,7 +28,7 @@ Insert an **M5 x 30mm screw** through a **V-wheel** and a **[standard spacer](..
 
 # Step 2: Attach the lower V-wheels
 
-Insert an **[eccentric spacer](../../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** into the **gantry wheel plate**. Then insert an **M5 x 30mm screw** with a **V-wheel** through the spacer and secure the assembly with an **M5 flange locknut** on the other side of the plate. Repeat for the remaining V-wheels attached with the eccentric spacers.
+Insert an **[eccentric spacer](../../bom/fasteners-and-hardware/m5-x-6mm-eccentric-spacers.md)** into the **gantry wheel plate**. Then insert an **M5 x 30mm screw** with a **V-wheel** through the spacer and secure the assembly with an **M5 flange locknut** on the other side of the plate. Repeat for the remaining V-wheels attached with the eccentric spacers.
 
 {% include gallery.html images="
 ![gantry wheel plate with one eccentric spacer](_images/gantry_wheel_plate_with_one_eccentric_spacer.png)
@@ -50,9 +50,9 @@ Repeat the above steps for the second gantry wheel plate assembly. You should en
 
 # Step 5: Adjust the V-wheel spacing
 
-The **[eccentric spacers](../../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** on the lower wheels of each gantry wheel plate assembly are used for making fine adjustments to the spacing between the lower wheels and the upper wheels. Adjusting this spacing is the key to having your gantry move smoothly and wobble-free across the tracks.
+The **[eccentric spacers](../../bom/fasteners-and-hardware/m5-x-6mm-eccentric-spacers.md)** on the lower wheels of each gantry wheel plate assembly are used for making fine adjustments to the spacing between the lower wheels and the upper wheels. Adjusting this spacing is the key to having your gantry move smoothly and wobble-free across the tracks.
 
-If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the **[eccentric spacers](../../bom/fasteners-and-hardware/spacers.md#m5-x-6mm-eccentric-spacers)** using the [eccentric spacer adjustment reference guide](../../extras/reference/eccentric-spacer-adjustment.md).
+If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the **[eccentric spacers](../../bom/fasteners-and-hardware/m5-x-6mm-eccentric-spacers.md)** using the [eccentric spacer adjustment reference guide](../../extras/reference/eccentric-spacer-adjustment.md).
 
 # What's next?
 

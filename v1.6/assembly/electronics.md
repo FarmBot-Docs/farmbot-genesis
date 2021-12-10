@@ -89,7 +89,7 @@ Plug in the **UTM cable** to the **Farmduino**. The connector will only fit in o
 
 _The UTM connector is highlighted in orange_
 
-Once the UTM cable is _physically_ connected to the Farmduino, you need to _electrically_ connect it to the microcontroller using **[jumper wires](../bom/electronics-and-wiring/miscellaneous.md#jumper-wire)**. To use the default [UTM pin mapping](../assembly/tools/utm.md#pin-mapping), connect five jumper wires from the upper row of pins to the lower row of pins as highlighted below. You should have one jumper wire connecting `A` to `5V`, `B` to `GND`, `C` to `A9`, `D` to `A5`, and `E` to `D48`.
+Once the UTM cable is _physically_ connected to the Farmduino, you need to _electrically_ connect it to the microcontroller using **[jumper wires](../bom/electronics-and-wiring/jumper-wire.md)**. To use the default [UTM pin mapping](../assembly/tools/utm.md#pin-mapping), connect five jumper wires from the upper row of pins to the lower row of pins as highlighted below. You should have one jumper wire connecting `A` to `5V`, `B` to `GND`, `C` to `A9`, `D` to `A5`, and `E` to `D48`.
 
 ![jumpers](_images/jumpers.jpg)
 
