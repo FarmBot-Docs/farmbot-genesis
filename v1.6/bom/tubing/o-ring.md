@@ -1,6 +1,6 @@
 ---
-title: "O-Rings"
-slug: "o-rings"
+title: "O-Ring"
+slug: "o-ring"
 description: "These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted."
 price: $0.50
 quantity:
