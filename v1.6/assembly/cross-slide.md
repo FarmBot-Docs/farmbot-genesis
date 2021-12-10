@@ -31,7 +31,7 @@ content="Make sure you attach the V-wheels to the correct side of the cross-slid
 
 ![Add the gantry v-wheels with normal spacers](_images/gantry_v-wheels_with_normal_spacers.jpg)
 
-Attach three **V-wheels** with **[eccentric spacer](../bom/fasteners-and-hardware/m5-x-6mm-eccentric-spacers.md)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
+Attach three **V-wheels** with **[eccentric spacer](../bom/fasteners-and-hardware/eccentric-spacer.md)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
 
 ![Add the gantry v-wheels with eccentric spacers](_images/cross_slide_with_gantry_v_wheels.jpg)
 
@@ -45,7 +45,7 @@ Attach two **V-wheels** with **[standard spacers](../bom/fasteners-and-hardware/
 
 ![Add the z-axis v-wheels with normal spacers](_images/cross_slide_with_z_axis_v_wheels_with_normal_spacers.jpg)
 
-Attach three **V-wheels** with **[eccentric spacers](../bom/fasteners-and-hardware/m5-x-6mm-eccentric-spacers.md)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
+Attach three **V-wheels** with **[eccentric spacers](../bom/fasteners-and-hardware/eccentric-spacer.md)** to the holes shown using **M5 x 30mm screws** and **M5 flange locknuts**.
 
 ![Add the z-axis v-wheels with eccentric spacers](_images/cross_slide_with_z_axis_v_wheels.jpg)
 
