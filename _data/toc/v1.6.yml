@@ -155,7 +155,6 @@ contents:
             url: pinout-references
           - title: Seeds
             url: seeds
-
   - title: Bill of Materials
     url: bom
     top: true

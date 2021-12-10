@@ -21,7 +21,7 @@ There are two versions of the **cable kit**: one for **Genesis** kits and one fo
 |[Camera](../../bom/electronics-and-wiring/camera.md) and [Camera Cable](../../bom/electronics-and-wiring/camera-cable.md) - 2.6m|Press-to-seal bag|1
 |[Solenoid Valve Cable](../../bom/electronics-and-wiring/solenoid-valve-cable.md) - 0.5m|None|1
 |[LED Strip](../../bom/electronics-and-wiring/led-strip.md) - 1.5m w/ 0.7m lead|Anti-static bag|1
-|[UTM Cable](../../bom/electronics-and-wiring/utm-cable.md) - 4m|Twist-tied|1
+|[UTM Cable](../../bom/electronics-and-wiring/universal-tool-mount-cable.md) - 4m|Twist-tied|1
 |[Power Supply Cable](../../bom/electronics-and-wiring/power-supply-cable.md) - 3m|Twist-tied|1
 |[Jumper Wires](../../bom/electronics-and-wiring/jumper-wire.md)|Twist-tied|8
 |[Peripheral Leads](../../bom/electronics-and-wiring/peripheral-lead.md)|Press-to-seal bag|2
@@ -38,7 +38,7 @@ There are two versions of the **cable kit**: one for **Genesis** kits and one fo
 |[Camera](../../bom/electronics-and-wiring/camera.md) and [Camera Cable](../../bom/electronics-and-wiring/camera-cable.md) - 4.1m|Press-to-seal bag|1
 |[Solenoid Valve Cable](../../bom/electronics-and-wiring/solenoid-valve-cable.md) - 0.5m|None|1
 |[LED Strip](../../bom/electronics-and-wiring/led-strip.md) - 3.0m w/ 0.7m lead|Anti-static bag|1
-|[UTM Cable](../../bom/electronics-and-wiring/utm-cable.md) - 5.5m|Twist-tied|1
+|[UTM Cable](../../bom/electronics-and-wiring/universal-tool-mount-cable.md) - 5.5m|Twist-tied|1
 |[Power Supply Cable](../../bom/electronics-and-wiring/power-supply-cable.md) - 4.5m|Twist-tied|1
 |[Jumper Wires](../../bom/electronics-and-wiring/jumper-wire.md)|Twist-tied|8
 |[Peripheral Leads](../../bom/electronics-and-wiring/peripheral-lead.md)|Press-to-seal bag|2

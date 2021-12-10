@@ -13,7 +13,7 @@ description: "Packing details for the motor kit inside each main carton"
 |----|---|
 |Motor Box|1|
 |Motor Box Insert|1|
-|[NEMA 17 Stepper Motor with Rotary Encoder](../../bom/electronics-and-wiring/motors.md)|4
+|[NEMA 17 Stepper Motor with Rotary Encoder](../../bom/electronics-and-wiring/motor.md)|4
 
 # Step 1: Insert the insert
 

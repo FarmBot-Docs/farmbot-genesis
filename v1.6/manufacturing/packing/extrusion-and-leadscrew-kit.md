@@ -17,7 +17,7 @@ The tables below show the items that should be packed into the **extrusion and l
 |[Gantry Column](../../bom/extrusions/gantry-column.md) (20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
 |[Gantry Main Beam](../../bom/extrusions/gantry-main-beam.md) (20 x 60 x 1500mm)|Wrapped with recycled kraft paper|1
 |[Z-Axis Extrusion](../../bom/extrusions/z-axis-extrusion.md) (20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
-|[Leadscrew](../../bom/drivetrain/leadscrew)|Clear plastic tube with end caps|1
+|[Leadscrew](../../bom/drivetrain/leadscrew.md)|Clear plastic tube with end caps|1
 
 # Genesis XL packing list
 
@@ -27,7 +27,7 @@ The tables below show the items that should be packed into the **extrusion and l
 |[Gantry Column](../../bom/extrusions/gantry-column.md) (20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
 |[Gantry Main Beam](../../bom/extrusions/gantry-main-beam.md) (20 x 60 x 1500mm)|Wrapped with recycled kraft paper|2
 |[Z-Axis Extrusion](../../bom/extrusions/z-axis-extrusion.md) (20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
-|[Leadscrew](../../bom/drivetrain/leadscrew)|Clear plastic tube with end caps|1
+|[Leadscrew](../../bom/drivetrain/leadscrew.md)|Clear plastic tube with end caps|1
 
 # Edge protectors and straps
 

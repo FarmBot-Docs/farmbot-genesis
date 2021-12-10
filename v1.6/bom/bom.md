@@ -11,13 +11,13 @@ The table below lists all of the components used in FarmBot Genesis grouped by c
 
 |Category|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|
 |--------|-----------|----------------|------|-----------|
-|[Extrusions](bom/extrusions.md)|8|$205.00|13|$360.00
-|[Plates and Brackets](bom/plates-and-brackets.md)|23|$347.00|31|$517.00
-|[Plastic Parts](bom/plastic-parts.md)|53|$246.00|71|$300.00
-|[Fasteners and Hardware](bom/fasteners-and-hardware.md)|665|$252.20|809|$415.20
-|[Drivetrain](bom/drivetrain.md)|39|$346.00|39|$416.00
-|[Electronics and Wiring](bom/electronics-and-wiring.md)|67|$1,186.00|67|$1,336.00
-|[Tubing](bom/tubing.md)|26|$111.50|26|$120.50
+|[Extrusions](extrusions.md)|8|$205.00|13|$360.00
+|[Plates and Brackets](plates-and-brackets.md)|23|$347.00|31|$517.00
+|[Plastic Parts](plastic-parts.md)|53|$246.00|71|$300.00
+|[Fasteners and Hardware](fasteners-and-hardware.md)|665|$252.20|809|$415.20
+|[Drivetrain](drivetrain.md)|39|$346.00|39|$416.00
+|[Electronics and Wiring](electronics-and-wiring.md)|67|$1,186.00|67|$1,336.00
+|[Tubing](tubing.md)|26|$111.50|26|$120.50
 |[Supporting Infrastructure](../assembly/supporting-infrastructure.md) **\***|50|$200.00|80|$500.00
 |**GRAND TOTAL**|**931**|**$2,893.70**|**1,136**|**$3,964.70**|**1,1687**|**$6,138.15**
 
