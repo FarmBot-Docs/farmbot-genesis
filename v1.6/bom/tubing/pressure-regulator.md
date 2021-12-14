@@ -18,7 +18,7 @@ specs:
 internal-specs:
   Internal Part Name: 15 psi Pressure Reducer (3/4" female NPT to 3/4" male NPT)
   Vendor: LDO
-  $/pc: $1.00
+  $/pc: $1.10
   Notes: Includes pre-inserted rubber gasket.
 ---
 

@@ -12,7 +12,7 @@ specs:
 internal-specs:
   Internal Part Name: 3/4" Rubber Gasket
   Vendor: LDO
-  $/pc: Inlcuded in price of adapters
+  $/pc: $0.20
   Notes: Pre-inserted into Garden Hose to Barb Adapter, NPT to Barb Adapter, and Pressure Regulator
 ---
 
