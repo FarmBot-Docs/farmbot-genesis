@@ -73,7 +73,7 @@ bom:
       - image: watering_nozzle_bottom.jpg
       - image: watering_nozzle.jpg
       - image: watering_nozzle.jpg
-      - image: weeder_blades.jpg
+      - image: weeder_blade.jpg
       - image: weeder.jpg
   - category: drivetrain
     parts:
@@ -93,7 +93,7 @@ bom:
       - image: electronics_box.jpg
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
-      - image: farmduino.jpg
+      - image: farmduino.jpeg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
       - image: led_indicator.jpg
@@ -113,7 +113,7 @@ bom:
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
       - image: universal_tool_mount_cable.jpg
-      - image: utm_pcb.jpg
+      - image: universal_tool_mount_pcb.jpg
       - image: vacuum_pump_cable.jpg
       - image: vacuum_pump.jpg
   - category: plates-and-brackets
