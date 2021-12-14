@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Z-Axis Hardstop Rev A
   Vendor: LDO
-  $/pc: $1.30
+  $/pc: $1.45
   Component Tests: Plate and Bracket Tests
 ---

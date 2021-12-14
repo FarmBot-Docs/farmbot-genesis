@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Seed Trough Holder Mount Plate Rev A
   Vendor: LDO
-  $/pc: $2.50
+  $/pc: $2.75
   Component Tests: Plate and Bracket Tests
 ---

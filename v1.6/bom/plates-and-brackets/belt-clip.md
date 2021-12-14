@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Belt Clip Rev A
   Vendor: LDO
-  $/pc: $1.65
+  $/pc: $1.80
   Component Tests: Plate and Bracket Tests
 ---

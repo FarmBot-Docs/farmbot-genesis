@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Gantry Joining Bracket Rev B
   Vendor: LDO
-  $/pc: $4.95
+  $/pc: $5.50
   Component Tests: Plate and Bracket Tests
 ---

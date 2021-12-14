@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Genesis Cross-Slide Plate Rev B
   Vendor: LDO
-  $/pc: $5.25
+  $/pc: $5.80
   Component Tests: Plate and Bracket Tests
 ---

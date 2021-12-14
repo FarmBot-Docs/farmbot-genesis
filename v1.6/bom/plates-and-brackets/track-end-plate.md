@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Track End Plate Rev B
   Vendor: LDO
-  $/pc: $1.83
+  $/pc: $2.05
   Component Tests: Plate and Bracket Tests
 ---

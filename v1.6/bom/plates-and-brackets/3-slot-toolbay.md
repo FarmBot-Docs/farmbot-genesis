@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: 3-Slot Toolbay Rev B
   Vendor: LDO
-  $/pc: $12.60
+  $/pc: $13.90
   Component Tests: Plate and Bracket Tests
 ---

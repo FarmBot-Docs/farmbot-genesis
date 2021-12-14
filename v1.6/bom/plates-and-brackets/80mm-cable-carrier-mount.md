@@ -12,6 +12,6 @@ specs:
 internal-specs:
   Internal Part Name: 80mm CC Mount Rev A
   Vendor: LDO
-  $/pc: $2.10
+  $/pc: $2.30
   Component Tests: Plate and Bracket Tests
 ---
