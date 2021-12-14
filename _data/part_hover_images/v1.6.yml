@@ -8,13 +8,13 @@ bom:
       - image: z-axis_extrusion.jpg
   - category: fasteners-and-hardware
     parts:
-      - image: 100mm_zip_tie.jpg
-      - image: 200mm_zip_tie.jpg
+      - image: zip_tie_60mm.jpg
+      - image: zip_tie_100mm.jpg
+      - image: zip_tie_200mm.jpg
       - image: 2mm_allen_key.jpg
       - image: 2mm_driver.jpg
       - image: 3mm_driver.jpg
       - image: 5.5mm_box_wrench.jpg
-      - image: 5.5mm_wrench.jpg
       - image: 60mm_zip_tie.jpg
       - image: 8mm_box_wrench.jpg
       - image: 8mm_wrench.jpg
@@ -26,14 +26,13 @@ bom:
       - image: m5_screw.jpg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
-      - image: m5_spacer.jpg
+      - image: spacer.jpg
       - image: magnet.jpg
       - image: nut_bar_100mm.jpg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpeg
       - image: nut_bar_40mm.jpeg
       - image: nut_bar_60mm.jpeg
-      - image: phillips_screwdriver.jpg
       - image: tee_nut.jpg
       - image: wood_screw.jpg
   - category: tubing
@@ -60,8 +59,8 @@ bom:
       - image: 80mm_vertical_motor_housing.jpg
       - image: utm.jpg
       - image: camera_mount_half.jpg
-      - image: medium_weeder_blade.jpg
-      - image: narrow_weeder_blade.jpg
+      - image: weeder_blade_medium.jpg
+      - image: weeder_blade_narrow.jpg
       - image: seed_bin.jpg
       - image: seed_tray.jpg
       - image: seed_trough_holder.jpeg
@@ -72,7 +71,7 @@ bom:
       - image: vacuum_pump_housing.jpg
       - image: vacuum_pump_mount.jpeg
       - image: watering_nozzle_bottom.jpg
-      - image: watering_nozzle_top.jpg
+      - image: watering_nozzle.jpg
       - image: watering_nozzle.jpg
       - image: weeder_blades.jpg
       - image: weeder.jpg
