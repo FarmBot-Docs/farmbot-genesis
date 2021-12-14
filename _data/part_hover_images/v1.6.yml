@@ -8,9 +8,6 @@ bom:
       - image: z-axis_extrusion.jpg
   - category: fasteners-and-hardware
     parts:
-      - image: zip_tie_60mm.jpg
-      - image: zip_tie_100mm.jpg
-      - image: zip_tie_200mm.jpg
       - image: 2mm_allen_key.jpg
       - image: 2mm_driver.jpg
       - image: 3mm_driver.jpg
@@ -22,18 +19,21 @@ bom:
       - image: m3_locknut.jpg
       - image: m3_screw.jpg
       - image: m5_flange_locknut.jpeg
-      - image: m5_screw.jpg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
-      - image: spacer.jpg
+      - image: m5_screw.jpg
       - image: magnet.jpg
       - image: nut_bar_100mm.jpg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpeg
       - image: nut_bar_40mm.jpeg
       - image: nut_bar_60mm.jpeg
+      - image: spacer.jpg
       - image: tee_nut.jpg
       - image: wood_screw.jpg
+      - image: zip_tie_100mm.jpg
+      - image: zip_tie_200mm.jpg
+      - image: zip_tie_60mm.jpg
   - category: tubing
     parts:
       - image: 90_degree_barb.jpg
@@ -41,9 +41,9 @@ bom:
       - image: inline_air_filter.jpg
       - image: luer_lock_adapter.jpeg
       - image: luer_lock_needle.jpg
+      - image: m5_barb.jpg
       - image: npt_to_barb_adapter.jpg
       - image: o-ring.jpg
-      - image: m5_barb.jpg
       - image: pressure_regulator.jpg
       - image: rubber_gasket.jpg
       - image: teflon_tape.jpg
@@ -56,10 +56,7 @@ bom:
       - image: 60mm_vertical_cable_carrier_support.jpg
       - image: 75mm_horizontal_motor_housing.jpg
       - image: 80mm_vertical_motor_housing.jpg
-      - image: utm.jpg
       - image: camera_mount_half.jpg
-      - image: weeder_blade_medium.jpg
-      - image: weeder_blade_narrow.jpg
       - image: seed_bin.jpg
       - image: seed_tray.jpg
       - image: seed_trough_holder.jpeg
@@ -67,19 +64,21 @@ bom:
       - image: seeder.jpg
       - image: soil_sensor.jpg
       - image: solenoid_valve_mount.jpeg
+      - image: utm.jpg
       - image: vacuum_pump_housing.jpg
       - image: vacuum_pump_mount.jpeg
       - image: watering_nozzle_bottom.jpg
       - image: watering_nozzle.jpg
       - image: watering_nozzle.jpg
+      - image: weeder_blade_narrow.jpg
       - image: weeder_blade.jpg
       - image: weeder.jpg
   - category: drivetrain
     parts:
       - image: 5mm_to_8mm_shaft_coupling.jpeg
-      - image: gt2_timing_belt.jpg
       - image: belt_sleeve.jpeg
       - image: gt2_pulley.jpg
+      - image: gt2_timing_belt.jpg
       - image: leadscrew_block.jpg
       - image: leadscrew.jpg
       - image: v_wheel.jpg
@@ -102,11 +101,11 @@ bom:
       - image: motor.jpg
       - image: peripheral_lead.jpg
       - image: pi_adapter_board.jpg
-      - image: raspberry_pi_power_cable.jpg
       - image: power_cord_protector.jpg
       - image: power_supply_cable.jpg
       - image: power_supply.jpg
       - image: push_button.jpg
+      - image: raspberry_pi_power_cable.jpg
       - image: raspberry_pi.jpg
       - image: soil_sensor_pcb.jpeg
       - image: solenoid_valve_cable.jpg
