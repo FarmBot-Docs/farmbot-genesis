@@ -3,7 +3,7 @@ title: "Luer Lock Needle"
 slug: "luer-lock-needle"
 description: "These needles are used for seed injection."
 variants: 16 Gauge|19 Gauge|22 Gauge
-price: $3.00
+price: $3.00|$3.00|$3.00
 quantity:
   genesis: 2|2|2
   xl: 2|2|2
@@ -16,7 +16,7 @@ specs:
 internal-specs:
   Internal Part Name: Luer Lock Needle (16 Gauge)|Luer Lock Needle (19 Gauge)|Luer Lock Needle (22 Gauge)
   Vendor: LDO
-  $/pc: $0.08
+  $/pc: $0.08|$0.08|$0.08
 ---
 
 **Component tests**{:.internal}
