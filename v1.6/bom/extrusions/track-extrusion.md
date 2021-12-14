@@ -12,8 +12,8 @@ specs:
   Material: 6063-T5 Aluminum
   Surface Treatment: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: 20 x 40 x 1500mm V-Slot Silver (Track)
+  Internal Part Name: Extrusion - 20mm x 40mm x 1500m (Track)
   Vendor: LDO
-  $/pc: $6.20
+  $/pc: $7.80
   Component Tests: Extrusion tests
 ---

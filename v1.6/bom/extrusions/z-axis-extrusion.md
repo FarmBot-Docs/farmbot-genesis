@@ -12,8 +12,8 @@ specs:
   Material: 6063-T5 Aluminum
   Surface Treatment: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: 20 x 20 x 1000mm V-Slot Silver (Z-axis)
+  Internal Part Name: Extrusion - 20mm x 20mm x 1000mm (Z-axis)
   Vendor: LDO
-  $/pc: $2.50
+  $/pc: $3.10
   Component Tests: Extrusion tests
 ---

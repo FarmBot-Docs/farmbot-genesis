@@ -14,10 +14,10 @@ specs:
   Cover Type: Hinged with latches
   Hinge Type: M3 x 35mm screws with locknuts
 internal-specs:
-  Internal Part Name: Genesis Electronics Box (Box) Rev A|
+  Internal Part Name: "Genesis Electronics Box (Box) Rev A|
   Genesis Electronics Box (Lid) Rev A|
   Genesis Electronics Box (Gasket) Rev A|
   Electronics Box (Latches) Rev A|
-  Genesis Electronics Box (Supergland) Rev A
+  Genesis Electronics Box (Supergland) Rev A"
   $/pc: $11.70|$5.95|$1.32|$0.88|$0.77
 ---
