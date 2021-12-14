@@ -26,7 +26,7 @@ internal-specs:
   Motor Cable - Y, 4.2m (Genesis XL)|
   Motor Cable - ZY, 4.1m (Genesis XL)|
   Motor Cable - ZZ, 1.8m (Genesis and Genesis XL)|"
-  $/pc: $1.70|$2.30|$2.70|$5.50|$3.20|$3.70|$6.20|$5.20
+  $/pc: $1.60|$2.10|$2.30|$3.90|$2.90|$3.10|$4.70|$3.80
 ---
 
 **Component tests**{:.internal}

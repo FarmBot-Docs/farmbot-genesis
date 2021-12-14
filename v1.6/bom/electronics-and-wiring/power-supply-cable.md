@@ -6,7 +6,7 @@ variants: 3m|4.5m
 quantity:
   genesis: 1|0
   xl: 0|1
-price: $20.00|$30.00
+price: $25.00|$35.00
 specs:
   Number of Cores: 3
   Outer Color: Black
@@ -15,7 +15,7 @@ specs:
   Length: 3m|4.5m
 internal-specs:
   Internal Part Name: Power Supply Cable - 3m Rev B|Power Supply Cable - 4.5m Rev B
-  $/pc: $3.60|$5.60
+  $/pc: $6.70|$8.50
 ---
 
 **Component tests**{:.internal}

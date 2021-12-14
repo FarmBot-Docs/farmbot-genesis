@@ -8,11 +8,11 @@ specs:
   Color: Black
 price: $0.25
 quantity:
-  genesis: 12
-  xl: 12
+  genesis: 8
+  xl: 8
 internal-specs:
   Internal Part Name: Jumper Wire
-  $/pc: $0.14
+  $/pc: $0.15
 ---
 
 **Component tests**{:.internal}

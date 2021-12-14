@@ -2,7 +2,7 @@
 title: "Raspberry Pi"
 slug: "raspberry-pi"
 description: "This is the host computer of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection."
-price: $40.00
+price: $50.00
 quantity:
   genesis: 1
   xl: 1
@@ -16,7 +16,7 @@ specs:
   GPIO: 40-pin header
 internal-specs:
   Internal Part Name: Raspberry Pi 3B+
-  $/pc: $39.70
+  $/pc: $46.90
   Notes: Ensure the model is 3B+ (not 3B)
 ---
 

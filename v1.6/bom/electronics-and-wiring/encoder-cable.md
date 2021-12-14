@@ -25,7 +25,7 @@ internal-specs:
   Encoder Cable - Y, 4.2m (Genesis XL)|
   Encoder Cable - ZY, 4.1m (Genesis XL)|
   Encoder Cable - ZZ, 1.8m (Genesis and Genesis XL)|"
-  $/pc: $1.70|$2.30|$2.70|$5.50|$3.20|$3.70|$6.20|$5.20
+  $/pc: $1.80|$2.50|$3.00|$6.50|$3.50|$4.10|$6.90|$6.00
 ---
 
 **Component tests**{:.internal}
