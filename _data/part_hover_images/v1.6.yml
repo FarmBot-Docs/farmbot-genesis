@@ -15,7 +15,6 @@ bom:
       - image: 2mm_driver.jpg
       - image: 3mm_driver.jpg
       - image: 5.5mm_box_wrench.jpg
-      - image: 60mm_zip_tie.jpg
       - image: 8mm_box_wrench.jpg
       - image: 8mm_wrench.jpg
       - image: eccentric_spacer.jpg
