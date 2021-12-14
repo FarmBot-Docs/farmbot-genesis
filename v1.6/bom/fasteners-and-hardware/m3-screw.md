@@ -18,6 +18,6 @@ specs:
 internal-specs:
   internal part name: M3 x 6mm Screw|M3 x 12mm Screw|M3 x 35mm Screw
   cost: $0.009|$0.014|$0.037
-  notes: M3 x 35mm screws are pre-assembled in electronics box.
+  notes: ---|---|Pre-assembled in electronics box.
 component tests: Fasteners and hardware tests
 ---

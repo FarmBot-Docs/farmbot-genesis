@@ -18,6 +18,6 @@ specs:
 internal-specs:
   internal part name: M5 x 10mm Screw|M5 x 16mm Screw|M5 x 30mm Screw
   cost: $0.026|$0.033|$0.056
-  notes: M5 x 16mm Screws - 12 Pre-assembled in UTM and Tools, 15 in bag<br>M5 x 30mm Screws - 3 pre-assembled in Tools, 40 in bag
+  notes: ---|12 Pre-assembled in UTM and Tools, 15 in bag|3 pre-assembled in Tools, 40 in bag
 component tests: Fasteners and hardware tests
 ---
