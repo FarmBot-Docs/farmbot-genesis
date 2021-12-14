@@ -14,8 +14,8 @@ specs:
   Hex Size: 8mm
   Engraving: 6mm, on the side with the shortest distance to the bore
 internal-specs:
-  Internal Part Name: M5 x 6mm Eccentric Spacer
-  $/pc: $0.30
+  Internal Part Name: M5 x 6mm Eccentric Spacer Rev A
+  $/pc: $0.35
 ---
 
 **Component tests**{:.internal}

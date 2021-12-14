@@ -5,14 +5,14 @@ description: "Zip ties are used to fasten the vacuum pump and solenoid valve to 
 variants: 60mm|100mm|200mm
 price: $0.05|$0.07|$0.10
 quantity:
-  genesis: 50|25|10
-  xl: 50|25|10
+  genesis: 30|25|4
+  xl: 30|25|4
 specs:
   Material: Nylon
   Color: Black
   Length: 60mm|100mm|200mm
 internal-specs:
-  Internal Part Name: 60mm Zip Tie|100mm Zip Tie|200mm Zip Tie
-  $/pc: $0.004|$0.006|$0.015
+  Internal Part Name: Rotary Tool Trimmer|100mm Zip Tie|200mm Zip Tie
+  $/pc: $0.005|$0.006|$0.015
 Component Tests: Fasteners and hardware tests
 ---

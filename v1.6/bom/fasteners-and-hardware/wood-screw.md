@@ -13,6 +13,6 @@ specs:
   Head Diameter: 12mm
 internal-specs:
   Internal Part Name: 25mm Wood Screw
-  $/pc: $0.006
+  $/pc: $0.007
 Component Tests: Fasteners and hardware tests
 ---

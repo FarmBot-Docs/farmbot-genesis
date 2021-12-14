@@ -5,8 +5,8 @@ description: "M3 screws are used throughout FarmBot for mounting motors and othe
 variants: 6mm|12mm|35mm
 price: $0.10|$0.15|$0.20
 quantity:
-  genesis: 10|40|4
-  xl: 10|40|4
+  genesis: 10|35|4
+  xl: 10|35|4
 specs:
   Threads: M3 x 0.5mm
   Lengths: 6mm|12mm|35mm
@@ -17,6 +17,6 @@ specs:
   Drive Size: 2mm hex
 internal-specs:
   Internal Part Name: M3 x 6mm Screw|M3 x 12mm Screw|M3 x 35mm Screw
-  $/pc: $0.008|$0.012|$0.032
+  $/pc: $0.009|$0.014|$0.037
 Component Tests: Fasteners and hardware tests
 ---

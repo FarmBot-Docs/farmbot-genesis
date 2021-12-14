@@ -2,7 +2,7 @@
 title: "M5 Flange Locknut"
 slug: "m5-flange-locknut"
 description: "Locknuts are used throughout FarmBot to secure M5 screws in place. The nylon insert allows the locknut to resist loosening when subjected to vibration."
-price: $0.15
+price: $0.20
 quantity:
   genesis: 70
   xl: 70
@@ -15,6 +15,6 @@ specs:
   Material: Stainless Steel
 internal-specs:
   Internal Part Name: M5 Flange Locknut
-  $/pc: $0.08
+  $/pc: $0.09
 Component Tests: Fasteners and hardware tests
 ---
