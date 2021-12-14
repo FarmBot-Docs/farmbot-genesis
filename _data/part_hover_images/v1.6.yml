@@ -50,7 +50,6 @@ bom:
       - image: tube.jpg
   - category: plastic-parts
     parts:
-      - image: 40mm_horizontal_cable_carrier_support.jpeg
       - image: 60mm_cable_carrier_spacer_block.jpg
       - image: 60mm_horizontal_cable_carrier_support.jpg
       - image: 60mm_vertical_cable_carrier_support.jpg
@@ -118,7 +117,6 @@ bom:
     parts:
       - image: 1-slot_toolbay.jpg
       - image: 3-slot_toolbay.jpg
-      - image: 50mm_cable_carrier_mount.jpeg
       - image: 80mm_cable_carrier_mount.jpg
       - image: belt_clip.jpeg
       - image: cross-slide_plate.jpg
