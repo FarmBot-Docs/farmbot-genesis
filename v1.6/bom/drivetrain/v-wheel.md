@@ -16,8 +16,8 @@ specs:
   Precision Shim Material: Stainless steel
   Precision Shim Dimensions: 10mm OD, 5mm ID, 1mm thickness
 internal-specs:
-  Internal Part Name: V-Wheels (pre-assembled w/ SS M5 precision shim and SS bearings)
-  $/pc: $1.10
+  Internal Part Name: V-Wheel Rev A (pre-assembled w/ SS M5 precision shim and SS bearings)
+  $/pc: $1.35
 ---
 
 **Component tests**{:.internal}

@@ -11,11 +11,12 @@ specs:
   Length: 25mm
   Outer Diameter: 20mm
   Inner Diameters: 5mm and 8mm
-  Screws: Stainless steel with 2mm hex drive
+  screw material: Stainless steel
+  screw drive size: 2mm hex
 internal-specs:
   Internal Part Name: 5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive
-  $/pc: $1.60
-  Notes: v1.5 Production Run 2 and v1.6 Production Run 1 screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoide adding extra hex key.
+  $/pc: $1.85
+  Notes: v1.5 Production Run 2 and v1.6 Production Run 1 screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoid adding extra hex key.
 ---
 
 **Component tests**{:.internal}

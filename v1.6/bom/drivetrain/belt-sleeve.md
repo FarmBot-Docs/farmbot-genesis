@@ -10,9 +10,9 @@ specs:
   Material: Aluminum
   Surface Finish: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: Belt Sleeve
+  Internal Part Name: Belt Sleeve Rev A
   Vendor: LDO
-  $/pc: $0.20
+  $/pc: $0.25
 ---
 
 **Component tests**{:.internal}

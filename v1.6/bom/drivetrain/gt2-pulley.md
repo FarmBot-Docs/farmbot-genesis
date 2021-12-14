@@ -12,12 +12,14 @@ specs:
   Inner Diameter: 5mm
   Outer Diameter: 15mm
   Height: 14mm
-  Setscrews: Two, stainless steel, with 2mm hex drive
+  setscrew quantity: 2
+  setscrew material: Stainless steel
+  setscrew drive size: 2mm hex
   Max Belt Width: 7mm
   Pitch: GT2 (2mm)
 internal-specs:
   Internal Part Name: 20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive
-  $/pc: $0.75
+  $/pc: $0.85
 ---
 
 **Component tests**{:.internal}
