@@ -13,3 +13,4 @@ internal-specs:
   Vendor: LDO
   $/pc: $1.90
   Component Tests: Plastic Part Tests
+---

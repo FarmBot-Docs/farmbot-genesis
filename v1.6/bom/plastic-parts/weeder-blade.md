@@ -1,6 +1,6 @@
 ---
-title: "Weeder Blades"
-slug: "weeder-blades"
+title: "Weeder Blade"
+slug: "weeder-blade"
 price: $2.00
 quantity:
   genesis: 12

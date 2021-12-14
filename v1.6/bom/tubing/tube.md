@@ -1,20 +1,28 @@
 ---
-title: "Water Tube"
-slug: "water-tube"
-description: "These ultra flexible silicone tubes carry water to the UTM."
-price: $5.00 - 0.95m<br>$8.00 - 2.1m<br>$10.00 - 3m<br>$12.00 - 3.6m<br>$15.00 - 4.5m<br>$35.00 - 10.5m
-quantity: One of each length
+title: "Tube"
+slug: "tube"
+description: "These ultra flexible silicone tubes carry water and vauum air to the UTM."
+variants: 0.15m (Vacuum)|0.95m (Water, Z-axis)|2.1m (Water, Y-axis)|3.0m (Water, X-axis)|3.6m (Water, Y-axis)|4.5m (Water, X-axis)
+price: $1.00|$5.00|$8.00|$10.00|$12.00|$15.00
+quantity:
+  genesis: 2|1|1|1|0|0
+  xl: 2|1|0|0|1|1
 specs:
-  Lengths: Genesis**<br>3m, 2.1m, and 0.95m<br><br>**Genesis XL**<br>4.5m, 3.6m, and 0.95m
+  Length: 0.15m|0.95m|2.1m|3.0m|3.6m|4.5m
   Material: Semi-clear silicone
   Flexibility: Very flexible
   Compatible Tube Fittings: Barbs
   Inner Diameter: 6mm
   Outer Diameter: 10mm
 internal-specs:
-  Internal Part Names: Genesis**<br>6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)<br>6 x 10mm Tube - 2.1m (Water, Y-axis, Genesis)<br>6 x 10mm Tube - 3.0m (Water, X-Axis, Genesis)<br><br>**Genesis XL**<br>6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)<br>6 x 10mm Tube - 3.6m (Water, Y-Axis Genesis XL)<br>6 x 10mm Tube - 4.5m (Water, X-Axis, Genesis XL)
+  Internal Part Names: "6 x 10mm Tube - 0.15m (Vacuum)|
+  6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)|
+  6 x 10mm Tube - 2.1m (Water, Y-axis, Genesis)|
+  6 x 10mm Tube - 3.0m (Water, X-Axis, Genesis)|
+  6 x 10mm Tube - 3.6m (Water, Y-Axis Genesis XL)|
+  6 x 10mm Tube - 4.5m (Water, X-Axis, Genesis XL)"
   Vendor: LDO
-  $/pc: $0.80 - 0.95m<br>$1.80 - 2.1m<br>$2.70 - 3.0m<br>$3.00 - 3.6m<br>$3.80 - 4.5m
+  $/pc: $0.30|$0.80|$1.80|$2.70|$3.00|$3.80
 ---
 
 **Component tests**{:.internal}

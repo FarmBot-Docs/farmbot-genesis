@@ -3,7 +3,9 @@ title: "Magnet"
 slug: "magnet"
 description: "These magnets keep tools attached to the UTM."
 price: $3.00
-quantity: 21 (6 extras included, 3 come pre-mounted to the UTM)
+quantity:
+  genesis: 21
+  xl: 21
 specs:
   Material: Neodymium (NdFeB)
   Coating: Nickle (Ni)

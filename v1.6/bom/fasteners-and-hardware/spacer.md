@@ -3,7 +3,9 @@ title: "Spacer"
 slug: "spacer"
 description: "These spacers are used to offset V-wheels from plates so that they may engage extrusions."
 price: $0.20
-quantity: 30 (12 extra)
+quantity:
+  genesis: 30
+  xl: 30
 specs:
   Material: Aluminum
   Outer Diameter: 10mm

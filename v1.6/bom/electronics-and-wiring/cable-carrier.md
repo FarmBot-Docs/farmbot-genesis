@@ -2,23 +2,42 @@
 title: "Cable Carrier"
 slug: "cable-carrier"
 description: "These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes."
-price: Genesis<br>X-Axis - $50.00<br>Y-Axis - $50.00<br>Z-Axis - $30.00<br><br>**Genesis XL**<br>X-Axis - $80.00<br>Y-Axis - $80.00<br>Z-Axis - $30.00
-quantity: 1 for each axis
+variants: X-Axis, 1.7m|X-Axis, 3.2m|Y-Axis, 1.7m|Y-Axis, 3.2m|Z-Axis, 0.74m
+price: $50.00|$80.00|$50.00|$80.00|$30.00
+quantity:
+  genesis: 1|0|1|0|1
+  xl: 0|1|0|1|1
 specs:
   Material: Black Nylon PA66
-  Lengths: Genesis**<br>X-Axis - 1.7m (85 links) + end pieces<br>Y-Axis - 1.7m (85 links) + end pieces<br>Z-Axis - 0.74m (37 links) + end pieces<br><br>**Genesis XL**<br>X-Axis - 3.2m (160 links) + end pieces<br>Y-Axis - 3.2m (160 links) + end pieces<br>Z-Axis - 0.74m (37 links) + end pieces
+  Length: "1.7m (85 links) + end pieces|
+  3.2m (160 links) + end pieces|
+  1.7m (85 links) + end pieces|
+  3.2m (160 links) + end pieces|
+  0.74m (37 links) + end pieces"
   Inside Height: 15mm
-  Inside Width: X-Axis - 20mm<br>Y-Axis - 50mm<br>Z-Axis - 50mm
+  Inside Width: 20mm|20mm|50mm|50mm|50mm
   Outside Height: 20mm
-  Outside Width: X-Axis - 30mm<br>Y-Axis - 60mm<br>Z-Axis - 60mm
+  Outside Width: 30mm|30mm|60mm|60mm|60mm
   Pitch: 20mm
   Bending Radius: 28mm
-  End Piece Configuration: X-Axis - X configuration (see image below)<br>Y-Axis - Y configuration (see image below)<br>Z-Axis - Z configuration (see image below)
+  End Piece Configuration: "<a href='#x-configuration'>X configuration</a>|
+  <a href='#x-configuration'>X configuration</a>|
+  <a href='#y-configuration'>Y configuration</a>|
+  <a href='#y-configuration'>Y configuration</a>|
+  <a href='#z-configuration'>Z configuration</a>"
 internal-specs:
-  Internal Part Name: enesis**<br>X-Axis - 15 x 20 x 1700mm (85 links + end pieces in X configuration)<br>Y-Axis - 15 x 50 x 1700mm (85 links + end pieces in Y configuration)<br>Z-Axis - 15 x 50 x 740mm (37 links + end pieces in Z configuration)<br><br>**Genesis XL**<br>X-Axis - 15 x 20 x 3200mm (160 links + end pieces in X configuration)<br>Y-Axis - 15 x 50 x 3200mm (160 links + end pieces in Y configuration)<br>Z-Axis - 15 x 50 x 740mm (37 links + end pieces in Z configuration)
+  Internal Part Name: "15 x 20 x 1700mm (85 links + end pieces in X configuration)|
+  15 x 20 x 3200mm (160 links + end pieces in X configuration)|
+  15 x 50 x 1700mm (85 links + end pieces in Y configuration)|
+  15 x 50 x 3200mm (160 links + end pieces in Y configuration)|
+  15 x 50 x 740mm (37 links + end pieces in Z configuration)"
   Vendor: JFLO
-  Vendor Part Number: enesis and Genesis XL**<br>X-Axis - J15BF.1.20N R28<br>Y-Axis - J15BF.1.50N R28<br>Z-Axis - J15BF.1.50N R28
-  $/pc: enesis**<br>X-Axis - $11.20<br>Y-Axis - $13.10<br>Z-Axis - $5.90<br><br>**Genesis XL**<br>X-Axis - $19.90<br>Y-Axis - $24.50<br>Z-Axis - $5.90
+  Vendor Part Number: "J15BF.1.20N R28|
+  J15BF.1.20N R28|
+  J15BF.1.50N R28|
+  J15BF.1.50N R28|
+  J15BF.1.50N R28"
+  $/pc: $11.20|$19.90|$13.10|$24.50|$5.90
 ---
 
 **Component tests**{:.internal}
@@ -40,8 +59,14 @@ title="Configuration of the end pieces"
 content="The images below labelled X-Axis, Y-Axis, and Z-Axis illustrate the configuration of the end pieces. They are not representative of the actual length of the cable carriers."
 %}
 
-{% include gallery.html images="
+### X-configuration
+
 ![End pieces configuration - X](_images/cable_carrier_end_piece_configuration_x.jpg)
+
+### Y-configuration
+
 ![End pieces configuration - Y](_images/cable_carrier_end_piece_configuration_y.jpg)
+
+### Z-configuration
+
 ![End pieces configuration - Z](_images/cable_carrier_end_piece_configuration_z.jpg)
-" %}
