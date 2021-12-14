@@ -8,14 +8,14 @@ quantity:
   genesis: 1|1|3|5
   xl: 1|1|3|5
 specs:
-  Color: Yellow|Red|White|N/A
-  Material: Stainless steel and plastic
+  color: Yellow|Red|White|N/A
+  material: Stainless steel and plastic
   Waterproof?: Yes
   O-Ring?: Included
   Wiring?: Included
 internal-specs:
-  Internal Part Name: LED Push Button - Yellow|LED Push Button - Red|LED Push Button - White|Push Button Wiring Harness
-  $/pc: $2.79|$2.79|$2.79|$1.00
+  internal part name: LED Push Button - Yellow|LED Push Button - Red|LED Push Button - White|Push Button Wiring Harness
+  cost: $2.79|$2.79|$2.79|$1.00
 ---
 
 **Component tests**{:.internal}

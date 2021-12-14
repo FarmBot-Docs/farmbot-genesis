@@ -7,12 +7,12 @@ quantity:
   genesis: 4
   xl: 4
 specs:
-  Thickness: 5mm
-  Material: 6061 Aluminum
+  thickness: 5mm
+  material: 6061 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  Internal Part Name: Track End Plate Rev B
-  Vendor: LDO
-  $/pc: $2.05
-  Component Tests: Plate and Bracket Tests
+  internal part name: Track End Plate Rev B
+  vendor: LDO
+  cost: $2.05
+  component tests: Plate and Bracket Tests
 ---

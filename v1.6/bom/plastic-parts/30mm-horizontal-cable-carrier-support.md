@@ -7,10 +7,10 @@ quantity:
   genesis: 12
   xl: 24
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: 30mm Horizontal CC Support Rev A
-  Vendor: LDO
-  $/pc: $0.88
-  Component Tests: Plastic Part Tests
+  internal part name: 30mm Horizontal CC Support Rev A
+  vendor: LDO
+  cost: $0.88
+  component tests: Plastic Part Tests
 ---

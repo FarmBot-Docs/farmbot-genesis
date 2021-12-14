@@ -7,12 +7,12 @@ quantity:
   genesis: 6
   xl: 6
 specs:
-  Thickness: 5mm
-  Material: 6061 Aluminum
+  thickness: 5mm
+  material: 6061 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  Internal Part Name: Belt Clip Rev A
-  Vendor: LDO
-  $/pc: $1.80
-  Component Tests: Plate and Bracket Tests
+  internal part name: Belt Clip Rev A
+  vendor: LDO
+  cost: $1.80
+  component tests: Plate and Bracket Tests
 ---

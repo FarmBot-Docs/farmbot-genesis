@@ -7,12 +7,12 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
   Brass Inserts: M3 inserts on all blades
 internal-specs:
-  Internal Part Name: Weeder Rev A
-  Vendor: LDO
-  $/pc: $1.60
-  Component Tests: Plastic Part Tests
-  Notes: Weeder Rev A injection mold needs work - Remove ejector pin artifacts on bottom inside of part.
+  internal part name: Weeder Rev A
+  vendor: LDO
+  cost: $1.60
+  component tests: Plastic Part Tests
+  notes: Weeder Rev A injection mold needs work - Remove ejector pin artifacts on bottom inside of part.
 ---

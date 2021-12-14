@@ -7,19 +7,19 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: UV resistant plastic
+  material: UV resistant plastic
   Inlet: 3/4 in. female pipe thread
   Outlet: 3/4 in. male pipe thread
-  Color: Black
-  Outer Diameter: 1.25 inches (31.75mm)
+  color: Black
+  outer diameter: 1.25 inches (31.75mm)
   Outlet Pressure: 15 PSI (103 kpa, 1.02 bar)
   Max Input Pressure: 100 PSI (688 kpa, 6.88 bar)
   Rubber Gasket?: Included
 internal-specs:
-  Internal Part Name: 15 psi Pressure Reducer (3/4" female NPT to 3/4" male NPT)
-  Vendor: LDO
-  $/pc: $1.10
-  Notes: Includes pre-inserted rubber gasket.
+  internal part name: 15 psi Pressure Reducer (3/4" female NPT to 3/4" male NPT)
+  vendor: LDO
+  cost: $1.10
+  notes: Includes pre-inserted rubber gasket.
 ---
 
 **Component tests**{:.internal}

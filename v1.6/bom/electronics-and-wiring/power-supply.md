@@ -7,16 +7,18 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Output Power: 150 watts (24 volts DC, 6.25 amps)
-  Output Cable: 0.2m long black cable with waterproof 3-pin screw-together connector
-  Input Power: 110 volts AC with a max current draw of 1.36 amps (150 watts)<br><br>or<br><br>220 volt AC with a max current draw of 0.68 amps (150 watts)
-  Input Cable: 0.3m long black cable with standard US 3-prong plug
-  Waterproof Rating: IP67
-  Brand: Weho
+  output power: 150 watts (24 volts DC, 6.25 amps)
+  output cable: 0.3m, 18AWG-3C, Black
+  output connector: 3-pin waterproof screw-together connector
+  input power: 110 volts AC with a max current draw of 1.36 amps (150 watts)<br><br>or<br><br>220 volt AC with a max current draw of 0.68 amps (150 watts)
+  input cable: 0.3m, 18AWG-3C, Black
+  inptut connector: NEMA 5-15P (standard US 3-prong plug)
+  waterproof rating: IP67
+  brand: Weho
 internal-specs:
-  Internal Part Name: IP67 24V 6.25A Power Supply
-  Vendor: Weho
-  $/pc: $33.00
+  internal part name: IP67 24V 6.25A Power Supply
+  vendor: Weho
+  cost: $33.00
 ---
 
 **Component tests**{:.internal}

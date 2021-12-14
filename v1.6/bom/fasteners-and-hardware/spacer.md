@@ -7,13 +7,13 @@ quantity:
   genesis: 30
   xl: 30
 specs:
-  Material: Aluminum
-  Outer Diameter: 10mm
-  Inner Diameter: 5.1mm
-  Length: 6mm
+  material: Aluminum
+  outer diameter: 10mm
+  inner diameter: 5.1mm
+  length: 6mm
 internal-specs:
-  Internal Part Name: M5 x 6mm Spacer Rev A
-  $/pc: $0.115
+  internal part name: M5 x 6mm Spacer Rev A
+  cost: $0.115
 ---
 
 **Component tests**{:.internal}

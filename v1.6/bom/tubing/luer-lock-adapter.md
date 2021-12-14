@@ -7,13 +7,13 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Stainless steel
+  material: Stainless steel
   Threads: M5
   Interface: 1/4 turn luer lock
 internal-specs:
-  Internal Part Name: M5 to Luer Lock Adapter (Stainless Steel)
-  Vendor: LDO
-  $/pc: $0.50
+  internal part name: M5 to Luer Lock Adapter (Stainless Steel)
+  vendor: LDO
+  cost: $0.50
 ---
 
 **Component tests**{:.internal}

@@ -7,12 +7,12 @@ quantity:
   genesis: 2
   xl: 2
 specs:
-  Thickness: 5mm
-  Material: 6061 Aluminum
+  thickness: 5mm
+  material: 6061 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  Internal Part Name: Z-Axis Hardstop Rev A
-  Vendor: LDO
-  $/pc: $1.45
-  Component Tests: Plate and Bracket Tests
+  internal part name: Z-Axis Hardstop Rev A
+  vendor: LDO
+  cost: $1.45
+  component tests: Plate and Bracket Tests
 ---

@@ -6,9 +6,12 @@ price: $15.00
 quantity:
   genesis: 1
   xl: 1
+specs:
+  motor connector: 3-pin JST XH receptacle
+  pcb color: Matte black with gold ENIG
 internal-specs:
   internal part name: Rotary Tool PCB Rev G
-  $/pc: $3.90
+  cost: $3.90
 ---
 
 **Component tests**{:.internal}

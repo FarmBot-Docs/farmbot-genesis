@@ -7,10 +7,10 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: 80mm Vertical Motor Housing Rev A
-  Vendor: LDO
-  $/pc: $2.12
-  Component Tests: Plastic Part Tests
+  internal part name: 80mm Vertical Motor Housing Rev A
+  vendor: LDO
+  cost: $2.12
+  component tests: Plastic Part Tests
 ---

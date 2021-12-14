@@ -8,14 +8,14 @@ quantity:
   genesis: 1|1|2|4
   xl: 1|1|2|4
 specs:
-  Color: Blue|Green|White|N/A
-  Material: Stainless steel and plastic
+  color: Blue|Green|White|N/A
+  material: Stainless steel and plastic
   Waterproof?: Yes
   O-Ring?: Included
   Wiring?: Included
 internal-specs:
-  Internal Part Name: LED Indicator - Blue|LED Indicator - Green|LED Indicator - White|LED Indicator Wiring Harness
-  $/pc: $1.15|$1.15|$1.15|$0.50
+  internal part name: LED Indicator - Blue|LED Indicator - Green|LED Indicator - White|LED Indicator Wiring Harness
+  cost: $1.15|$1.15|$1.15|$0.50
 ---
 
 **Component tests**{:.internal}

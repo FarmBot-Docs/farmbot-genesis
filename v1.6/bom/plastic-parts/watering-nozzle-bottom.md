@@ -7,10 +7,10 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: Watering Nozzle Bottom Rev A
-  Vendor: LDO
-  $/pc: $1.10
-  Component Tests: Plastic Part Tests
+  internal part name: Watering Nozzle Bottom Rev A
+  vendor: LDO
+  cost: $1.10
+  component tests: Plastic Part Tests
 ---

@@ -4,14 +4,22 @@ slug: "weeder-blade"
 price: $2.00|$2.00|$2.00
 variants: Narrow|Medium|Wide
 quantity:
-  genesis: 4|4|4
-  xl: 4|4|4
+  genesis: 4|4|0
+  xl: 4|4|0
 specs:
-  Material: Gray UV stabilized ABS
-  Brass Insert: M3
+  material: Gray UV stabilized ABS
+  brass insert: M3
 internal-specs:
-  Internal Part Name: Weeder Blade (Wide) Rev A|Weeder Blade (Medium) Rev A|Weeder Blade (Medium) Rev A
-  Vendor: LDO
-  $/pc: $1.10|$1.10|$1.10
-  Component Tests: Plastic Part Tests
+  internal part name: Weeder Blade (Narrow) Rev A|Weeder Blade (Medium) Rev A|Weeder Blade (Wide) Rev A
+  vendor: LDO
+  cost: $1.10|$1.10|$1.10
+  component tests: Plastic Part Tests
+  notes: Wide blades removed from kit in production run 2
 ---
+
+{%
+include callout.html
+type="info"
+title="Quantities may vary"
+content="Genesis and Genesis XL v1.6 kits shipped in January of 2022 included different quantities of this part than kits shipped after January 2022."
+%}

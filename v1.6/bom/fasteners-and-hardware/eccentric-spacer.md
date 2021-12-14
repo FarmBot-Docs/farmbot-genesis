@@ -7,15 +7,15 @@ quantity:
   genesis: 15
   xl: 15
 specs:
-  Material: Stainless Steel
+  material: Stainless Steel
   Height: 6mm (not including rim)
   Bore: 5mm
   Rim Diameter: Fits into a 7.12mm hole
   Hex Size: 8mm
   Engraving: 6mm, on the side with the shortest distance to the bore
 internal-specs:
-  Internal Part Name: M5 x 6mm Eccentric Spacer Rev A
-  $/pc: $0.35
+  internal part name: M5 x 6mm Eccentric Spacer Rev A
+  cost: $0.35
 ---
 
 **Component tests**{:.internal}

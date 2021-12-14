@@ -12,9 +12,9 @@ specs:
   Height: 7mm
   Hex Width: 8mm
   Flange Diameter: 11.5mm
-  Material: Stainless Steel
+  material: Stainless Steel
 internal-specs:
-  Internal Part Name: M5 Flange Locknut
-  $/pc: $0.09
-Component Tests: Fasteners and hardware tests
+  internal part name: M5 Flange Locknut
+  cost: $0.09
+component tests: Fasteners and hardware tests
 ---

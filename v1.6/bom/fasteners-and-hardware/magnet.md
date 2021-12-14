@@ -7,14 +7,22 @@ quantity:
   genesis: 18
   xl: 18
 specs:
-  Material: Neodymium (NdFeB)
-  Coating: Nickle (Ni)
-  Magnetization: Through ring
-  Outer Diameter: 15mm
-  Inner Diameter: 5mm
-  Thickness: 5mm
+  material: Neodymium (NdFeB)
+  coating: Nickle (Ni)
+  magnetization: Through ring
+  outer diameter: 15mm
+  inner diameter: 5mm
+  thickness: 5mm
 internal-specs:
-  Internal Part Name: 15 x 5 x 5mm Ring Magnet
-  $/pc: $0.36
-Component Tests: Fasteners and hardware tests
+  internal part name: 15 x 5 x 5mm Ring Magnet
+  cost: $0.36
+  notes: Pre-assembled in Seeder, Watering Nozzle, Weeder, and Soil Sensor Tools. Quantity updated for production run 2.
+component tests: Fasteners and hardware tests
 ---
+
+{%
+include callout.html
+type="info"
+title="Quantities may vary"
+content="Genesis and Genesis XL v1.6 kits shipped in January of 2022 included different quantities of this part than kits shipped after January 2022."
+%}

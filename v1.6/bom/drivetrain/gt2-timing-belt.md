@@ -8,15 +8,15 @@ quantity:
   genesis: 1|0|2|0
   xl: 0|1|0|2
 specs:
-  Material: Neoprene with fiberglass cords
-  Length: 1.7m|3.2m|4.5m|7.5m
+  material: Neoprene with fiberglass cords
+  length: 1.7m|3.2m|4.5m|7.5m
   Width: 5mm
-  Thickness: 0.75mm
+  thickness: 0.75mm
   Pitch: GT2 (2mm)
-  Color: Black (no markings)
+  color: Black (no markings)
 internal-specs:
-  Internal Part Name: GT2 Timing Belt - [length]
-  $/pc: $1.10|$2.10|$2.90|$4.70
+  internal part name: GT2 Timing Belt - [length]
+  cost: $1.10|$2.10|$2.90|$4.70
 ---
 
 **Component tests**{:.internal}
@@ -33,3 +33,4 @@ internal-specs:
 |Stretch      |Tie a belt to a fixture 1.5m or more off the ground. Mark the belt just below the knot and then add a second mark exactly 1000mm below the first. Hang a 10kg weight from the belt (below the 1000mm mark) and measure the distance between the two marks.|1000m|+ 10mm (1%)
 |Strength     |Use a tensile testing machine to measure the equivalent hung weight at which the belt will break.|100kg|- 20kg
 |Color        |Inspect the belt for any discoloration or markings|Black, no markings.|N/A
+{:.internal}

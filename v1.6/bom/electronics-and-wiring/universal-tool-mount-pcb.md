@@ -7,14 +7,15 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Pre-assembled?: Yes
-  Number of pogo pins: 12 (includes 1 extra, and 2 extra jam nuts)
-  Color: Matte black
+  pre-assembled?: Yes
+  pogo pins: 12
+  jam nuts: 24
+  color: Matte black
 internal-specs:
-  Internal Part Name: UTM PCB (assembled with pogo pins)<br>Pogo Pins<br>Jam Nuts
-  Vendor: LDO
-  $/pc: $9.90
-  Notes: 12 pogo pins and 24 jam nuts pre-assembled to PCB, 1 extra pogo pin and 2 extra jam nuts included in separate bag.
+  internal part name: UTM PCB Rev A
+  vendor: LDO
+  cost: $9.90
+  notes: Pre-assembled with 12 pogo pins and 24 jam nuts.
 ---
 
 **Component tests**{:.internal}

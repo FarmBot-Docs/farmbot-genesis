@@ -7,16 +7,16 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Aluminum
-  Length: 25mm
-  Outer Diameter: 20mm
+  material: Aluminum
+  length: 25mm
+  outer diameter: 20mm
   Inner Diameters: 5mm and 8mm
   screw material: Stainless steel
-  screw drive size: 2mm hex
+  screw drive size: "<span style='color: red; font-weight: bold;'>2mm hex</span>"
 internal-specs:
-  Internal Part Name: 5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive
-  $/pc: $1.85
-  Notes: v1.5 Production Run 2 and v1.6 Production Run 1 screws had 2.5mm drive instead of 2mm. Need to fix next time so we can avoid adding extra hex key.
+  internal part name: 5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive
+  cost: $1.85
+  notes: "v1.5 Production Run 2 and v1.6 Production Run 1 screws had 2.5mm drive instead of 2mm, requiring an extra allen key to be added to the kit. Screws must be stainless steel and have <span style='color: red; font-weight: bold;'>2mm hex drive.</span>"
 ---
 
 **Component tests**{:.internal}
@@ -30,3 +30,4 @@ internal-specs:
 |Length       |Measure using digital calipers.|25mm|+/- 0.5mm
 |Screw drive size|Use a hex driver to validate the drive size of the screws.|2mm|N/A
 |Material     |Ensure the material is aluminum or stainless steel and will not rust by holding a magnet to the part.|Aluminum and stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
+{:.internal}

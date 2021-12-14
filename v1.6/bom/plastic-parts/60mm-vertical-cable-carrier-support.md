@@ -7,10 +7,10 @@ quantity:
   genesis: 4
   xl: 4
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: 60mm Vertical CC Support Rev A
-  Vendor: LDO
-  $/pc: $1.05
-  Component Tests: Plastic Part Tests
+  internal part name: 60mm Vertical CC Support Rev A
+  vendor: LDO
+  cost: $1.05
+  component tests: Plastic Part Tests
 ---

@@ -7,14 +7,14 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: PTFE
-  Length: 10m
+  material: PTFE
+  length: 10m
   Width: 1.5cm
-  Color: White
+  color: White
 internal-specs:
-  Internal Part Name: Teflon Tape (1.5cm wide, 10m long)
-  Vendor: LDO
-  $/pc: $0.20
+  internal part name: Teflon Tape (1.5cm wide, 10m long)
+  vendor: LDO
+  cost: $0.20
 ---
 
 **Component tests**{:.internal}

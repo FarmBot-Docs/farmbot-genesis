@@ -7,12 +7,12 @@ quantity:
   genesis: 2
   xl: 6
 specs:
-  Thickness: 5mm
-  Material: 6061 Aluminum
+  thickness: 5mm
+  material: 6061 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  Internal Part Name: Track Joining Plate Rev A
-  Vendor: LDO
-  $/pc: $3.10
-  Component Tests: Plate and Bracket Tests
+  internal part name: Track Joining Plate Rev A
+  vendor: LDO
+  cost: $3.10
+  component tests: Plate and Bracket Tests
 ---

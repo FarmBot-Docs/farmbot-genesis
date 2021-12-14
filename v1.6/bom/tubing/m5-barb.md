@@ -11,11 +11,11 @@ specs:
   Threads: M5
   Hex Size: 8mm
   Gasket?: Yes
-  Material: Brass
+  material: Brass
 internal-specs:
-  Internal Part Name: Barbs for 6mm ID tubing w/ M5 Threads, 8mm hex, o-ring
-  Vendor: LDO
-  $/pc: $1.00
+  internal part name: Barbs for 6mm ID tubing w/ M5 Threads, 8mm hex, o-ring
+  vendor: LDO
+  cost: $1.00
 ---
 
 **Component tests**{:.internal}

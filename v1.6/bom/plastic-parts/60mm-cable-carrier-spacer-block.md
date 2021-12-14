@@ -7,10 +7,10 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: 60mm CC Spacer Block Rev A
-  Vendor: LDO
-  $/pc: $1.32
-  Component Tests: Plastic Part Tests
+  internal part name: 60mm CC Spacer Block Rev A
+  vendor: LDO
+  cost: $1.32
+  component tests: Plastic Part Tests
 ---

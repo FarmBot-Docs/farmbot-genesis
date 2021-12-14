@@ -9,11 +9,11 @@ quantity:
 specs:
   Connector 1: Right-angle USB 2.0 Type A Male
   Connector 2: Right-angle USB 2.0 Type B Male
-  Length: 150mm
-  Color: Black
+  length: 150mm
+  color: Black
 internal-specs:
-  Internal Part Name: Farmduino Data Cable Rev A
-  $/pc: $1.30
+  internal part name: Farmduino Data Cable Rev A
+  cost: $1.30
 ---
 
 **Component tests**{:.internal}

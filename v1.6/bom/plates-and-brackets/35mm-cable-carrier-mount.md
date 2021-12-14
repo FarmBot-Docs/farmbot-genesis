@@ -7,11 +7,11 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Machined 6061 Aluminum
+  material: Machined 6061 Aluminum
   Surface Treatments: Tumble polished<br>Sandblasted<br>Clear anodized
 internal-specs:
-  Internal Part Name: 35mm CC Mount Rev A
-  Vendor: LDO
-  $/pc: $2.00
-  Component Tests: Plate and Bracket Tests
+  internal part name: 35mm CC Mount Rev A
+  vendor: LDO
+  cost: $2.00
+  component tests: Plate and Bracket Tests
 ---

@@ -8,14 +8,14 @@ quantity:
   genesis: 1|0
   xl: 0|1
 specs:
-  Length: 2.6m|4.1m
+  length: 2.6m|4.1m
   Cable: Shielded 28AWG/1p+24AWG/2c<br><br>1p = 1 twisted pair (for data)<br>2c = 2 core (for power)
   Connector 1: 4-pin female waterproof 90 degree connector
   Connector 2: Right-angle USB Type A connector
 internal-specs:
-  Internal Part Name: Camera Cable - 2.6m|Camera Cable - 4.1m
-  $/pc: $5.70|$6.50
-  Notes: Cable must be shielded USB cable or there will be EMI issues.
+  internal part name: Camera Cable - 2.6m|Camera Cable - 4.1m
+  cost: $5.70|$6.50
+  notes: Cable must be shielded USB cable or there will be EMI issues.
 ---
 
 **Component tests**{:.internal}

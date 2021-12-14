@@ -7,12 +7,12 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Thickness: 5mm
-  Material: 6061 Aluminum
+  thickness: 5mm
+  material: 6061 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  Internal Part Name: Seed Trough Holder Mount Plate Rev A
-  Vendor: LDO
-  $/pc: $2.75
-  Component Tests: Plate and Bracket Tests
+  internal part name: Seed Trough Holder Mount Plate Rev A
+  vendor: LDO
+  cost: $2.75
+  component tests: Plate and Bracket Tests
 ---

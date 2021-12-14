@@ -7,12 +7,12 @@ quantity:
   genesis: 6
   xl: 6
 specs:
-  Material: Aluminum
+  material: Aluminum
   Surface Finish: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: Belt Sleeve Rev A
-  Vendor: LDO
-  $/pc: $0.25
+  internal part name: Belt Sleeve Rev A
+  vendor: LDO
+  cost: $0.25
 ---
 
 **Component tests**{:.internal}
@@ -29,3 +29,4 @@ internal-specs:
 |Sandblasting |Inspect for thorough sandblasting coverage.|100%|-1%
 |Anodization  |Inspect for thorough annodization coverage.|100%|-1%
 |Deburred     |Inspect for burrs.|No burrs|0
+{:.internal}

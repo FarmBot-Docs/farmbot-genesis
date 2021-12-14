@@ -7,10 +7,10 @@ quantity:
   genesis: 2
   xl: 2
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: Seed Tray Rev A
-  Vendor: LDO
-  $/pc: $1.49
-  Component Tests: Plastic Part Tests
+  internal part name: Seed Tray Rev A
+  vendor: LDO
+  cost: $1.49
+  component tests: Plastic Part Tests
 ---

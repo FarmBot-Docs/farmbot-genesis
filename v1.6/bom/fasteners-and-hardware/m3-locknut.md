@@ -11,10 +11,10 @@ specs:
   Threads: M3 x 0.5mm
   Height: 4mm
   Hex Width: 5.5mm
-  Material: Stainless Steel
+  material: Stainless Steel
 internal-specs:
-  Internal Part Name: M3 Locknut
-  $/pc: $0.016
-Component Tests: Fasteners and hardware tests
-Notes: 4 pieces are pre-assembled in electronics box, 16 pieces packed in bag)
+  internal part name: M3 Locknut
+  cost: $0.016
+  notes: 4 pieces are pre-assembled in electronics box, 20 pieces packed in bag
+component tests: Fasteners and hardware tests
 ---
