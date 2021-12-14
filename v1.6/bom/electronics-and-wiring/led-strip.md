@@ -2,19 +2,20 @@
 title: "LED Strip"
 slug: "led-strip"
 description: "This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a grow light."
-price: 1.5m - $25.00<br>3m - $50.00
+variants: 1.5m|3m
+price: $25.00|$50.00
 quantity:
-  genesis: 1
-  xl: 1
+  genesis: 1|0
+  xl: 0|1
 specs:
   Light Color: White 6000K
-  Strip Length: Genesis - 1.5m<br>Genesis XL - 3m
+  Strip Length: 1.5m|3m
   Lead Length: 1m
   Cable Color: Black
   Connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
 internal-specs:
-  Internal Part Name: Genesis - 24V LED Strip - 1.5m strip w/ 0.7m lead<br>Genesis XL - 24V LED Strip - 3.0m strip w/ 0.7m lead
-  $/pc: Genesis (1.5m) - $6.00<br>Genesis XL (3m) - $11.00
+  Internal Part Name: Genesis - 24V LED Strip - 1.5m strip w/ 0.7m lead|Genesis XL - 24V LED Strip - 3.0m strip w/ 0.7m lead
+  $/pc: $6.00|$11.00
   Notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 ---
 

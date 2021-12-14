@@ -2,17 +2,20 @@
 title: "LED Indicator"
 slug: "led-indicator"
 description: "These waterproof LED indicator lights come pre-mounted on the top of the electronics box. The blue light is reserved for connectivity status, the green light for sync status, and the two white lights are user-customizable. Each light includes a wiring harness and comes pre-connected to the Pi adapter board."
-price: $5.00
-quantity: 4 total
+variants: Blue|Green|White|Wiring Harness
+price: $5.00|$5.00|$5.00|$1.00
+quantity:
+  genesis: 1|1|2|4
+  xl: 1|1|2|4
 specs:
-  Color: Blue - 1<br>Green - 1<br>White - 2
+  Color: Blue|Green|White|N/A
   Material: Stainless steel and plastic
   Waterproof?: Yes
   O-Ring?: Included
   Wiring?: Included
 internal-specs:
-  Internal Part Name: Blue LED Indicator`<br>`Green LED Indicator`<br>`White LED Indicator
-  $/pc: Indicator - $0.99<br>Wiring - $0.50
+  Internal Part Name: Blue LED Indicator|Green LED Indicator|White LED Indicator|LED Indicator Wiring Harness
+  $/pc: $0.99|$0.99|$0.99|$0.50
 ---
 
 **Component tests**{:.internal}

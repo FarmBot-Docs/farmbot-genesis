@@ -7,7 +7,9 @@ specs:
   Connectors: 2.54mm pitch female dupont contact with heatshrink
   Color: Black
 price: $0.25
-quantity: 12
+quantity:
+  genesis: 12
+  xl: 12
 internal-specs:
   Internal Part Name: Jumper Wire
   $/pc: $0.14

@@ -2,18 +2,21 @@
 title: "GT2 Timing Belt"
 slug: "gt2-timing-belt"
 description: "Tech specs for the drivetrain components in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
-price: 1.7m - $20.00<br>3.2m - $30.00<br>4.5m - $40.00<br>7.5m - $70.00<br>19.5m - $180.00
-quantity: Genesis<br>1.7m - 1<br>4.5m - 2<br><br>**Genesis XL**<br>3.2m - 1<br>7.5m - 2
+variants: 1.7m|3.2m|4.5m|7.5m
+price: $20.00|$30.00|$40.00|$70.00
+quantity:
+  genesis: 1|0|2|0
+  xl: 0|1|0|2
 specs:
   Material: Neoprene with fiberglass cords
-  Lengths: Genesis - 1.7m, 4.5m<br>**Genesis XL** - 3.2m, 7.5m
+  Length: 1.7m|3.2m|4.5m|7.5m
   Width: 5mm
   Thickness: 0.75mm
   Pitch: GT2 (2mm)
   Color: Black (no markings)
 internal-specs:
   Internal Part Name: GT2 Timing Belt - [length]
-  $/pc: 1.7m - $1.00<br>3.2m - $1.80<br>4.5m - $2.50<br>7.5m - $4.20
+  $/pc: $1.00|$1.80|$2.50|$4.20
 ---
 
 **Component tests**{:.internal}

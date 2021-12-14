@@ -1,10 +1,14 @@
 ---
-title: "Motor Cables"
-slug: "motor-cables"
+title: "Motor Cable"
+slug: "motor-cable"
 description: "These 4-wire cables connect each NEMA 17 stepper motor to the Farmduino. They are labelled on the Farmduino end X1, X2, Y, and ZY. The Z-axis cable is split into a Y-axis section labelled ZY and a Z-axis section labelled ZZ that connect with a 90-degree screw-together waterproof connection at the cross-slide."
-price: Genesis**<br>0.7m - $15.00<br>2.6m - $18.00<br>2.7m - $20.00<br>2.6m+1.8m - $30.00<br><br>**Genesis XL**<br>0.7m - $15.00<br>3.8m - $23.00<br>4.2m - $25.00<br>4.1m+1.8m - $35.00
+variants: X1, 0.7m|X2, 2.3m|Y, 2.7m|ZY, 2.6m|X2, 3.8m|Y, 4.2m|ZY, 4.1m|ZZ, 1.8m
+price: $20.00|$23.00|$25.00|$27.00|$28.00|$30.00|$32.00|$24.00
+quantity:
+  genesis: 1|1|1|1|0|0|0|1
+  xl: 1|0|0|0|1|1|1|1
 specs:
-  Lengths: Genesis**<br>0.7m (X1)<br>2.6m (X2)<br>2.7m (Y)<br>2.6m (ZY)<br>1.8m (ZZ)<br><br>**Genesis XL**<br>0.7m (X1)<br>3.8m (X2)<br>4.2m (Y)<br>4.1m (ZY)<br>1.8m (ZZ)
+  Length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m
   Cores: 4
   Gauge: 18
   Motor Connector: 6 pin connector (only 4 pins used)
@@ -12,10 +16,17 @@ specs:
   Farmduino Connector: 2.54mm pitch 4-pin connector with locking tab ([Molex Part 50579404](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579404))
   Outer Color: Black
   Inner Colors: Black, Red, Yellow, White
-  Labels: X1, X2, Y, ZY, and ZZ
+  Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:
-  Internal Part Name: Genesis X1 and Genesis XL X1 Motor Cable - 0.7m<br>Genesis X2 Motor Cable - 2.3m<br>Genesis Y Motor Cable - 2.7m<br>Genesis Z Motor Cable, Y-axis section - 2.6m<br>Genesis XL X2 Motor Cable - 3.8m<br>Genesis XL Y Motor Cable - 4.2m<br>Genesis XL Z Motor cable, Y-axis section - 4.1m<br>Z Motor Cable, Z-axis section - 1.8m
-  $/pc: enesis**<br>0.7m (X1) - $1.50<br>2.3m (X2) - $1.90<br>2.7m (Y) - $2.10<br>2.6m (ZY) - $3.60<br>1.8m (ZZ) - $2.80<br><br>**Genesis XL**<br>0.7m (X1) - $1.50<br>3.8m (X2) - $2.60<br>4.2m (Y) - $2.80<br>4.1m (ZY) - $4.30<br>1.8m (ZZ) - $2.80
+  Internal Part Name: "Motor Cable - X1, 0.7m (Genesis and Genesis XL)|
+  Motor Cable - X2, 2.3m (Genesis)|
+  Motor Cable - Y, 2.7m (Genesis)|
+  Motor Cable - ZY, 2.6m (Genesis)|
+  Motor Cable - X2, 3.8m (Genesis XL)|
+  Motor Cable - Y, 4.2m (Genesis XL)|
+  Motor Cable - ZY, 4.1m (Genesis XL)|
+  Motor Cable - ZZ, 1.8m (Genesis and Genesis XL)|"
+  $/pc: $1.70|$2.30|$2.70|$5.50|$3.20|$3.70|$6.20|$5.20
 ---
 
 **Component tests**{:.internal}

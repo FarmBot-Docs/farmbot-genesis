@@ -2,18 +2,19 @@
 title: "Camera Cable"
 slug: "camera-cable"
 description: "This cable connects the camera to the Raspberry Pi through the y-axis cable carrier."
-price: Genesis - $15.00<br>Genesis XL - $20.00
+variants: 2.6m|4.1m
+price: $15.00|$20.00
 quantity:
-  genesis: 1
-  xl: 1
+  genesis: 1|0
+  xl: 0|1
 specs:
-  Length: Genesis - 2.6m<br>Genesis XL - 4.1m
+  Length: 2.6m|4.1m
   Cable: Shielded 28AWG/1p+24AWG/2c<br><br>1p = 1 twisted pair (for data)<br>2c = 2 core (for power)
   Connector 1: 4-pin female waterproof 90 degree connector
   Connector 2: Right-angle USB Type A connector
 internal-specs:
-  Internal Part Name: Genesis - Camera Cable - 2.6m<br>Genesis XL - Camera Cable - 4.1m
-  $/pc: Genesis (2.6m) - $3.50<br>Genesis XL (4.1m) - $4.30
+  Internal Part Name: Genesis - Camera Cable - 2.6m|Genesis XL - Camera Cable - 4.1m
+  $/pc: $3.50|$4.30
   Notes: Cable must be shielded USB cable or there will be EMI issues.
 ---
 

@@ -19,12 +19,11 @@ bom:
       - image: 8mm_box_wrench.jpg
       - image: 8mm_wrench.jpg
       - image: eccentric_spacer.jpg
-      - image: m2.5_screw_4mm.jpg
+      - image: m2.5_screw.jpg
       - image: m3_locknut.jpg
-      - image: m3_screw_12mm.jpg
-      - image: m3_screw_5mm.jpg
+      - image: m3_screw.jpg
       - image: m5_flange_locknut.jpeg
-      - image: m5_screw_10mm.jpg
+      - image: m5_screw.jpg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
       - image: m5_spacer.jpg
@@ -50,8 +49,7 @@ bom:
       - image: pressure_regulator.jpg
       - image: rubber_gasket.jpg
       - image: teflon_tape.jpg
-      - image: vacuum_tube.jpg
-      - image: water_tube.jpg
+      - image: tube.jpg
   - category: plastic-parts
     parts:
       - image: 40mm_horizontal_cable_carrier_support.jpeg
@@ -81,7 +79,7 @@ bom:
   - category: drivetrain
     parts:
       - image: 5mm_to_8mm_shaft_coupling.jpeg
-      - image: 7.5m_and_3.5m_gt2_timing_belt.jpg
+      - image: gt2_timing_belt.jpg
       - image: belt_sleeve.jpeg
       - image: gt2_pulley.jpg
       - image: leadscrew_block.jpg
@@ -94,7 +92,7 @@ bom:
       - image: camera_calibration_card.jpg
       - image: camera.jpg
       - image: electronics_box.jpg
-      - image: encoder_cables.jpg
+      - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
       - image: farmduino.jpg
       - image: jumper_link.jpg
@@ -102,7 +100,7 @@ bom:
       - image: led_indicator.jpg
       - image: led_strip.jpg
       - image: micro_sd_card.jpg
-      - image: motor_cables.jpg
+      - image: motor_cable.jpg
       - image: motor.jpg
       - image: peripheral_lead.jpg
       - image: pi_adapter_board.jpg

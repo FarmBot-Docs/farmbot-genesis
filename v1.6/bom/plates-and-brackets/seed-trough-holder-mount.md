@@ -15,3 +15,4 @@ internal-specs:
   Vendor: LDO
   $/pc: $2.50
   Component Tests: Plate and Bracket Tests
+---
