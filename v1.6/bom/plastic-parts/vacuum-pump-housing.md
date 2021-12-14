@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Vacuum Pump Housing Rev A
   Vendor: LDO
-  $/pc: $3.50
+  $/pc: $3.85
   Component Tests: Plastic Part Tests
 ---

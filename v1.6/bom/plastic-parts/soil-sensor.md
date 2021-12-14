@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Soil Sensor Rev A
   Vendor: LDO
-  $/pc: $1.50
+  $/pc: $1.65
   Component Tests: Plastic Part Tests
 ---

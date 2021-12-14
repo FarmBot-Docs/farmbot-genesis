@@ -12,7 +12,7 @@ specs:
 internal-specs:
   Internal Part Name: Weeder Rev A
   Vendor: LDO
-  $/pc: $1.45
+  $/pc: $1.60
   Component Tests: Plastic Part Tests
   Notes: Weeder Rev A injection mold needs work - Remove ejector pin artifacts on bottom inside of part.
 ---

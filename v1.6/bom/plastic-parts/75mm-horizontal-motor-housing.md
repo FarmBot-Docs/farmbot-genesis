@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: 75mm Horizontal Motor Housing Rev A
   Vendor: LDO
-  $/pc: $1.38
+  $/pc: $1.52
   Component Tests: Plastic Part Tests
 ---

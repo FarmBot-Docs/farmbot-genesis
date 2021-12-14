@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: 80mm Vertical Motor Housing Rev A
   Vendor: LDO
-  $/pc: $1.93
+  $/pc: $2.12
   Component Tests: Plastic Part Tests
 ---

@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Camera Mount Half Rev A
   Vendor: LDO
-  $/pc: $0.95
+  $/pc: $1.05
   Component Tests: Plastic Part Tests
 ---

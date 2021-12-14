@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Vacuum Pump Mount Rev B
   Vendor: LDO
-  $/pc: $1.90
+  $/pc: $2.09
   Component Tests: Plastic Part Tests
 ---

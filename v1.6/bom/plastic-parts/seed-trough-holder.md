@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Seed Trough Holder Rev B
   Vendor: LDO
-  $/pc: $1.60
+  $/pc: $1.76
   Component Tests: Plastic Part Tests
 ---
