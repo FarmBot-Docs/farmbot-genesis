@@ -2,10 +2,13 @@
 title: "Rotary Tool Motor"
 slug: "rotary-tool-motor"
 description: "The muscle of the rotary tool is this 24V DC motor."
-price: $20.00
+price: $15.00
 quantity:
   genesis: 1
   xl: 1
+internal-specs:
+  internal part name: 24V Rotary Tool Motor (500TB-12560) Rev A
+  $/pc: $1.90
 ---
 
 **Component tests**{:.internal}

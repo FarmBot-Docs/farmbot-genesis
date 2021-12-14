@@ -12,6 +12,6 @@ specs:
 internal-specs:
   Internal Part Name: Genesis Z-Axis Motor Mount Rev D
   Vendor: LDO
-  $/pc: $5.25
+  $/pc: $5.80
   Component Tests: Plate and Bracket Tests
 ---

@@ -2,7 +2,7 @@
 title: "Solenoid Valve Cable"
 slug: "solenoid-valve-cable"
 description: "This cable connects the solenoid valve to the Farmduino."
-price: $10.00
+price: $8.00
 quantity:
   genesis: 1
   xl: 1

@@ -16,7 +16,7 @@ specs:
 internal-specs:
   Internal Part Name: IP67 24V 6.25A Power Supply
   Vendor: Weho
-  $/pc: $30.00
+  $/pc: $33.00
 ---
 
 **Component tests**{:.internal}

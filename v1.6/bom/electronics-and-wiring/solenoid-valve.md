@@ -2,7 +2,7 @@
 title: "Solenoid Valve"
 slug: "solenoid-valve"
 description: "This 24V valve controls the flow of water from your garden hose to FarmBot's tubing."
-price: $8.00
+price: $15.00
 quantity:
   genesis: 1
   xl: 1
@@ -18,7 +18,7 @@ specs:
   Electrical Tabs Direction: Facing towards the inlet
 internal-specs:
   Internal Part Name: 24V Solenoid Valve
-  $/pc: $2.30
+  $/pc: $2.60
 ---
 
 **Component tests**{:.internal}

@@ -14,8 +14,8 @@ specs:
   Cable Color: Black
   Connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
 internal-specs:
-  Internal Part Name: Genesis - 24V LED Strip - 1.5m strip w/ 0.7m lead|Genesis XL - 24V LED Strip - 3.0m strip w/ 0.7m lead
-  $/pc: $6.00|$11.00
+  Internal Part Name: 24V LED Strip - 1.5m (Genesis) Rev A|24V LED Strip - 3.0m (Genesis XL) Rev A
+  $/pc: $6.60|$12.00
   Notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 ---
 

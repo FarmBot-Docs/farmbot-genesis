@@ -12,7 +12,7 @@ specs:
   Brand: SanDisk
 internal-specs:
   Internal Part Name: 8GB Sandisk Industrial Micro SD card
-  $/pc: $6.00
+  $/pc: $6.60
   Notes: Must be genuine SanDisk brand, new (not refurbished)
 ---
 

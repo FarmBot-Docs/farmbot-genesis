@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: 60mm CC Spacer Block Rev A
   Vendor: LDO
-  $/pc: $1.20
+  $/pc: $1.32
   Component Tests: Plastic Part Tests
 ---

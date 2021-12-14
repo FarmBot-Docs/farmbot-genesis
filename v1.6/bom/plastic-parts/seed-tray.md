@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Seed Tray Rev A
   Vendor: LDO
-  $/pc: $1.35
+  $/pc: $1.49
   Component Tests: Plastic Part Tests
 ---

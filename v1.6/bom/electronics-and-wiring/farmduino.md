@@ -2,7 +2,7 @@
 title: "Farmduino"
 slug: "farmduino"
 description: "The Farmduino microcontroller features a board layout and connectors that are optimized for FarmBot. It receives G-code commands from the Raspberry Pi and then moves the motors, reads sensors, activate peripherals, and more. It features integrated Trinamic TMC2130 stepper drivers for ultra quiet movements and an STM32 coprocessor dedicated to monitoring the rotary encoders."
-price: $150.00
+price: $195.00
 quantity:
   genesis: 1
   xl: 1
@@ -26,7 +26,7 @@ specs:
 internal-specs:
   Internal Part Name: Farmduino v1.6 Rev A
   Vendor: LDO
-  $/pc: $77.50
+  $/pc: $89.00
 ---
 
 ## Open-source

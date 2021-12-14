@@ -12,7 +12,7 @@ specs:
   Length: 300mm
   Color: Black
 internal-specs:
-  Internal Part Name: Raspberry Pi Power Cable
+  Internal Part Name: Raspberry Pi Power Cable Rev A
   $/pc: $1.19
   Notes: Samples received in July 2020
 ---

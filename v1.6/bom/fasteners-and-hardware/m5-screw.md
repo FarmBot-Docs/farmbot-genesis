@@ -17,6 +17,6 @@ specs:
   Drive Size: 3mm hex
 internal-specs:
   Internal Part Name: M5 x 10mm Screw|M5 x 16mm Screw|M5 x 30mm Screw
-  $/pc: $0.023|$0.029|$0.049
+  $/pc: $0.026|$0.033|$0.056
 Component Tests: Fasteners and hardware tests
 ---

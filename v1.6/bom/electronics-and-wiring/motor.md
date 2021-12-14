@@ -2,7 +2,7 @@
 title: "Motor"
 slug: "motor"
 description: "These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing)."
-price: $60.00
+price: $70.00
 quantity:
   genesis: 4
   xl: 4
@@ -20,7 +20,7 @@ specs:
 internal-specs:
   Internal Part Name: NEMA 17 Stepper Motor w/ Rotary Encoder
   Vendor: Motor - LDO<br>Encoder - Honest Sensor
-  $/pc: $29.40
+  $/pc: $33.90
   Notes: Logo engraving must NOT be stretched. Please send photo of first samples to verify.
 ---
 

@@ -14,8 +14,8 @@ specs:
   O-Ring?: Included
   Wiring?: Included
 internal-specs:
-  Internal Part Name: Yellow LED Push Button|Red LED Push Button|White LED Push Button|Push Button Wiring Harness
-  $/pc: $2.49|$2.49|$2.49|$1.00
+  Internal Part Name: LED Push Button - Yellow|LED Push Button - Red|LED Push Button - White|Push Button Wiring Harness
+  $/pc: $2.79|$2.79|$2.79|$1.00
 ---
 
 **Component tests**{:.internal}

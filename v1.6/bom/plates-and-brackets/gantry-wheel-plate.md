@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Genesis Gantry Wheel Plate Rev B
   Vendor: LDO
-  $/pc: $3.95
+  $/pc: $4.35
   Component Tests: Plate and Bracket Tests
 ---

@@ -15,7 +15,7 @@ specs:
   Lead: 8mm
 internal-specs:
   Internal Part Name: 8mm x 800mm SS ACME Leadscrew
-$/pc: $5.00
+$/pc: $5.50
 ---
 
 **Component tests**{:.internal}

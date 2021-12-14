@@ -12,8 +12,8 @@ specs:
   Inner Diameter: 5.1mm
   Length: 6mm
 internal-specs:
-  Internal Part Name: M5 x 6mm Spacer
-  $/pc: $0.10
+  Internal Part Name: M5 x 6mm Spacer Rev A
+  $/pc: $0.115
 ---
 
 **Component tests**{:.internal}

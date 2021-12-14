@@ -20,7 +20,7 @@ There are two versions of the plate kit: one for **Genesis** kits and one for **
 |[Gantry Joining Bracket](../../bom/plates-and-brackets/gantry-joining-bracket.md)|Wrapped in tissue paper|1|1
 |[Cross-Slide Plate](../../bom/plates-and-brackets/cross-slide-plate.md)|Wrapped in tissue paper|1|1
 |[Z-Axis Motor Mount](../../bom/plates-and-brackets/z-axis-motor-mount.md)|Wrapped in tissue paper|1|1
-|[50mm Cable Carrier Mount](../../bom/plates-and-brackets/50mm-cable-carrier-mount.md)|Wrapped in tissue paper|1|1
+|[35mm Cable Carrier Mount](../../bom/plates-and-brackets/35mm-cable-carrier-mount.md)|Wrapped in tissue paper|1|1
 |[80mm Cable Carrier Mount](../../bom/plates-and-brackets/80mm-cable-carrier-mount.md)|Wrapped in tissue paper|1|1
 |[3-Slot Toolbays](../../bom/plates-and-brackets/1-slot-toolbay.md)|100% recycled 50lb kraft paper|2|2
 |[1-Slot Toolbays](../../bom/plates-and-brackets/3-slot-toolbay.md)|100% recycled 50lb kraft paper|-|3

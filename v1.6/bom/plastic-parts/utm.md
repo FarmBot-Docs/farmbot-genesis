@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: UTM Rev B
   Vendor: LDO
-  $/pc: $2.10
+  $/pc: $2.31
   Component Tests: Plastic Part Tests
 ---

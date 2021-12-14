@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: 1-Slot Toolbay Rev A
   Vendor: LDO
-  $/pc: $5.60
+  $/pc: $6.20
   Component Tests: Plate and Bracket Tests
 ---

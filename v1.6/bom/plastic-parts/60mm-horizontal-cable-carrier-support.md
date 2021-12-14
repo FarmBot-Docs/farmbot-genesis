@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: 60mm Horizontal CC Support Rev A
   Vendor: LDO
-  $/pc: $0.92
+  $/pc: $1.01
   Component Tests: Plastic Part Tests
 ---

@@ -12,7 +12,7 @@ specs:
   Material: 6063-T5 Aluminum
   Surface Treatment: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: 20 x 60 x 500mm V-Slot Silver (Gantry column)
+  Internal Part Name: Extrusion - 20mm x 60mm x 500mm (Gantry column)
   Vendor: LDO
   $/pc: $3.10
   Component Tests: Extrusion tests

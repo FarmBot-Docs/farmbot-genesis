@@ -13,8 +13,8 @@ specs:
   Connector 1: 4-pin female waterproof 90 degree connector
   Connector 2: Right-angle USB Type A connector
 internal-specs:
-  Internal Part Name: Genesis - Camera Cable - 2.6m|Genesis XL - Camera Cable - 4.1m
-  $/pc: $3.50|$4.30
+  Internal Part Name: Camera Cable - 2.6m|Camera Cable - 4.1m
+  $/pc: $5.70|$6.50
   Notes: Cable must be shielded USB cable or there will be EMI issues.
 ---
 

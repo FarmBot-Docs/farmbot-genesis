@@ -2,7 +2,7 @@
 title: "Soil Sensor PCB"
 slug: "soil-sensor-pcb"
 description: "The Soil Moisture Sensor is a simple breakout for measuring the moisture in soil and similar materials. The soil moisture sensor is pretty straight forward to use. The two large exposed pads function as probes for the sensor, together acting as a variable resistor. The more water that is in the soil means the better the conductivity between the pads will be and will result in a lower resistance, and a higher SIG out."
-price: $6.00
+price: $10.00
 quantity:
   genesis: 1
   xl: 1
@@ -16,7 +16,7 @@ specs:
 internal-specs:
   Internal Part Name: Soil Moisture and Temperature Sensor PCB Rev A
   Vendor: LDO
-  $/pc: $3.50
+  $/pc: $5.90
   Notes: What is the part number for the connector?
 ---
 

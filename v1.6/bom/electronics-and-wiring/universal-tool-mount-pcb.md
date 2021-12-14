@@ -11,9 +11,9 @@ specs:
   Number of pogo pins: 12 (includes 1 extra, and 2 extra jam nuts)
   Color: Matte black
 internal-specs:
-  Internal Part Name: UTM PCB (assembled with pogo pins)`<br>`Pogo Pins`<br>`Jam Nuts
+  Internal Part Name: UTM PCB (assembled with pogo pins)<br>Pogo Pins<br>Jam Nuts
   Vendor: LDO
-  $/pc: $6.90
+  $/pc: $9.90
   Notes: 12 pogo pins and 24 jam nuts pre-assembled to PCB, 1 extra pogo pin and 2 extra jam nuts included in separate bag.
 ---
 

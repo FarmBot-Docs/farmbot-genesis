@@ -12,8 +12,8 @@ specs:
   Material: 6063-T5 Aluminum
   Surface Treatment: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: 20 x 60 x 1500mm V-Slot Silver (Gantry main beam)
+  Internal Part Name: Extrusion - 20mm x 60mm x 1500mm (Gantry Main Beam)
   Vendor: LDO
-  $/pc: $9.30
+  $/pc: $11.60
   Component Tests: Extrusion tests
 ---

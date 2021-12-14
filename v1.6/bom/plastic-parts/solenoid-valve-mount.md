@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Solenoid Valve Mount Rev A
   Vendor: LDO
-  $/pc: $1.30
+  $/pc: $1.43
   Component Tests: Plastic Part Tests
 ---

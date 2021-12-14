@@ -13,6 +13,6 @@ specs:
 internal-specs:
   Internal Part Name: Track Joining Plate Rev A
   Vendor: LDO
-  $/pc: $2.80
+  $/pc: $3.10
   Component Tests: Plate and Bracket Tests
 ---

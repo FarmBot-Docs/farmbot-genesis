@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Seed Trough Rev A
   Vendor: LDO
-  $/pc: $1.00
+  $/pc: $1.10
   Component Tests: Plastic Part Tests
 ---

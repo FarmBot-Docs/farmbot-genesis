@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: 60mm Vertical CC Support Rev A
   Vendor: LDO
-  $/pc: $.95
+  $/pc: $1.05
   Component Tests: Plastic Part Tests
 ---

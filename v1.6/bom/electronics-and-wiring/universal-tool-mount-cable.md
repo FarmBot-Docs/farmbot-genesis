@@ -20,8 +20,8 @@ specs:
   Intermediate connectors: 12-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   UTM connectors: 2x3 2.54mm pitch plug (yellow shrinkwrap)|2x4 2.54mm pitch plug (black shrinkwrap)
 internal-specs:
-  Internal Part Name: UTM Cable Y-Axis Section - 2.6m (Genesis) Rev A|UTM Cable Y-Axis Section - 4.1m (Genesis XL) Rev A|UTM Cable Z-Axis Section with Shroud - 1.0m Rev A
-  $/pc: $6.00|$8.00|$5.00
+  Internal Part Name: UTM Cable - Y, 2.6m (Genesis) Rev A|UTM Cable - Y, 4.1m (Genesis XL) Rev A|UTM Cable - Z with Shroud, 1.0m Rev A
+  $/pc: $12.50|$17.10|$8.00
 ---
 
 **Component tests**{:.internal}

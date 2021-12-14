@@ -16,7 +16,7 @@ specs:
   Color: Black (no markings)
 internal-specs:
   Internal Part Name: GT2 Timing Belt - [length]
-  $/pc: $1.00|$1.80|$2.50|$4.20
+  $/pc: $1.10|$2.10|$2.90|$4.70
 ---
 
 **Component tests**{:.internal}

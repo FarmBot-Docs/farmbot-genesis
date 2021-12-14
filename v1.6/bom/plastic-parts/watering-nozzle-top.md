@@ -11,6 +11,6 @@ specs:
 internal-specs:
   Internal Part Name: Watering Nozzle Top Rev A
   Vendor: LDO
-  $/pc: $1.00
+  $/pc: $1.43
   Component Tests: Plastic Part Tests
 ---

@@ -2,10 +2,13 @@
 title: "Rotary Tool PCB"
 slug: "rotary-tool-pcb"
 description: "This circuit board provides EMI filtering for the rotary tool motor as well as provisions to prevent a system voltage drop when the motor powers on."
-price: $20.00
+price: $15.00
 quantity:
   genesis: 1
   xl: 1
+internal-specs:
+  internal part name: Rotary Tool PCB Rev G
+  $/pc: $3.90
 ---
 
 **Component tests**{:.internal}
