@@ -8,11 +8,11 @@ quantity:
   xl: 20
 specs:
   Trade Name: Drop-in Tee Nut
-  Material: Stainless Steel
+  material: Stainless Steel
   Threads: M5 x 0.8mm
   Fits Slot Size: 6
 internal-specs:
-  Internal Part Name: M5 SS Drop-in Tee Nuts
-  $/pc: $0.18
-Component Tests: Fasteners and hardware tests
+  internal part name: M5 SS Drop-in Tee Nuts
+  cost: $0.18
+component tests: Fasteners and hardware tests
 ---

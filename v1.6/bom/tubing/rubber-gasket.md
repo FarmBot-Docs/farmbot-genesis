@@ -7,13 +7,13 @@ quantity:
   genesis: 4
   xl: 4
 specs:
-  Material: Rubber
+  material: Rubber
   Size: For 3/4" NPT or GHT connections
 internal-specs:
-  Internal Part Name: 3/4" Rubber Gasket
-  Vendor: LDO
-  $/pc: $0.20
-  Notes: Pre-inserted into Garden Hose to Barb Adapter, NPT to Barb Adapter, and Pressure Regulator
+  internal part name: 3/4" Rubber Gasket
+  vendor: LDO
+  cost: $0.20
+  notes: Pre-insert into Garden Hose to Barb Adapter, NPT to Barb Adapter, and Pressure Regulator.
 ---
 
 **Component tests**{:.internal}

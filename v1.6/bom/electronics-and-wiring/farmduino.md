@@ -15,18 +15,20 @@ specs:
   Vacuum Peripheral Receptacle: Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
   Other Peripheral Receptacles: (Water, Lighting, and Peripherals 4 and 5) - Black 2-pin receptacle ([Molex Part 151048-1206](https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206))
   UTM Receptacle: Black 12-pin receptacle ([Molex Part 430451212](https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212))
+  UTM shunts: 8 1x2 2.54mm shunts pre-installed on UTM pins A through H
   Motor Receptacles: Black 4-pin receptacle ([Molex Part 705430038](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430038))
   Encoder Receptacles: Black 7-pin receptacle ([Molex Part 705430041](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430041))
   Rotary Tool Driver: Texas Instruments DRV8876 (https://www.ti.com/lit/ds/symlink/drv8876.pdf) H-bridge motor driver with integrated current sense and regulation
   DC Current per I/O Pin: 40 mA
   DC Current for 3.3V Pin: 50 mA
-  PCB Color: Black
+  PCB color: Black
   RoHS Compliant: Yes
   CE Certification: Yes
 internal-specs:
-  Internal Part Name: Farmduino v1.6 Rev A
-  Vendor: LDO
-  $/pc: $89.00
+  internal part name: Farmduino v1.6 Rev A
+  vendor: LDO
+  cost: $89.00
+  notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span>"
 ---
 
 ## Open-source

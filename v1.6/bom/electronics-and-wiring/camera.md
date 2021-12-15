@@ -10,16 +10,16 @@ specs:
   Resolution: 0.3MP
   Waterproof?: Yes
   Focal Distance: 0.5m (custom set)
-  Outer Diameter: 9mm
-  Camera Length: 38mm
+  outer diameter: 9mm
+  Camera length: 38mm
   Cable: Shielded 28AWG/1p+24AWG/2c<br><br>1p = 1 twisted pair (for data)<br>2c = 2 core (for power)
-  Cable Length: 1m
+  Cable length: 1m
   Connector: 4-pin male 90 degree waterproof connector
 internal-specs:
-  Internal Part Name: Camera Rev A
-  Vendor: Shibang
-  $/pc: $19.90
-  Notes: Inspect the camera module to ensure there are no obstructions in front of the lens, such as foam or glue.
+  internal part name: Camera Rev A
+  vendor: Shibang
+  cost: $19.90
+  notes: Inspect the camera module to ensure there are no obstructions in front of the lens, such as foam or glue.
 ---
 
 **Component tests**{:.internal}

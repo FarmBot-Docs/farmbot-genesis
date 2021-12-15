@@ -7,12 +7,12 @@ quantity:
   genesis: 35
   xl: 60
 specs:
-  Material: Steel
+  material: Steel
   Finish: Black Oxide
-  Length: 25mm
+  length: 25mm
   Head Diameter: 12mm
 internal-specs:
-  Internal Part Name: 25mm Wood Screw
-  $/pc: $0.007
-Component Tests: Fasteners and hardware tests
+  internal part name: 25mm Wood Screw
+  cost: $0.007
+component tests: Fasteners and hardware tests
 ---

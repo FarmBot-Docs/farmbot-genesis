@@ -7,10 +7,10 @@ quantity:
   genesis: 3
   xl: 3
 specs:
-  Material: Aluminum
+  material: Aluminum
   Number of Teeth: 20
-  Inner Diameter: 5mm
-  Outer Diameter: 15mm
+  inner diameter: 5mm
+  outer diameter: 15mm
   Height: 14mm
   setscrew quantity: 2
   setscrew material: Stainless steel
@@ -18,8 +18,8 @@ specs:
   Max Belt Width: 7mm
   Pitch: GT2 (2mm)
 internal-specs:
-  Internal Part Name: 20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive
-  $/pc: $0.85
+  internal part name: 20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive
+  cost: $0.85
 ---
 
 **Component tests**{:.internal}
@@ -36,3 +36,4 @@ internal-specs:
 |Number of setscrews|Count the number of setscrews.|2|N/A
 |Setscrew drive size|Use a hex driver to validate the drive size of the setscrews.|2mm|N/A
 |Material     |Ensure the material is aluminum and stainless steel and will not rust by holding a magnet to the part.|Aluminum and stainless steel (no magnetic attraction)|Weak attraction to stainless steel is permissible.
+{:.internal}

@@ -7,13 +7,13 @@ quantity:
   genesis: 2
   xl: 2
 specs:
-  Length: 500mm
-  Profile: 20mm x 60mm V-Slot
-  Material: 6063-T5 Aluminum
-  Surface Treatment: Sand blasted and clear anodized
+  length: 500mm
+  profile: 20mm x 60mm V-Slot
+  material: 6063-T5 Aluminum
+  surface treatment: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: Extrusion - 20mm x 60mm x 500mm (Gantry column)
-  Vendor: LDO
-  $/pc: $3.10
-  Component Tests: Extrusion tests
+  internal part name: Extrusion - 20mm x 60mm x 500mm (Gantry column)
+  vendor: LDO
+  cost: $3.10
+  component tests: Extrusion tests
 ---

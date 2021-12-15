@@ -8,12 +8,12 @@ quantity:
   genesis: 2|1|1|1|0|0
   xl: 2|1|0|0|1|1
 specs:
-  Length: 0.15m|0.95m|2.1m|3.0m|3.6m|4.5m
-  Material: Semi-clear silicone
+  length: 0.15m|0.95m|2.1m|3.0m|3.6m|4.5m
+  material: Semi-clear silicone
   Flexibility: Very flexible
   Compatible Tube Fittings: Barbs
-  Inner Diameter: 6mm
-  Outer Diameter: 10mm
+  inner diameter: 6mm
+  outer diameter: 10mm
 internal-specs:
   Internal Part Names: "6 x 10mm Tube - 0.15m (Vacuum)|
   6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)|
@@ -21,8 +21,8 @@ internal-specs:
   6 x 10mm Tube - 3.0m (Water, X-Axis, Genesis)|
   6 x 10mm Tube - 3.6m (Water, Y-Axis Genesis XL)|
   6 x 10mm Tube - 4.5m (Water, X-Axis, Genesis XL)"
-  Vendor: LDO
-  $/pc: $0.30|$0.80|$1.80|$2.70|$3.00|$3.80
+  vendor: LDO
+  cost: $0.30|$0.80|$1.80|$2.70|$3.00|$3.80
 ---
 
 **Component tests**{:.internal}

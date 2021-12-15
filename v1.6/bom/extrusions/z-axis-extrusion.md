@@ -7,13 +7,13 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Length: 1000mm
-  Profile: 20mm x 20mm V-Slot
-  Material: 6063-T5 Aluminum
-  Surface Treatment: Sand blasted and clear anodized
+  length: 1000mm
+  profile: 20mm x 20mm V-Slot
+  material: 6063-T5 Aluminum
+  surface treatment: Sand blasted and clear anodized
 internal-specs:
-  Internal Part Name: Extrusion - 20mm x 20mm x 1000mm (Z-axis)
-  Vendor: LDO
-  $/pc: $3.10
-  Component Tests: Extrusion tests
+  internal part name: Extrusion - 20mm x 20mm x 1000mm (Z-axis)
+  vendor: LDO
+  cost: $3.10
+  component tests: Extrusion tests
 ---

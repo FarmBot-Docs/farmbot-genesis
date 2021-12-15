@@ -8,15 +8,15 @@ quantity:
   genesis: 1|0
   xl: 0|1
 specs:
-  Light Color: White 6000K
-  Strip Length: 1.5m|3m
-  Lead Length: 1m
-  Cable Color: Black
+  Light color: White 6000K
+  Strip length: 1.5m|3m
+  Lead length: 1m
+  Cable color: Black
   Connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
 internal-specs:
-  Internal Part Name: 24V LED Strip - 1.5m (Genesis) Rev A|24V LED Strip - 3.0m (Genesis XL) Rev A
-  $/pc: $6.60|$12.00
-  Notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
+  internal part name: 24V LED Strip - 1.5m (Genesis) Rev A|24V LED Strip - 3.0m (Genesis XL) Rev A
+  cost: $6.60|$12.00
+  notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 ---
 
 **Component tests**{:.internal}

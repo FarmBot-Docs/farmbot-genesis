@@ -8,14 +8,14 @@ quantity:
   xl: 0|1
 price: $25.00|$35.00
 specs:
-  Number of Cores: 3
-  Outer Color: Black
-  Connector 1: Waterproof 3-pin screw-together connector
-  Connector 2: Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
-  Length: 3m|4.5m
+  cable: 18AWG-3C
+  cable color: Black
+  connector 1: 3-pin waterproof screw-together connector
+  connector 2: 3-pin black connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
+  length: 3m|4.5m
 internal-specs:
-  Internal Part Name: Power Supply Cable - 3m Rev B|Power Supply Cable - 4.5m Rev B
-  $/pc: $6.70|$8.50
+  internal part name: Power Supply Cable - 3m Rev B|Power Supply Cable - 4.5m Rev B
+  cost: $6.70|$8.50
 ---
 
 **Component tests**{:.internal}

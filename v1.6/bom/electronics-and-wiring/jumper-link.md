@@ -7,13 +7,14 @@ quantity:
   genesis: 4
   xl: 4
 specs:
-  Material: Aluminum
-  Thickness: 1mm
-  Hole Sizes: M3
+  material: Aluminum
+  thickness: 1mm
+  hole sizes: M3
 internal-specs:
-  Internal Part Name: Jumper Link Rev A
-  Vendor: LDO
-  $/pc: $0.25
+  internal part name: Jumper Link Rev A
+  vendor: LDO
+  cost: $0.25
+  notes: Pre-assembled in Seeder, Watering Nozzle, Weeder, and Soil Sensor Tools
 ---
 
 **Component tests**{:.internal}

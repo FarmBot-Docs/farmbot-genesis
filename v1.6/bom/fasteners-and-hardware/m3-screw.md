@@ -11,12 +11,13 @@ specs:
   Threads: M3 x 0.5mm
   Lengths: 6mm|12mm|35mm
   Trade Name: M3 Low-Profile Socket Head Cap Screw
-  Material: Stainless Steel
+  material: Stainless Steel
   Head Height: 2mm
   Head Diameter: 5.5mm
   Drive Size: 2mm hex
 internal-specs:
-  Internal Part Name: M3 x 6mm Screw|M3 x 12mm Screw|M3 x 35mm Screw
-  $/pc: $0.009|$0.014|$0.037
-Component Tests: Fasteners and hardware tests
+  internal part name: M3 x 6mm Screw|M3 x 12mm Screw|M3 x 35mm Screw
+  cost: $0.009|$0.014|$0.037
+  notes: ---|---|Pre-assembled in electronics box.
+component tests: Fasteners and hardware tests
 ---

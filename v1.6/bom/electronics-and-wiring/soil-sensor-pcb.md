@@ -9,15 +9,15 @@ quantity:
 specs:
   Sensor Type: Capacitive (moisture)<br>IC (temperature)
   Output Type: Analog SIG for moisture<br>I2C for temperature
-  PCB Color: Black
+  PCB color: Black
   Wire Colors: VCC - Red<br>GND - Black<br>SIG - Yellow<br>SDA - Green<br>SCL - White
   Wire Lengths: 50mm
   Ring Terminals: Insulated M3
 internal-specs:
-  Internal Part Name: Soil Moisture and Temperature Sensor PCB Rev A
-  Vendor: LDO
-  $/pc: $5.90
-  Notes: What is the part number for the connector?
+  internal part name: Soil Moisture and Temperature Sensor PCB Rev A
+  vendor: LDO
+  cost: $5.90
+  notes: What is the part number for the connector?
 ---
 
 **Component tests**{:.internal}

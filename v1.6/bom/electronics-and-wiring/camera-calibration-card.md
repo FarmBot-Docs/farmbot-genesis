@@ -7,13 +7,13 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Matte cardstock
-  Thickness: 16pt
+  material: Matte cardstock
+  thickness: 16pt
   Printing: "[Front.pdf](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera_Calibration_Card_Rev_A_front.pdf?v=1596066432)<br>[Back.pdf](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera_Calibration_Card_Rev_A_back.pdf?v=1596066431)"
 internal-specs:
-  Internal Part Name: Camera Calibration Card
-  $/pc: $0.25
-  Notes: 2-sided print
+  internal part name: Camera Calibration Card
+  cost: $0.25
+  notes: 2-sided print
 ---
 
 **Component tests**{:.internal}

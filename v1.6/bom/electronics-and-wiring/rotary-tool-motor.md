@@ -6,9 +6,13 @@ price: $15.00
 quantity:
   genesis: 1
   xl: 1
+specs:
+  connector: 3-pin JST XH plug
+  wiring length: 75mm
+  wiring: DC1 and DC2 leads soldered to motor terminals, PE soldered to motor housing
 internal-specs:
   internal part name: 24V Rotary Tool Motor (500TB-12560) Rev A
-  $/pc: $1.90
+  cost: $1.90
 ---
 
 **Component tests**{:.internal}

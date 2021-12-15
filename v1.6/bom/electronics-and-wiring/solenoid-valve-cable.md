@@ -7,17 +7,18 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Wire Type: 18 AWG stranded copper, 2 core
-  Length: 0.5m
-  Rated Voltage: 300V DC
-  Inner Colors: Red and black
-  Outer Color: Black
-  Heat Shrink Color: Blue
-  Connector 1: Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-  Connector 2: Two 1/4" female shielded quick-connect terminals
+  cable: 18AWG-2C
+  length: 0.5m
+  rated voltage: 300V DC
+  inner colors: Red and black
+  outer color: Black
+  heat shrink color: Blue
+  connector 1: Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
+  connector 2: Two 1/4" female shielded quick-connect terminals
 internal-specs:
-  Internal Part Name: Solenoid Valve Cable - 0.5m
-  $/pc: $1.70
+  internal part name: Solenoid Valve Cable - 0.5m
+  cost: $1.70
+  notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
 ---
 
 **Component tests**{:.internal}

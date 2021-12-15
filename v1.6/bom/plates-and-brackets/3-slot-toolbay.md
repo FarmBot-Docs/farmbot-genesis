@@ -7,12 +7,12 @@ quantity:
   genesis: 2
   xl: 2
 specs:
-  Thickness: 5mm
-  Material: 5052 Aluminum
+  thickness: 5mm
+  material: 5052 Aluminum
   Surface Treatments: Tumble polished<br>Sand blasted<br>Black anodized<br>Laser engraved logo
 internal-specs:
-  Internal Part Name: 3-Slot Toolbay Rev B
-  Vendor: LDO
-  $/pc: $13.90
-  Component Tests: Plate and Bracket Tests
+  internal part name: 3-Slot Toolbay Rev B
+  vendor: LDO
+  cost: $13.90
+  component tests: Plate and Bracket Tests
 ---

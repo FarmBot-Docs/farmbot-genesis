@@ -7,14 +7,16 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Input Voltage: 24V DC
-  Current Draw: 0.5A
-  Connectors: Three 3/16" male quick-connect terminals for 24V, GND, and PE (protected earth)
-  Barb Size: For 6mm ID tubing
+  input voltage: 24V DC
+  current draw: 0.5A
+  connectors: Three 3/16" male quick-connect terminals for 24V, GND, and PE (protected earth)
+  barb size: For 6mm ID tubing
+  pcb: PCB with EMI filtering and soft-start circuitry soldered onto back of motor
+  pcb color: Matte black with gold ENIG
 internal-specs:
-  Internal Part Name: 24V Vacuum Pump with EMI Filter
-  Vendor: LDO
-  $/pc: $16.90
+  internal part name: 24V Vacuum Pump with EMI Filter
+  vendor: LDO
+  cost: $16.90
 ---
 
 **Component tests**{:.internal}

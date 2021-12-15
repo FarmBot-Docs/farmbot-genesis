@@ -7,13 +7,13 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Color: Green
+  color: Green
   Rainproof?: Yes
   Submersible?: No
 internal-specs:
-  Internal Part Name: Rainproof Power Cord Box
-  $/pc: $1.50
-  Notes: Will use Chinese samples received Aug 2020. Do NOT include plastic piece for hanging product on store shelves.
+  internal part name: Rainproof Power Cord Box
+  cost: $1.50
+  notes: Do not include plastic piece for hanging product on store shelves.
 ---
 
 **Component tests**{:.internal}

@@ -8,19 +8,19 @@ quantity:
   genesis: 1|0|1
   xl: 0|1|1
 specs:
-  Wire Type: 18 AWG stranded copper, 3 core
-  Shielded?: Yes
-  Lengths: 2.6m|4.1m|1.0m
-  Rated Voltage: 300V
-  Inner Colors: Red and black
-  Outer Color: Black
-  Heat Shrink Color: Gray
-  Farmduino connector: Black 3-pin connector ([Molex Part 2004561213](https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213))
-  Intermediate connectors: 3-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
-  Vacuum pump connectors: Three 3/16" female insulated quick-connect terminals
+  cable: Shielded 18AWG-2C
+  lengths: 2.6m|4.1m|1.0m
+  rated voltage: 300V
+  inner colors: Red and black
+  outer color: Black
+  heat shrink color: Gray
+  end 1: "3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|
+  3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|3-pin waterproof screw together 90 degree plug"
+  end 2: '3-pin waterproof screw together receptacle|3-pin waterproof screw together receptacle|Three 3/16" insulated quick-connect terminals'
 internal-specs:
-  Internal Part Name: Vacuum Pump Cable - Y, 2.6m (Genesis) Rev B|Vacuum Pump Cable - Y, 4.1m (Genesis XL) Rev B|Vacuum Pump Cable - Z, 1.0m Rev B
-  $/pc: $4.70|$6.20|$4.50
+  internal part name: Vacuum Pump Cable - Y, 2.6m (Genesis) Rev B|Vacuum Pump Cable - Y, 4.1m (Genesis XL) Rev B|Vacuum Pump Cable - Z, 1.0m Rev B
+  cost: $4.70|$6.20|$4.50
+  notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
 ---
 
 **Component tests**{:.internal}

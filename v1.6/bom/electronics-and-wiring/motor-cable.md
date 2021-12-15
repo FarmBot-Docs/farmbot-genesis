@@ -8,17 +8,17 @@ quantity:
   genesis: 1|1|1|1|0|0|0|1
   xl: 1|0|0|0|1|1|1|1
 specs:
-  Length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m
+  length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m
   Cores: 4
   Gauge: 18
   Motor Connector: 6 pin connector (only 4 pins used)
   Intermediate connector: 4-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   Farmduino Connector: 2.54mm pitch 4-pin connector with locking tab ([Molex Part 50579404](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579404))
-  Outer Color: Black
+  Outer color: Black
   Inner Colors: Black, Red, Yellow, White
   Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:
-  Internal Part Name: "Motor Cable - X1, 0.7m (Genesis and Genesis XL)|
+  internal part name: "Motor Cable - X1, 0.7m (Genesis and Genesis XL)|
   Motor Cable - X2, 2.3m (Genesis)|
   Motor Cable - Y, 2.7m (Genesis)|
   Motor Cable - ZY, 2.6m (Genesis)|
@@ -26,7 +26,7 @@ internal-specs:
   Motor Cable - Y, 4.2m (Genesis XL)|
   Motor Cable - ZY, 4.1m (Genesis XL)|
   Motor Cable - ZZ, 1.8m (Genesis and Genesis XL)|"
-  $/pc: $1.60|$2.10|$2.30|$3.90|$2.90|$3.10|$4.70|$3.80
+  cost: $1.60|$2.10|$2.30|$3.90|$2.90|$3.10|$4.70|$3.80
 ---
 
 **Component tests**{:.internal}

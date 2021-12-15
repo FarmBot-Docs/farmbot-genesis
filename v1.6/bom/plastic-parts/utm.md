@@ -7,10 +7,10 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: UTM Rev B
-  Vendor: LDO
-  $/pc: $2.31
-  Component Tests: Plastic Part Tests
+  internal part name: UTM Rev B
+  vendor: LDO
+  cost: $2.31
+  component tests: Plastic Part Tests
 ---

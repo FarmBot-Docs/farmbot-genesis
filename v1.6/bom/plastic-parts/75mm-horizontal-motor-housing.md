@@ -7,10 +7,10 @@ quantity:
   genesis: 3
   xl: 3
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: 75mm Horizontal Motor Housing Rev A
-  Vendor: LDO
-  $/pc: $1.52
-  Component Tests: Plastic Part Tests
+  internal part name: 75mm Horizontal Motor Housing Rev A
+  vendor: LDO
+  cost: $1.52
+  component tests: Plastic Part Tests
 ---

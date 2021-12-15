@@ -8,15 +8,15 @@ quantity:
   xl: 2
 specs:
   Wire Type: 18 AWG stranded copper, two core
-  Outer Color: Black
+  Outer color: Black
   Inner Colors: Red and black
-  Heat Shrink Color: Black
+  Heat Shrink color: Black
   Connector 1: Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
   Connector 2: Pre-stripped wire (no connector)
-  Length: 10cm
+  length: 10cm
 internal-specs:
-  Internal Part Name: Peripheral Lead
-  $/pc: $1.30
+  internal part name: Peripheral Lead
+  cost: $1.30
 ---
 
 **Component tests**{:.internal}

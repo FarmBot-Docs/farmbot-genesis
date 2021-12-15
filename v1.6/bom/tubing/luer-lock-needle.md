@@ -8,15 +8,15 @@ quantity:
   genesis: 2|2|2
   xl: 2|2|2
 specs:
-  Material: Stainless steel and plastic
+  material: Stainless steel and plastic
   Gauge: 16|19|22
-  Length: 40mm
+  length: 40mm
   Cover: Included
   Interface: 1/4 turn luer lock
 internal-specs:
-  Internal Part Name: Luer Lock Needle (16 Gauge)|Luer Lock Needle (19 Gauge)|Luer Lock Needle (22 Gauge)
-  Vendor: LDO
-  $/pc: $0.08|$0.08|$0.08
+  internal part name: Luer Lock Needle (16 Gauge)|Luer Lock Needle (19 Gauge)|Luer Lock Needle (22 Gauge)
+  vendor: LDO
+  cost: $0.08|$0.08|$0.08
 ---
 
 **Component tests**{:.internal}

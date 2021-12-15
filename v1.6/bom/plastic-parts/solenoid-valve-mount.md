@@ -7,10 +7,10 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: Solenoid Valve Mount Rev A
-  Vendor: LDO
-  $/pc: $1.43
-  Component Tests: Plastic Part Tests
+  internal part name: Solenoid Valve Mount Rev A
+  vendor: LDO
+  cost: $1.43
+  component tests: Plastic Part Tests
 ---

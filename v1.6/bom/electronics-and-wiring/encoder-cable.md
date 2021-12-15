@@ -8,16 +8,16 @@ quantity:
   genesis: 1|1|1|1|0|0|0|1
   xl: 1|0|0|0|1|1|1|1
 specs:
-  Length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m
+  length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m
   Cores: 7
   Gauge: 20
   Encoder Connector: 8 pin connector
   Intermediate connector: 7-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   Farmduino Connector: 2.54mm pitch 7-pin connector with locking tab ([Molex Part 50579407](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407))
-  Outer Color: Black
+  Outer color: Black
   Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:
-  Internal Part Name: "Encoder Cable - X1, 0.7m (Genesis and Genesis XL)|
+  internal part name: "Encoder Cable - X1, 0.7m (Genesis and Genesis XL)|
   Encoder Cable - X2, 2.3m (Genesis)|
   Encoder Cable - Y, 2.7m (Genesis)|
   Encoder Cable - ZY, 2.6m (Genesis)|
@@ -25,7 +25,7 @@ internal-specs:
   Encoder Cable - Y, 4.2m (Genesis XL)|
   Encoder Cable - ZY, 4.1m (Genesis XL)|
   Encoder Cable - ZZ, 1.8m (Genesis and Genesis XL)|"
-  $/pc: $1.80|$2.50|$3.00|$6.50|$3.50|$4.10|$6.90|$6.00
+  cost: $1.80|$2.50|$3.00|$6.50|$3.50|$4.10|$6.90|$6.00
 ---
 
 **Component tests**{:.internal}

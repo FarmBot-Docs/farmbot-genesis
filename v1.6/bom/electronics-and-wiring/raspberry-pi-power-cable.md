@@ -9,12 +9,12 @@ quantity:
 specs:
   Connector 1: Right-angle USB 2.0 Type A Male
   Connector 2: Right-angle microUSB 2.0 Male
-  Length: 300mm
-  Color: Black
+  length: 300mm
+  color: Black
 internal-specs:
-  Internal Part Name: Raspberry Pi Power Cable Rev A
-  $/pc: $1.19
-  Notes: Samples received in July 2020
+  internal part name: Raspberry Pi Power Cable Rev A
+  cost: $1.19
+  notes: Samples received in July 2020
 ---
 
 **Component tests**{:.internal}

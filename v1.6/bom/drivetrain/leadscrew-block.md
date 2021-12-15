@@ -7,17 +7,17 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Black delrin
+  material: Black delrin
   Threads: Tr8*8-2p (4 starts)
   Pitch: 2mm
   Lead: 8mm
   Mounting Holes: M5, 20mm apart
-  Length: 34mm
+  length: 34mm
   Width: 20mm
-  Thickness: 12mm
+  thickness: 12mm
 internal-specs:
-  Internal Part Name: Leadscrew Block Rev B
-  $/pc: $1.75
+  internal part name: Leadscrew Block Rev B
+  cost: $1.75
 ---
 
 **Component tests**{:.internal}
@@ -28,3 +28,4 @@ internal-specs:
 |Threads      |Thread a leadscrew into the block.|The leadscrew should thread as expected without significant resistance.|N/A
 |Hole diameter|Measure the hole diameter using digital calipers|5.25mm|+/- 0.1mm
 |Hole spacing |Attach the block to a cross-slide plate according to the FarmBot system design.|The block should attach without screw/hole interference.|N/A
+{:.internal}

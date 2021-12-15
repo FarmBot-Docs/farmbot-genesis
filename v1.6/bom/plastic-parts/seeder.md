@@ -7,12 +7,12 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
   Brass Insert: M5 threads
 internal-specs:
-  Internal Part Name: Seeder Rev A
-  Vendor: LDO
-  $/pc: $1.49
-  Component Tests: Plastic Part Tests
-  Notes: Must have M5 brass insert
+  internal part name: Seeder Rev A
+  vendor: LDO
+  cost: $1.49
+  component tests: Plastic Part Tests
+  notes: Must have M5 brass insert
 ---

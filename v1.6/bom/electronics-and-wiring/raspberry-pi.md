@@ -15,9 +15,9 @@ specs:
   Storage: MicroSD
   GPIO: 40-pin header
 internal-specs:
-  Internal Part Name: Raspberry Pi 3B+
-  $/pc: $46.90
-  Notes: Ensure the model is 3B+ (not 3B)
+  internal part name: Raspberry Pi 3B+
+  cost: $46.90
+  notes: Ensure the model is 3B+ (not 3B)
 ---
 
 **Component tests**{:.internal}

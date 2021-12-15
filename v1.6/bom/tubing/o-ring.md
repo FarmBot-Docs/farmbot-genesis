@@ -7,17 +7,17 @@ quantity:
   genesis: 3
   xl: 3
 specs:
-  Material: Viton
+  material: Viton
   Durometer: A70 (Medium)
-  Outer Diameter: 10.5mm
-  Inner Diameter: 7.65mm
-  Thickness: 1.78mm
+  outer diameter: 10.5mm
+  inner diameter: 7.65mm
+  thickness: 1.78mm
   Temperature Range: -30° to 212° F
-  Color: Black
+  color: Black
 internal-specs:
-  Internal Part Name: X profile O-rings
-  Vendor: LDO
-  $/pc: $0.33
+  internal part name: X profile O-rings
+  vendor: LDO
+  cost: $0.33
 ---
 
 **Component tests**{:.internal}

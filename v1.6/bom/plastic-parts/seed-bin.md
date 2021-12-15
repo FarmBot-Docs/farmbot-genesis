@@ -7,10 +7,10 @@ quantity:
   genesis: 2
   xl: 2
 specs:
-  Material: Gray UV stabilized ABS
+  material: Gray UV stabilized ABS
 internal-specs:
-  Internal Part Name: Seed Bin Rev A
-  Vendor: LDO
-  $/pc: $1.38
-  Component Tests: Plastic Part Tests
+  internal part name: Seed Bin Rev A
+  vendor: LDO
+  cost: $1.38
+  component tests: Plastic Part Tests
 ---

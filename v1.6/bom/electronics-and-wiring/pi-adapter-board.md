@@ -7,13 +7,13 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  PCB Color: Black
+  PCB color: Black
   Realtime Clock: Integrated
   Battery: CR1220
 internal-specs:
-  Internal Part Name: Pi Adapter Board w/ RTC
-  Vendor: LDO
-  $/pc: $4.90
+  internal part name: Pi Adapter Board w/ RTC
+  vendor: LDO
+  cost: $4.90
 ---
 
 **Component tests**{:.internal}

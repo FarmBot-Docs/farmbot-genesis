@@ -2,42 +2,43 @@
 title: "Cable Carrier"
 slug: "cable-carrier"
 description: "These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes."
-variants: X-Axis, 1.7m|X-Axis, 3.2m|Y-Axis, 1.7m|Y-Axis, 3.2m|Z-Axis, 0.74m
+variants: X, 1.7m|X, 3.2m|Y, 1.7m|Y, 3.2m|Z, 0.74m
 price: $50.00|$80.00|$50.00|$80.00|$30.00
 quantity:
   genesis: 1|0|1|0|1
   xl: 0|1|0|1|1
 specs:
-  Material: Black Nylon PA66
-  Length: "1.7m (85 links) + end pieces|
+  material: Black Nylon PA66
+  length: "1.7m (85 links) + end pieces|
   3.2m (160 links) + end pieces|
   1.7m (85 links) + end pieces|
   3.2m (160 links) + end pieces|
   0.74m (37 links) + end pieces"
-  Inside Height: 15mm
-  Inside Width: 20mm|20mm|50mm|50mm|50mm
-  Outside Height: 20mm
-  Outside Width: 30mm|30mm|60mm|60mm|60mm
-  Pitch: 20mm
-  Bending Radius: 28mm
-  End Piece Configuration: "<a href='#x-configuration'>X configuration</a>|
+  inside height: 15mm
+  inside width: 20mm|20mm|50mm|50mm|50mm
+  outside height: 20mm
+  outside width: 30mm|30mm|60mm|60mm|60mm
+  pitch: 20mm
+  bending radius: 28mm
+  end piece configuration: "<a href='#x-configuration'>X configuration</a>|
   <a href='#x-configuration'>X configuration</a>|
   <a href='#y-configuration'>Y configuration</a>|
   <a href='#y-configuration'>Y configuration</a>|
   <a href='#z-configuration'>Z configuration</a>"
 internal-specs:
-  Internal Part Name: "15 x 20 x 1700mm (85 links + end pieces in X configuration)|
+  internal part name: "15 x 20 x 1700mm (85 links + end pieces in X configuration)|
   15 x 20 x 3200mm (160 links + end pieces in X configuration)|
   15 x 50 x 1700mm (85 links + end pieces in Y configuration)|
   15 x 50 x 3200mm (160 links + end pieces in Y configuration)|
   15 x 50 x 740mm (37 links + end pieces in Z configuration)"
-  Vendor: JFLO
-  Vendor Part Number: "J15BF.1.20N R28|
+  vendor: JFLO
+  vendor part number: "J15BF.1.20N R28|
   J15BF.1.20N R28|
   J15BF.1.50N R28|
   J15BF.1.50N R28|
   J15BF.1.50N R28"
-  $/pc: $10.90|$19.30|$13.90|$26.10|$6.50
+  cost: $10.90|$19.30|$13.90|$26.10|$6.50
+  notes: No plastic bag packaging
 ---
 
 **Component tests**{:.internal}

@@ -8,12 +8,12 @@ bom:
       - image: z-axis_extrusion.jpg
   - category: fasteners-and-hardware
     parts:
-      - image: 2mm_allen_key.jpg
-      - image: 2mm_driver.jpg
-      - image: 3mm_driver.jpg
-      - image: 5.5mm_box_wrench.jpg
-      - image: 8mm_box_wrench.jpg
-      - image: 8mm_wrench.jpg
+      - image: assembly_tools_2mm_allen_key.jpg
+      - image: assembly_tools_2mm_driver.jpg
+      - image: assembly_tools_3mm_driver.jpg
+      - image: assembly_tools_5.5mm_box_wrench.jpg
+      - image: assembly_tools_8mm_box_wrench.jpg
+      - image: assembly_tools_8mm_wrench.jpg
       - image: eccentric_spacer.jpg
       - image: m2.5_screw.jpg
       - image: m3_locknut.jpg
@@ -91,6 +91,7 @@ bom:
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
       - image: farmduino.jpeg
+      - image: jam_nut.jpg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
       - image: led_indicator.jpg
@@ -100,6 +101,7 @@ bom:
       - image: motor.jpg
       - image: peripheral_lead.jpg
       - image: pi_adapter_board.jpg
+      - image: pogo_pin.jpg
       - image: power_cord_protector.jpg
       - image: power_supply_cable.jpg
       - image: power_supply.jpg

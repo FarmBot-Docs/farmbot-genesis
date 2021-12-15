@@ -8,15 +8,16 @@ quantity:
   genesis: 150|27|43
   xl: 200|27|43
 specs:
-  Threads: M5 x 0.8mm
-  Length: 10|16|30mm
-  Trade Name: Button-Head Socket Cap Screw
-  Material: Stainless Steel
-  Head Height: 2.75mm
-  Head Diameter: 9.5mm
-  Drive Size: 3mm hex
+  threads: M5 x 0.8mm
+  length: 10|16|30mm
+  trade name: Button-Head Socket Cap Screw
+  material: Stainless Steel
+  head height: 2.75mm
+  head diameter: 9.5mm
+  drive size: 3mm hex
 internal-specs:
-  Internal Part Name: M5 x 10mm Screw|M5 x 16mm Screw|M5 x 30mm Screw
-  $/pc: $0.026|$0.033|$0.056
-Component Tests: Fasteners and hardware tests
+  internal part name: M5 x 10mm Screw|M5 x 16mm Screw|M5 x 30mm Screw
+  cost: $0.026|$0.033|$0.056
+  notes: ---|12 Pre-assembled in UTM and Tools, 15 in bag|3 pre-assembled in Tools, 40 in bag
+component tests: Fasteners and hardware tests
 ---
