@@ -8,8 +8,6 @@ quantity:
   xl: 1
 specs:
   pre-assembled?: Yes
-  pogo pins: 12
-  jam nuts: 24
   color: Matte black
 internal-specs:
   internal part name: UTM PCB Rev A

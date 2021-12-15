@@ -91,6 +91,7 @@ bom:
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
       - image: farmduino.jpeg
+      - image: jam_nut.jpg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
       - image: led_indicator.jpg
@@ -100,6 +101,7 @@ bom:
       - image: motor.jpg
       - image: peripheral_lead.jpg
       - image: pi_adapter_board.jpg
+      - image: pogo_pin.jpg
       - image: power_cord_protector.jpg
       - image: power_supply_cable.jpg
       - image: power_supply.jpg
