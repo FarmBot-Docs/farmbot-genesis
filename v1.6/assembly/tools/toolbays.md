@@ -9,13 +9,9 @@ description: "Documentation and assembly instructions for the FarmBot Genesis to
 
 FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or seed trays each. These simple hardware components act as holsters for your tools and are shaped in such a way that FarmBot can automatically mount and dismount tools for the task at hand.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvjvIB5wXmRo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvjvIB5wXmRo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvjvIB5wXmRo%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>
-
-
+{% include youtube.html id="vjvIB5wXmRo" %}
 
 ![3-slot toolbays](_images/3-slot_toolbays.jpg)
-
-
 
 {%
 include callout.html
@@ -23,8 +19,6 @@ type="info"
 title="15 minutes"
 content="This is the estimated time it will take to install both toolbays"
 %}
-
-
 
 # Step 1: Attach a toolbay to the supporting infrastructure
 
@@ -38,8 +32,6 @@ content="Keep in mind that FarmBot's tools are designed to be mounted by the UTM
 
 Note: It is possible to orient the long edge parallel with the tracks, though that would require changing the orientation of the UTM by 90 degrees as well."
 %}
-
-
 
 {%
 include callout.html
@@ -59,11 +51,7 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 # Step 2: Repeat for the second toolbay
 
-
-
 ![both toolbays mounted to bed](_images/both_toolbays_mounted_to_bed.jpg)
-
-
 
 {%
 include callout.html
@@ -72,16 +60,12 @@ title="Genesis XL kits also include three 1-slot toolbays"
 content="Mount them using the same method used for the 3-slot toolbays."
 %}
 
-
-
 {%
 include callout.html
 type="info"
 title="Are the included toolbays not enough?"
 content="If you are interested in using more tools and seed containers at once, you will need to purchase or make more toolbays. Check out our **[online shop](http://shop.farm.bot)** to purchase more."
 %}
-
-
 
 # Step 3: Insert the tools
 

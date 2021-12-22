@@ -1,15 +1,15 @@
 ---
-title: "Seed Injector"
-slug: "seed-injector"
-description: "Documentation for the FarmBot Genesis seed injector"
+title: "Seeder"
+slug: "seeder"
+description: "Documentation for the FarmBot Genesis seeder tool"
 ---
 
 * toc
 {:toc}
 
-The **seed injector** works by using a **vacuum pump** to suction-hold a single seed at the end of a **needle**.
+The **seeder tool** works by using a **vacuum pump** to suction-hold a single seed at the end of a **needle**.
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/nXFdJIQaQB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="nXFdJIQaQB4" %}
 
 ![seeder](_images/seeder.png)
 
@@ -17,12 +17,12 @@ The **seed injector** works by using a **vacuum pump** to suction-hold a single 
 include callout.html
 type="success"
 title="Pre-assembled for your convenience"
-content="As of the v1.6 hardware release, the seed injector tool comes pre-assembled. In the next steps we'll hook up the rest of FarmBot's vacuum system."
+content="As of the v1.6 hardware release, the seeder tool comes pre-assembled. In the next steps we'll hook up the rest of FarmBot's vacuum system."
 %}
 
 # Step 1: Selecting a luer lock needle
 
-We've shipped all of the FarmBots with three different **luer lock needle** sizes so that you can experiment and find the best needle for your needs.
+FarmBot comes with different **luer lock needle** sizes so that you can experiment and find the best needle for your needs.
 
 |Size  |Gauge|Inner Diameter |Good for                 |
 |------|-----|---------------|-------------------------|
@@ -30,7 +30,7 @@ We've shipped all of the FarmBots with three different **luer lock needle** size
 |Medium|19   |0.83mm (0.032")|Most seeds
 |Small |22   |0.48mm (0.019")|Small seeds (eg: lettuce)
 
-Once you've selected a needle, attach it to the **luer lock adapter** with a 1/4 turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
+Once you've selected a needle, attach it to the **luer lock adapter** with a quarter turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
 
 ![seeder with needle](_images/seeder_with_needle.png)
 
@@ -78,7 +78,7 @@ Place the two **seed troughs** into the holder. Optionally, you may store up to 
 
 # Step 5: Understanding the seed containers
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/guJK9498ZA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="guJK9498ZA4" %}
 
 We offer the following types of seed containers, each optimized for different purposes.
 

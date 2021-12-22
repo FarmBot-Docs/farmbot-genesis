@@ -1,7 +1,7 @@
 ---
-title: "Seed Injector"
-slug: "seed-injector"
-description: "Pre-assembly and packing instructions for the seed injector"
+title: "Seeder"
+slug: "seeder"
+description: "Pre-assembly and packing instructions for the seeder tool"
 ---
 
 * toc
@@ -13,7 +13,7 @@ description: "Pre-assembly and packing instructions for the seed injector"
 
 |Component                     |Qty  |
 |------------------------------|-----|
-|Seed Injector                 |1
+|Seeder                        |1
 |M5 to Luer Lock Adapter       |1
 |Magnets                       |3
 |M5 x 16mm Screws              |3
@@ -39,7 +39,7 @@ Screw the **luer lock adapter** into the brass insert on the bottom of the **see
 
 # Step 3: Pack
 
-Place the **seeder box insert** into the **seeder box**. Then insert the **seeder accessory bag** into the box followed by the **pre-assembled seed injector**. Close the box.
+Place the **seeder box insert** into the **seeder box**. Then insert the **seeder accessory bag** into the box followed by the **pre-assembled seeder tool**. Close the box.
 
 # Box specifications
 

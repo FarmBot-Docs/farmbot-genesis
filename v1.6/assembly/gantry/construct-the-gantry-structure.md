@@ -9,7 +9,7 @@ slug: "construct-the-gantry-structure"
 
 # Step 1: Attach the plates to the columns
 
-Slide a **gantry column** onto the **gantry wheel plate assembly**. The extrusion should reside on the same side of the plate as the V-wheels and the end of the extrusion should be aligned with the **notch** in the plate. Tighten the **M5 x 10mm screws** using the **3mm hex driver**.
+Slide a **gantry column** (20mm x 60mm x 500mm extrusion) onto the **gantry wheel plate assembly**. The extrusion should reside on the same side of the plate as the V-wheels and the end of the extrusion should be aligned with the **notch** in the plate. Tighten the **M5 x 10mm screws** using the **3mm hex driver**.
 
 Repeat for the second gantry wheel plate and aluminum extrusion.
 
@@ -35,6 +35,7 @@ content="Pay special attention to the orientation of the brackets, extrusions, a
 
 {% include gallery.html images="
 ![Prepare a corner bracket](_images/corner_bracket_with_column_screws.png)
+![Prepare a corner bracket](_images/corner_bracket_with_column_screws_reverse.png)
 ![Attach the corner bracket to the column](_images/corner_bracket_attached_to_column.png)
 ![Align the top of the extrusion with the bracket notch](_images/bracket_notch_aligned_with_extrusion_top.png)
 ![Repeat for the second column and corner bracket](_images/both_columns.png)
