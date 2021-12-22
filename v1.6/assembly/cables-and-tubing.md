@@ -10,16 +10,16 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 
 # Cable carrier reference
 
-|Axis|Genesis                            |Genesis XL                          |
-|----|-----------------------------------|------------------------------------|
-|X   |15mm x 20mm x 1700mm<br>(85 links) |15mm x 20mm x 3200mm<br>(160 links)
-|Y   |15mm x 50mm x 1700mm<br>(85 links) |15mm x 50mm x 3200mm<br>(160 links)
-|Z   |15mm x 50mm x 740mm<br>(37 links)  |15mm x 50mm x 740mm<br>(37 links)
+|Axis|Genesis                         |Genesis <span class="fb-xl-sticker">XL</span>|
+|----|--------------------------------|---------------------------------------------|
+|X   |15mm x 20mm x 1700mm (85 links) |15mm x 20mm x 3200mm (160 links)
+|Y   |15mm x 50mm x 1700mm (85 links) |15mm x 50mm x 3200mm (160 links)
+|Z   |15mm x 50mm x 740mm (37 links)  |15mm x 50mm x 740mm (37 links)
 
 # Motor and encoder cable reference
 
-|Axis|Genesis|Genesis XL|
-|----|-------|----------|
+|Axis|Genesis|Genesis <span class="fb-xl-sticker">XL</span>|
+|----|-------|---------------------------------------------|
 |X1  |0.7m   |0.7m
 |X2  |2.3m   |3.8m
 |Y   |2.7m   |4.2m
