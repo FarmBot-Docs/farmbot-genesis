@@ -10,21 +10,21 @@ Installing the cables and tubing through FarmBot's cable carriers can be a tedio
 
 # Cable carrier reference
 
-|Axis                          |Genesis                       |Genesis XL                    |
-|------------------------------|------------------------------|------------------------------|
-|X                             |85 links (1700mm)             |160 links (3200mm)
-|Y                             |85 links (1700mm)             |160 links (3200mm)
-|Z                             |37 links (740mm)              |37 links (740mm)
+|Axis|Genesis           |Genesis XL         |
+|----|------------------|-------------------|
+|X   |85 links (1700mm) |160 links (3200mm)
+|Y   |85 links (1700mm) |160 links (3200mm)
+|Z   |37 links (740mm)  |37 links (740mm)
 
 # Motor and encoder cable reference
 
-|Axis                          |Genesis                       |Genesis XL                    |
-|------------------------------|------------------------------|------------------------------|
-|X1                            |0.95m                         |0.95m
-|X2                            |2.6m                          |4.1m
-|Y                             |3.1m                          |4.6m
-|Z (Y-axis section)            |2.6m                          |4.1m
-|Z (Z-axis section)            |1.8m                          |1.8m
+|Axis|Genesis|Genesis XL|
+|----|-------|----------|
+|X1  |0.7m   |0.7m
+|X2  |2.3m   |3.8m
+|Y   |2.7m   |4.2m
+|ZY  |2.6m   |4.1m
+|ZZ  |1.8m   |1.8m
 
 {%
 include callout.html
@@ -33,13 +33,13 @@ title="Labelled for clarity"
 content="All of FarmBot's motor and encoder cables are labelled with a small white sleeve on the end that plugs into the Farmduino electronics board. Use the labels to help you plug everything in correctly."
 %}
 
-![v1.3-motor-cables](_images/v1.3-motor-cables.jpg)
+## Motor cables
 
-_Motor cables_
+![motor cables](_images/motor_cables.jpg)
 
-![v1.3-encoder-cables](_images/v1.3-encoder-cables.jpg)
+## Encoder cables
 
-_Encoder cables_
+![encoder cables](_images/encoder_cables.jpg)
 
 # What's next?
 
