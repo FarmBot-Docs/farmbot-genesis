@@ -47,20 +47,28 @@ Push the **90 degree barb** onto the **z-axis water tube**. Then push the **y-ax
 # Step 5: Connect the cabling
 
 Connect the z-axis and y-axis sections of the following cables together:
-  * **Vacuum pump cable (z-axis section)** to **vacuum pump cable (y-axis section)** with the 2-pin 90-degree connector
-  * **Z-axis encoder cable (z-axis section)** to **z-axis encoder cable (y-axis section)** with the 7-pin 90-degree connector
-  * **Z-axis motor cable (z-axis section)** to **z-axis motor cable (y-axis section)** with the 4-pin 90-degree connector
-  * **Camera** to **camera cable** with the 4-pin 90-degree connector
+
+  * **Vacuum pump cable (Z)** to **vacuum pump cable (Y)** with the 4-pin connector
+  * **ZZ encoder cable** to **ZY encoder cable** with the 7-pin connector
+  * **ZZ motor cable** to **ZY motor cable** with the 4-pin connector
+  * **UTM cable (Z)** to **UTM cable (Y)** with the 12-pin connector
+  * **Camera** to **camera cable** with the 4-pin connector
 
 {%
 include callout.html
 type="danger"
-title="CAUTION: The camera and z-axis motor cables use the same connectors"
-content="Note that the camera and z-axis motor cables use the same connectors. When connecting the ends coming from the y-axis cable carrier to the ends coming from the z-axis cable carrier, ensure you are connecting camera to camera and z-axis motor to z-axis motor.
+title="CAUTION: The camera, vacuum pump, and z-axis motor cables use the same 4-pin connectors"
+content="When connecting the ends coming from the y-axis cable carrier to the ends coming from the z-axis cable carrier, ensure you are connecting camera to camera, vacuum pump to vacuum pump, and z-axis motor to z-axis motor.
 
 You can check to see which cable is which by tugging on a cable on one end of the cable carrier and seeing which cable moves on the other end.
 
-**We strongly recommend you take your time with this step because a mistake could cause massive damage to your electronics.**"
+**We strongly recommend you take your time with this step because a mistake could cause damage to the electronics.**"
+%}
+
+{%
+include callout.html
+type="info"
+content="Not all connectors are shown in the images below."
 %}
 
 {% include gallery.html images="
@@ -70,20 +78,20 @@ You can check to see which cable is which by tugging on a cable on one end of th
 
 Pay special attention that you fully insert the 90-degree connectors together. This may require a multi-step process of pushing together, slightly tightening the thumb screws, pushing together again, and tightening some more. See the video below for detail.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FrPqgmoE3PbI%3Ffeature%3Doembed&display_name=YouTube&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DrPqgmoE3PbI&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FrPqgmoE3PbI%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" title="YouTube embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+{% include youtube.html id="rPqgmoE3PbI" %}
 
 # Step 6: Lay everything into the cable carrier
 
 Neatly lay everything into the **y-axis cable carrier**:
 
-- Y-axis motor cable
-- Y-axis encoder cable
-- Y-axis water tube
-- UTM cable
+- Y motor cable
+- Y encoder cable
+- ZY motor cable
+- ZY encoder cable
+- Water tube (y-axis section)
+- UTM cable (y-axis section)
 - Camera cable (y-axis section)
 - Vacuum pump cable (y-axis section)
-- Z-axis motor cable (y-axis section)
-- Z-axis encoder cable (y-axis section)
 
 ![Lay everything into the cable carrier](_images/load_y_cc.png)
 
