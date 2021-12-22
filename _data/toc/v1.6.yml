@@ -63,10 +63,12 @@ contents:
             url: utm
           - title: Camera
             url: camera
-          - title: Seed Injector
-            url: seed-injector
+          - title: Seeder
+            url: seeder
           - title: Watering Nozzle
             url: watering-nozzle
+          - title: Rotary Tool
+            url: rotary-tool
           - title: Weeder
             url: weeder
           - title: Soil Sensor
@@ -187,16 +189,16 @@ contents:
             pages:
               - title: UTM
                 url: utm
-              - title: Seed Injector
-                url: seed-injector
+              - title: Seeder
+                url: seeder
               - title: Watering Nozzle
                 url: watering-nozzle
+              - title: Rotary Tool
+                url: rotary-tool
               - title: Weeder
                 url: weeder
               - title: Soil Sensor
                 url: soil-sensor
-              - title: Rotary Tool
-                url: rotary-tool
           - title: V-Wheels
             url: v-wheels
           - title: Electronics Box

@@ -7,9 +7,9 @@ description: "Documentation for the FarmBot Genesis weeder"
 * toc
 {:toc}
 
-The weeding tool is a single 3D printable component magnetically mounts onto FarmBot's UTM like any other tool. It works by driving the tool vertically into the soil in order to push any small weeds under the soil, and disrupt their young fragile root systems.
+The weeder tool works by pushing small weeds under the soil surface and disrupting their fragile root systems.
 
-<iframe width="840" height="473" src="https://www.youtube.com/embed/NsEdALh3ZYY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id="NsEdALh3ZYY" %}
 
 ![weeder](_images/weeder.png)
 
@@ -23,7 +23,7 @@ If you configure FarmBot well, you will never even notice weeds in your garden b
 include callout.html
 type="info"
 title="Not designed for large, established weeds"
-content="Do not expect this tool, or FarmBot in general, to be able to remove large, established weeds. Instead, configure your FarmBot to weed more often so that weeds do not have a chance at becoming large and established."
+content="Do not expect this tool to work with larger, more established weeds. Instead, configure your FarmBot to weed more often so that weeds do not have a chance at becoming large and established. You may also consider using the powered [Rotary Tool](rotary-tool.md) instead."
 %}
 
 {%
@@ -35,7 +35,7 @@ content="As of the v1.6 hardware release, the weeder comes pre-assembled with me
 
 # Customizing the weeder
 
-The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. Feel free to remove some of the blades, reconfigure them, or swap to the wider or narrower blades.
+The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. Feel free to add, remove, and reconfigure the blades as needed.
 
 You can also create new implements of your own design with a 3D printer or out of household materials.
 
