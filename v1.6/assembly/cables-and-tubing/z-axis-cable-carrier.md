@@ -27,20 +27,25 @@ There is only one orientation that the **z-axis cable carrier** mounts to the **
 
 # Step 3: Lay everything into the cable carrier
 
-Keeping the mounting orientation of the cable carrier in mind, lay the **UTM cable**, the **z-axis water tube (0.95m)**, the **vacuum pump cable (z-axis section)**, the **camera**, the **z-axis motor cable (z-axis section)**, and the **z-axis encoder cable (z-axis section)** into the open cable carrier. The ends of all cabling and tubing should be offset from the **z-axis end** of the cable carrier as follows:
+Keeping the mounting orientation of the cable carrier in mind, lay the following items into the open cable carrier. The **cross-slide end** of all items should be sticking out from the **cross-slide end** of the cable carrier by approximately **5cm**. This will leave the appropriate remaining length of each item sticking out from the z-axis end of the cable carrier.
 
-|Cable/Tube|Extension<br>(beyond the Z end)|
-|----------|-------------------------------|
-|[Z-axis water tube](../../bom/tubing/tube.md)<br>_0.95m long_|10cm
-|[UTM cable](../../bom/electronics-and-wiring/universal-tool-mount-cable.md)<br>_End with the yellow and black connectors_|10cm
-|[Camera](../../bom/electronics-and-wiring/camera.md)|15cm
-|[Vacuum pump cable (z-axis section)](../../bom/electronics-and-wiring/vacuum-pump-cable.md)<br>_End with the quick-connect terminals_|30cm
-|[Z-axis motor cable (z-axis section)](../../bom/electronics-and-wiring/motor-cable.md)<br>_End with the white motor plug_|100cm
-|[Z-axis encoder cable (z-axis section)](../../bom/electronics-and-wiring/encoder-cable.md)<br>_End with the white encoder plug_|100cm
+|Item|Cross-slide end description|
+|----|---------------------------|
+|[Z-axis water tube](../../bom/tubing/tube.md) (0.95m long)|Either
+|[Z-axis UTM cable](../../bom/electronics-and-wiring/universal-tool-mount-cable.md) (1.0m long)|End with the 90-degree connector
+|[Camera](../../bom/electronics-and-wiring/camera.md) (1.0m long)|End with the 90-degree connector
+|[Z-axis vacuum pump cable](../../bom/electronics-and-wiring/vacuum-pump-cable.md) (1.0m long)|End with the 90-degree connector
+|[ZZ motor cable](../../bom/electronics-and-wiring/motor-cable.md) (1.8m long)|End with the 90-degree connector
+|[ZZ encoder cable](../../bom/electronics-and-wiring/encoder-cable.md) (1.8m long)|End with the 90-degree connector
 
+{%
+include callout.html
+type="info"
+content="The exact number of pins in each connector may vary from the images below depending on when your kit was manufactured."
+%}
 
 {% include gallery.html images="
-![Cables and tube extensions](_images/z_cables_extended.jpg)
+![Cables and tube organization](_images/z_cable_carrier_organization_cross_slide_end.png)
 ![Cables and tube organization](_images/z_cable_carrier_organization.png)
 " %}
 
@@ -72,7 +77,7 @@ Now attach the z-axis end of the **cable carrier** to the lowest **vertical cabl
 
 # Step 6: Connect the z-axis motor and encoder
 
-Feed the **z-axis motor and encoder cables** up through the slots in the **vertical cable carrier supports**, and then through the slot in the **z-axis motor mount**. Then connect the cables to the motor and encoder.
+Feed the **ZZ motor and encoder cables** up through the slots in the **vertical cable carrier supports**, and then through the slot in the **z-axis motor mount**. Then connect the cables to the motor and encoder.
 
 {% include gallery.html images="
 ![Connect the z motor and encoder cables](_images/connect_z_motor_cables_1.png)
