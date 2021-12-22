@@ -12,8 +12,8 @@ The FarmBot Genesis UTM and tools come pre-assembled in the box. The following p
 # What's next?
 
  * [UTM](tools/utm.md)
- * [Seed Injector](tools/seed-injector.md)
+ * [Seed](tools/seeder.md)
  * [Watering Nozzle](tools/watering-nozzle.md)
+ * [Rotary Tool](tools/rotary-tool.md)
  * [Weeder](tools/weeder.md)
  * [Soil Sensor](tools/soil-sensor.md)
- * [Rotary Tool](tools/rotary-tool.md)
