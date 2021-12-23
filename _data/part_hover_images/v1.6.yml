@@ -19,6 +19,7 @@ bom:
       - image: m3_locknut.jpg
       - image: m3_screw.jpg
       - image: m3_screw_35mm.jpg
+      - image: m3_flat_head_screw.jpg
       - image: m5_flange_locknut.jpeg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
@@ -113,7 +114,6 @@ bom:
       - image: pi_adapter_board.jpg
       - image: pogo_pin.jpg
       - image: power_cord_protector.jpg
-      - image: power_supply_cable.jpg
       - image: power_supply.jpg
       - image: push_button.jpg
       - image: raspberry_pi_power_cable.jpg
