@@ -45,16 +45,13 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and a fe
 
 # Step 5: Mount the cable carrier to the gantry
 
-Attach the **x-axis cable carrier** to the **40mm horizontal cable carrier mount** using two **M5 x 16mm screws** and **M5 flange locknuts**.
+Attach the **x-axis cable carrier** to the **30mm horizontal cable carrier mount** using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
-{% include gallery.html images="
 ![Mount the x-axis cable carrier](_images/mount_x_cc_1.png)
-![Mount the x-axis cable carrier](_images/mount_x_cc_2.png)
-" %}
 
 # Step 6: Mount the cable carrier to the tracks
 
-Attach the other end of the **x-axis cable carrier** to the **40mm horizontal cable carrier support** nearest the middle of the **tracks** using two **M5 x 16mm screws** and **M5 flange locknuts**.
+Attach the other end of the **x-axis cable carrier** to the **30mm horizontal cable carrier support** nearest the middle of the **tracks** using two **M5 x 16mm screws** and **M5 flange locknuts**.
 
 ![Mount the x-axis cable carrier](_images/mount_x_cc_3.png)
 
