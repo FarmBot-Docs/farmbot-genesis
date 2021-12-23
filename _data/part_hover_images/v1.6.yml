@@ -18,16 +18,23 @@ bom:
       - image: m2.5_screw.jpg
       - image: m3_locknut.jpg
       - image: m3_screw.jpg
+      - image: m3_screw_35mm.jpg
       - image: m5_flange_locknut.jpeg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
       - image: m5_screw.jpg
       - image: magnet.jpg
+      - image: magnet_countersunk.jpg
       - image: nut_bar_100mm.jpg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpeg
       - image: nut_bar_40mm.jpeg
       - image: nut_bar_60mm.jpeg
+      - image: rotary_tool_shaft_extension.jpg
+      - image: rotary_tool_shaft_adapter.jpg
+      - image: rotary_tool_trimmer_mount.jpg
+      - image: rotary_tool_chuck.jpg
+      - image: rotary_tool_chuck_adapter.jpg
       - image: spacer.jpg
       - image: tee_nut.jpg
       - image: wood_screw.jpg
@@ -50,12 +57,15 @@ bom:
       - image: tube.jpg
   - category: plastic-parts
     parts:
+      - image: 30mm_horizontal_cable_carrier_support.jpg
       - image: 60mm_cable_carrier_spacer_block.jpg
       - image: 60mm_horizontal_cable_carrier_support.jpg
       - image: 60mm_vertical_cable_carrier_support.jpg
       - image: 75mm_horizontal_motor_housing.jpg
       - image: 80mm_vertical_motor_housing.jpg
       - image: camera_mount_half.jpg
+      - image: rotary_tool_bottom.jpg
+      - image: rotary_tool_top.jpg
       - image: seed_bin.jpg
       - image: seed_tray.jpg
       - image: seed_trough_holder.jpeg
@@ -90,7 +100,7 @@ bom:
       - image: electronics_box.jpg
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
-      - image: farmduino.jpeg
+      - image: farmduino.jpg
       - image: jam_nut.jpg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
@@ -108,12 +118,12 @@ bom:
       - image: push_button.jpg
       - image: raspberry_pi_power_cable.jpg
       - image: raspberry_pi.jpg
+      - image: rotary_tool_pcb.jpg
       - image: soil_sensor_pcb.jpeg
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
       - image: universal_tool_mount_cable.jpg
       - image: universal_tool_mount_pcb.jpg
-      - image: vacuum_pump_cable.jpg
       - image: vacuum_pump.jpg
   - category: plates-and-brackets
     parts:
