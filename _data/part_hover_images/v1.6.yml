@@ -31,7 +31,7 @@ bom:
       - image: nut_bar_40mm.jpeg
       - image: nut_bar_60mm.jpeg
       - image: rotary_tool_shaft_extension.jpg
-      - image: rotary_tool_shaft_adapter.jpg
+      - image: rotary_tool_m5_shaft_adapter.jpg
       - image: rotary_tool_trimmer_mount.jpg
       - image: rotary_tool_chuck.jpg
       - image: rotary_tool_chuck_adapter.jpg
