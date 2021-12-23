@@ -119,10 +119,11 @@ bom:
       - image: raspberry_pi_power_cable.jpg
       - image: raspberry_pi.jpg
       - image: rotary_tool_pcb.jpg
+      - image: rotary_tool_motor.jpg
       - image: soil_sensor_pcb.jpeg
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
-      - image: universal_tool_mount_cable.jpg
+      - image: universal_tool_mount_cable_y.jpg
       - image: universal_tool_mount_pcb.jpg
       - image: vacuum_pump.jpg
   - category: plates-and-brackets
