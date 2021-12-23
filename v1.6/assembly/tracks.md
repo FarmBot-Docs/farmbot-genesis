@@ -57,7 +57,7 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 # Step 2: Attach the horizontal cable carrier supports
 
-Attach six **40mm horizontal cable carrier supports** to the *lower slot* of a **track extrusion** using **40mm nut bars** and **M5 x 10mm screws**. The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
+Attach six **30mm horizontal cable carrier supports** to the *lower slot* of a {% include part.html category='extrusions' part='track extrusion' %} using **40mm nut bars** and **M5 x 10mm screws**. The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
 
 Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis XL).
 
@@ -68,7 +68,8 @@ Repeat for all of the track extrusions on the side of the bed that will eventual
 " %}
 
 # Step 3: Attach a track end plate
-Position a **track end plate** as shown below and screw it into the **supporting infrastructure** with three **wood screws**.
+
+Position a {% include part.html category='plates-and-brackets' part='track end plate' %} as shown below and screw it into the **supporting infrastructure** with three **wood screws**.
 
 {%
 include callout.html
@@ -83,17 +84,17 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 # Step 4: Attach a track joining plate
 
-Position a **track joining plate** such that one half of it will be able to attach to each **track extrusion** and so that it is vertically aligned with the first **track end plate**. Screw the plate into the **supporting infrastructure** with four **wood screws**.
+Position a {% include part.html category='plates-and-brackets' part='track joining plate' %} such that one half of it will be able to attach to each {% include part.html category='extrusions' part='track extrusion' %} and so that it is vertically aligned with the first {% include part.html category='plates-and-brackets' part='track end plate' %}. Screw the plate into the **supporting infrastructure** with four **wood screws**.
 
 ![Mount first track joining plate](_images/mount_first_track_joining_plate.png)
 
 # Step 5: Attach the first track extrusion
 
-Attach one end of the first **track extrusion** to the **track end plate** using a **60mm nut bar** and two **M5 x 10mm screws**.
+Attach one end of the first {% include part.html category='extrusions' part='track extrusion' %} to the {% include part.html category='plates-and-brackets' part='track end plate' %} using a **60mm nut bar** and two **M5 x 10mm screws**.
 
 ![Mount the first track extrusion](_images/first_track_extrusion_1.png)
 
-Attach the other end of the extrusion to the **track joining plate** using a **100mm nut bar** and two **M5 x 10mm screws**. Do not fully tighten the screws on the track joining plate yet.
+Attach the other end of the extrusion to the {% include part.html category='plates-and-brackets' part='track joining plate' %} using a **100mm nut bar** and two **M5 x 10mm screws**. Do not fully tighten the screws on the track joining plate yet.
 
 {% include gallery.html images="
 ![Mount the first track extrusion](_images/first_track_extrusion_4.png)
@@ -137,7 +138,7 @@ title="This step applies to XL kits only"
 content="If you have a standard sized Genesis kit (3m long), proceed to the [next step](#step-8-attach-the-second-track-end-plate)."
 %}
 
-Position another **track joining plate** such that one half of it will be able to attach to the free end of the **track extrusion** that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**, and then secure the **extrusion** with another **100mm nut bar** and tighten all screws.
+Position another {% include part.html category='plates-and-brackets' part='track joining plate' %} such that one half of it will be able to attach to the free end of the {% include part.html category='extrusions' part='track extrusion' %} that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**, and then secure the **extrusion** with another **100mm nut bar** and tighten all screws.
 
 ![Mount additional extrusions](_images/first_track_extrusion_2.png)
 
@@ -145,7 +146,7 @@ Repeat to install subsequent **track joining plates** and **track extrusions**.
 
 # Step 8: Attach the second track end plate
 
-Position the second **track end plate** and secure it to the **supporting infrastructure** with three **wood screws**. Then fasten the final **track extrusion** to the plate using a **60mm nut bar** and **M5 x 10mm screws**.
+Position the second {% include part.html category='plates-and-brackets' part='track end plate' %} and secure it to the **supporting infrastructure** with three **wood screws**. Then fasten the final {% include part.html category='extrusions' part='track extrusion' %} to the plate using a **60mm nut bar** and **M5 x 10mm screws**.
 
 ![Completed single track](_images/completed_single_track.png)
 

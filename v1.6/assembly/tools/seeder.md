@@ -61,13 +61,16 @@ content="If you find during testing that there is air blowing out of the seeder 
 
 # Step 3: Wire up the vacuum pump
 
-Connect the **vacuum pump cable** to the **vacuum pump's** terminals. While the cable has red/black wires, the vacuum pump has no polarity. Thus, you can connect the red/black wires to either terminal without changing the operation of the pump. In a few steps from now, you will connect the other end of the cable to the Farmduino.
+Connect the **vacuum pump cable** to the **vacuum pump's** terminals. The black wire should be connected to `GND` (the terminal on the right), the white wire should be connect to `24V` (the middle terminal), and the clear wire should be connected to `PE` (the terminal on the left at a 90-degree angle from the others). In a few steps from now, you will connect the other end of the cable to the Farmduino.
 
+{% include gallery.html images="
 ![Wire up the vacuum pump](_images/wire_up_vacuum_pump.png)
+![Wire up the vacuum pump](_images/wire_up_vacuum_pump_detail.png)
+" %}
 
 # Step 4: Attach the seed trough holder
 
-Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and **M5 flange locknuts**. Then mount the assembly to the **left gantry column** using a **40mm nut bar** and two **M5 x 10mm screws**. 
+Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and **M5 flange locknuts**. Then mount the assembly to the **left gantry column** using a **40mm nut bar** and two **M5 x 10mm screws**.
 
 Place the two **seed troughs** into the holder. Optionally, you may store up to three **luer lock needles** in the holder as well.
 

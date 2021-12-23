@@ -26,7 +26,7 @@ There is only one orientation that the **x-axis cable carrier** mounts to the **
 
 Disconnect the **power supply cable** from the **power supply**.
 
-Lay the **x-axis water tube** and the **power supply cable** into the open **x-axis cable carrier**. The red connector of the **power supply cable** should extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
+Lay the **x-axis water tube** and the **power supply cable** into the open **x-axis cable carrier**. The gray connector of the **power supply cable** should extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
 
 ![Add the water tube and power supply cable](_images/add_x_cc_contents.png)
 
@@ -45,16 +45,13 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and a fe
 
 # Step 5: Mount the cable carrier to the gantry
 
-Attach the **x-axis cable carrier** to the **40mm horizontal cable carrier mount** using two **M5 x 16mm screws** and **M5 flange locknuts**.
+Attach the **x-axis cable carrier** to the **30mm horizontal cable carrier mount** using two **M3 x 16mm flat head screws** and **M3 locknuts**.
 
-{% include gallery.html images="
 ![Mount the x-axis cable carrier](_images/mount_x_cc_1.png)
-![Mount the x-axis cable carrier](_images/mount_x_cc_2.png)
-" %}
 
 # Step 6: Mount the cable carrier to the tracks
 
-Attach the other end of the **x-axis cable carrier** to the **40mm horizontal cable carrier support** nearest the middle of the **tracks** using two **M5 x 16mm screws** and **M5 flange locknuts**.
+Attach the other end of the **x-axis cable carrier** to the **30mm horizontal cable carrier support** nearest the middle of the **tracks** using two **M3 x 16mm flat head screws** and **M3 locknuts**.
 
 ![Mount the x-axis cable carrier](_images/mount_x_cc_3.png)
 

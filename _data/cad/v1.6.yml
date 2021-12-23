@@ -59,7 +59,7 @@ assembly:
     id: 4a0e5719f2deccae067da885
   - name: Electronics Box
     id: 99a8452234dd7e0eda029c8c
-  - name: FarmBot Genesis v1.5
+  - name: FarmBot Genesis v1.6
     id: 3a231755273e980d277c3a4c
   - name: Gantry
     id: 5ff2d1974113b312add42bf7
@@ -73,6 +73,8 @@ assembly:
     id: db3f560afd88927dc57a5088
   - name: Right Gantry Column
     id: be773ec8da404e731fa4baef
+  - name: Rotary Tool
+    id: eaee13391d085cacba01826e
   - name: Seed Trough
     id: 752fa7f2bba8b0042c906b5d
   - name: Seeder
