@@ -1,5 +1,5 @@
 ---
 permalink: /docs/track-maintenance
-page_path: /Extras/maintenance/track-maintenance
+page_path: /extras/maintenance/track-maintenance
 layout: redirect
 ---

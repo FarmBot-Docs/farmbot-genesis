@@ -1,5 +1,6 @@
 ---
 permalink: /docs/utm
-page_path: /FarmBot-Genesis-V1.5/tools/utm
+page_path: /assembly/tools/utm
 layout: redirect
 ---
+

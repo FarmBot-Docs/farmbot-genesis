@@ -1,5 +1,5 @@
 ---
 permalink: /docs/toolbays
-page_path: /FarmBot-Genesis-V1.5/tools/toolbays
+page_path: /assembly/tools/toolbays
 layout: redirect
 ---

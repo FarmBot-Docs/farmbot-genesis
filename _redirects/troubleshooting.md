@@ -1,5 +1,5 @@
 ---
 permalink: /docs/troubleshooting
-page_path: /Extras/troubleshooting
+page_path: /extras/troubleshooting
 layout: redirect
 ---

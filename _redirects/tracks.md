@@ -1,5 +1,5 @@
 ---
 permalink: /docs/tracks
-page_path: /FarmBot-Genesis-V1.5/tracks
+page_path: /assembly/tracks
 layout: redirect
 ---

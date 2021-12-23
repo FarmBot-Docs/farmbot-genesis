@@ -1,5 +1,6 @@
 ---
 permalink: /docs/tools
-page_path: /FarmBot-Genesis-V1.5/tools
+page_path: /assembly/tools
 layout: redirect
 ---
+

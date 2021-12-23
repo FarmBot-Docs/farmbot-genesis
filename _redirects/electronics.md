@@ -1,5 +1,5 @@
 ---
 permalink: /docs/electronics
-page_path: /FarmBot-Genesis-V1.5/electronics
+page_path: /assembly/electronics
 layout: redirect
 ---

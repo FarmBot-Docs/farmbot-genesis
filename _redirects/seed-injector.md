@@ -1,5 +1,5 @@
 ---
-permalink: /docs/seed-injector
-page_path: /FarmBot-Genesis-V1.5/tools/seed-injector
+permalink: /docs/seeder
+page_path: /assembly/tools/seeder
 layout: redirect
 ---

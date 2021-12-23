@@ -1,5 +1,5 @@
 ---
 permalink: /docs/drivetrain
-page_path: /Extras/bom/drivetrain
+page_path: /bom/drivetrain
 layout: redirect
 ---

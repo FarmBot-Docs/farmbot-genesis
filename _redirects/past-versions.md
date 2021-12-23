@@ -1,5 +1,5 @@
 ---
 permalink: /docs/past-versions
-page_path: /FarmBot-Genesis-V1.5/intro/past-versions
+page_path: /assembly/intro/past-versions
 layout: redirect
 ---

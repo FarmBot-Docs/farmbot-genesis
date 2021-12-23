@@ -1,5 +1,5 @@
 ---
 permalink: /docs/intro
-page_path: /FarmBot-Genesis-V1.5/intro
+page_path: /assembly/intro
 layout: redirect
 ---

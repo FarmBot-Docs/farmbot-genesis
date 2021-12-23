@@ -1,5 +1,5 @@
 ---
 permalink: /docs/mods
-page_path: /Extras/mods
+page_path: /extras/mods
 layout: redirect
 ---

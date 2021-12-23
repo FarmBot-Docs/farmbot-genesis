@@ -1,5 +1,5 @@
 ---
 permalink: /docs/seeds
-page_path: /Extras/reference/seeds
+page_path: /extras/reference/seeds
 layout: redirect
 ---

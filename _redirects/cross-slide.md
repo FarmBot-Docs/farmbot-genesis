@@ -1,5 +1,5 @@
 ---
 permalink: /docs/cross-slide
-page_path: /FarmBot-Genesis-V1.5/cross-slide
+page_path: /assembly/cross-slide
 layout: redirect
 ---

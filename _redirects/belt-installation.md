@@ -1,5 +1,5 @@
 ---
 permalink: /docs/belt-installation
-page_path: /Extras/reference/belt-installation
+page_path: /extras/reference/belt-installation
 layout: redirect
 ---
