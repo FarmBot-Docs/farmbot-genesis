@@ -17,6 +17,14 @@ New in this version of FarmBot Genesis is the inclusion of the **Rotary Tool** -
 
 The latest revision of our custom **Farmduino** electronics board includes a new 24V motor driver to power the new Rotary Tool. This new output includes load detection circuitry allowing FarmBot to detect when the Rotary Tool has stalled due to overload. We have also increased the `USB OUT` voltage that supplies the Raspberry Pi to mitigate low voltage issues that have affected CPU, WiFi, and camera performance in past versions. Last, the board now includes a more appropriately specced `7.5A` fuse instead of a `15A` fuse.
 
+![farmduino v1.6](_images/farmduino.jpg)
+
+# Vacuum pump with EMI filter
+
+The **vacuum pump** now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well the potential for the pump to drop the system voltage below acceptable levels when starting up. Additionally, the vacuum pump cable is now a shielded cable, with the shielding connected via a third quick-connect terminal to the vacuum pump motor's housing. The shield is connected to `PE` (protected earth) at the Farmduino.
+
+![vacuum pump with EMI filter](_images/vacuum_pump.jpg)
+
 # Modularized UTM cable
 
 Building on the progress made in v1.5, the v1.6 kit includes a two-piece modularized **UTM cable**, with one section running through the y-axis cable carrier and the other section running through the z-axis cable carrier. The two sections are joined by a 12-pin 90-degree waterproof screw-together connector. This makes assembly and disassembly of the FarmBot much easier because now all cables and tubing can be disconnected at the Y/Z cable carrier junction.
@@ -28,10 +36,6 @@ The **x-axis cable carrier** has been reduced in size to `15mm x 20mm` internal 
 # Pre-assembled tools
 
 All tools (the **Watering Nozzle**, **Seeder**, **Weeder**, **Soil Sensor**, and new **Rotary Tool**) now come pre-assembled and packed individually in small boxes. This reduces the burden of FarmBot assembly required by the end user.
-
-# Vacuum pump with EMI filter
-
-The **vacuum pump** now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well the potential for the pump to drop the system voltage below acceptable levels when starting up. Additionally, the vacuum pump cable is now a shielded cable, with the shielding connected via a third quick-connect terminal to the vacuum pump motor's housing. The shield is connected to `PE` (protected earth) at the Farmduino.
 
 # Updated power supply and power supply cable
 
