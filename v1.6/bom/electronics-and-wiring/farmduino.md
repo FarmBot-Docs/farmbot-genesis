@@ -23,7 +23,7 @@ specs:
   DC Current for 3.3V Pin: 50 mA
   PCB color: Black
   RoHS Compliant: Yes
-  CE Certification: Yes
+  CE Certification: Yes (<a href="https://drive.google.com/file/d/16wXEbiY1xF6eznnHQbq_53pAWcq5jr2P/view?usp=sharing">Certificate of Conformity</a>)
 internal-specs:
   internal part name: Farmduino v1.6 Rev A
   vendor: LDO
