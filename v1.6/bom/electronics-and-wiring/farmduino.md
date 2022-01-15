@@ -11,19 +11,19 @@ specs:
   Stepper Drivers: Trinamic TMC2130
   Input Voltage: 24V
   Fuse: 7.5 amp blade fuse
-  Power Receptacle: Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
-  Vacuum Peripheral Receptacle: Black 3-pin receptacle ([Molex Part 2002411113](https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113))
-  Other Peripheral Receptacles: (Water, Lighting, and Peripherals 4 and 5) - Black 2-pin receptacle ([Molex Part 151048-1206](https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206))
-  UTM Receptacle: Black 12-pin receptacle ([Molex Part 430451212](https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212))
+  Power Receptacle: Black 3-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113">Molex Part 2002411113</a>
+  Vacuum Peripheral Receptacle: Black 3-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113">Molex Part 2002411113</a>)
+  Other Peripheral Receptacles: (Water, Lighting, and Peripherals 4 and 5) - Black 2-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206">Molex Part 151048-1206</a>)
+  UTM Receptacle: Black 12-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212">Molex Part 430451212</a>)
   UTM shunts: 8 1x2 2.54mm shunts pre-installed on UTM pins A through H
-  Motor Receptacles: Black 4-pin receptacle ([Molex Part 705430038](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430038))
-  Encoder Receptacles: Black 7-pin receptacle ([Molex Part 705430041](https://www.molex.com/molex/products/part-detail/pcb_headers/0705430041))
-  Rotary Tool Driver: Texas Instruments DRV8876 (https://www.ti.com/lit/ds/symlink/drv8876.pdf) H-bridge motor driver with integrated current sense and regulation
+  Motor Receptacles: Black 4-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0705430038">Molex Part 705430038</a>)
+  Encoder Receptacles: Black 7-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0705430041">Molex Part 705430041</a>)
+  Rotary Tool Driver: <a href="https://www.ti.com/lit/ds/symlink/drv8876.pdf">Texas Instruments DRV8876</a> H-bridge motor driver with integrated current sense and regulation
   DC Current per I/O Pin: 40 mA
   DC Current for 3.3V Pin: 50 mA
   PCB color: Black
   RoHS Compliant: Yes
-  CE Certification: Yes
+  CE Certification: Yes (<a href="https://drive.google.com/file/d/16wXEbiY1xF6eznnHQbq_53pAWcq5jr2P/view?usp=sharing">Certificate of Conformity</a>)
 internal-specs:
   internal part name: Farmduino v1.6 Rev A
   vendor: LDO

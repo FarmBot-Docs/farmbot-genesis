@@ -14,6 +14,15 @@ internal-specs:
   cost: $3.90
 ---
 
+{%
+include callout.html
+type="success"
+title="Thank you Réstep"
+content="The EMI filter circuit included in the Rotary Tool PCB is based on Chris Arntzen's openly licensed [Réstep EMI Filter add-on for older versions of FarmBot's vacuum pump](https://www.restep.eco/emi-filter).
+
+Thank you Chris for lending your expertise in electronics design to the FarmBot community with this fantastic open-source contribution!"
+%}
+
 **Component tests**{:.internal}
 
 |Test         |Description  |Target       |Tolerance    |

@@ -10,6 +10,8 @@ description: "Documentation for the FarmBot Genesis rotary tool"
 
 The **rotary tool** features a 24 volt DC motor, interchangeable implements, and an adjustable motor angle allowing FarmBot to perform light duty weed whacking, soil surface milling, and drilling operations.
 
+{% include youtube.html id="f_GqlMAMWPk" %}
+
 ![rotary tool](_images/rotary_tool.png)
 
 This tool, and FarmBot in general, is designed for removing weeds early and often such that the weeds are always **small, young, and fragile**, and therefore easily removed.

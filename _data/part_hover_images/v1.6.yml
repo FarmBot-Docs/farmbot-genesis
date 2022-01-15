@@ -108,6 +108,7 @@ bom:
       - image: led_indicator.jpg
       - image: led_strip.jpg
       - image: micro_sd_card.jpg
+      - image: micro_sd_card_adapter.jpg
       - image: motor_cable.jpg
       - image: motor.jpg
       - image: peripheral_lead.jpg
