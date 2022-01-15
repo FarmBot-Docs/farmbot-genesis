@@ -11,11 +11,11 @@ The **Farmduino** and **Raspberry Pi** are the central components of the FarmBot
 
 The Farmduino microcontroller uses Arduino architecture and it communicates with the Raspberry Pi using a G-code like language. The Farmduino controls the stepper drivers and motors, as well as the UTM and peripherals. The Farmduino provides power and control to all the electronic components of the FarmBot. The board has a layout and connectors that are optimized for FarmBot's various peripherals and motor requirements.
 
-![FarmBot_System_Diagram.png](_images/FarmBot_System_Diagram.png)
+![farmbot electrical system diagram](_images/farmbot-electrical-system-diagram.jpg)
 
 Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmBot's plants, sequences, regimens, events, and settings. Additionally, the Raspberry Pi is responsible for taking photos with the USB camera, and monitoring and controlling the push buttons and LEDs on top of the electronics box via the Pi adapter board.
 
-![Raspberry Pi Diagram ](_images/Raspberry_Pi_Diagram.png)
+![Raspberry Pi electrical diagram](_images/raspberry_pi_electrical_diagram.png)
 
 # Step 1: Attach the electronics box to the gantry
 
