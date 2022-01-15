@@ -6,7 +6,7 @@ specs:
   size: 1x2
   pitch: 2.54mm
   color: Black
-price: $0.1
+price: $0.10
 quantity:
   genesis: 8
   xl: 8

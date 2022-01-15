@@ -18,7 +18,6 @@ internal-specs:
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|
-|Brand        |Inspect the card for the brand name.|`SanDisk`|N/A
+|Brand        |Inspect the adapter for the brand name.|`SanDisk`|N/A
 |Condition    |Inspect to ensure the product is not used or refurbished.|Product should be brand new|N/A
-|Function     |Use the adapter to flash FarmBot OS onto the microSD card.
-Adapter should work without issues.|N/A
+|Function     |Use the adapter to flash FarmBot OS onto the microSD card.|Adapter should work without issues.|N/A
