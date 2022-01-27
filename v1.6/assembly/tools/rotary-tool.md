@@ -33,6 +33,24 @@ type="success"
 title="Pre-assembled for your convenience"
 %}
 
+# Safety considerations
+
+The Rotary Tool's motor is fairly low powered relative to other common household tools and garden equipment:
+
+|Equipment|Power (watts)|
+|---|---|
+|FarmBot Genesis Rotary Tool|Less than 10|
+|Hand-held Dremel tool|100+|
+|Electric weed trimmer|150 to 300|
+
+However, even though the tool is fairly low powered, some commonsense precautions should be taken when using the tool:
+
+- Do not connect or disconnect the tool from the UTM by hand when the FarmBot is powered on.
+- Do not change the tool's implement (drill bit, for example) while it is mounted to the UTM.
+- Keep hands, feet, hair, and other body parts away from the tool when mounted to the UTM, especially when the tool is powered.
+- When the tool is powered, maintain a safe distance and be mindful of debris (rocks, sticks, dirt) that may be kicked up.
+- If closer observation is absolutely necessary while the tool is being used, use appropriate protective equipment such as safety glasses, a face shield, and/or protective clothing.
+
 # Changing the motor angle
 
 The angle of the rotary tool's motor can be adjusted +/- 70 degrees to allow for more aggressive weed whacking. To adjust the angle, loosen or remove the two **M3 screws** holding the motor to the upper half of the tool. Position the motor at the desired angle and retighten the screws.
