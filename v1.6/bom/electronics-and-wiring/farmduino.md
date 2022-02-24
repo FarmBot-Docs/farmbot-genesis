@@ -25,7 +25,8 @@ specs:
   RoHS Compliant: Yes
   CE Certification: Yes (<a href="https://drive.google.com/file/d/16wXEbiY1xF6eznnHQbq_53pAWcq5jr2P/view?usp=sharing">Certificate of Conformity</a>)
 internal-specs:
-  internal part name: Farmduino v1.6 Rev A
+  internal part name: Farmduino v1.6
+  rev: A
   vendor: LDO
   cost: $89.00
   notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span>"

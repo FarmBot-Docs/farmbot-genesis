@@ -8,13 +8,14 @@ quantity:
   xl: 15
 specs:
   material: Stainless Steel
-  Height: 6mm (not including rim)
-  Bore: 5mm
-  Rim Diameter: Fits into a 7.12mm hole
-  Hex Size: 8mm
-  Engraving: 6mm, on the side with the shortest distance to the bore
+  height: 6mm (not including rim)
+  bore: 5mm
+  rim diameter: Fits into a 7.12mm hole
+  hex size: 8mm
+  engraving: 6mm, on the side with the shortest distance to the bore
 internal-specs:
-  internal part name: M5 x 6mm Eccentric Spacer Rev A
+  internal part name: M5 x 6mm Eccentric Spacer
+  rev: A
   cost: $0.35
 ---
 

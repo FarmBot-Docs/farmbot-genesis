@@ -9,7 +9,7 @@ quantity:
 specs:
   material: Brass
   For Tube ID: 6mm
-  Threads: 3/4" female NPT (National Pipe Thread)
+  threads: 3/4" female NPT (National Pipe Thread)
   Engraving: NPT
   Rubber Gasket?: Included
 internal-specs:

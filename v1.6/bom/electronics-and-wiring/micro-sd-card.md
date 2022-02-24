@@ -7,11 +7,11 @@ quantity:
   genesis: 1
   xl: 1
 specs:
-  Form Factor: MicroSD
-  Capacity: 8GB
-  Brand: SanDisk
+  form factor: MicroSD
+  capacity: 8GB
+  brand: SanDisk
 internal-specs:
-  internal part name: 8GB Sandisk Industrial Micro SD card
+  internal part name: Micro SD Card - 8GB Sandisk Industrial
   cost: $6.60
   notes: Must be genuine SanDisk brand, new (not refurbished)
 ---

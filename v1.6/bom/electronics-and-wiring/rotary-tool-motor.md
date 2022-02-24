@@ -11,7 +11,8 @@ specs:
   wiring length: 75mm
   wiring: DC1 and DC2 leads soldered to motor terminals, PE soldered to motor housing
 internal-specs:
-  internal part name: 24V Rotary Tool Motor (500TB-12560) Rev A
+  internal part name: Rotary Tool Motor - 24V, 500TB-12560
+  rev: A
   cost: $1.90
 ---
 

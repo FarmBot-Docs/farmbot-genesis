@@ -11,14 +11,14 @@ specs:
   Number of Teeth: 20
   inner diameter: 5mm
   outer diameter: 15mm
-  Height: 14mm
+  height: 14mm
   setscrew quantity: 2
   setscrew material: Stainless steel
   setscrew drive size: 2mm hex
   Max Belt Width: 7mm
   Pitch: GT2 (2mm)
 internal-specs:
-  internal part name: 20 Tooth GT2 Pulleys w/ SS Setscrews w/ 2mm drive
+  internal part name: GT2 Pulley - 20 Tooth
   cost: $0.85
 ---
 

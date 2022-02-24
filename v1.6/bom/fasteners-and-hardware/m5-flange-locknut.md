@@ -8,8 +8,8 @@ quantity:
   xl: 70
 specs:
   Trade Name: Nylon-Insert Locknut
-  Threads: M5 x 0.8mm
-  Height: 7mm
+  threads: M5 x 0.8mm
+  height: 7mm
   Hex Width: 8mm
   Flange Diameter: 11.5mm
   material: Stainless Steel

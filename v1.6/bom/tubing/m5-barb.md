@@ -8,7 +8,7 @@ quantity:
   xl: 3
 specs:
   For Tube ID: 6mm
-  Threads: M5
+  threads: M5
   Hex Size: 8mm
   Gasket?: Yes
   material: Brass

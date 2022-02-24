@@ -8,8 +8,8 @@ quantity:
   xl: 24
 specs:
   Trade Name: Nylon-Insert Locknut
-  Threads: M3 x 0.5mm
-  Height: 4mm
+  threads: M3 x 0.5mm
+  height: 4mm
   Hex Width: 5.5mm
   material: Stainless Steel
 internal-specs:

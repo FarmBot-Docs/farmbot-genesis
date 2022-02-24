@@ -12,7 +12,8 @@ specs:
   inner diameter: 5.1mm
   length: 6mm
 internal-specs:
-  internal part name: M5 x 6mm Spacer Rev A
+  internal part name: M5 x 6mm Spacer
+  rev: A
   cost: $0.115
 ---
 

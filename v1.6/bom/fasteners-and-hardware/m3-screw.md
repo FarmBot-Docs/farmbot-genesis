@@ -8,13 +8,13 @@ quantity:
   genesis: 10|35|4
   xl: 10|35|4
 specs:
-  Threads: M3 x 0.5mm
+  threads: M3 x 0.5mm
   Lengths: 6mm|12mm|35mm
   Trade Name: M3 Low-Profile Socket Head Cap Screw
   material: Stainless Steel
-  Head Height: 2mm
-  Head Diameter: 5.5mm
-  Drive Size: 2mm hex
+  Head height: 2mm
+  head diameter: 5.5mm
+  drive size: 2mm hex
 internal-specs:
   internal part name: M3 x 6mm Screw|M3 x 12mm Screw|M3 x 35mm Screw
   cost: $0.009|$0.014|$0.037

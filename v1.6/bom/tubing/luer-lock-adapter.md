@@ -8,7 +8,7 @@ quantity:
   xl: 1
 specs:
   material: Stainless steel
-  Threads: M5
+  threads: M5
   Interface: 1/4 turn luer lock
 internal-specs:
   internal part name: M5 to Luer Lock Adapter (Stainless Steel)

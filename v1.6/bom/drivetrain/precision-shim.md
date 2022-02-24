@@ -12,7 +12,7 @@ specs:
   ID: 5mm
   thickness: 1mm
 internal-specs:
-  internal part name: SS M5 Precision Shim
+  internal part name: M5 x 1mm Precision Shim
   cost: $0.00
   notes: Pre-assembled in V-Wheels.
 ---

@@ -10,7 +10,8 @@ specs:
   pre-assembled?: Yes
   color: Matte black
 internal-specs:
-  internal part name: UTM PCB Rev A
+  internal part name: UTM PCB
+  rev: A
   vendor: LDO
   cost: $9.90
   notes: Pre-assembled with 12 pogo pins and 24 jam nuts.

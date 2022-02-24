@@ -26,11 +26,11 @@ specs:
   <a href='#y-configuration'>Y configuration</a>|
   <a href='#z-configuration'>Z configuration</a>"
 internal-specs:
-  internal part name: "15 x 20 x 1700mm (85 links + end pieces in X configuration)|
-  15 x 20 x 3200mm (160 links + end pieces in X configuration)|
-  15 x 50 x 1700mm (85 links + end pieces in Y configuration)|
-  15 x 50 x 3200mm (160 links + end pieces in Y configuration)|
-  15 x 50 x 740mm (37 links + end pieces in Z configuration)"
+  internal part name: "Cable Carrier - 15 x 20 x 1700mm (85 links + end pieces in X configuration)|
+  Cable Carrier - 15 x 20 x 3200mm (160 links + end pieces in X configuration)|
+  Cable Carrier - 15 x 50 x 1700mm (85 links + end pieces in Y configuration)|
+  Cable Carrier - 15 x 50 x 3200mm (160 links + end pieces in Y configuration)|
+  Cable Carrier - 15 x 50 x 740mm (37 links + end pieces in Z configuration)"
   vendor: JFLO
   vendor part number: "J15BF.1.20N R28|
   J15BF.1.20N R28|

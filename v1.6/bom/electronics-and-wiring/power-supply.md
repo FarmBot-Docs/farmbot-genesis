@@ -12,11 +12,11 @@ specs:
   output connector: 3-pin waterproof screw-together connector
   input power: 110 volts AC with a max current draw of 1.36 amps (150 watts)<br><br>or<br><br>220 volt AC with a max current draw of 0.68 amps (150 watts)
   input cable: 0.3m, 18AWG-3C, Black
-  inptut connector: NEMA 5-15P (standard US 3-prong plug)
+  input connector: NEMA 5-15P (standard US 3-prong plug)
   waterproof rating: IP67
   brand: Weho
 internal-specs:
-  internal part name: IP67 24V 6.25A Power Supply
+  internal part name: Power Supply - 24V, 6.25A
   vendor: Weho
   cost: $33.00
 ---

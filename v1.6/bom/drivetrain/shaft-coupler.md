@@ -1,6 +1,6 @@
 ---
-title: "5mm to 8mm Shaft Coupling"
-slug: "5mm-to-8mm-shaft-coupling"
+title: "Shaft Coupler"
+slug: "shaft-coupler"
 description: "This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction."
 price: $6.00
 quantity:
@@ -10,11 +10,11 @@ specs:
   material: Aluminum
   length: 25mm
   outer diameter: 20mm
-  Inner Diameters: 5mm and 8mm
+  inner diameters: 5mm and 8mm
   screw material: Stainless steel
   screw drive size: "<span style='color: red; font-weight: bold;'>2mm hex</span>"
 internal-specs:
-  internal part name: 5mm to 8mm Shaft Coupler w/ SS screws w/ 2mm drive
+  internal part name: Shaft Coupler - 5mm to 8mm
   cost: $1.85
   notes: "v1.5 Production Run 2 and v1.6 Production Run 1 screws had 2.5mm drive instead of 2mm, requiring an extra allen key to be added to the kit. Screws must be stainless steel and have <span style='color: red; font-weight: bold;'>2mm hex drive.</span>"
 ---
