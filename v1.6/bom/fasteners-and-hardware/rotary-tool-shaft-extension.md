@@ -11,6 +11,7 @@ specs:
   male threads: M5 x 0.8mm
   material: Stainless steel
 internal-specs:
-  internal part name: Rotary Tool Shaft Extension Rev B
+  internal part name: Rotary Tool Shaft Extension
+  rev: B
   cost: $0.90
 ---

@@ -8,10 +8,10 @@ quantity:
   xl: 1
 specs:
   material: Brass
-  For Tube ID: 6mm
-  Threads: 3/4" Female GHT (Garden Hose Thread)<br>3/4" Male NPT (National Pipe Thread)
-  Engraving: GHT
-  Rubber Gasket?: Included
+  for tube ID: 6mm
+  threads: 3/4" Female GHT (Garden Hose Thread)<br>3/4" Male NPT (National Pipe Thread)
+  engraving: GHT
+  rubber gasket?: Included
 internal-specs:
   internal part name: Garden Hose to Barb Adapter (3/4" female GHT to Barb for 6mm ID tubing)
   vendor: LDO

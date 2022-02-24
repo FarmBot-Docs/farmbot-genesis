@@ -9,9 +9,10 @@ quantity:
 specs:
   thickness: 5mm
   material: 6061 Aluminum
-  Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Track Joining Plate Rev A
+  internal part name: Track Joining Plate
+  rev: A
   vendor: LDO
   cost: $3.10
   component tests: Plate and Bracket Tests

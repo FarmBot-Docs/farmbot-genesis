@@ -10,11 +10,11 @@ specs:
   material: Stainless Steel
   length: 800mm
   Diameter: 8mm
-  Threads: Tr8*8-2p (4 starts)
+  threads: Tr8*8-2p (4 starts)
   Pitch: 2mm
   Lead: 8mm
 internal-specs:
-  internal part name: 8mm x 800mm SS ACME Leadscrew
+  internal part name: Leadscrew - 8mm x 800mm
 cost: $5.50
 ---
 

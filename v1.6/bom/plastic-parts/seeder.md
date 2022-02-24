@@ -8,9 +8,10 @@ quantity:
   xl: 1
 specs:
   material: Gray UV stabilized ABS
-  Brass Insert: M5 threads
+  brass insert: M5 threads
 internal-specs:
-  internal part name: Seeder Rev A
+  internal part name: Seeder
+  rev: A
   vendor: LDO
   cost: $1.49
   component tests: Plastic Part Tests

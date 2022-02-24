@@ -9,7 +9,8 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Camera Mount Half Rev A
+  internal part name: Camera Mount Half
+  rev: A
   vendor: LDO
   cost: $1.05
   component tests: Plastic Part Tests

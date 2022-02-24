@@ -27,7 +27,17 @@ The connectivity popup should show a [code 31 diagnosis code](https://software.f
 
 ![connectivity info pop-up](_images/connectivity_info_pop-up.png)
 
-# 2. Tighten up gantry connections
+# 2. Double check your firmware selection
+
+Double check that the **model** and **firmware** specified in the app match the actual model of your FarmBot. If you incorrectly specify the model of your FarmBot, you will be able to connect and you will have some limited functionality. However, the motors will likely not work.
+
+![check model and firmware](_images/check_model_and_firmware.png)
+
+To change the model and firmware, go to the [firmware section of the settings panel](https://my.farm.bot/app/designer/settings?highlight=firmware) and select the correct firmware for your FarmBot model. Then press the <span class="fb-button fb-yellow">FLASH FIRMWARE</span> button. Flashing the firmware may take up to 2 minutes. Once complete, try issuing motor movement commands.
+
+If this doesn't work, you might try [re-flashing the microSD card with FarmBot OS](https://software.farm.bot/docs/farmbot-os.html#installation).
+
+# 3. Tighten up gantry connections
 
 Double check and tighten all of the screws holding the gantry together so there is no "play" in the system. The gantry needs to act as one rigid/stiff body. If there is some flex in the gantry structure it can cause delays in the movement as the structure flexes prior to the movement.
 
@@ -35,7 +45,7 @@ Tighten up the whole gantry structure by tightening the M5 screws at the gantry 
 
 ![tighten gantry structure](_images/tighten_up_gantry_connections.png)
 
-# 3.  Equalize the gantry
+# 4.  Equalize the gantry
 
 An equalized gantry is one that is exactly perpendicular to the tracks such that it is not crooked, and so that the gantry is not being torqued. The X-axis tracks need to be aligned. If they are out of alignment they can cause a crooked or torqued gantry, which can cause creaking, extra wear on the v-wheels and motors, and introduce a high amount of friction into the system. These issues all decrease the overall reliability of the FarmBot system and decrease the lifespan of the components.
 
@@ -64,7 +74,7 @@ content="For track plates that join two track extrusions together, position the 
 
 Review the track assembly procedure [here](../../assembly/tracks.md).
 
-# 4. Adjust the belt tension
+# 5. Adjust the belt tension
 
 It is possible for the belts to stretch or slip over time which can lead to missed steps, premature wearing, a gantry that binds on the tracks, as well as a loss of precision in FarmBot’s movements.
 
@@ -77,11 +87,11 @@ Procedure for adjusting the belt tension:
 3. Re-tighten the clip.
 4. Make sure to check all three belts: the two along the tracks, and the one across the gantry main beam.
 The belts should not be under extreme tension. If they are, FarmBot’s motors will have difficulty in moving and will miss steps. **Use a small amount of tension - just enough so that there is no slack in the system.**
-5. [Re-equalize the gantry](#3--equalize-the-gantry) to prevent binding.
+5. [Re-equalize the gantry](#4--equalize-the-gantry) to prevent binding.
 
 ![belt tightening](_images/belt_tightening.png)
 
-# 5. Adjust the eccentric spacers
+# 6. Adjust the eccentric spacers
 
 Eccentric spacers are used for making fine adjustments to the spacing between the v-wheels on either side of an aluminum extrusion. Adjusting this spacing is key to achieving smooth and wobble-free movement of the gantry across the tracks, the cross-slide across the gantry main beam, and the z-axis up and down the cross-slide.
 
@@ -91,7 +101,7 @@ Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-sp
 
 ![gantry wheel plate eccentric spacers](_images/gantry_wheel_plate_eccentric_spacers.png)
 
-# 6. Change the motor settings
+# 7. Change the motor settings
 
 If you are having trouble with the movements of the FarmBot, adjust settings and reduce hardware resistance for motor stalls. You can reduce the hardware resistance by cleaning the tracks and ensuring there is no dirt or debris on belts or the pulleys.  The stepper driver power should be last thing you should try to adjust because it's difficult to adjust and easy to mess up.
 
@@ -111,7 +121,7 @@ This is the same FarmBot with the minimum increased the speed to 200 mm/s. There
 
 If increasing the minimum speed does not solve the problem, you can attempt the alternative strategy of decreasing the minimum speed and increase the number of "Accelerate for" steps.
 
-# 7. Motor stalls
+# 8. Motor stalls
 
 If you are having trouble with motor stalls adjust settings in the software and reduce hardware resistance.
 
@@ -127,6 +137,6 @@ The recommended corrective action was to take out any slack from the belts and l
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvgtzimwKmGc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvgtzimwKmGc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvgtzimwKmGc%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
 
-# 8. Troubleshooting encoders
+# 9. Troubleshooting encoders
 
 Learn how to interpret and diagnose common encoder issues, what causes them and how to fix them in this [troubleshooting document](are-my-encoders-working.md).

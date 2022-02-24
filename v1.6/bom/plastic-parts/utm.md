@@ -9,7 +9,8 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: UTM Rev B
+  internal part name: UTM
+  rev: B
   vendor: LDO
   cost: $2.31
   component tests: Plastic Part Tests

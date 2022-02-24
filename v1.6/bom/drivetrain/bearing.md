@@ -1,5 +1,5 @@
 ---
-title: "SS-625-2RS Bearing"
+title: "Bearing"
 slug: "bearing"
 description: "Two of these stainless steel rubber sealed ball bearigns are pre-assembled in each V-wheel."
 price: $0.00
@@ -14,7 +14,7 @@ specs:
   thickness: 5mm
   seal: Rubber sealed
 internal-specs:
-  internal part name: SS 625-2RS Bearing
+  internal part name: Bearing - SS-625-2RS
   cost: $0.00
   notes: Pre-assembled in V-wheels.
 ---

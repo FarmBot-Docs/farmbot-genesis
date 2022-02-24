@@ -8,16 +8,17 @@ quantity:
   genesis: 1|1|1|2|2
   xl: 1|1|1|2|2
 specs:
-  Materials: UV stabilized ABS<br>Gasket and Supergland - Rubber<br>Screws and Nuts - Stainless steel
-  Rainproof?: Yes
-  Colors: White|Frosted clear|Black|Black|Black
-  Cover Type: Hinged with latches
-  Hinge Type: M3 x 35mm screws with locknuts
+  materials: UV stabilized ABS<br>Gasket and Supergland - Rubber<br>Screws and Nuts - Stainless steel
+  rainproof?: Yes
+  colors: White|Frosted clear|Black|Black|Black
+  cover type: Hinged with latches
+  hinge type: M3 x 35mm screws with locknuts
 internal-specs:
-  internal part name: "Genesis Electronics Box (Box) Rev A|
-  Genesis Electronics Box (Lid) Rev A|
-  Genesis Electronics Box (Gasket) Rev A|
-  Electronics Box (Latches) Rev A|
-  Genesis Electronics Box (Supergland) Rev A"
+  internal part name: "Genesis Electronics Box - Box|
+  Genesis Electronics Box - Lid|
+  Genesis Electronics Box - Gasket|
+  Electronics Box - Latch|
+  Genesis Electronics Box - Supergland Half"
+  rev: A|A|A|A|A
   cost: $11.70|$5.95|$1.32|$0.88|$0.77
 ---

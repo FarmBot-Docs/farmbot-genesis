@@ -9,7 +9,8 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Soil Sensor Rev A
+  internal part name: Soil Sensor
+  rev: A
   vendor: LDO
   cost: $1.65
   component tests: Plastic Part Tests

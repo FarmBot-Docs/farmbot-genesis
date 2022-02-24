@@ -9,6 +9,7 @@ quantity:
 specs:
   material: Aluminum
 internal-specs:
-  internal part name: Rotary Tool Trimmer Mount Rev C
+  internal part name: Rotary Tool Trimmer Mount
+  rev: C
   cost: $0.90
 ---

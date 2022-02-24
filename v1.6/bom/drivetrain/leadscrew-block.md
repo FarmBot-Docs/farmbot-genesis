@@ -8,7 +8,7 @@ quantity:
   xl: 1
 specs:
   material: Black delrin
-  Threads: Tr8*8-2p (4 starts)
+  threads: Tr8*8-2p (4 starts)
   Pitch: 2mm
   Lead: 8mm
   Mounting Holes: M5, 20mm apart
@@ -16,7 +16,8 @@ specs:
   Width: 20mm
   thickness: 12mm
 internal-specs:
-  internal part name: Leadscrew Block Rev B
+  internal part name: Leadscrew Block
+  rev: B
   cost: $1.75
 ---
 

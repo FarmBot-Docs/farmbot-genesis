@@ -10,7 +10,8 @@ specs:
   motor connector: 3-pin JST XH receptacle
   pcb color: Matte black with gold ENIG
 internal-specs:
-  internal part name: Rotary Tool PCB Rev G
+  internal part name: Rotary Tool PCB
+  rev: G
   cost: $3.90
 ---
 

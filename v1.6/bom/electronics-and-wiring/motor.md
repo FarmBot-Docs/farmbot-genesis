@@ -7,16 +7,16 @@ quantity:
   genesis: 4
   xl: 4
 specs:
-  Motor Resolution: 200 steps/revolution (1.8 deg/step)
-  Winding Type: Bipolar
-  Voltage: 12V
-  Current Draw: 1.68A max
-  Shaft Diameter: 5mm diameter
-  Mount Hole Pattern: 4x M3 holes, standard NEMA 17 pattern
-  Motor Connector: 6-pin connector (only 4 pins used)
-  Encoder Connector: 8-pin connector
-  Encoder Resolution: 360 lines/revolution
-  Encoder Output: Differential
+  motor resolution: 200 steps/revolution (1.8 deg/step)
+  winding type: Bipolar
+  voltage: 12V
+  current draw: 1.68A max
+  shaft diameter: 5mm diameter
+  mount hole pattern: 4x M3 holes, standard NEMA 17 pattern
+  motor connector: 6-pin connector (only 4 pins used)
+  encoder connector: 8-pin connector
+  encoder resolution: 360 lines/revolution
+  encoder output: Differential
 internal-specs:
   internal part name: NEMA 17 Stepper Motor w/ Rotary Encoder
   vendor: Motor - LDO<br>Encoder - Honest Sensor

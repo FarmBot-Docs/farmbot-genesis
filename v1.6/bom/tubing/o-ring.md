@@ -8,14 +8,14 @@ quantity:
   xl: 3
 specs:
   material: Viton
-  Durometer: A70 (Medium)
+  durometer: A70 (Medium)
   outer diameter: 10.5mm
   inner diameter: 7.65mm
   thickness: 1.78mm
-  Temperature Range: -30° to 212° F
+  temperature range: -30° to 212° F
   color: Black
 internal-specs:
-  internal part name: X profile O-rings
+  internal part name: O-Ring - X Profile
   vendor: LDO
   cost: $0.33
 ---

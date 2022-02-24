@@ -9,7 +9,8 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Seed Tray Rev A
+  internal part name: Seed Tray
+  rev: A
   vendor: LDO
   cost: $1.49
   component tests: Plastic Part Tests

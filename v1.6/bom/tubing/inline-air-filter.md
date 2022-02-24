@@ -9,8 +9,9 @@ quantity:
 specs:
   material: Plastic
   color: Clear
+  for tube ID: 6mm
 internal-specs:
-  internal part name: Inline Air Filter (Barbs for 6mm ID tubing)
+  internal part name: Inline Air Filter
   vendor: LDO
   cost: $0.75
 ---

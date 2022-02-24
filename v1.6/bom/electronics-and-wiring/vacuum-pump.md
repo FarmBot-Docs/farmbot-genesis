@@ -14,7 +14,8 @@ specs:
   pcb: PCB with EMI filtering and soft-start circuitry soldered onto back of motor
   pcb color: Matte black with gold ENIG
 internal-specs:
-  internal part name: 24V Vacuum Pump with EMI Filter
+  internal part name: Vacuum Pump - 24V with EMI Filter
+  rev: A
   vendor: LDO
   cost: $16.90
 ---

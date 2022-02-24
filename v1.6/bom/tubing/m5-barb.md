@@ -7,13 +7,14 @@ quantity:
   genesis: 3
   xl: 3
 specs:
-  For Tube ID: 6mm
-  Threads: M5
-  Hex Size: 8mm
-  Gasket?: Yes
+  for tube ID: 6mm
+  threads: M5
+  hex size: 8mm
+  gasket?: Yes
   material: Brass
 internal-specs:
-  internal part name: Barbs for 6mm ID tubing w/ M5 Threads, 8mm hex, o-ring
+  internal part name: M5 Barb
+  rev: A
   vendor: LDO
   cost: $1.00
 ---

@@ -8,11 +8,11 @@ quantity:
   xl: 60
 specs:
   material: Steel
-  Finish: Black Oxide
+  finish: Black Oxide
   length: 25mm
-  Head Diameter: 12mm
+  head diameter: 12mm
 internal-specs:
-  internal part name: 25mm Wood Screw
+  internal part name: Wood Screw - 25mm
   cost: $0.007
 component tests: Fasteners and hardware tests
 ---

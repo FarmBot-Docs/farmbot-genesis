@@ -58,7 +58,7 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 
 # Miscellaneous
 
-* The **camera cable** is now manufactured with shielded USB 2.0 cable (`28AWG/1p+24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
+* The **camera cable** is now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
 * Shortened the **X1 motor cable** and **X1 encoder cable** to reduce the amount of extra cabling underneath the electronics box.
 * Removed unnecessary features from the **leadscrew block** design.
 * Removed the **5.5mm wrench**, **2.5mm hex key**, **bladed screwdriver** and **phillips screwdriver** from the kit.

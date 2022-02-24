@@ -9,11 +9,12 @@ quantity:
   xl: 6|42|20|6|2
 specs:
   material: Stainless steel
-  Overall Lengths: 20mm|40mm|60mm|100mm|140mm
-  Threads: M5 x 0.8mm
-  Fits Slot Size: 6
+  overall lengths: 20mm|40mm|60mm|100mm|140mm
+  threads: M5 x 0.8mm
+  fits slot size: 6
 internal-specs:
   internal part name: Nut Bar - 20mm|Nut Bar - 40mm|Nut Bar - 60mm|Nut Bar - 100mm|Nut Bar - 140mm
+  rev: A|A|B|A|A
   cost: $0.45|$0.56|$0.68|$1.02|$1.09
 component tests: Fasteners and hardware tests
 ---

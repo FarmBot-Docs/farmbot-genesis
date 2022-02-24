@@ -9,9 +9,10 @@ quantity:
 specs:
   thickness: 5mm
   material: 6061 Aluminum
-  Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Belt Clip Rev A
+  internal part name: Belt Clip
+  rev: A
   vendor: LDO
   cost: $1.80
   component tests: Plate and Bracket Tests

@@ -10,7 +10,8 @@ specs:
   material: Gray UV stabilized ABS
   brass insert: M3
 internal-specs:
-  internal part name: Weeder Blade (Narrow) Rev A|Weeder Blade (Medium) Rev A|Weeder Blade (Wide) Rev A
+  internal part name: Weeder Blade - Narrow|Weeder Blade - Medium|Weeder Blade - Wide
+  rev: A|A|A
   vendor: LDO
   cost: $1.10|$1.10|$1.10
   component tests: Plastic Part Tests

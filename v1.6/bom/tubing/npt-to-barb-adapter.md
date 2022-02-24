@@ -8,12 +8,13 @@ quantity:
   xl: 2
 specs:
   material: Brass
-  For Tube ID: 6mm
-  Threads: 3/4" female NPT (National Pipe Thread)
-  Engraving: NPT
-  Rubber Gasket?: Included
+  for tube ID: 6mm
+  threads: 3/4" female NPT (National Pipe Thread)
+  engraving: NPT
+  rubber gasket?: Included
 internal-specs:
-  internal part name: NPT to Barb Adapter (3/4" female NPT to Barb for 6mm ID tubing)
+  internal part name: NPT to Barb Adapter
+  rev: A
   vendor: LDO
   cost: $3.50
   notes: Includes pre-inserted rubber gasket.

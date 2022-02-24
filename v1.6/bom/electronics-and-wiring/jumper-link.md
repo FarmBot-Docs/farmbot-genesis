@@ -11,7 +11,8 @@ specs:
   thickness: 1mm
   hole sizes: M3
 internal-specs:
-  internal part name: Jumper Link Rev A
+  internal part name: Jumper Link
+  rev: A
   vendor: LDO
   cost: $0.25
   notes: Pre-assembled in Seeder, Watering Nozzle, Weeder, and Soil Sensor Tools

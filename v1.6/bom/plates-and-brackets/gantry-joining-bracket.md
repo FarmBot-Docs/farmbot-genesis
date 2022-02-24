@@ -9,9 +9,10 @@ quantity:
 specs:
   thickness: 5mm
   material: 6061 Aluminum
-  Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Gantry Joining Bracket Rev B
+  internal part name: Gantry Joining Bracket
+  rev: B
   vendor: LDO
   cost: $5.50
   component tests: Plate and Bracket Tests

@@ -9,7 +9,7 @@ quantity:
 specs:
   Trade Name: Drop-in Tee Nut
   material: Stainless Steel
-  Threads: M5 x 0.8mm
+  threads: M5 x 0.8mm
   Fits Slot Size: 6
 internal-specs:
   internal part name: M5 SS Drop-in Tee Nuts

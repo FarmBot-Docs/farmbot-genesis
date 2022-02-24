@@ -9,7 +9,8 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Vacuum Pump Housing Rev A
+  internal part name: Vacuum Pump Housing
+  rev: A
   vendor: LDO
   cost: $3.85
   component tests: Plastic Part Tests

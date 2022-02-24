@@ -11,8 +11,8 @@ specs:
   Outer color: Black
   Inner Colors: Red and black
   Heat Shrink color: Black
-  Connector 1: Black 2-pin connector ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
-  Connector 2: Pre-stripped wire (no connector)
+  connector 1: Black 2-pin connector (<a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml">Molex Part Number 151049-2206</a>)
+  connector 2: Pre-stripped wire (no connector)
   length: 10cm
 internal-specs:
   internal part name: Peripheral Lead

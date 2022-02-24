@@ -10,9 +10,10 @@ quantity:
 specs:
   thickness: 5mm
   material: 5052 Aluminum
-  Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Gantry Corner Bracket - Left Rev A|Gantry Corner Bracket - Right Rev A
+  internal part name: Gantry Corner Bracket - Left|Gantry Corner Bracket - Right
+  rev: A|A
   vendor: LDO
   cost: $4.75|$4.50
   component tests: Plate and Bracket Tests

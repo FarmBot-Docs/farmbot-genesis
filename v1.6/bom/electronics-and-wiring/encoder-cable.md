@@ -11,9 +11,9 @@ specs:
   length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m
   Cores: 7
   Gauge: 20
-  Encoder Connector: 8 pin connector
+  Encoder connector: 8 pin connector
   Intermediate connector: 7-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
-  Farmduino Connector: 2.54mm pitch 7-pin connector with locking tab ([Molex Part 50579407](https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407))
+  Farmduino connector: 2.54mm pitch 7-pin connector with locking tab (<a href="https://www.molex.com/molex/products/part-detail/crimp_housings/0050579407">Molex Part 50579407</a>)
   Outer color: Black
   Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:

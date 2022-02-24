@@ -16,11 +16,12 @@ specs:
   outer diameter: 8mm
   Outer color: Black
   Shroud: Included black silicone rubber
-  Farmduino connector: Black 12-pin connector ([Molex Part 430251200](https://www.molex.com/molex/products/part-detail/crimp_housings/0430251200))
+  Farmduino connector: Black 12-pin connector (<a href="https://www.molex.com/molex/products/part-detail/crimp_housings/0430251200">Molex Part 430251200</a>)
   Intermediate connectors: 12-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   UTM connectors: 2x3 2.54mm pitch plug (yellow shrinkwrap)|2x4 2.54mm pitch plug (black shrinkwrap)
 internal-specs:
-  internal part name: UTM Cable - Y, 2.6m (Genesis) Rev A|UTM Cable - Y, 4.1m (Genesis XL) Rev A|UTM Cable - Z with Shroud, 1.0m Rev A
+  internal part name: UTM Cable - Y, 2.6m (Genesis)|UTM Cable - Y, 4.1m (Genesis XL)|UTM Cable - Z, 1.0m (Genesis and Genesis XL)
+  rev: A|A|A
   cost: $12.50|$17.10|$8.00
   notes: "<span style='font-weight: bold; color: red;'>Double check pin mapping</span>"
 ---

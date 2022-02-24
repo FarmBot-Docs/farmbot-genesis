@@ -8,9 +8,10 @@ quantity:
   xl: 1
 specs:
   material: Machined 6061 Aluminum
-  Surface Treatments: Tumble polished<br>Sandblasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sandblasted<br>Clear anodized
 internal-specs:
-  internal part name: 80mm CC Mount Rev A
+  internal part name: 80mm CC Mount
+  rev: A
   vendor: LDO
   cost: $2.30
   component tests: Plate and Bracket Tests
