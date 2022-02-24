@@ -10,7 +10,8 @@ specs:
   material: Gray UV stabilized ABS
   Brass Inserts: M3 inserts on all blades
 internal-specs:
-  internal part name: Weeder Rev A
+  internal part name: Weeder
+  rev: A
   vendor: LDO
   cost: $1.60
   component tests: Plastic Part Tests

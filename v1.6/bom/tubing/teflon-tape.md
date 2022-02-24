@@ -8,11 +8,11 @@ quantity:
   xl: 1
 specs:
   material: PTFE
+  width: 1.5cm
   length: 10m
-  Width: 1.5cm
   color: White
 internal-specs:
-  internal part name: Teflon Tape (1.5cm wide, 10m long)
+  internal part name: Teflon Tape
   vendor: LDO
   cost: $0.20
 ---

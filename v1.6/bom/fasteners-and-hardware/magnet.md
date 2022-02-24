@@ -16,6 +16,7 @@ specs:
   thickness: 5mm|7.5mm
 internal-specs:
   internal part name: Ring Magnet - Standard|Ring Magnet - Countersunk
+  rev: A|A
   cost: $0.36|$0.85
   notes: Pre-assembled in Seeder, Watering Nozzle, Weeder, and Soil Sensor Tools. Quantity updated for production run 2.
 component tests: Fasteners and hardware tests

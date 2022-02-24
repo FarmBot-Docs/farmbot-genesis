@@ -9,9 +9,10 @@ quantity:
 specs:
   thickness: 5mm
   material: 6061 Aluminum
-  Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Genesis Gantry Wheel Plate Rev B
+  internal part name: Genesis Gantry Wheel Plate
+  rev: B
   vendor: LDO
   cost: $4.35
   component tests: Plate and Bracket Tests

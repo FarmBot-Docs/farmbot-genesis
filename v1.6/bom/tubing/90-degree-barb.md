@@ -9,8 +9,9 @@ quantity:
 specs:
   material: Plastic
   color: Semi-clear white
+  for tube ID: 6mm
 internal-specs:
-  internal part name: 90 Degree Barb for 6mm ID tubing
+  internal part name: 90 Degree Barb
   vendor: LDO
   cost: $0.15
 ---

@@ -8,15 +8,15 @@ quantity:
   xl: 1
 specs:
   material: UV resistant plastic
-  Inlet: 3/4 in. female pipe thread
-  Outlet: 3/4 in. male pipe thread
+  inlet: 3/4" female pipe thread (NPT)
+  outlet: 3/4" male pipe thread (NPT)
   color: Black
   outer diameter: 1.25 inches (31.75mm)
-  Outlet Pressure: 15 PSI (103 kpa, 1.02 bar)
-  Max Input Pressure: 100 PSI (688 kpa, 6.88 bar)
-  Rubber Gasket?: Included
+  outlet pressure: 15 PSI (103 kpa, 1.02 bar)
+  max input pressure: 100 PSI (688 kpa, 6.88 bar)
+  rubber gasket?: Included
 internal-specs:
-  internal part name: 15 psi Pressure Reducer (3/4" female NPT to 3/4" male NPT)
+  internal part name: Pressure Regulator - 15 psi, 3/4" NPT
   vendor: LDO
   cost: $1.10
   notes: Includes pre-inserted rubber gasket.

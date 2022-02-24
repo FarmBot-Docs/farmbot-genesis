@@ -16,26 +16,26 @@ bom:
       - image: assembly_tools_8mm_wrench.jpg
       - image: eccentric_spacer.jpg
       - image: m2.5_screw.jpg
-      - image: m3_locknut.jpg
-      - image: m3_screw.jpg
-      - image: m3_screw_35mm.jpg
       - image: m3_flat_head_screw.jpg
+      - image: m3_locknut.jpg
+      - image: m3_screw_35mm.jpg
+      - image: m3_screw.jpg
       - image: m5_flange_locknut.jpeg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
       - image: m5_screw.jpg
-      - image: magnet.jpg
       - image: magnet_countersunk.jpg
+      - image: magnet.jpg
       - image: nut_bar_100mm.jpg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpeg
       - image: nut_bar_40mm.jpeg
       - image: nut_bar_60mm.jpeg
-      - image: rotary_tool_shaft_extension.jpg
-      - image: rotary_tool_m5_shaft_adapter.jpg
-      - image: rotary_tool_trimmer_mount.jpg
-      - image: rotary_tool_chuck.jpg
       - image: rotary_tool_chuck_adapter.jpg
+      - image: rotary_tool_chuck.jpg
+      - image: rotary_tool_m5_shaft_adapter.jpg
+      - image: rotary_tool_shaft_extension.jpg
+      - image: rotary_tool_trimmer_mount.jpg
       - image: spacer.jpg
       - image: tee_nut.jpg
       - image: wood_screw.jpg
@@ -58,13 +58,13 @@ bom:
       - image: tube.jpg
   - category: plastic-parts
     parts:
-      - image: 30mm_horizontal_cable_carrier_support.jpg
-      - image: 60mm_cable_carrier_spacer_block.jpg
-      - image: 60mm_horizontal_cable_carrier_support.jpg
-      - image: 60mm_vertical_cable_carrier_support.jpg
-      - image: 75mm_horizontal_motor_housing.jpg
-      - image: 80mm_vertical_motor_housing.jpg
+      - image: cable_carrier_spacer_block_60mm.jpg
+      - image: cable_carrier_support_horizontal_30mm.jpg
+      - image: cable_carrier_support_horizontal_60mm.jpg
+      - image: cable_carrier_support_vertical_60mm.jpg
       - image: camera_mount_half.jpg
+      - image: motor_housing_horizontal_75mm.jpg
+      - image: motor_housing_vertical_80mm.jpg
       - image: rotary_tool_bottom.jpg
       - image: rotary_tool_top.jpg
       - image: seed_bin.jpg
@@ -85,12 +85,12 @@ bom:
       - image: weeder.jpg
   - category: drivetrain
     parts:
-      - image: 5mm_to_8mm_shaft_coupling.jpeg
       - image: belt_sleeve.jpeg
       - image: gt2_pulley.jpg
       - image: gt2_timing_belt.jpg
       - image: leadscrew_block.jpg
       - image: leadscrew.jpg
+      - image: shaft_coupler.jpeg
       - image: v_wheel.jpg
   - category: electronics-and-wiring
     parts:
@@ -102,25 +102,25 @@ bom:
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
       - image: farmduino.jpg
-      - image: jam_nut.jpg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
       - image: led_indicator.jpg
       - image: led_strip.jpg
-      - image: micro_sd_card.jpg
       - image: micro_sd_card_adapter.jpg
+      - image: micro_sd_card.jpg
       - image: motor_cable.jpg
       - image: motor.jpg
       - image: peripheral_lead.jpg
       - image: pi_adapter_board.jpg
+      - image: pogo_pin_jam_nut.jpg
       - image: pogo_pin.jpg
       - image: power_cord_protector.jpg
       - image: power_supply.jpg
       - image: push_button.jpg
       - image: raspberry_pi_power_cable.jpg
       - image: raspberry_pi.jpg
-      - image: rotary_tool_pcb.jpg
       - image: rotary_tool_motor.jpg
+      - image: rotary_tool_pcb.jpg
       - image: soil_sensor_pcb.jpeg
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
@@ -129,8 +129,6 @@ bom:
       - image: vacuum_pump.jpg
   - category: plates-and-brackets
     parts:
-      - image: 1-slot_toolbay.jpg
-      - image: 3-slot_toolbay.jpg
       - image: 80mm_cable_carrier_mount.jpg
       - image: belt_clip.jpeg
       - image: cross-slide_plate.jpg
@@ -138,6 +136,8 @@ bom:
       - image: gantry_joining_bracket.jpeg
       - image: gantry_wheel_plate.jpg
       - image: seed_trough_holder_mount.jpg
+      - image: toolbay_1-slot.jpg
+      - image: toolbay_3-slot.jpg
       - image: track_end_plate.jpg
       - image: track_joining_plate.jpg
       - image: z-axis_hardstop.jpg

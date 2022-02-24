@@ -11,6 +11,7 @@ specs:
   male threads: M8 x 0.75mm
   material: Stainless steel
 internal-specs:
-  internal part name: Rotary Tool Chuck Adapter Rev B
+  internal part name: Rotary Tool Chuck Adapter
+  rev: B
   cost: $0.90
 ---

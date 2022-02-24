@@ -9,12 +9,12 @@ quantity:
   xl: 2|2|2
 specs:
   material: Stainless steel and plastic
-  Gauge: 16|19|22
+  gauge: 16|19|22
   length: 40mm
-  Cover: Included
-  Interface: 1/4 turn luer lock
+  cover: Included
+  interface: 1/4 turn luer lock
 internal-specs:
-  internal part name: Luer Lock Needle (16 Gauge)|Luer Lock Needle (19 Gauge)|Luer Lock Needle (22 Gauge)
+  internal part name: Luer Lock Needle - 16 Gauge|Luer Lock Needle - 19 Gauge|Luer Lock Needle - 22 Gauge
   vendor: LDO
   cost: $0.08|$0.08|$0.08
 ---

@@ -9,9 +9,9 @@ quantity:
 specs:
   material: Stainless steel
   threads: M5
-  Interface: 1/4 turn luer lock
+  interface: 1/4 turn luer lock
 internal-specs:
-  internal part name: M5 to Luer Lock Adapter (Stainless Steel)
+  internal part name: M5 to Luer Lock Adapter
   vendor: LDO
   cost: $0.50
 ---

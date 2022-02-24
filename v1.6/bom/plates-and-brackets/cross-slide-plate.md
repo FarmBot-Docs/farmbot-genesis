@@ -9,9 +9,10 @@ quantity:
 specs:
   thickness: 5mm
   material: 6061 Aluminum
-  Surface Treatments: Tumble polished<br>Sand blasted<br>Clear anodized
+  surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Genesis Cross-Slide Plate Rev B
+  internal part name: Genesis Cross-Slide Plate
+  rev: B
   vendor: LDO
   cost: $5.80
   component tests: Plate and Bracket Tests

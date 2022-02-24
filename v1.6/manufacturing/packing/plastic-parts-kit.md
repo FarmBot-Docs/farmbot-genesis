@@ -13,12 +13,12 @@ There are two versions of the plastic parts kit: one for **Genesis** kits and on
 
 |Item|Sub-packing|Genesis Qty|Genesis XL Qty|
 |----|-----------|-----------|--------------|
-|[30mm Horizontal Cable Carrier Support](../../bom/plastic-parts/30mm-horizontal-cable-carrier-support.md)|None|12|24
-|[60mm Horizontal Cable Carrier Support](../../bom/plastic-parts/60mm-horizontal-cable-carrier-support.md)|None|6|12
-|[60mm Vertical Cable Carrier Support](../../bom/plastic-parts/60mm-vertical-cable-carrier-support.md)|None|4|4
-|[60mm Cable Carrier Spacer Block](../../bom/plastic-parts/60mm-cable-carrier-spacer-block.md)|None|1|1
-|[75mm Horizontal Motor Housing](../../bom/plastic-parts/75mm-horizontal-motor-housing.md)|None|3|3
-|[80mm Vertical Motor Housing](../../bom/plastic-parts/80mm-vertical-motor-housing.md)|None|1|1
+|[Cable Carrier Support - Horizontal, 30mm](../../bom/plastic-parts/cable-carrier-support.md)|None|12|24
+|[Cable Carrier Support - Horizontal, 60mm](../../bom/plastic-parts/cable-carrier-support.md)|None|6|12
+|[Cable Carrier Support - Vertical, 60mm](../../bom/plastic-parts/cable-carrier-support.md)|None|4|4
+|[Cable Carrier Spacer Block - 60mm](../../bom/plastic-parts/cable-carrier-spacer-block-60mm.md)|None|1|1
+|[Motor Housing - Horizontal, 75mm](../../bom/plastic-parts/motor-housing.md)|None|3|3
+|[Motor Housing - Vertical, 80mm](../../bom/plastic-parts/motor-housing.md)|None|1|1
 |[Vacuum Pump Housing](../../bom/plastic-parts/vacuum-pump-housing.md)|None|1|1
 |[Vacuum Pump Mount](../../bom/plastic-parts/vacuum-pump-mount.md)|None|1|1
 |[Solenoid Valve Mount](../../bom/plastic-parts/solenoid-valve-mount.md)|None|1|1

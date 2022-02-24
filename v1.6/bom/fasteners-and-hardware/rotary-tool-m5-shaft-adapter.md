@@ -12,7 +12,8 @@ specs:
   setscrew: M4 x 4mm stainless steel setscrew with 2mm hex drive
   material: Stainless steel
 internal-specs:
-  internal part name: Rotary Tool M5 Shaft Adapter Rev C
+  internal part name: Rotary Tool M5 Shaft Adapter
+  rev: C
   cost: $0.90
   notes: Setscrew must be inserted with blue thread locker
 ---
