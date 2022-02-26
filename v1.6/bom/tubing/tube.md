@@ -5,7 +5,7 @@ description: "These ultra flexible silicone tubes carry water and vauum air to t
 variants: 0.15m (Vacuum)|0.95m (Water, Z-axis)|2.1m (Water, Y-axis)|3.0m (Water, X-axis)|3.6m (Water, Y-axis)|4.5m (Water, X-axis)
 price: $1.00|$5.00|$8.00|$10.00|$12.00|$15.00
 quantity:
-  genesis: 2|1|1|1|0|0
+  standard: 2|1|1|1|0|0
   xl: 2|1|0|0|1|1
 specs:
   length: 0.15m|0.95m|2.1m|3.0m|3.6m|4.5m

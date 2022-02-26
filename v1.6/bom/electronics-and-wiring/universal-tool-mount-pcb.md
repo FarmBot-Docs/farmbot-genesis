@@ -4,7 +4,7 @@ slug: "universal-tool-mount-pcb"
 description: "This PCB features 12 pre-mounted pogo pins to enable electrical connection with FarmBot's tools. [Click here to download the source files](https://drive.google.com/drive/folders/1BTdp27t__LOzHmLJjJt_slEUzAGGNGCx)."
 price: $35.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   pre-assembled?: Yes

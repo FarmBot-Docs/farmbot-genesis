@@ -5,7 +5,7 @@ description: "These hollow plastic chains are used throughout FarmBot to manage 
 variants: X, 1.7m|X, 3.2m|Y, 1.7m|Y, 3.2m|Z, 0.74m
 price: $50.00|$80.00|$50.00|$80.00|$30.00
 quantity:
-  genesis: 1|0|1|0|1
+  standard: 1|0|1|0|1
   xl: 0|1|0|1|1
 specs:
   material: Black Nylon PA66

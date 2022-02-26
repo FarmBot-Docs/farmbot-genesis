@@ -4,7 +4,7 @@ slug: "track-end-plate"
 description: "Tech specs for the track end plates in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 price: $12.00
 quantity:
-  genesis: 4
+  standard: 4
   xl: 4
 specs:
   thickness: 5mm

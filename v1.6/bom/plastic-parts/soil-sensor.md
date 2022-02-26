@@ -4,7 +4,7 @@ slug: "soil-sensor"
 description: "This tool acts as a mount for the soil sensor circuit board."
 price: $7.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Gray UV stabilized ABS

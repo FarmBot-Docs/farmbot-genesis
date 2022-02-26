@@ -5,7 +5,7 @@ description: "These waterproof LED indicator lights come pre-mounted on the top 
 variants: Blue|Green|White|Wiring Harness|Nut|O-Ring
 price: $5.00|$5.00|$5.00|$1.00|$0.00|$0.00
 quantity:
-  genesis: 1|1|2|4|4|4
+  standard: 1|1|2|4|4|4
   xl: 1|1|2|4|4|4
 specs:
   color: Blue|Green|White|N/A|N/A|N/A

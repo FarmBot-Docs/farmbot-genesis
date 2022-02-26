@@ -4,7 +4,7 @@ slug: "micro-sd-card-adapter"
 description: "This adapter allows the microSD card to be plugged into a standard sized SD card slot."
 price: $3.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   Form Factor: MicroSD to SD

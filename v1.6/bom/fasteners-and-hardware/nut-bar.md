@@ -5,7 +5,7 @@ description: "These stainless steel bars act as long tee nuts allowing M5 screws
 variants: 20mm|40mm|60mm|100mm|140mm
 price: $1.50|$1.75|$2.00|$2.50|$3.00
 quantity:
-  genesis: 6|24|20|2|0
+  standard: 6|24|20|2|0
   xl: 6|42|20|6|2
 specs:
   material: Stainless steel

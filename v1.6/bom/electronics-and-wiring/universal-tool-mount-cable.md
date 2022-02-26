@@ -5,7 +5,7 @@ description: "This 12-wire shielded cable connects the Farmduino to the UTM. It 
 variants: Y, 2.6m|Y, 4.1m|Z, 1.0m
 price: $30.00|$40.00|$20.00
 quantity:
-  genesis: 1|0|1
+  standard: 1|0|1
   xl: 0|1|1
 specs:
   Number of Wires: 12

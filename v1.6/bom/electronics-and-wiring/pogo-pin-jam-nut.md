@@ -4,7 +4,7 @@ slug: "pogo-pin-jam-nut"
 description: "24 of these nuts are used to secure the pogo pins to the UTM PCB."
 price: $0.00
 quantity:
-  genesis: 24
+  standard: 24
   xl: 24
 specs:
   finish: Silver

@@ -4,7 +4,7 @@ slug: "fuse"
 description: "This fuse is inserted into the Farmduino and protects the system from power surges."
 price: $2.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   amperage: 7.5

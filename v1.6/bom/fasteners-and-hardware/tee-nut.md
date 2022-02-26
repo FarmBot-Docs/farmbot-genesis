@@ -4,7 +4,7 @@ slug: "tee-nuts"
 description: "Combined with screws, these drop-in style tee nuts allow components such as plates and 3D printed parts to be attached quickly and securely anywhere on a V-slot aluminum extrusion."
 price: $0.45
 quantity:
-  genesis: 20
+  standard: 20
   xl: 20
 specs:
   Trade Name: Drop-in Tee Nut

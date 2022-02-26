@@ -8,7 +8,7 @@ specs:
   color: Black
 price: $0.10
 quantity:
-  genesis: 8
+  standard: 8
   xl: 8
 internal-specs:
   internal part name: Shunt - 1x2, 2.54mm

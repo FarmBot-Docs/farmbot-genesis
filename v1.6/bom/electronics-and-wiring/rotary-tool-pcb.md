@@ -4,7 +4,7 @@ slug: "rotary-tool-pcb"
 description: "This circuit board provides EMI filtering for the rotary tool motor as well as provisions to prevent a system voltage drop when the motor powers on."
 price: $15.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   motor connector: 3-pin JST XH receptacle

@@ -4,7 +4,7 @@ slug: "bearing"
 description: "Two of these stainless steel rubber sealed ball bearigns are pre-assembled in each V-wheel."
 price: $0.00
 quantity:
-  genesis: 60
+  standard: 60
   xl: 60
 specs:
   trade name: SS-625-2RS (SS = stainless steel, 625 = bearing size, 2RS = two rubber seals)

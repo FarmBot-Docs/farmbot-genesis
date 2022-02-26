@@ -4,7 +4,7 @@ slug: "rotary-tool-motor"
 description: "The muscle of the rotary tool is this 24V DC motor."
 price: $15.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   connector: 3-pin JST XH plug

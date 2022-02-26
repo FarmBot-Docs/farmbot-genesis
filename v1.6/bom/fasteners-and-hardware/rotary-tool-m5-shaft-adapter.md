@@ -4,7 +4,7 @@ slug: "rotary-tool-m5-shaft-adapter"
 description: "This component adapts the Rotary Tool Motor Shaft to an M5 threaded shaft with a keyed boss for attaching various implements."
 price: $5.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   shaft hole diameter: 2mm

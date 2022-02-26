@@ -4,7 +4,7 @@ slug: "gantry-column"
 description: "The gantry columns are made from aluminum extrusions. They can be scaled to be taller or shorter to satisfy your needs. The two large spaces inside the columns are used to conceal and protect the GT2 timing belts that run along the tracks and up to the gantry pulleys."
 price: $15.00
 quantity:
-  genesis: 2
+  standard: 2
   xl: 2
 specs:
   length: 500mm

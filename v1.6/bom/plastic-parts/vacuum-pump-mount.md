@@ -4,7 +4,7 @@ slug: "vacuum-pump-mount"
 description: "The vacuum pump mount features slots for zip ties to secure the vacuum pump to the z-axis extrusion."
 price: $6.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Gray UV stabilized ABS

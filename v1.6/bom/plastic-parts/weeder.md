@@ -4,7 +4,7 @@ slug: "weeder"
 description: "The weeding tool allows FarmBot to smash weeds into the ground, thereby killing them via mechanical disruption. The tool consists of a base component and interchangeable implements that allow you to customize the tool for your soil conditions and types of weeds."
 price: $7.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Gray UV stabilized ABS

@@ -4,7 +4,7 @@ slug: "solenoid-valve"
 description: "This 24V valve controls the flow of water from your garden hose to FarmBot's tubing."
 price: $15.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   Inlet: 3/4" NPT (National Pipe Thread)

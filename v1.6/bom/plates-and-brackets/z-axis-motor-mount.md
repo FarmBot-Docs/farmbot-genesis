@@ -4,7 +4,7 @@ slug: "z-axis-motor-mount"
 description: "This component securely attaches the z-axis motor to the z-axis extrusion."
 price: $20.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Machined 6061 Aluminum

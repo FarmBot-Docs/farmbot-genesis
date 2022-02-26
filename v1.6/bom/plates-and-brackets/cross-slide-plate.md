@@ -4,7 +4,7 @@ slug: "cross-slide-plate"
 description: "Tech specs for the cross-slide in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 price: $25.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   thickness: 5mm

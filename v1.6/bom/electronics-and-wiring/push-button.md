@@ -5,7 +5,7 @@ description: "These waterproof push buttons come pre-mounted on the top of the e
 variants: Yellow|Red|White|Wiring Harness|Nut|O-Ring
 price: $6.00|$6.00|$6.00|$1.00|$0.00|$0.00
 quantity:
-  genesis: 1|1|3|5|5|5
+  standard: 1|1|3|5|5|5
   xl: 1|1|3|5|5|5
 specs:
   color: Yellow|Red|White|N/A|N/A|N/A

@@ -4,7 +4,7 @@ slug: "power-cord-protector"
 description: "Tech specs for the power supply, power supply cable, and power cord protector in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 price: $7.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   color: Green

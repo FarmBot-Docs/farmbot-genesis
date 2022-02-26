@@ -4,7 +4,7 @@ slug: "gantry-joining-bracket"
 description: "Tech specs for the gantry joining bracket."
 price: $35.00
 quantity:
-  genesis: 0
+  standard: 0
   xl: 1
 specs:
   thickness: 5mm

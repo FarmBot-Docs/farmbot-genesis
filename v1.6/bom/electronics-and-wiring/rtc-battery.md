@@ -4,7 +4,7 @@ slug: "rtc-battery"
 description: "This battery is inserted into the Pi Adapter Board to provide power for the realtime clock."
 price: $3.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   size: CR1220

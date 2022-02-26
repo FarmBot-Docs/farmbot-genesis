@@ -4,7 +4,7 @@ slug: "micro-sd-card"
 description: "The microSD card holds FarmBot OS and is inserted into the Raspberry Pi."
 price: $15.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   form factor: MicroSD

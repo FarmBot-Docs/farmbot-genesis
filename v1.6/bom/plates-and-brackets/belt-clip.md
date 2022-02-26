@@ -4,7 +4,7 @@ slug: "belt-clip"
 description: "Tech specs for the belt clips in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 price: $3.00
 quantity:
-  genesis: 6
+  standard: 6
   xl: 6
 specs:
   thickness: 5mm

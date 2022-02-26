@@ -4,7 +4,7 @@ slug: "seed-trough-holder"
 description: "This gantry-mounted seed trough holder allows FarmBot to bring seeds with it while traveling along the x-axis, shortening the time needed for seed injection."
 price: $8.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Gray UV stabilized ABS

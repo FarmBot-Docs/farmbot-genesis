@@ -4,7 +4,7 @@ slug: "z-axis-extrusion"
 description: "This aluminum extrusion allows FarmBot to accurately position the UTM and tools in the z-direction. It slides through the vertically aligned wheels on the front of the cross-slide."
 price: $20.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   length: 1000mm

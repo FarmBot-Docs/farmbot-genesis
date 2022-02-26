@@ -4,19 +4,19 @@ slug: "gt2-pulley"
 description: "These pulleys are attached directly to NEMA 17 stepper motor shafts or onto the driveshaft. They transfer power from the motor to the belt such that FarmBot can move in the X and Y directions."
 price: $6.00
 quantity:
-  genesis: 3
+  standard: 3
   xl: 3
 specs:
   material: Aluminum
-  Number of Teeth: 20
+  number of teeth: 20
   inner diameter: 5mm
   outer diameter: 15mm
   height: 14mm
   setscrew quantity: 2
   setscrew material: Stainless steel
   setscrew drive size: 2mm hex
-  Max Belt Width: 7mm
-  Pitch: GT2 (2mm)
+  max belt width: 7mm
+  pitch: GT2 (2mm)
 internal-specs:
   internal part name: GT2 Pulley - 20 Tooth
   cost: $0.85
