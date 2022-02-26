@@ -4,7 +4,7 @@ slug: "precision-shim"
 description: "This shim is placed in between the two bearings in every pre-assembled V-wheel."
 price: $0.00
 quantity:
-  genesis: 30
+  standard: 30
   xl: 30
 specs:
   material: Stainless steel

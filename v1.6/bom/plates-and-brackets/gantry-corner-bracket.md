@@ -5,7 +5,7 @@ description: "Tech specs for the gantry corner brackets."
 variants: Left|Right
 price: $30.00|$30.00
 quantity:
-  genesis: 1|1
+  standard: 1|1
   xl: 1|1
 specs:
   thickness: 5mm

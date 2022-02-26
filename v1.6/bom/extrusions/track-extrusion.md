@@ -4,7 +4,7 @@ slug: "track-extrusion"
 description: "Track extrusions are the primary structural component of the tracks sub-assembly. They can be combined end-to-end in order to create longer tracks. The gantry v-wheels roll along the track extrusions, allowing FarmBot to move in the x-direction."
 price: $30.00
 quantity:
-  genesis: 4
+  standard: 4
   xl: 8
 specs:
   length: 1500mm

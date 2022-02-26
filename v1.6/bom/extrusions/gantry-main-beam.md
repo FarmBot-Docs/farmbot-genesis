@@ -4,7 +4,7 @@ slug: "gantry-main-beam"
 description: "This aluminum extrusion serves as the gantry's primary structural element. The cross-slide's v-wheels move across this extrusion, allowing FarmBot to move in the y-direction. It is possible to make this extrusion longer or shorter to suit your needs."
 price: $35.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 2
 specs:
   length: 1500mm

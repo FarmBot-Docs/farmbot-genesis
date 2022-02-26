@@ -4,7 +4,7 @@ slug: "rotary-tool-shaft-extension"
 description: "This component extends the axis of the Rotary Tool which may be useful when configured significantly off-plumb."
 price: $5.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   female threads: M5 x 0.8mm

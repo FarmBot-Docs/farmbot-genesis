@@ -4,7 +4,7 @@ slug: "weeder-blade"
 price: $2.00|$2.00|$2.00
 variants: Narrow|Medium|Wide
 quantity:
-  genesis: 4|4|0
+  standard: 4|4|0
   xl: 4|4|0
 specs:
   material: Gray UV stabilized ABS

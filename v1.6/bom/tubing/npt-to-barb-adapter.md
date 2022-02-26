@@ -4,7 +4,7 @@ slug: "npt-to-barb-adapter"
 description: "These adapters are used on the inlet of the solenoid valve and the outlet of the pressure reducer."
 price: $5.00
 quantity:
-  genesis: 2
+  standard: 2
   xl: 2
 specs:
   material: Brass

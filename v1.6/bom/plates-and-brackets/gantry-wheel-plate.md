@@ -4,7 +4,7 @@ slug: "gantry-wheel-plate"
 description: "Tech specs for the gantry wheel plates."
 price: $25.00
 quantity:
-  genesis: 2
+  standard: 2
   xl: 2
 specs:
   thickness: 5mm

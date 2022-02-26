@@ -4,7 +4,7 @@ slug: "m3-flat-head-screw"
 description: "These M3 flat head screws are used to attach the X-axis cable carrier to the cable carrier mounts."
 price: $0.15
 quantity:
-  genesis: 4
+  standard: 4
   xl: 4
 specs:
   threads: M3 x 0.5mm

@@ -5,7 +5,7 @@ description: "This rainproof box protects FarmBot's electronics from rain and de
 variants: Box|Lid|Gasket|Latch|Supergland Half
 price: $50|$20|$10|$3|$3
 quantity:
-  genesis: 1|1|1|2|2
+  standard: 1|1|1|2|2
   xl: 1|1|1|2|2
 specs:
   materials: UV stabilized ABS<br>Gasket and Supergland - Rubber<br>Screws and Nuts - Stainless steel

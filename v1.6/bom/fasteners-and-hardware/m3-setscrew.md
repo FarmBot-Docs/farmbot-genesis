@@ -4,7 +4,7 @@ slug: "m3-setscrew"
 description: "These setscrews are pre-assembled in the GT2 Pulleys."
 price: $0.25
 quantity:
-  genesis: 6
+  standard: 6
   xl: 6
 specs:
   threads: M3

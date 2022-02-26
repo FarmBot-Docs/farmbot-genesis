@@ -5,7 +5,7 @@ description: "These cables connect the four rotary encoders to the Farmduino. Th
 variants: X1, 0.7m|X2, 2.3m|Y, 2.7m|ZY, 2.6m|X2, 3.8m|Y, 4.2m|ZY, 4.1m|ZZ, 1.8m
 price: $20.00|$23.00|$25.00|$27.00|$28.00|$30.00|$32.00|$24.00
 quantity:
-  genesis: 1|1|1|1|0|0|0|1
+  standard: 1|1|1|1|0|0|0|1
   xl: 1|0|0|0|1|1|1|1
 specs:
   length: 0.7m|2.3m|2.7m|2.6m|3.8m|4.2m|4.1m|1.8m

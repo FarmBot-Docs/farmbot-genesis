@@ -5,7 +5,7 @@ description: "These magnets keep tools attached to the UTM."
 price: $3.00|$5.00
 variants: Standard|Countersunk
 quantity:
-  genesis: 15|3
+  standard: 15|3
   xl: 15|3
 specs:
   material: Neodymium (NdFeB)

@@ -4,7 +4,7 @@ slug: "pi-adapter-board"
 description: "This PCB mounts directly onto the Raspberry Pi's GPIO pin header and provides connectors for the push buttons and LED indicators, as well as a real-time clock for timekeeping in offline situations."
 price: $15.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   PCB color: Black

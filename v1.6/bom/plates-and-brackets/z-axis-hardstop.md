@@ -4,7 +4,7 @@ slug: "z-axis-hardstop"
 description: "These components mount on the z-axis extrusion and physically limit how low and high FarmBot can move the z-axis."
 price: $3.00
 quantity:
-  genesis: 2
+  standard: 2
   xl: 2
 specs:
   thickness: 5mm

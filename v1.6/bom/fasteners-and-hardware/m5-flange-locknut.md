@@ -4,7 +4,7 @@ slug: "m5-flange-locknut"
 description: "Locknuts are used throughout FarmBot to secure M5 screws in place. The nylon insert allows the locknut to resist loosening when subjected to vibration."
 price: $0.20
 quantity:
-  genesis: 70
+  standard: 70
   xl: 70
 specs:
   Trade Name: Nylon-Insert Locknut

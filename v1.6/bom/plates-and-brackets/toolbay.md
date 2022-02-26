@@ -5,7 +5,7 @@ description: "Tech specs for the toolbays in FarmBot Genesis. Visit [our shop](h
 price: $25.00|$40.00
 variants: 1-Slot|3-Slot
 quantity:
-  genesis: 0|2
+  standard: 0|2
   xl: 3|2
 specs:
   thickness: 5mm

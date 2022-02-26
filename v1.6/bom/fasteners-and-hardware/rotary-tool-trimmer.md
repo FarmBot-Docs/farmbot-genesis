@@ -4,7 +4,7 @@ slug: "rotary-tool-trimmer"
 description: "These short zip ties act as weed trimming line when attached to the Rotary Tool Trimmer Mount."
 price: $5.00
 quantity:
-  genesis: 30
+  standard: 30
   xl: 30
 specs:
   material: Nylon

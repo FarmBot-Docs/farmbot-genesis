@@ -4,7 +4,7 @@ slug: "m5-flat-head-screw"
 description: "These M5 flat head screws are used to attach the Countersunk Magnets to the Rotary Tool"
 price: $0.28
 quantity:
-  genesis: 3
+  standard: 3
   xl: 3
 specs:
   threads: M5 x 0.8mm

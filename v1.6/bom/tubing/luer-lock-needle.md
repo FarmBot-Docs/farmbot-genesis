@@ -5,7 +5,7 @@ description: "These needles are used for seed injection."
 variants: 16 Gauge|19 Gauge|22 Gauge
 price: $3.00|$3.00|$3.00
 quantity:
-  genesis: 2|2|2
+  standard: 2|2|2
   xl: 2|2|2
 specs:
   material: Stainless steel and plastic

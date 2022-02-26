@@ -5,7 +5,7 @@ description: "This LED strip is strung through the gantry's horizontal cable car
 variants: 1.5m|3m
 price: $25.00|$50.00
 quantity:
-  genesis: 1|0
+  standard: 1|0
   xl: 0|1
 specs:
   light color: White 6000K

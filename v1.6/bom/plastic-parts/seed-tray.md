@@ -4,7 +4,7 @@ slug: "seed-tray"
 description: "The seed trays feature 16 small bins allowing you to load 16 precise quantities/types of seeds into your FarmBot."
 price: $7.00
 quantity:
-  genesis: 2
+  standard: 2
   xl: 2
 specs:
   material: Gray UV stabilized ABS

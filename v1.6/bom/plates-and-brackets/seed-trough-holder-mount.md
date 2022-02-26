@@ -4,7 +4,7 @@ slug: "seed-trough-holder-mount"
 description: "This component allows for the seed trough holder to be mounted offset from the gantry column so that the seeder may reach the troughs."
 price: $5.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   thickness: 5mm

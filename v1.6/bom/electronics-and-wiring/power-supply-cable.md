@@ -4,7 +4,7 @@ slug: "power-supply-cable"
 description: "This modular 3-wire cable connects the power supply to the Farmduino. It features a waterproof 3-pin connector to attach to the power supply, and a black molex connector to attach to the Farmduino."
 variants: 3m|4.5m
 quantity:
-  genesis: 1|0
+  standard: 1|0
   xl: 0|1
 price: $25.00|$35.00
 specs:

@@ -5,7 +5,7 @@ description: "Tech specs for the assembly tools included with FarmBot Genesis. V
 variants: 2mm Allen Key|2mm Hex Driver|3mm Hex Driver|5.5mm Nut Driver|8mm Nut Driver|8mm Thin Wrench
 price: $1.00|$5.00|$5.00|$5.00|$5.00|$3.00
 quantity:
-  genesis: 1|1|1|1|1|1
+  standard: 1|1|1|1|1|1
   xl: 1|1|1|1|1|1
 specs:
   size: 2mm hex|2mm hex|3mm hex|5.5mm box|8mm box|8mm wrench

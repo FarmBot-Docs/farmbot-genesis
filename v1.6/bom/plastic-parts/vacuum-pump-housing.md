@@ -4,7 +4,7 @@ slug: "vacuum-pump-housing"
 description: "This housing protects the vacuum pump from rain. It is mounted on the z-axis extrusion."
 price: $15.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Gray UV stabilized ABS

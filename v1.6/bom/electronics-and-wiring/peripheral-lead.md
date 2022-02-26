@@ -4,7 +4,7 @@ slug: "peripheral-lead"
 description: "These extra leads make it easy to connect new, additional peripherals to your Farmduino."
 price: $3.00
 quantity:
-  genesis: 2
+  standard: 2
   xl: 2
 specs:
   Wire Type: 18 AWG stranded copper, two core

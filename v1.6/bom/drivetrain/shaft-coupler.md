@@ -4,7 +4,7 @@ slug: "shaft-coupler"
 description: "This aluminum coupling connects the Z-axis stepper motor to the leadscrew to allow FarmBot to move in the Z direction."
 price: $6.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: Aluminum

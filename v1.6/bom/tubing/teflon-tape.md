@@ -4,7 +4,7 @@ slug: "teflon-tape"
 description: "This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system."
 price: $5.00
 quantity:
-  genesis: 1
+  standard: 1
   xl: 1
 specs:
   material: PTFE

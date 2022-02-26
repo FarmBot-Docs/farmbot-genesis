@@ -5,7 +5,7 @@ description: "These parts are used to mount and support the cable carriers. The 
 variants: Horizontal, 30mm|Horizontal, 60mm|Vertical, 60mm
 price: $3.00
 quantity:
-  genesis: 12|6|4
+  standard: 12|6|4
   xl: 24|12|4
 specs:
   material: Gray UV stabilized ABS

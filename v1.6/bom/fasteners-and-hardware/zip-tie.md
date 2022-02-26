@@ -5,7 +5,7 @@ description: "Zip ties are used to fasten the vacuum pump and solenoid valve to 
 variants: 100mm|200mm
 price: $0.07|$0.10
 quantity:
-  genesis: 25|4
+  standard: 25|4
   xl: 25|4
 specs:
   material: Nylon
