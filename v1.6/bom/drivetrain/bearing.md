@@ -1,7 +1,7 @@
 ---
 title: "Bearing"
 slug: "bearing"
-description: "Two of these stainless steel rubber sealed ball bearigns are pre-assembled in each V-wheel."
+description: "Two of these stainless steel rubber sealed ball bearings are pre-assembled in each V-wheel."
 price: $0.00
 quantity:
   standard: 60
