@@ -7,68 +7,56 @@ description: "Step-by-step instructions for setting up pier block supports for F
 * toc
 {:toc}
 
-As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to wooden posts only. However, this will make track alignment trickier and the structure may be less stable without the additional support of the bed boards. Care will need to be exercised to install posts in a sturdy fashion.
+As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to **pier block supports**.
+
+{% include gallery.html images="
+![pier block supports for FarmBot Genesis](_images/pier_block_supports_genesis.png)
+![pier block supports for FarmBot Genesis XL](_images/pier_block_supports_genesis_xl.png)
+" %}
 
 {%
 include callout.html
 type="info"
 title="2 hours"
-content="This is the estimated time it will take to setup wooden posts only."
+content="This is the estimated time it will take to set up pier block supports."
 %}
 
-# Step 1: Dig post holes
-Dig your post holes. A post hole digger and pick axe can help greatly. Your post holes should be roughly 1.5m apart as discussed further in the next steps. **Keep in mind that the outer dimensions of your supporting infrastructure must be in accordance with [the guidelines](raised-bed.md#maximum-raised-bed-size)**.
+# Step 1: Attach wood blocks to piers
+
+Cut short **pressure treated wood blocks** for attaching to the **pier blocks**. Depending on the pier block you purchased, you may need to use 2x4" (45x90mm) or 4x4" (90x90mm) pieces of wood at a length between 100 and 150mm.
+
+Attach each block to a pier using **wood screws** compatible with the pier block's bracket and rated for the outdoors.
+
+![screw block to pier](_images/screw_block_to_pier.png)
+
+# Step 2: Position the piers
+
+Position the piers according to a diagram below for a maximally sized growing area for FarmBot Genesis or Genesis XL. You may also position the two tracks closer together if you are space constrained. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum dimensions](raised-bed.md#maximum-raised-bed-size)**.
 
 {%
 include callout.html
 type="success"
 title="Maintain access"
-content="Position your posts such that you will be able to access all sides of your FarmBot and garden."
+content="Position your pier blocks such that you will be able to access all sides of your FarmBot and garden."
 %}
 
-
-
-![post holes](_images/post_holes.jpg)
-
-# Step 2: Install the first track's posts
-Install short (500mm) wood posts for the first track. The top of the posts should protrude at least 60mm from the ground, with at least 60mm of mounting width in the direction of the planned track. Space the posts 1500mm apart, center to center, unless you are using shorter track extrusions, in which case space the posts that far apart.
-
-![posts drawing](_images/posts_drawing.png)
-
-
-
-{%
-include callout.html
-type="success"
-title="Perfect alignment"
-content="To ensure the posts are aligned properly and the same height, you may want to use a level. If you are setting up multiple track extrusions (more than 1500mm in total length), it is best to install the end posts first and tie a guide string in between these two posts to ensure middle posts are properly aligned."
-%}
-
-Once you have positioned your posts, bury or secure them however you like, though it is critical to ensure that the posts will not significantly move once installed.
-
-# Step 3: Install the second track's posts
-Depending on the planned width of your FarmBot, space the second track’s posts the appropriate distance away from the first track’s. **Keep in mind that the outer dimensions of your supporting infrastructure must be in accordance with [the guidelines](raised-bed.md#maximum-raised-bed-size)**.
+{% include gallery.html images="
+![pier block position diagram for FarmBot Genesis](_images/pier_block_diagram_genesis.png)
+![pier block position diagram for FarmBot Genesis XL](_images/pier_block_diagram_genesis_xl.png)
+" %}
 
 {%
 include callout.html
 type="warning"
 title="Parallel or bust"
-content="It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks.
-
-You can use shims or other spacers to better align track plates in case your posts are not perfect."
+content="It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks."
 %}
-
-
-
-![posts drawing top and side views](_images/posts_drawing_top_and_side_views.png)
-
-Once you have positioned the second track's posts, bury or secure them however you like, again ensuring that they will not significantly move once installed.
 
 {%
 include callout.html
 type="success"
 title="Infrastructure complete!"
-content="Your wooden posts are now ready for FarmBot installation!"
+content="Your pier block supports are now ready for FarmBot installation!"
 %}
 
 
