@@ -2,6 +2,7 @@
 title: "Farmduino Data Cable"
 slug: "farmduino-data-cable"
 description: "This USB cable is used as a serial connection between the Raspberry Pi and the Farmduino."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/9aec84ac1796932e638c27a2?renderMode=0&uiState=6255d9ec46b4a5023f0ae117
 price: $5.00
 quantity:
   standard: 1

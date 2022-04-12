@@ -2,6 +2,7 @@
 title: "Weeder Blade"
 slug: "weeder-blade"
 price: $2.00|$2.00|$2.00
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/4452cc96fe86fa3a408ffee2?renderMode=0&uiState=6255086e1ad350015b485f95
 variants: Narrow|Medium|Wide
 quantity:
   standard: 4|4|0

@@ -2,6 +2,7 @@
 title: "Pressure Regulator"
 slug: "pressure-regulator"
 description: "This pressure regulator reduces the pressure from a municipal water supply down to 15 PSI (103 kpa, 1.03 bar) so that FarmBot can more easily control the amount of water it disperses."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/a7855228a210c3fd62def1b5?renderMode=0&uiState=6255deb446b4a5023f0b2caa
 price: $8.00
 quantity:
   standard: 1

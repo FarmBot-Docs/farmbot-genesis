@@ -2,6 +2,7 @@
 title: "Belt Sleeve"
 slug: "belt-sleeve"
 description: "These sleeves secure the loose end of a belt to itself."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/cf9f3dd86206a0c6bf670c82?renderMode=0&uiState=6255c67c46b4a5023f0a838b
 price: $0.50
 quantity:
   standard: 6

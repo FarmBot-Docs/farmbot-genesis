@@ -2,6 +2,7 @@
 title: "Luer Lock Needle"
 slug: "luer-lock-needle"
 description: "These needles are used for seed injection."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/f1ae8443168fa01eee8f9dd1?configuration=List_gJjaHH4IIbhXvQ%3DDefault&renderMode=0&uiState=6255de7046b4a5023f0b22ce
 variants: 16 Gauge|19 Gauge|22 Gauge
 price: $3.00|$3.00|$3.00
 quantity:

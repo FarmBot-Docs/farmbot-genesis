@@ -2,6 +2,7 @@
 title: "NPT to Barb Adapter"
 slug: "npt-to-barb-adapter"
 description: "These adapters are used on the inlet of the solenoid valve and the outlet of the pressure reducer."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/88cccbcb1c8289dcacf15b28?renderMode=0&uiState=6255de8b46b4a5023f0b22eb
 price: $5.00
 quantity:
   standard: 2

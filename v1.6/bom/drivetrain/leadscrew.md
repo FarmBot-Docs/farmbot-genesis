@@ -2,6 +2,7 @@
 title: "Leadscrew"
 slug: "leadscrew"
 description: "This stainless steel leadscrew allows FarmBot to move in the Z direction."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/82df303470321eca13eebfb4?renderMode=0&uiState=6255c6c246b4a5023f0a8521
 price: $35.00
 quantity:
   standard: 1

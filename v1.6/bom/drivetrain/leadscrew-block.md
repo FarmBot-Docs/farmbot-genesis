@@ -2,6 +2,7 @@
 title: "Leadscrew Block"
 slug: "leadscrew-block"
 description: "This delrin block attaches to the cross-slide plate so that the leadscrew can move through it, allowing FarmBot to move in the Z direction."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/a5f59b0102c2008aba5a982d?renderMode=0&uiState=6255c6b346b4a5023f0a84b0
 price: $7.00
 quantity:
   standard: 1

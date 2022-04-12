@@ -2,6 +2,7 @@
 title: "Camera"
 slug: "camera"
 description: "The camera is mounted on the z-axis and allows FarmBot to take photos of the garden and plants for weed detection and tracking plant growth."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/201338492742c5c0aea0bc4f?renderMode=0&uiState=6255d3a246b4a5023f0aace9
 price: $30.00
 quantity:
   standard: 1

@@ -2,6 +2,7 @@
 title: "Bearing"
 slug: "bearing"
 description: "Two of these stainless steel rubber sealed ball bearings are pre-assembled in each V-wheel."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/047410d776645b3a2a814655?renderMode=0&uiState=6255c66e46b4a5023f0a8386
 price: $0.00
 quantity:
   standard: 60

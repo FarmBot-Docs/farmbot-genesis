@@ -2,6 +2,7 @@
 title: "Cable Carrier"
 slug: "cable-carrier"
 description: "These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/ff3f4743e9a7eddf0a3cd0cd?configuration=End_1_Links%3D2.0%3BEnd_2_Links%3D2.0%3BList_6q8lVAiG6IIFc6%3D_15_x_50__internal_&renderMode=0&uiState=6255d36246b4a5023f0aabaf
 variants: X, 1.7m|X, 3.2m|Y, 1.7m|Y, 3.2m|Z, 0.74m
 price: $50.00|$80.00|$50.00|$80.00|$30.00
 quantity:

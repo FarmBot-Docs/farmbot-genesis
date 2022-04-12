@@ -2,6 +2,7 @@
 title: "M5 Barb"
 slug: "m5-barb"
 description: "These brass barbs screw into the UTM's three liquid/gas ports and accept the three liquid/gas lines coming from the z-axis cable carrier."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/ba38009a26ed7b28bfdcab74?renderMode=0&uiState=6255de7d46b4a5023f0b22dd
 price: $6.00
 quantity:
   standard: 3

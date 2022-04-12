@@ -2,6 +2,7 @@
 title: "Rubber Gasket"
 slug: "rubber-gasket"
 description: "These gaskets are used with the NPT to barb adapter, garden hose to barb adapter, and pressure reducer to seal the water system's threaded connections."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/d91818fd9a4de4bdb07b7a3e?renderMode=0&uiState=6255dec346b4a5023f0b2d02
 price: $1.00
 quantity:
   standard: 4

@@ -2,6 +2,7 @@
 title: "Solenoid Valve Cable"
 slug: "solenoid-valve-cable"
 description: "This cable connects the solenoid valve to the Farmduino."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/f7d3f322d1b65f20956c54d8?configuration=default&renderMode=0&uiState=6255dcbc46b4a5023f0aec64
 price: $8.00
 quantity:
   standard: 1

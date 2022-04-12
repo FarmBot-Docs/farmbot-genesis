@@ -2,6 +2,7 @@
 title: "Camera Calibration Card"
 slug: "camera-calibration-card"
 description: "Use this card to perform an automatic calibration of FarmBot's camera."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/b154b74fc8636b525ad65d90?renderMode=0&uiState=6255d39646b4a5023f0aacd7
 price: $1.50
 quantity:
   standard: 1

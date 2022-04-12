@@ -2,6 +2,7 @@
 title: "Eccentric Spacer"
 slug: "eccentric-spacer"
 description: "When rotated, eccentric spacers accurately position V-wheels on a plate such that they can firmly engage V-slot aluminum extrusions. They are only used on wheels on one side of an extrusion. Adjustments are made by using a 8mm wrench on the spacer itself."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/8bc57d93f35e6a3304297c1c?renderMode=0&uiState=6255c56346b4a5023f0a817f
 price: $2.00
 quantity:
   standard: 15

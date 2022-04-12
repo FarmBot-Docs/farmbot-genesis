@@ -2,6 +2,7 @@
 title: "Micro SD Card"
 slug: "micro-sd-card"
 description: "The microSD card holds FarmBot OS and is inserted into the Raspberry Pi."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/0360de4705ccc4b43aef9263?renderMode=0&uiState=6255da9246b4a5023f0ae393
 price: $15.00
 quantity:
   standard: 1

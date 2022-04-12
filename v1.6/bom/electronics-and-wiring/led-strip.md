@@ -2,6 +2,7 @@
 title: "LED Strip"
 slug: "led-strip"
 description: "This LED strip is strung through the gantry's horizontal cable carrier supports so that you can light up your garden at night to show friends or for easy harvesting. Please note: this is not a grow light."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/a4131c8f795e39a2eaf20dbf?configuration=default&renderMode=0&uiState=6255da6d46b4a5023f0ae2f1
 variants: 1.5m|3m
 price: $25.00|$50.00
 quantity:

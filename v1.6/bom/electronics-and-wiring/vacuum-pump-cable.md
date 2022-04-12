@@ -2,6 +2,7 @@
 title: "Vacuum Pump Cable"
 slug: "vacuum-pump-cable"
 description: "This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a Y-axis section labelled Y and a Z-axis section labelled Z that connect with a 90-degree screw-together waterproof connection at the cross-slide."
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3d148d0ea29c59a3d910e93f?renderMode=0&uiState=6255dd87582c8d091a1f75ba
 variants: Y, 2.6m|Y, 4.1m|Z, 1.0m
 price: $15.00|$20.00|$12.00
 quantity:

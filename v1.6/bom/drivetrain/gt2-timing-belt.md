@@ -2,6 +2,7 @@
 title: "GT2 Timing Belt"
 slug: "gt2-timing-belt"
 description: "Tech specs for the drivetrain components in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/e5135dbeb93a2518b9691de0?configuration=List_5lsI64D1Sj098C%3DY_Axis%3BList_MZgFp5WPsrheRr%3DDefault&renderMode=0&uiState=6255c6a046b4a5023f0a83cd
 variants: 1.7m|3.2m|4.5m|7.5m
 price: $20.00|$30.00|$40.00|$70.00
 quantity:

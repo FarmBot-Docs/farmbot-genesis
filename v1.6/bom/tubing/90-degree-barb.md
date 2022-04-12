@@ -2,6 +2,7 @@
 title: "90-Degree Barb"
 slug: "90-degree-barb"
 description: "This barb is used to connect the y-axis water tube to the z-axis water tube."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/bbc56fad92e5669d7a001412?renderMode=0&uiState=6255de3746b4a5023f0b0a2b
 price: $2.00
 quantity:
   standard: 1

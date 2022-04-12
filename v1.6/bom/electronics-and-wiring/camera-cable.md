@@ -2,6 +2,7 @@
 title: "Camera Cable"
 slug: "camera-cable"
 description: "This cable connects the camera to the Raspberry Pi through the y-axis cable carrier."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/3a0f0adaf57c0282d62a7445?configuration=default&renderMode=0&uiState=6255d38146b4a5023f0aac7b
 variants: 2.6m|4.1m
 price: $15.00|$20.00
 quantity:

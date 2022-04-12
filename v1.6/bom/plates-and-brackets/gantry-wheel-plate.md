@@ -2,6 +2,7 @@
 title: "Gantry Wheel Plate"
 slug: "gantry-wheel-plate"
 description: "Tech specs for the gantry wheel plates."
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/18af90bf27d61e15bb2d4c60?renderMode=0&uiState=6254fa091ad350015b485dda
 price: $25.00
 quantity:
   standard: 2
