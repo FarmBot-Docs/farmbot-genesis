@@ -2,6 +2,7 @@
 title: "M5 Precision Shim"
 slug: "precision-shim"
 description: "This shim is placed in between the two bearings in every pre-assembled V-wheel."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/2fc37813c5b8bff6981ebe85?renderMode=0&uiState=6255c6d046b4a5023f0a852d
 price: $0.00
 quantity:
   standard: 30

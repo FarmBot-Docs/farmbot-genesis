@@ -2,6 +2,7 @@
 title: "Tube"
 slug: "tube"
 description: "These ultra flexible silicone tubes carry water and vauum air to the UTM."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/9b455c66a9509c363d73cbbb?renderMode=0&uiState=6255dedf46b4a5023f0b2d28
 variants: 0.15m (Vacuum)|0.95m (Water, Z-axis)|2.1m (Water, Y-axis)|3.0m (Water, X-axis)|3.6m (Water, Y-axis)|4.5m (Water, X-axis)
 price: $1.00|$5.00|$8.00|$10.00|$12.00|$15.00
 quantity:

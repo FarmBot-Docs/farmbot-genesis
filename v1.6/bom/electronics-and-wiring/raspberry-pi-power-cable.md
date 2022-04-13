@@ -2,6 +2,7 @@
 title: "Raspberry Pi Power Cable"
 slug: "raspberry-pi-power-cable"
 description: "This USB cable provides power to the Raspberry Pi from the Farmduino's built-in 12v to 5v to USB circuitry."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/39fd9b15b6fd66bc8bbef108?configuration=List_UkTucQjOe0Ti5f%3DType_C&renderMode=0&uiState=6255dbcb46b4a5023f0aea65
 price: $5.00
 quantity:
   standard: 1

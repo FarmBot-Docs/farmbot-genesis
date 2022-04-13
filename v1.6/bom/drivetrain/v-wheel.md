@@ -2,6 +2,7 @@
 title: "V-Wheel"
 slug: "v-wheel"
 description: "These polycarbonate V-wheels are precision machined to allow FarmBot to move in the X, Y, and Z directions smoothly and precisely. Each wheel comes pre-assembled with two stainless steel rubber-sealed ball bearings and one M5 precision shim."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/e46cfd9650de95588fa4acfc?renderMode=0&uiState=6255c6ec46b4a5023f0a8544
 price: $6.00
 quantity:
   standard: 30

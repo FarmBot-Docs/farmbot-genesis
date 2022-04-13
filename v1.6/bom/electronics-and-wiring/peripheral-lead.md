@@ -2,6 +2,7 @@
 title: "Peripheral Lead"
 slug: "peripheral-lead"
 description: "These extra leads make it easy to connect new, additional peripherals to your Farmduino."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/bd682ae8626349200cfd6ae8?renderMode=0&uiState=6255db3446b4a5023f0ae595
 price: $3.00
 quantity:
   standard: 2

@@ -2,6 +2,7 @@
 title: "Push Button"
 slug: "push-button"
 description: "These waterproof push buttons come pre-mounted on the top of the electronics box. The red button is reserved for E-STOP, the yellow for UNLOCK, and the three white ones are user-customizable. Each button includes a wiring harness and comes pre-connected to the Pi adapter board."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/9165ffd82e858202c328e4f6?configuration=default&renderMode=0&uiState=6255dbbb46b4a5023f0aea24
 variants: Yellow|Red|White|Wiring Harness|Nut|O-Ring
 price: $6.00|$6.00|$6.00|$1.00|$0.00|$0.00
 quantity:

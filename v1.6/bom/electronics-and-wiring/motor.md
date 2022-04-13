@@ -2,6 +2,7 @@
 title: "Motor"
 slug: "motor"
 description: "These powerful 200 resolution stepper motors allow FarmBot to move precisely in the X, Y, and Z directions. Download the [motor spec sheet](https://drive.google.com/file/d/1Ehqu20q84Lyycn1fOj6dvWKbrMLvoNv4/view?usp=sharing) and [encoder spec sheet](https://drive.google.com/file/d/15dSqr_hQTXAQGIvw-YeDLIOC6dB0Y26n/view?usp=sharing)."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/721ea5b310ba257b355c62ae?renderMode=0&uiState=6255db2446b4a5023f0ae580
 price: $70.00
 quantity:
   standard: 4

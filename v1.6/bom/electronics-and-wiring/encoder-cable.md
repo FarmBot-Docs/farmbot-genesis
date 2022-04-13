@@ -2,6 +2,7 @@
 title: "Encoder Cable"
 slug: "encoder-cable"
 description: "These cables connect the four rotary encoders to the Farmduino. They are labelled on the Farmduino end X1, X2, Y, and ZY. The Z-axis cable is split into a Y-axis section labelled ZY and a Z-axis section labelled ZZ that connect with a 90-degree screw-together waterproof connection at the cross-slide."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/5589db85ae724089cf1dadbe?configuration=List_l8zmTbJTAngsJh%3DZ&renderMode=0&uiState=6255d9dc46b4a5023f0ae0a3
 variants: X1, 0.7m|X2, 2.3m|Y, 2.7m|ZY, 2.6m|X2, 3.8m|Y, 4.2m|ZY, 4.1m|ZZ, 1.8m
 price: $20.00|$23.00|$25.00|$27.00|$28.00|$30.00|$32.00|$24.00
 quantity:

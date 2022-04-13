@@ -2,6 +2,7 @@
 title: "M3 Screw"
 slug: "m3-screw"
 description: "M3 screws are used throughout FarmBot for mounting motors and other small electronic components on the tools."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/d248fc4d1c8aaab592008da3?configuration=List_C4KEi4OG2YD23l%3D_12mm&renderMode=0&uiState=6255c59f46b4a5023f0a81e3
 variants: 6mm|12mm|35mm
 price: $0.10|$0.15|$0.20
 quantity:

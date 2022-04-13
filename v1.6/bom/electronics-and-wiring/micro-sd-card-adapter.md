@@ -2,6 +2,7 @@
 title: "Micro SD Card Adapter"
 slug: "micro-sd-card-adapter"
 description: "This adapter allows the microSD card to be plugged into a standard sized SD card slot."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/8ac70542e214171e37dc4b66?renderMode=0&uiState=6255da7e46b4a5023f0ae326
 price: $3.00
 quantity:
   standard: 1

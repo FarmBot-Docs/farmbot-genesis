@@ -2,6 +2,7 @@
 title: "Solenoid Valve"
 slug: "solenoid-valve"
 description: "This 24V valve controls the flow of water from your garden hose to FarmBot's tubing."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/606587525c24e29d5fbecb65?renderMode=0&uiState=6255dcc646b4a5023f0aeca8
 price: $15.00
 quantity:
   standard: 1
