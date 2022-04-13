@@ -17,13 +17,13 @@ New in this version of FarmBot Genesis is the inclusion of the **Rotary Tool** -
 
 # v1.6 Farmduino
 
-The latest revision of our custom **Farmduino** electronics board includes a new 24V motor driver to power the new Rotary Tool. This new output includes load detection circuitry allowing FarmBot to detect when the Rotary Tool has stalled due to overload. We have also increased the `USB OUT` voltage that supplies the Raspberry Pi to mitigate low voltage issues that have affected CPU, WiFi, and camera performance in past versions. Last, the board now includes a more appropriately specced `7.5A` fuse instead of a `15A` fuse.
+The latest revision of our custom [[Farmduino]] electronics board includes a new 24V motor driver to power the new Rotary Tool. This new output includes load detection circuitry allowing FarmBot to detect when the Rotary Tool has stalled due to overload. We have also increased the `USB OUT` voltage that supplies the Raspberry Pi to mitigate low voltage issues that have affected CPU, WiFi, and camera performance in past versions. Last, the board now includes a more appropriately specced `7.5A` fuse instead of a `15A` fuse.
 
 ![farmduino v1.6](_images/farmduino.jpg)
 
 # Vacuum pump with EMI filter
 
-The **vacuum pump** now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well the potential for the pump to drop the system voltage below acceptable levels when starting up. Additionally, the vacuum pump cable is now a shielded cable, with the shielding connected via a third quick-connect terminal to the vacuum pump motor's housing. The shield is connected to `PE` (protected earth) at the Farmduino.
+The [[vacuum pump]] now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well the potential for the pump to drop the system voltage below acceptable levels when starting up. Additionally, the vacuum pump cable is now a shielded cable, with the shielding connected via a third quick-connect terminal to the vacuum pump motor's housing. The shield is connected to `PE` (protected earth) at the Farmduino.
 
 ![vacuum pump with EMI filter](_images/vacuum_pump.jpg)
 
@@ -58,7 +58,7 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 
 # Miscellaneous
 
-* The **camera cable** is now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
+* The [[camera cable]] is now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
 * Shortened the **X1 motor cable** and **X1 encoder cable** to reduce the amount of extra cabling underneath the electronics box.
 * Removed unnecessary features from the **leadscrew block** design.
 * Removed the **5.5mm wrench**, **2.5mm hex key**, **bladed screwdriver** and **phillips screwdriver** from the kit.

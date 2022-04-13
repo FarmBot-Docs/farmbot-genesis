@@ -7,7 +7,7 @@ description: "Documentation for the FarmBot Genesis seeder tool"
 * toc
 {:toc}
 
-The **seeder tool** works by using a **vacuum pump** to suction-hold a single seed at the end of a **needle**.
+The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **needle**.
 
 {% include youtube.html id="nXFdJIQaQB4" %}
 
@@ -39,10 +39,10 @@ Once you've selected a needle, attach it to the **luer lock adapter** with a qua
 {%
 include callout.html
 type="info"
-content="For the next two steps, it can be helpful to temporarily unscrew the **vacuum pump mount** from the **z-axis extrusion** and slide it (and the vacuum pump) out from the housing."
+content="For the next two steps, it can be helpful to temporarily unscrew the [[vacuum pump mount]] from the [[z-axis extrusion]] and slide it (and the vacuum pump) out from the housing."
 %}
 
-Slide one of the **vacuum tubes** onto the _inlet barb_ of the **vacuum pump**. The inlet will be marked with an arrow pointing into the pump. The inlet may be on the left or the right side of the pump depending on when your kit was purchased. Please refer to the arrows on your pump to ensure the tube is connected correctly.
+Slide one of the **vacuum tubes** onto the _inlet barb_ of the [[vacuum pump]]. The inlet will be marked with an arrow pointing into the pump. The inlet may be on the left or the right side of the pump depending on when your kit was purchased. Please refer to the arrows on your pump to ensure the tube is connected correctly.
 
 Then slide the **inline air filter** onto the end of the first tube and connect the second vacuum tube between the air filter and the **barb** on top of the **UTM** closest to the FarmBot logo.
 
@@ -70,7 +70,7 @@ Connect the **vacuum pump cable** to the **vacuum pump's** terminals. The black 
 
 # Step 4: Attach the seed trough holder
 
-Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and **M5 flange locknuts**. Then mount the assembly to the **left gantry column** using a **40mm nut bar** and two **M5 x 10mm screws**.
+Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and [[M5 flange locknuts]]. Then mount the assembly to the **left gantry column** using a **40mm nut bar** and two **M5 x 10mm screws**.
 
 Place the two **seed troughs** into the holder. Optionally, you may store up to three **luer lock needles** in the holder as well.
 

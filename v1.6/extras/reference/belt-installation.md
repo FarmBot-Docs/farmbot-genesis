@@ -8,17 +8,17 @@ description: "Secure the ends of your belts"
 {:toc}
 
 # Step 1: Slide on a belt sleeve
-Slide a **belt sleeve** onto the **belt**.
+Slide a [[belt sleeve]] onto the **belt**.
 
 ![belt sleeve on bel](_images/belt_sleeve_on_bel.png)
 
 # Step 2: Route the belt through the clip
-Route the **belt** down through the slot in the **belt clip** and then wrap the belt back under itself. The teeth from the short end of the belt should engage with the teeth on the long end.
+Route the **belt** down through the slot in the [[belt clip]] and then wrap the belt back under itself. The teeth from the short end of the belt should engage with the teeth on the long end.
 
 ![belt routed through clip](_images/belt_routed_through_clip.png)
 
 # Step 3: Secure the belt with the sleeve
-Slide the **belt sleeve** over both ends of the belt. This may take a small bit of force and some wiggling.
+Slide the [[belt sleeve]] over both ends of the belt. This may take a small bit of force and some wiggling.
 
 ![belt secured with sleeve](_images/belt_secured_with_sleeve.png)
 

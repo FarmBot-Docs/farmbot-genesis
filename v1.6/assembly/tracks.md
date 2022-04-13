@@ -46,7 +46,7 @@ title="Handle with care"
 content="The aluminum extrusions may have sharp corners and edges."
 %}
 
-Lay out all of the **track extrusions** in the location that you want to attach them to your **supporting infrastructure**. Make sure that extrusions are fully butted against each other. This will help you attach the plates in the correct location.
+Lay out all of the [[track extrusions]] in the location that you want to attach them to your **supporting infrastructure**. Make sure that extrusions are fully butted against each other. This will help you attach the plates in the correct location.
 
 {%
 include callout.html
@@ -69,13 +69,13 @@ Repeat for all of the track extrusions on the side of the bed that will eventual
 
 # Step 3: Attach a track end plate
 
-Position a [[track end plate]] as shown below and screw it into the **supporting infrastructure** with three **wood screws**.
+Position a [[track end plate]] as shown below and screw it into the **supporting infrastructure** with three [[wood screws]].
 
 {%
 include callout.html
 type="success"
 title="Vertically aligned"
-content="Use the small **notches** in the **track end plates** and **track joining plates** to help position the plates with perfect *vertical alignment* with respect to your supporting infrastructure and each other. *You should only use these notches if the top edge of your supporting infrastructure is level and straight.*
+content="Use the small **notches** in the [[track end plates]] and [[track joining plates]] to help position the plates with perfect *vertical alignment* with respect to your supporting infrastructure and each other. *You should only use these notches if the top edge of your supporting infrastructure is level and straight.*
 
 If the top edge of your supporting infrastructure is *not* level or straight, then you will need to manually ensure that your track plates are vertically aligned with other means. Because the gantry has wheels that ride on the bottom face of the track extrusions, you need to ensure that the bottom of the track extrusion will be at least 25mm away from the top of the supporting infrastructure so that the wheels have adequate clearance."
 %}
@@ -84,7 +84,7 @@ If the top edge of your supporting infrastructure is *not* level or straight, th
 
 # Step 4: Attach a track joining plate
 
-Position a [[track joining plate]] such that one half of it will be able to attach to each [[track extrusion]] and so that it is vertically aligned with the first [[track end plate]]. Screw the plate into the **supporting infrastructure** with four **wood screws**.
+Position a [[track joining plate]] such that one half of it will be able to attach to each [[track extrusion]] and so that it is vertically aligned with the first [[track end plate]]. Screw the plate into the **supporting infrastructure** with four [[wood screws]].
 
 ![Mount first track joining plate](_images/mount_first_track_joining_plate.png)
 
@@ -117,7 +117,7 @@ Push the second extrusion into place so there is no gap between the extrusions, 
 include callout.html
 type="success"
 title="Extrusion alignment is key"
-content="Ensure the **track extrusions** are positioned tightly together at the middle of the [[track joining plate]]. The top and bottom of the extrusions must be flush so that the gantry can move across the tracks smoothly. Ensure that your extrusions are parallel (no kink where they meet) by looking down the length of the tracks. If there is a kink, adjust the track extrusions and plates accordingly."
+content="Ensure the [[track extrusions]] are positioned tightly together at the middle of the [[track joining plate]]. The top and bottom of the extrusions must be flush so that the gantry can move across the tracks smoothly. Ensure that your extrusions are parallel (no kink where they meet) by looking down the length of the tracks. If there is a kink, adjust the track extrusions and plates accordingly."
 %}
 
 ![Mount the second track extrusion](_images/second_track_extrusion_3.png)
@@ -138,15 +138,15 @@ title="This step applies to XL kits only"
 content="If you have a standard sized Genesis kit (3m long), proceed to the [next step](#step-8-attach-the-second-track-end-plate)."
 %}
 
-Position another [[track joining plate]] such that one half of it will be able to attach to the free end of the [[track extrusion]] that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four **wood screws**, and then secure the **extrusion** with another **100mm nut bar** and tighten all screws.
+Position another [[track joining plate]] such that one half of it will be able to attach to the free end of the [[track extrusion]] that was just put in place, and so that it is vertically aligned with the other track mounting plates. Screw the plate into the **supporting infrastructure** with four [[wood screws]], and then secure the **extrusion** with another **100mm nut bar** and tighten all screws.
 
 ![Mount additional extrusions](_images/first_track_extrusion_2.png)
 
-Repeat to install subsequent **track joining plates** and **track extrusions**.
+Repeat to install subsequent [[track joining plates]] and [[track extrusions]].
 
 # Step 8: Attach the second track end plate
 
-Position the second [[track end plate]] and secure it to the **supporting infrastructure** with three **wood screws**. Then fasten the final [[track extrusion]] to the plate using a **60mm nut bar** and **M5 x 10mm screws**.
+Position the second [[track end plate]] and secure it to the **supporting infrastructure** with three [[wood screws]]. Then fasten the final [[track extrusion]] to the plate using a **60mm nut bar** and **M5 x 10mm screws**.
 
 ![Completed single track](_images/completed_single_track.png)
 

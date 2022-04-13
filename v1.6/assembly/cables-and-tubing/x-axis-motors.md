@@ -15,7 +15,7 @@ Connect the **X1 motor and encoder cables** (highlighted orange in the image bel
 
 # Step 2: Connect the X2 motor and encoder cables
 
-Connect the **X2 motor and encoder cables** (highlighted orange in the image below) to the **X2 motor and encoder** on the left side of FarmBot (when looking at the device from the back) by feeding the cables through the slots in all of the **horizontal cable carrier supports** along the **gantry main beam**.
+Connect the **X2 motor and encoder cables** (highlighted orange in the image below) to the **X2 motor and encoder** on the left side of FarmBot (when looking at the device from the back) by feeding the cables through the slots in all of the **horizontal cable carrier supports** along the [[gantry main beam]].
 
 ![x2 motor cable from back](_images/x2_motor_cable_from_back.png)
 

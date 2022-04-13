@@ -9,7 +9,7 @@ slug: "construct-the-gantry-structure"
 
 # Step 1: Attach the plates to the columns
 
-Slide a **gantry column** (20mm x 60mm x 500mm extrusion) onto the **gantry wheel plate assembly**. The extrusion should reside on the same side of the plate as the V-wheels and the end of the extrusion should be aligned with the **notch** in the plate. Tighten the **M5 x 10mm screws** using the **3mm hex driver**.
+Slide a [[gantry column]] (20mm x 60mm x 500mm extrusion) onto the **gantry wheel plate assembly**. The extrusion should reside on the same side of the plate as the V-wheels and the end of the extrusion should be aligned with the **notch** in the plate. Tighten the **M5 x 10mm screws** using the **3mm hex driver**.
 
 Repeat for the second gantry wheel plate and aluminum extrusion.
 
@@ -24,7 +24,7 @@ content="The aluminum extrusions may have sharp corners and edges."
 
 # Step 2: Attach the gantry corner brackets
 
-Lightly attach three **60mm nut bars** to each **gantry corner bracket** using **M5 x 10mm screws**. Then slide the corner brackets onto the gantry column/plate assemblies. The top of the extrusions should line up with the notches in the corner brackets.
+Lightly attach three **60mm nut bars** to each [[gantry corner bracket]] using **M5 x 10mm screws**. Then slide the corner brackets onto the gantry column/plate assemblies. The top of the extrusions should line up with the notches in the corner brackets.
 
 {%
 include callout.html
@@ -47,7 +47,7 @@ content="Pay special attention to the orientation of the brackets, extrusions, a
 include callout.html
 type="wrench"
 title="Adjust the eccentric spacers first"
-content="This step is assuming that you have already adjusted the **[eccentric spacers](../../bom/fasteners-and-hardware/eccentric-spacer.md)** according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
+content="This step is assuming that you have already adjusted the [[eccentric spacers]] according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
 %}
 
 Slide the **gantry columns** onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the FarmBot.
@@ -86,7 +86,7 @@ title="Grab a friend"
 content="The next step requires an additional person to complete."
 %}
 
-Lift up the **gantry main beam** and position it onto the front of the **gantry corner brackets**. The cable carrier supports should be on the same side of the main beam as the gantry corner brackets. Secure the main beam in place using four **60mm nut bars** and **M5 x 10mm screws**. The nut bars should be positioned in the *lower two extrusion slots* of the main beam such that the top face of the main beam is 20mm *above* the top edges of the gantry corner brackets.
+Lift up the [[gantry main beam]] and position it onto the front of the **gantry corner brackets**. The cable carrier supports should be on the same side of the main beam as the gantry corner brackets. Secure the main beam in place using four **60mm nut bars** and **M5 x 10mm screws**. The nut bars should be positioned in the *lower two extrusion slots* of the main beam such that the top face of the main beam is 20mm *above* the top edges of the gantry corner brackets.
 
 {% include gallery.html images="
 ![Attach the gantry main beam](_images/attach_the_gantry_main_beam_1.png)

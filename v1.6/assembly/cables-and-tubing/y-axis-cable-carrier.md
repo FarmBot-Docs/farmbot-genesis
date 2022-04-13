@@ -52,7 +52,7 @@ Connect the z-axis and y-axis sections of the following cables together:
   * **ZZ encoder cable** to **ZY encoder cable** with the 7-pin connector
   * **ZZ motor cable** to **ZY motor cable** with the 4-pin connector
   * **UTM cable (Z)** to **UTM cable (Y)** with the 12-pin connector
-  * **Camera** to **camera cable** with the 4-pin connector
+  * **Camera** to [[camera cable]] with the 4-pin connector
 
 {%
 include callout.html
@@ -110,7 +110,7 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and ten 
 
 # Step 8: Mount the cable carrier
 
-Attach the **y-axis cable carrier** to the **80mm cable carrier mount** using two **M5 x 16mm screws** and **M5 flange locknuts**. The screws should thread firmly through the cable carrier end piece.
+Attach the **y-axis cable carrier** to the **80mm cable carrier mount** using two **M5 x 16mm screws** and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc_1.png)
 
@@ -125,7 +125,7 @@ content="Never pull any cables by their connectors."
 
 ![Remove slack](_images/remove_y_z_slack.png)
 
-Attach the **y-axis cable carrier** to the **60mm horizontal cable carrier support** nearest the left gantry column using two **M5 x 16mm screws** and **M5 flange locknuts**. The screws should thread firmly through the cable carrier end piece.
+Attach the **y-axis cable carrier** to the **60mm horizontal cable carrier support** nearest the left gantry column using two **M5 x 16mm screws** and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc_2.png)
 

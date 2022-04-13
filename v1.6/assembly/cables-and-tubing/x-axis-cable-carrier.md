@@ -24,9 +24,9 @@ There is only one orientation that the **x-axis cable carrier** mounts to the **
 
 # Step 3: Lay everything into the cable carrier
 
-Disconnect the **power supply cable** from the **power supply**.
+Disconnect the [[power supply cable]] from the **power supply**.
 
-Lay the **x-axis water tube** and the **power supply cable** into the open **x-axis cable carrier**. The gray connector of the **power supply cable** should extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
+Lay the **x-axis water tube** and the [[power supply cable]] into the open **x-axis cable carrier**. The gray connector of the [[power supply cable]] should extend beyond the gantry-mounted cable carrier end by about 50cm so that it can plug into the Farmduino. The water tube should be extended the same distance.
 
 ![Add the water tube and power supply cable](_images/add_x_cc_contents.png)
 

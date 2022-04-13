@@ -13,7 +13,7 @@ Try lowering the z-axis **[MAX SPEED](https://my.farm.bot/app/designer/settings?
 
 # 2. Check the z-axis eccentric spacers
 
-Check the **eccentric spacers** on the **cross-slide** that are used to adjust the **v-wheels** that support the **z-axis extrusion**. If the eccentric spacers are adjusted too tightly, then they will exert too much force onto the z-axis extrusion which can make it difficult or impossible for the z-axis motor to raise the z-axis. With the FarmBot powered off, you should be able to rotate the leadscrew by hand without too much effort. If the eccentric spacers are too tight, this will be very difficult to do.
+Check the **eccentric spacers** on the **cross-slide** that are used to adjust the [[V-wheels]] that support the [[z-axis extrusion]]. If the eccentric spacers are adjusted too tightly, then they will exert too much force onto the z-axis extrusion which can make it difficult or impossible for the z-axis motor to raise the z-axis. With the FarmBot powered off, you should be able to rotate the leadscrew by hand without too much effort. If the eccentric spacers are too tight, this will be very difficult to do.
 
 # 3. Lubricate the leadscrew
 

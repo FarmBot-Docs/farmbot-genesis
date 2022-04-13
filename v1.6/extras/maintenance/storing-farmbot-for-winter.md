@@ -21,18 +21,18 @@ Using the web app, turn ON the water peripheral to open up the solenoid valve, a
 # Step 3: Unplug FarmBot
 Using the web app, shutdown the FarmBot. Then unplug the **power supply** from the **power source**.
 
-For v1.4+ kits, disconnect the **power supply** from the **power supply cable**.
+For v1.4+ kits, disconnect the **power supply** from the [[power supply cable]].
 
 # Step 4: Disconnect the x-axis cable carrier
 Remove the **screws** that hold the **x-axis cable carrier** to the **cable carrier support**. You may want to coil up the x-axis cable carrier, and secure the coil with a strap.
 
 # Step 5: Remove the x-axis belts
-Remove the **screws** and **tee nuts** that hold the four **belt clips** located at the track ends. Then remove the belt clips from the tracks and coil up the loose belt length. Use twist ties or rubber bands to keep the belts coiled.
+Remove the **screws** and **tee nuts** that hold the four [[belt clips]] located at the track ends. Then remove the belt clips from the tracks and coil up the loose belt length. Use twist ties or rubber bands to keep the belts coiled.
 
 # Step 6: Remove the gantry from the tracks
-For Genesis sized devices, pull on the *center* of the **gantry main beam** to slowly slide the **gantry** off of the **tracks**.
+For Genesis sized devices, pull on the *center* of the [[gantry main beam]] to slowly slide the **gantry** off of the **tracks**.
 
-For XL sized devices, you will need an additional person to help with this step. Each person should be positioned near a **gantry column** (one person on either side of the FarmBot). Pulling from the gantry columns, both people must work in unison to slowly slide the gantry off of the tracks.
+For XL sized devices, you will need an additional person to help with this step. Each person should be positioned near a [[gantry column]] (one person on either side of the FarmBot). Pulling from the gantry columns, both people must work in unison to slowly slide the gantry off of the tracks.
 
 # Step 7: Put everything in storage
 Move the gantry, tools, power supply, and hardware into your preferred storage location.
