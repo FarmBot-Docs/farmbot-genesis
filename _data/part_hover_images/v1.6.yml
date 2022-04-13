@@ -75,7 +75,7 @@ bom:
       - image: soil_sensor.jpg
       - image: solenoid_valve_mount.jpeg
       - image: utm.jpg
-      - image: vacuum_pump_housing.jpg
+      - image: vacuum_pump_cover.jpg
       - image: vacuum_pump_mount.jpeg
       - image: watering_nozzle_bottom.jpg
       - image: watering_nozzle.jpg

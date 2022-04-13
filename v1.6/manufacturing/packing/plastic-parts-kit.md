@@ -19,7 +19,7 @@ There are two versions of the plastic parts kit: one for **Genesis** kits and on
 |[Cable Carrier Spacer Block - 60mm](../../bom/plastic-parts/cable-carrier-spacer-block-60mm.md)|None|1|1
 |[Motor Housing - Horizontal, 75mm](../../bom/plastic-parts/motor-housing.md)|None|3|3
 |[Motor Housing - Vertical, 80mm](../../bom/plastic-parts/motor-housing.md)|None|1|1
-|[Vacuum Pump Housing](../../bom/plastic-parts/vacuum-pump-housing.md)|None|1|1
+|[Vacuum Pump Cover](../../bom/plastic-parts/vacuum-pump-cover.md)|None|1|1
 |[Vacuum Pump Mount](../../bom/plastic-parts/vacuum-pump-mount.md)|None|1|1
 |[Solenoid Valve Mount](../../bom/plastic-parts/solenoid-valve-mount.md)|None|1|1
 |[Seed Bin](../../bom/plastic-parts/seed-bin.md)|None|2|2

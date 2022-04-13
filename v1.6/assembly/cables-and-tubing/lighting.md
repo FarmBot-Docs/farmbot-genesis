@@ -14,7 +14,7 @@ Feed the [LED light strip](../../bom/electronics-and-wiring/led-strip.md) (highl
 
 ![lights](_images/lights.png)
 
-In a few steps from now, you will [plug the LED light strip into the **Farmduino**](../electronics.md#step-2-connect-the-peripherals).
+In a few steps from now, you will [plug the LED light strip into the Farmduino](../electronics.md#step-2-connect-the-peripherals).
 
 # What's next?
 

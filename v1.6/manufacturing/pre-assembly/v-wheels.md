@@ -16,7 +16,7 @@ Each V-Wheel consists of four components:
 
 # Step 1: Insert the first bearing
 
-Press one **bearing** into the **v-wheel**.
+Press one **bearing** into the [[V-wheel]].
 
 {%
 include callout.html
@@ -45,7 +45,7 @@ Insert the **precision shim** such that it is resting on the first bearing on th
 
 # Step 3: Insert the second bearing
 
- Press the second **bearing** into the **v-wheel**.
+ Press the second **bearing** into the [[V-wheel]].
 
 {% include gallery.html images="
 ![insert second bearing](_images/insert_second_bearing.jpg)

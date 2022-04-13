@@ -15,7 +15,7 @@ description: "Packing details for the vacuum pump"
 
 # Step 1: Pack the vacuum pump
 
-Pack the **vacuum pump** into the box.
+Pack the [[vacuum pump]] into the box.
 
 # Box specifications
 

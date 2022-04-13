@@ -8,14 +8,14 @@ slug: "attach-the-drivetrain"
 
 # Step 1: Attach the gantry motors
 
-Slide a **motor** into a **horizontal motor housing**, ensuring that the shaft of the motor is coming out of the housing and that the motor and encoder connectors are facing down through the open bottom of the housing. Then attach the motor and housing to a **gantry corner bracket** with four **M3 x 12mm screws**. Repeat for the second motor on the other gantry corner bracket.
+Slide a [[motor]] into a **horizontal motor housing**, ensuring that the shaft of the motor is coming out of the housing and that the motor and encoder connectors are facing down through the open bottom of the housing. Then attach the motor and housing to a [[gantry corner bracket]] with four **M3 x 12mm screws**. Repeat for the second motor on the other gantry corner bracket.
 
 {% include gallery.html images="
 ![motor in housing](_images/motor_in_housing.png)
 ![both_gantry_motors_attached](_images/both_gantry_motors_attached.png)
 " %}
 
-Slide **GT2 pulleys** onto the **motor shafts** and tighten the two **set screws (pre-inserted)** with the 2mm hex driver. Make sure that the setscrews contact the *flat areas* on the motor shafts.
+Slide [[GT2 pulleys]] onto the **motor shafts** and tighten the two **set screws (pre-inserted)** with the 2mm hex driver. Make sure that the setscrews contact the *flat areas* on the motor shafts.
 
 {%
 include callout.html
@@ -28,7 +28,7 @@ content="It is possible for the setscrews to loosen over time which will disenga
 
 # Step 2: Feed the belts
 
-Drop the ends of one of the **x-axis GT2 timing belts** down the two large openings of a **gantry column**, ensuring that the belt teeth engage the **GT2 pulley**. Grab the ends of the **belt** at the bottom of the **gantry column** and feed them under the **V-wheels** of the **gantry wheel plate**, then along the top of the **track extrusions** to the ends of the tracks. The flat side of the belt should be in contact with the V-wheels.
+Drop the ends of one of the **x-axis GT2 timing belts** down the two large openings of a [[gantry column]], ensuring that the belt teeth engage the [[GT2 pulley]]. Grab the ends of the **belt** at the bottom of the [[gantry column]] and feed them under the [[V-wheels]] of the [[gantry wheel plate]], then along the top of the [[track extrusions]] to the ends of the tracks. The flat side of the belt should be in contact with the V-wheels.
 
 {%
 include callout.html
@@ -44,7 +44,7 @@ content="When dropping the belt ends through the gantry column and feeding them 
 
 # Step 3: Secure the belts
 
-Secure one end of the belt to the front end of the tracks by using a **belt clip**, **belt sleeve**, **20mm nut bar**, and two **M5 x 10mm screws**. The belt must be wrapped through the clip as outlined in the [belt installation guide](../../extras/reference/belt-installation.md). Repeat for the other end of the belt on the other end of the tracks. Then repeat for the second x-axis belt on the other side of the FarmBot. Trim or coil any extra belt, if desired.
+Secure one end of the belt to the front end of the tracks by using a [[belt clip]], [[belt sleeve]], **20mm nut bar**, and two **M5 x 10mm screws**. The belt must be wrapped through the clip as outlined in the [belt installation guide](../../extras/reference/belt-installation.md). Repeat for the other end of the belt on the other end of the tracks. Then repeat for the second x-axis belt on the other side of the FarmBot. Trim or coil any extra belt, if desired.
 
 {% include gallery.html images="
 ![x-axis belt secured](_images/x-axis_belt_secured.png)

@@ -7,7 +7,7 @@ description: "Documentation for FarmBot Genesis electronics"
 * toc
 {:toc}
 
-The **Farmduino** and **Raspberry Pi** are the central components of the FarmBot from an electronic systems perspective. The diagram below shows how the other electronic components connect to these boards, as well as how the two are connected to each other.
+The [[Farmduino]] and [[Raspberry Pi]] are the central components of the FarmBot from an electronic systems perspective. The diagram below shows how the other electronic components connect to these boards, as well as how the two are connected to each other.
 
 The Farmduino microcontroller uses Arduino architecture and it communicates with the Raspberry Pi using a G-code like language. The Farmduino controls the stepper drivers and motors, as well as the UTM and peripherals. The Farmduino provides power and control to all the electronic components of the FarmBot. The board has a layout and connectors that are optimized for FarmBot's various peripherals and motor requirements.
 
@@ -19,7 +19,7 @@ Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmB
 
 # Step 1: Attach the electronics box to the gantry
 
-Attach the pre-assembled **electronics box** to the **left gantry column** using six **M5 x 10mm screws** and **drop-in tee nuts**. The top flange of the box should be butted against the bottom edge of the **gantry corner bracket**.
+Attach the pre-assembled **electronics box** to the **left gantry column** using six **M5 x 10mm screws** and **drop-in tee nuts**. The top flange of the box should be butted against the bottom edge of the [[gantry corner bracket]].
 
 ![electronics box attached to gantry](_images/electronics_box_attached_to_gantry.png)
 
@@ -41,9 +41,9 @@ content="Before proceeding with plugging everything in, remove the black rubber 
 When plugging in cables in the following steps, ensure that you pass **every cable** through the slot in the bottom of the electronics box. Once everything is connected to the electronics, you will organize all of the cables into the supergland, and then push the supergland back into the slot."
 %}
 
-* Connect the **vacuum pump cable** (with gray heat shrink) to the **Farmduino** peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
-* Connect the **solenoid valve cable** (with blue heat shrink) to the **Farmduino** peripheral connector labelled `WATER` (directly underneath the vacuum connector). The connector will only fit in one direction.
-* Connect the **LED lights** to the **Farmduino** peripheral connector labelled `LIGHTING` (directly underneath the water connector). The connector will only fit in one direction.
+* Connect the **vacuum pump cable** (with gray heat shrink) to the [[Farmduino]] peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
+* Connect the **solenoid valve cable** (with blue heat shrink) to the [[Farmduino]] peripheral connector labelled `WATER` (directly underneath the vacuum connector). The connector will only fit in one direction.
+* Connect the **LED lights** to the [[Farmduino]] peripheral connector labelled `LIGHTING` (directly underneath the water connector). The connector will only fit in one direction.
 
 {% include gallery.html images="
 ![farmduino vacuum connector](_images/farmduino_vacuum.png)
@@ -53,7 +53,7 @@ When plugging in cables in the following steps, ensure that you pass **every cab
 
 # Step 3: Plug in the stepper motors and rotary encoders
 
-Plug in the **motor and encoder cables** to the **Farmduino**. Each cable is labelled with a white sleeve, which corresponds to the connectors on the Farmduino. From left to right, the connectors on Farmduino are `X1`, `X2`, `Y`, and `Z`. Each connector can only be inserted in one direction, and has a locking tab to prevent it from falling out.
+Plug in the **motor and encoder cables** to the [[Farmduino]]. Each cable is labelled with a white sleeve, which corresponds to the connectors on the Farmduino. From left to right, the connectors on Farmduino are `X1`, `X2`, `Y`, and `Z`. Each connector can only be inserted in one direction, and has a locking tab to prevent it from falling out.
 
 {% include gallery.html images="
 ![farmduino motor connectors](_images/farmduino_motors.png)
@@ -71,13 +71,13 @@ We recommend slightly pushing the connector away from the locking tab (while you
 
 # Step 4: Plug in the camera
 
-Plug the **camera cable** into the **Raspberry Pi**. The exact USB port chosen does not matter.
+Plug the [[camera cable]] into the [[Raspberry Pi]]. The exact USB port chosen does not matter.
 
 ![pi usb port](_images/pi_usb_port.png)
 
 # Step 5: Plug in the UTM cable
 
-Plug in the **UTM cable** to the **Farmduino**. The connector will only fit in one direction.
+Plug in the **UTM cable** to the [[Farmduino]]. The connector will only fit in one direction.
 
 ![farmduino utm connector](_images/farmduino_utm.png)
 
@@ -108,7 +108,7 @@ content="Do not pull any cables away from the electronics box during this proces
 
 # Step 8: Install FarmBot OS onto the microSD card
 
-Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the software documentation hub to install **FarmBot OS** onto the **microSD card**.
+Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the software documentation hub to install **FarmBot OS** onto the [[micro SD card]].
 
 # Step 9: Mount the power supply
 
@@ -118,7 +118,7 @@ Mount the **power supply** to your **supporting infrastructure** using four **25
 
 # Step 10: Plug in the power supply
 
-Connect the **power supply cable** to the **power supply output**.
+Connect the [[power supply cable]] to the **power supply output**.
 
 ![power supply connector](_images/power_supply_connector.png)
 

@@ -48,7 +48,7 @@ It is possible for the belts to stretch or slip over time which can lead to miss
 include callout.html
 type="success"
 title="Every three months"
-content="Check belts for proper tension. If you notice extra slack, loosen the **belt clip** that holds the belt in place, pull the clip to tension the belt, and then re-tighten the clip. Make sure to check all three belts: the two along the tracks and the one across the gantry main beam."
+content="Check belts for proper tension. If you notice extra slack, loosen the [[belt clip]] that holds the belt in place, pull the clip to tension the belt, and then re-tighten the clip. Make sure to check all three belts: the two along the tracks and the one across the gantry main beam."
 %}
 
 

@@ -19,13 +19,13 @@ Mount five **pin jumpers** to `UTM` pins `A` through `E`.
 
 ![pin jumpers](_images/electronics_box_pre_assembly_pin_jumpers.jpg)
 
-Then mount the **Farmduino** into the **electronics box** with four **M2.5 x 4mm screws**.
+Then mount the [[Farmduino]] into the **electronics box** with four **M2.5 x 4mm screws**.
 
 ![farmduino](_images/electronics_box_pre_assembly_farmduino.jpg)
 
 # Step 3: Mount the Raspberry Pi
 
-Insert the **microSD card** into the **Raspberry Pi**. Then mount the Pi into the electronics box with four **M2.5 x 4mm screws**.
+Insert the [[micro SD card]] into the [[Raspberry Pi]]. Then mount the Pi into the electronics box with four **M2.5 x 4mm screws**.
 
 ![raspberry pi](_images/electronics_box_pre_assembly_pi.jpg)
 
