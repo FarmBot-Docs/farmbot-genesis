@@ -42,7 +42,7 @@ Building on the progress made in v1.5, the v1.6 kit includes a two-piece modular
 
 # Smaller x-axis cable carrier
 
-The **x-axis cable carrier** has been reduced in size to `15mm x 20mm` internal dimensions. This saves significant weight and reduces friction when moving along the X axis. With this change comes new **30mm horizontal cable carrier supports** and a new **35mm horizontal cable carrier mount**, adding to overall material, weight, and cost reductions in the kit.
+The **x-axis cable carrier** has been reduced in size to `15mm x 20mm` internal dimensions. This saves significant weight and reduces friction when moving along the X axis. With this change comes new [[30mm horizontal cable carrier supports]] and a new **35mm horizontal cable carrier mount**, adding to overall material, weight, and cost reductions in the kit.
 
 # Pre-assembled tools
 

@@ -71,13 +71,13 @@ Carefully drape the cable carrier assembly into position. Attach the cross-slide
 ![Mount the cable carrier to the cross-slide](_images/mount_z_cc_to_cross_slide.png)
 " %}
 
-Now attach the z-axis end of the **cable carrier** to the lowest **vertical cable carrier support** on the **z-axis** using two **M5 x 16mm screws** and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Now attach the z-axis end of the **cable carrier** to the lowest [[vertical cable carrier support]] on the **z-axis** using two **M5 x 16mm screws** and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![mount the cable carrier to the z-axis](_images/mount_the_cable_carrier_to_the_z-axis.png)
 
 # Step 6: Connect the z-axis motor and encoder
 
-Feed the **ZZ motor and encoder cables** up through the slots in the **vertical cable carrier supports**, and then through the slot in the [[z-axis motor mount]]. Then connect the cables to the motor and encoder.
+Feed the **ZZ motor and encoder cables** up through the slots in the [[vertical cable carrier supports]], and then through the slot in the [[z-axis motor mount]]. Then connect the cables to the motor and encoder.
 
 {% include gallery.html images="
 ![Connect the z motor and encoder cables](_images/connect_z_motor_cables_1.png)
@@ -86,7 +86,7 @@ Feed the **ZZ motor and encoder cables** up through the slots in the **vertical 
 
 # Step 7: Add the vertical motor housing
 
-Attach the **80mm vertical motor housing** to the [[z-axis extrusion]] using **M5 x 10mm screws** and **tee nuts**.
+Attach the [[vertical motor housing]] to the [[z-axis extrusion]] using **M5 x 10mm screws** and **tee nuts**.
 
 ![Add the vertical motor housing](_images/add_vertical_motor_housing.png)
 

@@ -51,7 +51,7 @@ Attach the **x-axis cable carrier** to the **30mm horizontal cable carrier mount
 
 # Step 6: Mount the cable carrier to the tracks
 
-Attach the other end of the **x-axis cable carrier** to the **30mm horizontal cable carrier support** nearest the middle of the **tracks** using two **M3 x 16mm flat head screws** and **M3 locknuts**.
+Attach the other end of the **x-axis cable carrier** to the [[30mm horizontal cable carrier support]] nearest the middle of the **tracks** using two **M3 x 16mm flat head screws** and **M3 locknuts**.
 
 ![Mount the x-axis cable carrier](_images/mount_x_cc_3.png)
 
