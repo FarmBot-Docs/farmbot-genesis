@@ -129,7 +129,7 @@ bom:
       - image: vacuum_pump.jpg
   - category: plates-and-brackets
     parts:
-      - image: 80mm_cable_carrier_mount.jpg
+      - image: cable_carrier_mount_80mm.jpg
       - image: belt_clip.jpeg
       - image: cross-slide_plate.jpg
       - image: gantry_corner_bracket.jpeg
