@@ -17,7 +17,7 @@ specs:
   waterproof rating: IP67
   brand: Weho
 internal-specs:
-  internal part name: Power Supply - 24V, 6.25A
+  internal-part-name: Power Supply - 24V, 6.25A
   vendor: Weho
   cost: $33.00
 ---

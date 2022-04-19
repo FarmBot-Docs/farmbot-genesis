@@ -15,7 +15,7 @@ specs:
   cover type: Hinged with latches
   hinge type: M3 x 35mm screws with locknuts
 internal-specs:
-  internal part name: "Genesis Electronics Box - Box|
+  internal-part-name: "Genesis Electronics Box - Box|
   Genesis Electronics Box - Lid|
   Genesis Electronics Box - Gasket|
   Electronics Box - Latch|

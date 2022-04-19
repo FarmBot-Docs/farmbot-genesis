@@ -13,7 +13,7 @@ specs:
   length: 10m
   color: White
 internal-specs:
-  internal part name: Teflon Tape
+  internal-part-name: Teflon Tape
   vendor: LDO
   cost: $0.20
 ---

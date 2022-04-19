@@ -19,7 +19,7 @@ specs:
   max belt width: 7mm
   pitch: GT2 (2mm)
 internal-specs:
-  internal part name: GT2 Pulley - 20 Tooth
+  internal-part-name: GT2 Pulley - 20 Tooth
   cost: $0.85
 ---
 

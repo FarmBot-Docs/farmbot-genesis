@@ -16,7 +16,7 @@ specs:
   connector 2: Pre-stripped wire (no connector)
   length: 10cm
 internal-specs:
-  internal part name: Peripheral Lead
+  internal-part-name: Peripheral Lead
   cost: $1.30
 ---
 

@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Rotary Tool Top
+  internal-part-name: Rotary Tool Top
   rev: A
   vendor: LDO
   cost: $1.43

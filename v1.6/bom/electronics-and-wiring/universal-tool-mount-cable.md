@@ -21,7 +21,7 @@ specs:
   Intermediate connectors: 12-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   UTM connectors: 2x3 2.54mm pitch plug (yellow shrinkwrap)|2x4 2.54mm pitch plug (black shrinkwrap)
 internal-specs:
-  internal part name: UTM Cable - Y, 2.6m (Genesis)|UTM Cable - Y, 4.1m (Genesis XL)|UTM Cable - Z, 1.0m (Genesis and Genesis XL)
+  internal-part-name: UTM Cable - Y, 2.6m (Genesis)|UTM Cable - Y, 4.1m (Genesis XL)|UTM Cable - Z, 1.0m (Genesis and Genesis XL)
   rev: A|A|A
   cost: $12.50|$17.10|$8.00
   notes: "<span style='font-weight: bold; color: red;'>Double check pin mapping</span>"

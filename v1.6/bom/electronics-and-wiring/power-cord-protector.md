@@ -12,7 +12,7 @@ specs:
   Rainproof?: Yes
   Submersible?: No
 internal-specs:
-  internal part name: Rainproof Power Cord Box
+  internal-part-name: Rainproof Power Cord Box
   cost: $1.50
   notes: Do not include plastic piece for hanging product on store shelves.
 ---

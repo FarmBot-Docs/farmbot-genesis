@@ -57,7 +57,7 @@ Attach the **leadscrew block** to the **cross-slide plate** using **M5 x 30mm sc
 
 # Step 4: Add the stepper motor
 
-Insert a [[motor]] into a **horizontal motor housing** such that the motor and encoder connectors are facing down, out the open face of the housing. Then attach the motor and housing to the **cross-slide plate** with four **M3 x 12mm screws**.
+Insert a [[motor]] into a [[horizontal motor housing]] such that the motor and encoder connectors are facing down, out the open face of the housing. Then attach the motor and housing to the **cross-slide plate** with four **M3 x 12mm screws**.
 
 {%
 include callout.html
@@ -84,7 +84,7 @@ content="There should be a small gap (about 1mm) between the pulley and the plat
 
 # Step 5: Add the cable carrier mount
 
-Attach the **80mm cable carrier mount** to the **cross-slide plate** using **M5 x 16mm screws** and [[M5 flange locknuts]]. The bracket should be on the opposite side of the plate as the motor.
+Attach the [[80mm cable carrier mount]] to the **cross-slide plate** using **M5 x 16mm screws** and [[M5 flange locknuts]]. The bracket should be on the opposite side of the plate as the motor.
 
 ![Add the cable carrier mount](_images/cross_slide_with_cc_mount.jpg)
 

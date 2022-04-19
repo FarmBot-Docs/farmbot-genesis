@@ -17,7 +17,7 @@ specs:
   Width: 20mm
   thickness: 12mm
 internal-specs:
-  internal part name: Leadscrew Block
+  internal-part-name: Leadscrew Block
   rev: B
   cost: $1.75
 ---

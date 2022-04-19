@@ -14,7 +14,7 @@ specs:
   threads: M5 x 0.8mm
   fits slot size: 6
 internal-specs:
-  internal part name: Nut Bar - 20mm|Nut Bar - 40mm|Nut Bar - 60mm|Nut Bar - 100mm|Nut Bar - 140mm
+  internal-part-name: Nut Bar - 20mm|Nut Bar - 40mm|Nut Bar - 60mm|Nut Bar - 100mm|Nut Bar - 140mm
   rev: A|A|B|A|A
   cost: $0.45|$0.56|$0.68|$1.02|$1.09
 component tests: Fasteners and hardware tests

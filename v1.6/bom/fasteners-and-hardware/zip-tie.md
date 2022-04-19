@@ -13,7 +13,7 @@ specs:
   color: Black
   length: 100mm|200mm
 internal-specs:
-  internal part name: Zip Tie - 100mm|Zip Tie - 200mm
+  internal-part-name: Zip Tie - 100mm|Zip Tie - 200mm
   cost: $0.006|$0.015
 component tests: Fasteners and hardware tests
 ---

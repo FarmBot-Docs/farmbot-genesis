@@ -13,7 +13,7 @@ specs:
   material: 6063-T5 Aluminum
   surface treatment: Sand blasted and clear anodized
 internal-specs:
-  internal part name: Extrusion - 20mm x 20mm x 1000mm (Z-axis)
+  internal-part-name: Extrusion - 20mm x 20mm x 1000mm (Z-axis)
   vendor: LDO
   cost: $3.10
   component tests: Extrusion tests

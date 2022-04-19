@@ -11,7 +11,7 @@ specs:
   threads: M8 x 0.75mm
   color: Black
 internal-specs:
-  internal part name: Rotary Tool Chuck
+  internal-part-name: Rotary Tool Chuck
   cost: $2.90
   notes: Only include chuck part (no other parts)
 ---

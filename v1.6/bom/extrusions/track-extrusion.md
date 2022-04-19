@@ -13,7 +13,7 @@ specs:
   material: 6063-T5 Aluminum
   surface treatment: Sand blasted and clear anodized
 internal-specs:
-  internal part name: Extrusion - 20mm x 40mm x 1500m (Track)
+  internal-part-name: Extrusion - 20mm x 40mm x 1500m (Track)
   vendor: LDO
   cost: $7.80
   component tests: Extrusion tests

@@ -20,8 +20,8 @@ There are two versions of the plate kit: one for **Genesis** kits and one for **
 |[Gantry Joining Bracket](../../bom/plates-and-brackets/gantry-joining-bracket.md)|Wrapped in tissue paper|1|1
 |[Cross-Slide Plate](../../bom/plates-and-brackets/cross-slide-plate.md)|Wrapped in tissue paper|1|1
 |[Z-Axis Motor Mount](../../bom/plates-and-brackets/z-axis-motor-mount.md)|Wrapped in tissue paper|1|1
-|[35mm Cable Carrier Mount](../../bom/plates-and-brackets/35mm-cable-carrier-mount.md)|Wrapped in tissue paper|1|1
-|[80mm Cable Carrier Mount](../../bom/plates-and-brackets/80mm-cable-carrier-mount.md)|Wrapped in tissue paper|1|1
+|[35mm Cable Carrier Mount](../../bom/plates-and-brackets/cable-carrier-mount-35mm.md)|Wrapped in tissue paper|1|1
+|[80mm Cable Carrier Mount](../../bom/plates-and-brackets/cable-carrier-mount-80mm.md)|Wrapped in tissue paper|1|1
 |[3-Slot Toolbay](../../bom/plates-and-brackets/toolbay.md)|100% recycled 50lb kraft paper|2|2
 |[1-Slot Toolbay](../../bom/plates-and-brackets/toolbay.md)|100% recycled 50lb kraft paper|-|3
 |Pack of:<br>- 6x [Belt Clip](../../bom/plates-and-brackets/belt-clip.md)<br>- 6x [Belt Sleeve](../../bom/drivetrain/belt-sleeve.md)<br>- 2x [Z-Axis Hardstop](../../bom/plates-and-brackets/z-axis-hardstop.md)<br>- 1x [Seed Trough Holder Mount](../../bom/plates-and-brackets/seed-trough-holder-mount.md)|In press-to-seal bag (no individual wrapping)|1 pack|1 pack

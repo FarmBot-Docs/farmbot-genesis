@@ -13,7 +13,7 @@ specs:
   drive size: 2mm hex
   material: Stainless steel
 internal-specs:
-  internal part name: M3 x 4mm Setscrew
+  internal-part-name: M3 x 4mm Setscrew
   cost: $0.05
   notes: Pre-assembled in the GT2 Pulleys.
 component tests: Fasteners and hardware tests

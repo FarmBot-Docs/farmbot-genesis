@@ -18,7 +18,7 @@ specs:
   Power Consumption: 3.84 watts
   Electrical Tabs Direction: Facing towards the inlet
 internal-specs:
-  internal part name: Solenoid Valve - 24V, 3/4" NPT
+  internal-part-name: Solenoid Valve - 24V, 3/4" NPT
   cost: $2.60
 ---
 

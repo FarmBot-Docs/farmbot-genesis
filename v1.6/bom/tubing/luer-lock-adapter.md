@@ -12,7 +12,7 @@ specs:
   threads: M5
   interface: 1/4 turn luer lock
 internal-specs:
-  internal part name: M5 to Luer Lock Adapter
+  internal-part-name: M5 to Luer Lock Adapter
   vendor: LDO
   cost: $0.50
 ---

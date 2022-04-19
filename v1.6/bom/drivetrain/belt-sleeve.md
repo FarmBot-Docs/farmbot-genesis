@@ -11,7 +11,7 @@ specs:
   material: Aluminum
   Surface finish: Sand blasted and clear anodized
 internal-specs:
-  internal part name: Belt Sleeve
+  internal-part-name: Belt Sleeve
   rev: A
   vendor: LDO
   cost: $0.25

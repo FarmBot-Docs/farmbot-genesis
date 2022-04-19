@@ -19,7 +19,7 @@ specs:
   Inner Colors: Black, Red, Yellow, White
   Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:
-  internal part name: "Motor Cable - X1, 0.7m (Genesis and Genesis XL)|
+  internal-part-name: "Motor Cable - X1, 0.7m (Genesis and Genesis XL)|
   Motor Cable - X2, 2.3m (Genesis)|
   Motor Cable - Y, 2.7m (Genesis)|
   Motor Cable - ZY, 2.6m (Genesis)|

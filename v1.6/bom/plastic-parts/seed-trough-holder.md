@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Seed Trough Holder
+  internal-part-name: Seed Trough Holder
   rev: B
   vendor: LDO
   cost: $1.76

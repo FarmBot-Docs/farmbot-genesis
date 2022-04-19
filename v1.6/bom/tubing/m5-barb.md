@@ -14,7 +14,7 @@ specs:
   gasket?: Yes
   material: Brass
 internal-specs:
-  internal part name: M5 Barb
+  internal-part-name: M5 Barb
   rev: A
   vendor: LDO
   cost: $1.00

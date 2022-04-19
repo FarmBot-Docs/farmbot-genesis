@@ -13,7 +13,7 @@ specs:
   length: 150mm
   color: Black
 internal-specs:
-  internal part name: Farmduino Data Cable
+  internal-part-name: Farmduino Data Cable
   rev: A
   cost: $1.30
 ---

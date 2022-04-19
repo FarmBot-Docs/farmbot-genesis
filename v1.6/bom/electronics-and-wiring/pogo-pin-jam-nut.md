@@ -10,7 +10,7 @@ quantity:
 specs:
   finish: Silver
 internal-specs:
-  internal part name: Pogo Pin Jam Nut
+  internal-part-name: Pogo Pin Jam Nut
   vendor: LDO
   cost: $0.00
   notes: Pre-assembled with 12 pogo pins to the UTM PCB.

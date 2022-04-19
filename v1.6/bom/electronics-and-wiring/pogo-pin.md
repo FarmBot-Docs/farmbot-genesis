@@ -10,7 +10,7 @@ quantity:
 specs:
   finish: Gold plated
 internal-specs:
-  internal part name: Pogo Pin
+  internal-part-name: Pogo Pin
   vendor: LDO
   cost: $0.00
   notes: Pre-assembled with 24 jam nuts to the UTM PCB.

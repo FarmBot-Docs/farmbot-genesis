@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Vacuum Pump Housing
+  internal-part-name: Vacuum Pump Housing
   rev: A
   vendor: LDO
   cost: $3.85

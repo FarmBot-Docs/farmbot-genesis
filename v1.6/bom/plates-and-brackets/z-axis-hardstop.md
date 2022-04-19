@@ -12,7 +12,7 @@ specs:
   material: 6061 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Z-Axis Hardstop
+  internal-part-name: Z-Axis Hardstop
   rev: A
   vendor: LDO
   cost: $1.45

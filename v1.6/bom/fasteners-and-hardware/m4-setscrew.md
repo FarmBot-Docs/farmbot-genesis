@@ -12,7 +12,7 @@ specs:
   drive size: 2mm hex
   material: Stainless steel
 internal-specs:
-  internal part name: M4 x 4mm Setscrew
+  internal-part-name: M4 x 4mm Setscrew
   cost: $0.05
   notes: Pre-assembled in the Rotary Tool M5 Shaft Adapter.
 component tests: Fasteners and hardware tests

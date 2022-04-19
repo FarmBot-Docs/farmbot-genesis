@@ -13,7 +13,7 @@ specs:
   material: 5052 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Gantry Corner Bracket - Left|Gantry Corner Bracket - Right
+  internal-part-name: Gantry Corner Bracket - Left|Gantry Corner Bracket - Right
   rev: A|A
   vendor: LDO
   cost: $4.75|$4.50

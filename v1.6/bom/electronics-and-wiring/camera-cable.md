@@ -15,7 +15,7 @@ specs:
   connector 2: Right-angle USB Type A connector
   labels: CAM
 internal-specs:
-  internal part name: Camera Cable - 2.6m (Genesis)|Camera Cable - 4.1m (Genesis XL)
+  internal-part-name: Camera Cable - 2.6m (Genesis)|Camera Cable - 4.1m (Genesis XL)
   rev: B|B
   cost: $5.70|$6.50
   notes: Cable must be shielded USB cable or there will be EMI issues.

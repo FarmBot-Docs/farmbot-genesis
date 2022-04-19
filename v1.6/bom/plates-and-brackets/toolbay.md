@@ -13,7 +13,7 @@ specs:
   material: 5052 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Black anodized<br>Laser engraved logo
 internal-specs:
-  internal part name: Toolbay - 1-Slot|Toolbay - 3-Slot
+  internal-part-name: Toolbay - 1-Slot|Toolbay - 3-Slot
   rev: A|B
   vendor: LDO
   cost: $6.20|$13.90

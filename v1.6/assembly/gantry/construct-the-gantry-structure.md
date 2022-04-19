@@ -69,7 +69,7 @@ Place both **gantry main beams** on a flat surface such as a table or patio. Usi
 
 # Step 5: Attach the cable carrier supports
 
-Using **M5 x 10mm screws** and **40mm nut bars**, attach six **60mm horizontal cable carrier supports** to the *middle slot* of the **gantry main beam extrusion**. For Genesis kits, there is only one main beam extrusion, so only six supports will be used.
+Using **M5 x 10mm screws** and **40mm nut bars**, attach six [[60mm horizontal cable carrier supports]] to the *middle slot* of the **gantry main beam extrusion**. For Genesis kits, there is only one main beam extrusion, so only six supports will be used.
 
 ![Cable carrier supports on a Genesis gantry](_images/cable_carrier_supports_on_a_genesis_gantry.png)
 
@@ -101,7 +101,7 @@ _This image is from the front of FarmBot_
 
 # Step 7:  Attach the x-axis cable carrier mount
 
-Use two **M5 x 10mm screws** and **drop-in tee nuts** to attach the aluminum **35mm cable carrier mount** to the bottom of the **left gantry column**.
+Use two **M5 x 10mm screws** and **drop-in tee nuts** to attach the aluminum [[35mm cable carrier mount]] to the bottom of the **left gantry column**.
 
 ![Attach the x-axis cable carrier mount](_images/attach_the_x-axis_cable_carrier_mount.png)
 

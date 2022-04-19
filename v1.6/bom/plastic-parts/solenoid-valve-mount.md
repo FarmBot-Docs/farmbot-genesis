@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Solenoid Valve Mount
+  internal-part-name: Solenoid Valve Mount
   rev: A
   vendor: LDO
   cost: $1.43

@@ -15,7 +15,7 @@ specs:
   Flange Diameter: 11.5mm
   material: Stainless Steel
 internal-specs:
-  internal part name: M5 Flange Locknut
+  internal-part-name: M5 Flange Locknut
   cost: $0.09
 component tests: Fasteners and hardware tests
 ---

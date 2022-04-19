@@ -12,7 +12,7 @@ specs:
   material: 6061 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Seed Trough Holder Mount Plate
+  internal-part-name: Seed Trough Holder Mount Plate
   rev: A
   vendor: LDO
   cost: $2.75

@@ -107,7 +107,7 @@ Attach the **z-axis hardstops** onto the back side of the [[z-axis extrusion]] a
 
 # Step 10: Add the vertical motor housing (optional)
 
-If you plan on stopping assembly after this page, it is recommended to attach the **80mm vertical motor housing** to the [[z-axis extrusion]] using **M5 x 10mm screws** and **tee nuts** now. This will protect the motor from rain and other hazards until you resume assembly at a later point. Once you resume assembly, you will need to remove the housing.
+If you plan on stopping assembly after this page, it is recommended to attach the [[vertical motor housing]] to the [[z-axis extrusion]] using **M5 x 10mm screws** and **tee nuts** now. This will protect the motor from rain and other hazards until you resume assembly at a later point. Once you resume assembly, you will need to remove the housing.
 
 If you do not plan on stopping the assembly process now, you can skip this step and install the housing after the z motor and encoder cables have been connected in the next step.
 

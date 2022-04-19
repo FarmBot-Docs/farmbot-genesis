@@ -15,7 +15,7 @@ specs:
   Wire Lengths: 50mm
   Ring Terminals: Insulated M3
 internal-specs:
-  internal part name: Soil Moisture and Temperature Sensor PCB
+  internal-part-name: Soil Moisture and Temperature Sensor PCB
   rev: A
   vendor: LDO
   cost: $5.90

@@ -14,7 +14,7 @@ specs:
   material: Stainless Steel
   drive size: 3mm hex
 internal-specs:
-  internal part name: M5 x 16mm Flat Head Screw
+  internal-part-name: M5 x 16mm Flat Head Screw
   cost: $0.042
   notes: 3mm Hex Drive
 component tests: Fasteners and hardware tests

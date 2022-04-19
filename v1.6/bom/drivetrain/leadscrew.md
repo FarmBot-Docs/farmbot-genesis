@@ -15,7 +15,7 @@ specs:
   Pitch: 2mm
   Lead: 8mm
 internal-specs:
-  internal part name: Leadscrew - 8mm x 800mm
+  internal-part-name: Leadscrew - 8mm x 800mm
 cost: $5.50
 ---
 
