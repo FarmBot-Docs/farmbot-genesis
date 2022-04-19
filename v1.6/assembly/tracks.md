@@ -7,7 +7,7 @@ description: "Documentation and assembly instructions for the FarmBot Genesis tr
 * toc
 {:toc}
 
-FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models and 6m for Genesis XL.
+FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models and 6m for Genesis <span class="fb-xl-sticker">XL</span>.
 
 ![Completed tracks](_images/completed_tracks.png)
 
@@ -59,7 +59,7 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 Attach six [[30mm horizontal cable carrier supports]] to the *lower slot* of a [[track extrusion]] using **40mm nut bars** and **M5 x 10mm screws**. The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
 
-Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis XL).
+Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis <span class="fb-xl-sticker">XL</span>).
 
 {% include gallery.html images="
 ![Attach horizontal cable carrier supports](_images/attach_horizontal_cable_carrier_supports_1.png)

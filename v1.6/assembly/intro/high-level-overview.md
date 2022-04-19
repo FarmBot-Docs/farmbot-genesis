@@ -7,7 +7,7 @@ description: "Bird's eye view of FarmBot Genesis and Genesis XL"
 * toc
 {:toc}
 
-**FarmBot Genesis** and **Genesis XL** are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
+**FarmBot Genesis** and **Genesis** <span class="fb-xl-sticker">XL</span> are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
 
 {% include gallery.html images="
 ![farmbot genesis v1.6](_images/farmbot_genesis_v1.6.png)

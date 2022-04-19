@@ -7,7 +7,7 @@ description: "Packing details for the cable kit inside each main carton"
 * toc
 {:toc}
 
-There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
+There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
 
 # Genesis packing list
 
