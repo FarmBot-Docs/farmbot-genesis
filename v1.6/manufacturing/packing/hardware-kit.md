@@ -26,11 +26,11 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |[GT2 Timing Belt](../../bom/drivetrain/gt2-timing-belt.md) (7.5m)|Coiled|-|2
 |[Pre-Assembled V-Wheels](../pre-assembly/v-wheels.md)|Press-to-seal bag|30|30
 |[M5 Drop-in Tee Nuts](../../bom/fasteners-and-hardware/tee-nut.md)|Press-to-seal bag|20|20
-|[20mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar.md)|Press-to-seal bag|6|6
-|[40mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar.md)|Press-to-seal bag|28|54
-|[60mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar.md)|Press-to-seal bag|20|24
-|[100mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar.md)|Press-to-seal bag|2|6
-|[140mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar.md)|Press-to-seal bag|-|2
+|[20mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-20mm.md)|Press-to-seal bag|6|6
+|[40mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-40mm.md)|Press-to-seal bag|28|54
+|[60mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-60mm.md)|Press-to-seal bag|20|24
+|[100mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-100mm.md)|Press-to-seal bag|2|6
+|[140mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-140mm.md)|Press-to-seal bag|-|2
 |[M5 x 6mm Eccentric Spacer](../../bom/fasteners-and-hardware/eccentric-spacer.md)|Press-to-seal bag|15|15
 |[100mm Zip Ties](../../bom/fasteners-and-hardware/zip-tie.md)|Press-to-seal bag|25|25
 |[200mm Zip Ties](../../bom/fasteners-and-hardware/zip-tie.md)|Press-to-seal bag|4|4
