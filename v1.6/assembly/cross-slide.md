@@ -100,7 +100,7 @@ The cross-slide should move easily across the full width of the gantry. If you f
 
 # Step 7: Feed and secure the belt
 
-Attach a [[belt clip]] to the end of the gantry main beam using two **M5 x 10mm screws** and a **20mm nut bar**. Then secure one end of the **y-axis GT2 timing belt** (2m long for Genesis, 3.5m long for XL) to the belt clip using the [belt installation](../extras/reference/belt-installation.md) reference guide.
+Attach a [[belt clip]] to the end of the gantry main beam using two **M5 x 10mm screws** and a [[20mm nut bar]]. Then secure one end of the **y-axis GT2 timing belt** (2m long for Genesis, 3.5m long for XL) to the belt clip using the [belt installation](../extras/reference/belt-installation.md) reference guide.
 
 ![Secure one end of the belt](_images/y_axis_belt_beginning.png)
 

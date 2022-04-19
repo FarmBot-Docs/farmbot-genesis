@@ -23,7 +23,7 @@ Slide the [[belt sleeve]] over both ends of the belt. This may take a small bit 
 ![belt secured with sleeve](_images/belt_secured_with_sleeve.png)
 
 # Step 4: Mount the clip
-Mount the clip to the end of an **extrusion** with a **20mm nut bar** and **M5 x 10mm screws**.
+Mount the clip to the end of an **extrusion** with a [[20mm nut bar]] and **M5 x 10mm screws**.
 
 ![mounted belt clip](_images/mounted_belt_clip.png)
 

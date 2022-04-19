@@ -15,7 +15,7 @@ The camera itself is a borescope style camera that is fully waterproof. It can b
 
 # Step 1: Attach the camera to the z-axis
 
-Sandwich the **camera** between the two **camera mounts**. Then attach the **camera and mounts** to the **z-axis** using the two **M5 x 10mm screws** and a **40mm nut bar**.
+Sandwich the **camera** between the two **camera mounts**. Then attach the **camera and mounts** to the **z-axis** using the two **M5 x 10mm screws** and a [[40mm nut bar]].
 
 {% include gallery.html images="
 ![camera between camera mounts](_images/camera_between_camera_mounts.png)

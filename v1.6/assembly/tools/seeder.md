@@ -70,7 +70,7 @@ Connect the **vacuum pump cable** to the **vacuum pump's** terminals. The black 
 
 # Step 4: Attach the seed trough holder
 
-Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and [[M5 flange locknuts]]. Then mount the assembly to the **left gantry column** using a **40mm nut bar** and two **M5 x 10mm screws**.
+Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and [[M5 flange locknuts]]. Then mount the assembly to the **left gantry column** using a [[40mm nut bar]] and two **M5 x 10mm screws**.
 
 Place the two **seed troughs** into the holder. Optionally, you may store up to three **luer lock needles** in the holder as well.
 
