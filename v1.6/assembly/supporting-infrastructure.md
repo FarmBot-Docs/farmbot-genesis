@@ -8,12 +8,14 @@ slug: "supporting-infrastructure"
 
 FarmBot's tracks need to be attached to **supporting infrastructure** such as a typical raised garden bed. Where you decide to install your FarmBot will determine how you setup your tracks and therefore what type of supporting infrastructure you need.
 
-In the next sections we offer advice for building three types of supporting infrastructure: a **fixed raised bed**, a **mobile raised bed**, and **pier block supports**. However, not every type of infrastructure is suitable for all of our kits. Refer to the table below to see our recommendations.
+In the next sections we offer advice for building four types of supporting infrastructure: a **fixed raised bed**, a **mobile raised bed**, **wood posts**, and **pier block supports**. However, not every type of infrastructure is suitable for all of our kits. Refer to the table below to see our recommendations.
 
-|<i></i>      |Fixed Raised Bed    |Mobile Raised Bed   |Wood Posts           |Pier Block Supports  |
-|-------------|:------------------:|:------------------:|:-------------------:|:-------------------:|
-|Genesis      |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:   |:heavy_check_mark:
-|Genesis XL   |:heavy_check_mark:  |:no_entry:          |:heavy_check_mark:   |:heavy_check_mark:
+|<i></i>             |Genesis             |Genesis <span class="fb-xl-sticker">XL</span>|
+|--------------------|:------------------:|:-------------------------------------------:|
+|Fixed Raised Bed    |:heavy_check_mark:  |:heavy_check_mark:                           |
+|Mobile Raised Bed   |:heavy_check_mark:  |:no_entry:                                   |
+|Wood Posts          |:heavy_check_mark:  |:heavy_check_mark:                           |
+|Pier Block Supports |:heavy_check_mark:  |:heavy_check_mark:                           |
 
 {%
 include callout.html

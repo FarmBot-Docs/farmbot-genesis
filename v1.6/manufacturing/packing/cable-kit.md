@@ -7,7 +7,7 @@ description: "Packing details for the cable kit inside each main carton"
 * toc
 {:toc}
 
-There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
+There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
 
 # Genesis packing list
 
@@ -28,7 +28,7 @@ There are two versions of the **cable kit**: one for **Genesis** kits and one fo
 
 # Genesis XL packing list
 
-|Item|Sub-packing|Genesis XL Qty|
+|Item|Sub-packing|Genesis <span class="fb-xl-sticker">XL</span> Qty|
 |----|-----------|--------------|
 |[Motor Cables](../../bom/electronics-and-wiring/motor-cable.md)<br>- X1 - 0.9m<br>- X2 - 3.8m<br>- Y - 4.2m<br>- Z (Y-Axis Section) - 4.1m<br>- Z (Z-Axis Section.md) - 1.8m|Twist-tied|1 each
 |[Encoder Cables](../../bom/electronics-and-wiring/encoder-cable.md)<br>- X1 - 0.9m<br>- X2 - 3.8m<br>- Y - 4.2m<br>- Z (Y-Axis Section) - 4.1m<br>- Z (Z-Axis Section.md) - 1.8m|Twist-tied|1 each

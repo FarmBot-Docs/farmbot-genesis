@@ -18,16 +18,16 @@ content="As of December 22, 2021, the default version of the Genesis documentati
 
 **FarmBot Genesis** is our top-of-the-line FarmBot model designed with the most features and flexibility. It is suitable for growing food with the highest level of precision, running complex experiments, and capable of being easily modified and extended to do more.
 
-Genesis is available in two sizes: **Genesis** and **Genesis XL** as shown in the table below.
+Genesis is available in two sizes: **Genesis** and **Genesis** <span class="fb-xl-sticker">XL</span> as shown in the table below.
 
-|Model     |Gantry Width|Track Length|Area            |Max Plant Height|
-|----------|------------|------------|----------------|----------------|
-|Genesis   |1.5m        |3m          |4.5m<sup>2</sup>|0.5m
-|Genesis XL|3m          |6m          |18m<sup>2</sup> |0.5m
+|Model                                        |Gantry Width|Track Length|Area            |Max Plant Height|
+|---------------------------------------------|------------|------------|----------------|----------------|
+|Genesis                                      |1.5m        |3m          |4.5m<sup>2</sup>|0.5m
+|Genesis <span class="fb-xl-sticker">XL</span>|3m          |6m          |18m<sup>2</sup> |0.5m
 
 {% include youtube.html id="60htrqei_U0" %}
 
-Genesis and Genesis XL share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of both models. When certain information only applies to one model or the other, there will be clear indication.
+Genesis and Genesis <span class="fb-xl-sticker">XL</span> share many of the same components and assembly steps. This documentation covers the assembly, bill of materials, troubleshooting tips, and more of both models. When certain information only applies to one model or the other, there will be clear indication.
 
 # Purchasing a kit
 

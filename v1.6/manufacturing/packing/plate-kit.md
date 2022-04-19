@@ -7,11 +7,11 @@ description: "Packing details for the plate kit inside each main carton"
 * toc
 {:toc}
 
-There are two versions of the plate kit: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the plate kit: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
-|Item|Sub-packing|Genesis Qty|Genesis XL Qty|
+|Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
 |----|-----------|-----------|--------------|
 |[Track End Plate](../../bom/plates-and-brackets/track-end-plate.md)|Wrapped in tissue paper|4|4
 |[Track Joining Plate](../../bom/plates-and-brackets/track-joining-plate.md)|Wrapped in tissue paper|2|6

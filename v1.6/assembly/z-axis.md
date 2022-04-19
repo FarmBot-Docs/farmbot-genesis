@@ -32,7 +32,7 @@ title="Handle with care"
 content="The aluminum extrusions may have sharp corners and edges."
 %}
 
-Attach the [[z-axis motor mount]] to the [[z-axis extrusion]] using a **60mm nut bar** and **M5 x 10mm screws**. The top face of the motor mount should be 80mm from the end of the extrusion.
+Attach the [[z-axis motor mount]] to the [[z-axis extrusion]] using a [[60mm nut bar]] and **M5 x 10mm screws**. The top face of the motor mount should be 80mm from the end of the extrusion.
 
 ![z-axis motor and mount attached to extrusion](_images/z-axis_motor_and_mount_attached_to_extrusion.png)
 
@@ -51,7 +51,7 @@ content="Make sure there is a small gap (about 2mm) between the shaft coupling a
 
 # Step 4: Attach three cable carrier supports
 
-Attach three **60mm vertical cable carrier supports** to the [[z-axis extrusion]] using **40mm nut bars** and **M5 x 10mm screws**. Space the supports along the extrusion as shown.
+Attach three **60mm vertical cable carrier supports** to the [[z-axis extrusion]] using [[40mm nut bars]] and **M5 x 10mm screws**. Space the supports along the extrusion as shown.
 
 ![z-axis with motor and cc supports](_images/z-axis_with_motor_and_cc_supports.png)
 
@@ -63,7 +63,7 @@ Attach the [[vacuum pump cover]] to the [[z-axis extrusion]] using two **M5 drop
 
 # Step 6: Attach the vacuum pump
 
-Fasten the [[vacuum pump]] to the [[vacuum pump mount]] using two **200mm zip ties**. Then attach the vacuum pump mount to the [[z-axis extrusion]] using a **60mm nut bar** and two **M5 x 16mm screws**. The mount should be butted up against the [[vacuum pump cover]].
+Fasten the [[vacuum pump]] to the [[vacuum pump mount]] using two **200mm zip ties**. Then attach the vacuum pump mount to the [[z-axis extrusion]] using a [[60mm nut bar]] and two **M5 x 16mm screws**. The mount should be butted up against the [[vacuum pump cover]].
 
 {% include gallery.html images="
 ![vacuum pump attached to mount](_images/vacuum_pump_attached_to_mount.png)
@@ -72,7 +72,7 @@ Fasten the [[vacuum pump]] to the [[vacuum pump mount]] using two **200mm zip ti
 
 # Step 7: Attach one more cable carrier support
 
-Attach one more **60mm vertical cable carrier support** using a **40mm nut bar** and two **M5 x 10mm screws**. The support should be butted up against the [[vacuum pump mount]].
+Attach one more **60mm vertical cable carrier support** using a [[40mm nut bar]] and two **M5 x 10mm screws**. The support should be butted up against the [[vacuum pump mount]].
 
 ![z-axis last cable carrier support](_images/z-axis_last_cable_carrier_support.png)
 

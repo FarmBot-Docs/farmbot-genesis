@@ -38,7 +38,7 @@ Insert an [[eccentric spacer]] into the [[gantry wheel plate]]. Then insert an *
 
 # Step 3: Attach the nut bars
 
-Loosely attach two **60mm nut bars** to the plate using four **M5 x 10mm screws**. The nut bars should reside on the same side of the plate as the V-wheels.
+Loosely attach two [[60mm nut bars]] to the plate using four **M5 x 10mm screws**. The nut bars should reside on the same side of the plate as the V-wheels.
 
 ![gantry wheel plate with nut bars](_images/gantry_wheel_plate_with_nut_bars.png)
 

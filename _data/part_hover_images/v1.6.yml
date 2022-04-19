@@ -86,7 +86,7 @@ bom:
   - category: drivetrain
     parts:
       - image: belt_sleeve.jpeg
-      - image: gt2_pulley.jpg
+      - image: pulley.jpg
       - image: gt2_timing_belt.jpg
       - image: leadscrew_block.jpg
       - image: leadscrew.jpg

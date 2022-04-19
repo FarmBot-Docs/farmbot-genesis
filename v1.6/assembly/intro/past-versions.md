@@ -29,7 +29,7 @@ content="View the [FarmBot Genesis v1.5 documentation](http://genesis.farm.bot/d
 %}
 
 **Major changes**
-* Introduced FarmBot Genesis MAX v1.5, covering an area 3m wide and 18m in length (3x larger than XL and 12x larger than the smallest size). Due to low demand, this model was later cancelled.
+* Introduced FarmBot Genesis MAX v1.5, covering an area 3m wide and 18m in length (3x larger than <span class="fb-xl-sticker">XL</span> and 12x larger than the smallest size). Due to low demand, this model was later cancelled.
 * Introduced a new version of the Farmduino, featuring integrated Trinamic TMC2130 stepper drivers that are controlled with a SPI interface. The new drivers deliver more current to the motors, offer significantly quieter operation, and can be tuned via software. The new board also adds load detection circuitry to all of the peripherals.
 * Introduced modularized cables and tubing with 90-degree connectors at the junction between the Y and Z axis cable carriers. This makes assembly and disassembly of the FarmBot much easier.
 * Switched to using nut bars and flange locknuts throughout the majority of the FarmBot allowing for faster and more robust assembly and a significantly reduced part count. Many of the plate hole layouts were simplified to accommodate nut bars.
@@ -70,7 +70,7 @@ content="View the [FarmBot Genesis v1.4 documentation](http://genesis.farm.bot/d
 %}
 
 **Major changes**
-  * Introduced Genesis XL covering an area 3m wide and 6m in length (400% larger than the smaller FarmBot Genesis)
+  * Introduced Genesis <span class="fb-xl-sticker">XL</span> covering an area 3m wide and 6m in length (400% larger than the smaller FarmBot Genesis)
   * Introduced a new version of the Farmduino featuring an STM32 co-processor dedicated to monitoring the rotary encoders, 24V operation, a new 2-pin polarized red power connector, vertically oriented USB ports, pre-installed pin jumpers to connect the UTM, improved board layout for accessing the stepper drivers and dip switches, additional circuitry to better handle motor back-current, matte-black finish, and a single blade fuse
   * Introduced a new preassembled electronics box featuring five push-buttons and four LED indicator lights, the Pi Adapter Board, board mounting bosses, and modified latches to prevent catching rain
   * Introduced a new preassembled injection molded UTM featuring a PCB with gold-plated pogo pins and pin headers for attaching to the cable with shroud (eliminating the need for a separate cover and grommets)
@@ -93,7 +93,7 @@ content="View the [FarmBot Genesis v1.4 documentation](http://genesis.farm.bot/d
 |Model                         |# of Kits Manufactured        |Selling Period                |First Shipped                 |
 |------------------------------|------------------------------|------------------------------|------------------------------|
 |Genesis v1.4                  |300                           |Dec '17 to Nov '19            |Oct '18
-|Genesis XL v1.4               |200                           |Dec '17 to Mar '19            |Oct '18
+|Genesis <span class="fb-xl-sticker">XL</span> v1.4               |200                           |Dec '17 to Mar '19            |Oct '18
 
 # Genesis v1.3
 

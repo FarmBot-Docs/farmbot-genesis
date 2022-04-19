@@ -7,7 +7,7 @@ description: "Bird's eye view of FarmBot Genesis and Genesis XL"
 * toc
 {:toc}
 
-**FarmBot Genesis** and **Genesis XL** are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
+**FarmBot Genesis** and **Genesis** <span class="fb-xl-sticker">XL</span> are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
 
 {% include gallery.html images="
 ![farmbot genesis v1.6](_images/farmbot_genesis_v1.6.png)
@@ -30,9 +30,7 @@ We hope you'll find our documentation useful and a great starting point for work
 # Architecture
 
 <div class="tracks-image">
-  <a href="_images/FarmBot_Coordinate_System_and_Major_Components.png">
-  <img class="fb" src="https://cloud.githubusercontent.com/assets/12681652/15699379/4f90ce66-2781-11e6-8c02-f2d913ec1e2c.png" />
-  </a>
+  <img class="fb" src="_images/high_level_overview.png" />
   <p style="top:1%;left:35%;width:100px;background:#9fc5e8;border: 2px solid #0b5394;">Z-Axis</p>
   <p style="top: 1%;left: 52%;width: 100px;background: #ea9999;border: 2px solid #660000;">Cross-Slide</p>
   <p style="top: 1%;left: 67%;width: 100px;background: #93c47d;border: 2px solid #274e13;">Gantry</p>
@@ -101,10 +99,10 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 
 *Note that the costs below do not account for [supporting infrastructure](../supporting-infrastructure.md), which will also increase in cost as the device size increases.*
 
-|Model        |Track Length|Gantry Width|Growing Area     |Cost    |Cost/m^2|
-|-------------|------------|------------|-----------------|--------|--------|
-|Genesis      |3m          |1.5m        |4.5m<sup>2</sup> |~$3,000 |$667
-|Genesis XL   |6m          |3m          |18m<sup>2</sup>  |~$5,000 |$278
+|Model                                        |Track Length|Gantry Width|Growing Area     |Cost    |Cost/m^2|
+|---------------------------------------------|------------|------------|-----------------|--------|--------|
+|Genesis                                      |3m          |1.5m        |4.5m<sup>2</sup> |~$3,000 |$667
+|Genesis <span class="fb-xl-sticker">XL</span>|6m          |3m          |18m<sup>2</sup>  |~$5,000 |$278
 
 
 # What's next?

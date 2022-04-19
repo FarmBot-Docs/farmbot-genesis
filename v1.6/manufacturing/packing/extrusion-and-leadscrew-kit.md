@@ -21,7 +21,7 @@ The tables below show the items that should be packed into the **extrusion and l
 
 # Genesis XL packing list
 
-|Item|Sub-packing|Genesis XL Qty|
+|Item|Sub-packing|Genesis <span class="fb-xl-sticker">XL</span> Qty|
 |----|-----------|--------------|
 |[Track Extrusion](../../bom/extrusions/track-extrusion.md) (20 x 40 x 1500mm)|Wrapped with recycled kraft paper|8
 |[Gantry Column](../../bom/extrusions/gantry-column.md) (20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
