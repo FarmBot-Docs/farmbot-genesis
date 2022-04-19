@@ -71,7 +71,7 @@ content="The motor and housing should be on the same side of the cross-slide pla
 ![Mount the motor and housing to the plate](_images/cross_slide_with_motor.jpg)
 " %}
 
-Slide a [[GT2 pulley]] onto the **motor shaft**. Make sure that both setscrews are lined up with the flat spots of the motor shaft. Then tighten the setscrews with the **2mm driver**.
+Slide a [[pulley]] onto the **motor shaft**. Make sure that both setscrews are lined up with the flat spots of the motor shaft. Then tighten the setscrews with the **2mm driver**.
 
 {%
 include callout.html
@@ -80,7 +80,7 @@ title="Mind the gap"
 content="There should be a small gap (about 1mm) between the pulley and the plate to allow the motor to spin freely."
 %}
 
-![Mount a GT2 pulley onto the motor shaft](_images/cross_slide_with_pulley.jpg)
+![Mount a pulley onto the motor shaft](_images/cross_slide_with_pulley.jpg)
 
 # Step 5: Add the cable carrier mount
 
@@ -96,7 +96,7 @@ Once you have adjusted the eccentric spacers, slide the cross-slide onto the gan
 
 ![Adjust the eccentric spacers](_images/cross_slide_on_gantry.png)
 
-The cross-slide should move easily across the full width of the gantry. If you feel any significant resistance, re-adjust the eccentric spacers so that there is less resistance to movement. On Genesis XL models, pay special attention at the connection point between the two gantry main beams. If there is any significant bump or resistance to movement at the joint, you may use sand paper to sand away the bump.
+The cross-slide should move easily across the full width of the gantry. If you feel any significant resistance, re-adjust the eccentric spacers so that there is less resistance to movement. On Genesis <span class="fb-xl-sticker">XL</span> models, pay special attention at the connection point between the two gantry main beams. If there is any significant bump or resistance to movement at the joint, you may use sand paper to sand away the bump.
 
 # Step 7: Feed and secure the belt
 
@@ -104,7 +104,7 @@ Attach a [[belt clip]] to the end of the gantry main beam using two **M5 x 10mm 
 
 ![Secure one end of the belt](_images/y_axis_belt_beginning.png)
 
-Feed the **belt** under the end [[V-wheel]] of the cross-slide, then over the [[GT2 pulley]] and under the remaining three [[V-wheels]]. The flat side of the belt should be in contact with your V-wheels while the toothed side should engage with the teeth on the pulley.
+Feed the **belt** under the end [[V-wheel]] of the cross-slide, then over the [[pulley]] and under the remaining three [[V-wheels]]. The flat side of the belt should be in contact with your V-wheels while the toothed side should engage with the teeth on the pulley.
 
 {%
 include callout.html
