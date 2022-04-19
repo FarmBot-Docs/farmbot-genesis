@@ -11,7 +11,7 @@ There are two versions of the plastic parts kit: one for **Genesis** kits and on
 
 # Packing list
 
-|Item|Sub-packing|Genesis Qty|Genesis XL Qty|
+|Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
 |----|-----------|-----------|--------------|
 |[Cable Carrier Support - Horizontal, 30mm](../../bom/plastic-parts/cable-carrier-support-horizontal-30mm.md)|None|12|24
 |[Cable Carrier Support - Horizontal, 60mm](../../bom/plastic-parts/cable-carrier-support-horizontal-60mm.md)|None|6|12

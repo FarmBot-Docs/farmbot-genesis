@@ -73,7 +73,7 @@ Using **M5 x 10mm screws** and **40mm nut bars**, attach six [[60mm horizontal c
 
 ![Cable carrier supports on a Genesis gantry](_images/cable_carrier_supports_on_a_genesis_gantry.png)
 
-For Genesis XL kits, there are two main beam extrusions, so 12 supports will be used, and they should be positioned on the same side of the extrusions as the gantry joining bracket.
+For Genesis <span class="fb-xl-sticker">XL</span> kits, there are two main beam extrusions, so 12 supports will be used, and they should be positioned on the same side of the extrusions as the gantry joining bracket.
 
 ![Cable carrier supports on a Genesis XL gantry](_images/cable_carrier_supports_on_a_genesis_xl_gantry.png)
 

@@ -7,7 +7,7 @@ description: "Step-by-step instructions for building a fixed raised bed for Farm
 * toc
 {:toc}
 
-Building a **fixed raised bed** is the recommended method for installing FarmBot Genesis or Genesis XL outdoors. In these instructions we show you how to build a simple but sturdy bed that will fit into most yards, look great, and last a lifetime.
+Building a **fixed raised bed** is the recommended method for installing FarmBot Genesis or Genesis <span class="fb-xl-sticker">XL</span> outdoors. In these instructions we show you how to build a simple but sturdy bed that will fit into most yards, look great, and last a lifetime.
 
 {% include gallery.html images="
 ![genesis fixed raised bed](_images/fixed_raised_bed_fill_bed.png)
@@ -23,7 +23,7 @@ content="This is the estimated time it will take to build a fixed raised bed."
 
 ## Maximum raised bed size
 
-The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis XL kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
+The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis <span class="fb-xl-sticker">XL</span> kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
 We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
@@ -32,7 +32,7 @@ If you are going to modify our reference design, use the dimension guidelines be
 |Model      |Outer Bed Width|Outer Bed Length|
 |-----------|---------------|----------------|
 |Genesis    |1.48m max      |3m recommended
-|Genesis XL |2.98m max      |6m recommended
+|Genesis <span class="fb-xl-sticker">XL</span> |2.98m max      |6m recommended
 
 {%
 include callout.html
@@ -113,7 +113,7 @@ Importantly, all of the post tops must be level with each other. Dig out or back
 
 # Step 5: Attach the short walls
 
-Clamp a **short wall** to the **posts** on one of the short sides of the bed. The posts should be flush with the top edge and ends of the short wall. If you are building an XL bed, also clamp the middle post to the short wall.
+Clamp a **short wall** to the **posts** on one of the short sides of the bed. The posts should be flush with the top edge and ends of the short wall. If you are building an <span class="fb-xl-sticker">XL</span> bed, also clamp the middle post to the short wall.
 
 Drill appropriately sized holes for the lag screws or bolts you will be using. There should be two holes per post. The upper holes should be positioned 50mm from the top edge of the short wall. The lower holes should be positioned 50mm from the bottom edge of the short wall. All holes should be center-aligned on the post.
 
@@ -138,7 +138,7 @@ Repeat for the second **short wall** on the opposite side of the bed.
 
 # Step 6: Attach the long walls
 
-Clamp the **long wall(s)** to the posts along a long side of the bed. The ends of the long wall(s) should be flush with the outer face of the short walls. If you are building an XL bed, the two long walls must meet at the middle of the middle post.
+Clamp the **long wall(s)** to the posts along a long side of the bed. The ends of the long wall(s) should be flush with the outer face of the short walls. If you are building an <span class="fb-xl-sticker">XL</span> bed, the two long walls must meet at the middle of the middle post.
 
 Drill two holes per wall-post attachment point. The upper holes should be positioned 80mm from the top edge of the long wall(s). The lower holes should be positioned 80mm from the bottom edge of the long wall(s).
 
@@ -176,7 +176,7 @@ With larger raised beds, especially those for FarmBot Genesis XL, it is possible
 
 # Step 8: Fill the bed
 
-Back-fill the post holes with native soil, making sure to compact around the posts to reduce movement. Then fill the bed with gardening soil or a mix of native soil and compost, keeping out large rocks and branches. The Genesis bed will require approximately 1m<sup>2</sup> of soil, while the Genesis XL bed will require approximately 4m<sup>2</sup>.
+Back-fill the post holes with native soil, making sure to compact around the posts to reduce movement. Then fill the bed with gardening soil or a mix of native soil and compost, keeping out large rocks and branches. The Genesis bed will require approximately 1m<sup>2</sup> of soil, while the Genesis <span class="fb-xl-sticker">XL</span> bed will require approximately 4m<sup>2</sup>.
 
 {% include gallery.html images="
 ![fill genesis bed](_images/fixed_raised_bed_fill_bed.png)

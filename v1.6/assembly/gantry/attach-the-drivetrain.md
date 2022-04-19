@@ -15,7 +15,7 @@ Slide a [[motor]] into a [[horizontal motor housing]], ensuring that the shaft o
 ![both_gantry_motors_attached](_images/both_gantry_motors_attached.png)
 " %}
 
-Slide [[GT2 pulleys]] onto the **motor shafts** and tighten the two **set screws (pre-inserted)** with the 2mm hex driver. Make sure that the setscrews contact the *flat areas* on the motor shafts.
+Slide [[pulleys]] onto the **motor shafts** and tighten the two **set screws (pre-inserted)** with the 2mm hex driver. Make sure that the setscrews contact the *flat areas* on the motor shafts.
 
 {%
 include callout.html
@@ -28,7 +28,7 @@ content="It is possible for the setscrews to loosen over time which will disenga
 
 # Step 2: Feed the belts
 
-Drop the ends of one of the **x-axis GT2 timing belts** down the two large openings of a [[gantry column]], ensuring that the belt teeth engage the [[GT2 pulley]]. Grab the ends of the **belt** at the bottom of the [[gantry column]] and feed them under the [[V-wheels]] of the [[gantry wheel plate]], then along the top of the [[track extrusions]] to the ends of the tracks. The flat side of the belt should be in contact with the V-wheels.
+Drop the ends of one of the **x-axis GT2 timing belts** down the two large openings of a [[gantry column]], ensuring that the belt teeth engage the [[pulley]]. Grab the ends of the **belt** at the bottom of the [[gantry column]] and feed them under the [[V-wheels]] of the [[gantry wheel plate]], then along the top of the [[track extrusions]] to the ends of the tracks. The flat side of the belt should be in contact with the V-wheels.
 
 {%
 include callout.html

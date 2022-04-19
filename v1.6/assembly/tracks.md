@@ -18,7 +18,7 @@ title="2-12 hours"
 content="This is the estimated time it will take to assemble the tracks, mostly dependent on which size kit you have."
 %}
 
-The two tracks must be a parallel distance apart between 0.5m and 1.5m for Genesis, and 1.5m and 3m for Genesis XL so that the gantry may span the distance between them. Tracks may be spaced closer together than the maximum, in which case you may consider cutting the gantry main beam so that it does not inconveniently extend beyond the tracks.
+The two tracks must be a parallel distance apart between 0.5m and 1.5m for Genesis, and 1.5m and 3m for Genesis <span class="fb-xl-sticker">XL</span> so that the gantry may span the distance between them. Tracks may be spaced closer together than the maximum, in which case you may consider cutting the gantry main beam so that it does not inconveniently extend beyond the tracks.
 
 ## Shortening the tracks
 

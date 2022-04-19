@@ -13,7 +13,7 @@ In the next sections we offer advice for building three types of supporting infr
 |<i></i>      |Fixed Raised Bed    |Mobile Raised Bed   |Wood Posts           |Pier Block Supports  |
 |-------------|:------------------:|:------------------:|:-------------------:|:-------------------:|
 |Genesis      |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:   |:heavy_check_mark:
-|Genesis XL   |:heavy_check_mark:  |:no_entry:          |:heavy_check_mark:   |:heavy_check_mark:
+|Genesis <span class="fb-xl-sticker">XL</span>   |:heavy_check_mark:  |:no_entry:          |:heavy_check_mark:   |:heavy_check_mark:
 
 {%
 include callout.html

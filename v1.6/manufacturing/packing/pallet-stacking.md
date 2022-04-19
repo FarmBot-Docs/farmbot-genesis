@@ -42,7 +42,7 @@ Wrap the entire stack with clear plastic.
 
 ## Step 1: First three layers
 
-Stack three layers of **extrusion and leadscrew kits** onto an **extended-length pallet**. Genesis kits should have 7 boxes per layer, while Genesis XL should have 6 boxes per layer.
+Stack three layers of **extrusion and leadscrew kits** onto an **extended-length pallet**. Genesis kits should have 7 boxes per layer, while Genesis <span class="fb-xl-sticker">XL</span> should have 6 boxes per layer.
 
 {%
 include callout.html
@@ -59,7 +59,7 @@ XL kits must be stacked **horizontally** to provide better stability.
 
 ![genesis xl extrusion pallet first 3 layers of 6](_images/genesis_xl_extrusion_pallet_first_3_layers_of_6.png)
 
-_Genesis XL kits (6 on each layer)_
+_Genesis <span class="fb-xl-sticker">XL</span> kits (6 on each layer)_
 
 ## Step 2: Cardboard separator
 
@@ -85,8 +85,8 @@ Wrap the entire stack with clear plastic.
 |---------------------------------------------------|----------|----------------------|--------------|
 |Genesis main cartons (19kg)                        |18        |1300 x 1020 x 1570mm  |342kg
 |Genesis extrusion and leadscrew kits (10 kg)       |42        |1530 x 1020 x 970mm   |420kg
-|Genesis XL main cartons (23 kg)                    |18        |1300 x 1020 x 1570mm  |414kg
-|Genesis XL extrusion and leadscrew kits (17 kg)    |36        |1530 x 1020 x 970mm   |612kg
+|Genesis <span class="fb-xl-sticker">XL</span> main cartons (23 kg)                    |18        |1300 x 1020 x 1570mm  |414kg
+|Genesis <span class="fb-xl-sticker">XL</span> extrusion and leadscrew kits (17 kg)    |36        |1530 x 1020 x 970mm   |612kg
 
 ## Maximizing pallet efficiency
 
@@ -95,7 +95,7 @@ Kits ordered in multiples of the quantities shown below will maximize pallet sta
 |FarmBot     |Kit Quantity |Pallet Quantity               |Pallet Length                 |
 |------------|-------------|------------------------------|------------------------------|
 |Genesis     |126          |7 (main cartons)<br>3 (extrusion and leadscrew kits)<br>**10 total**|7 x 1.3m<br>3 x 1.53m<br>**13.69m total**
-|Genesis XL  |36           |2 (main cartons)<br>1 (extrusion and leadscrew kits)<br>**3 total**|2 x 1.3m<br>1 x 1.53m<br>**4.13m total**
+|Genesis <span class="fb-xl-sticker">XL</span>  |36           |2 (main cartons)<br>1 (extrusion and leadscrew kits)<br>**3 total**|2 x 1.3m<br>1 x 1.53m<br>**4.13m total**
 
 ## Maximizing container efficiency
 

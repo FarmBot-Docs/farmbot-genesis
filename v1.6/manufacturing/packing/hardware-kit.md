@@ -11,7 +11,7 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 
 # Packing list
 
-|Item|Sub-packing|Genesis Qty|Genesis XL Qty|
+|Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
 |----|-----------|-----------|--------------|
 |Pack of:<br>- 3x 20 Tooth GT2 Pulleys<br>- 1x 5mm to 8mm Shaft Coupler<br>- 1x Leadscrew Block<br>- 1x 90 Degree Barb<br>- 1x Inline Air Filter|Press-to-seal bag|1 pack|1 pack
 |Genesis Screw Pack:<br>- 35x Wood Screws<br>- 16x M3 Locknuts<br>- 10x M3 x 6mm Screws<br>- 40x M3 x 12mm Screws<br>- 70x M5 Flange Locknuts<br>- 150x M5 x 10mm Screws<br>- 40x M5 x 16mm Screws<br>- 40x M5 x 30mm Screws<br>- 30x M5 x 6mm Spacers|Press-to-seal bag|1 pack|-
