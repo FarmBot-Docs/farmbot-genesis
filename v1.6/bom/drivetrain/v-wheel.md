@@ -13,7 +13,7 @@ specs:
   ID: 16mm
   thickness: 10.23mm
 internal-specs:
-  internal part name: V-Wheel
+  internal-part-name: V-Wheel
   rev: A
   cost: $1.35
   notes: Pre-assembled w/ two SS 625-2RS Bearings and one SS M5 Precision Shim.

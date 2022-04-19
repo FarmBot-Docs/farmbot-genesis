@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Seed Trough
+  internal-part-name: Seed Trough
   rev: A
   vendor: LDO
   cost: $1.10

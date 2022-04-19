@@ -11,7 +11,7 @@ specs:
   Form Factor: MicroSD to SD
   Brand: SanDisk
 internal-specs:
-  internal part name: MicroSD card to SD card adapter
+  internal-part-name: MicroSD card to SD card adapter
   cost: $0.25
 ---
 

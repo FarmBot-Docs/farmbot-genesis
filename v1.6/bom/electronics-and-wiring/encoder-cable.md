@@ -18,7 +18,7 @@ specs:
   Outer color: Black
   Label: X1|X2|Y|ZY|X2|Y|ZY|ZZ
 internal-specs:
-  internal part name: "Encoder Cable - X1, 0.7m (Genesis and Genesis XL)|
+  internal-part-name: "Encoder Cable - X1, 0.7m (Genesis and Genesis XL)|
   Encoder Cable - X2, 2.3m (Genesis)|
   Encoder Cable - Y, 2.7m (Genesis)|
   Encoder Cable - ZY, 2.6m (Genesis)|

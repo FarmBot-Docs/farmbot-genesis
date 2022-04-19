@@ -17,7 +17,7 @@ specs:
   max input pressure: 100 PSI (688 kpa, 6.88 bar)
   rubber gasket?: Included
 internal-specs:
-  internal part name: Pressure Regulator - 15 psi, 3/4" NPT
+  internal-part-name: Pressure Regulator - 15 psi, 3/4" NPT
   vendor: LDO
   cost: $1.10
   notes: Includes pre-inserted rubber gasket.

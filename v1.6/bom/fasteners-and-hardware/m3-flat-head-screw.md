@@ -14,7 +14,7 @@ specs:
   material: Stainless Steel
   drive size: 2mm hex
 internal-specs:
-  internal part name: M3 x 16mm Flat Head Screw
+  internal-part-name: M3 x 16mm Flat Head Screw
   cost: $0.014
   notes: 2mm Hex Drive
 component tests: Fasteners and hardware tests

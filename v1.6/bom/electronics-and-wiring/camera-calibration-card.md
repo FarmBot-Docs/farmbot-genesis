@@ -12,7 +12,7 @@ specs:
   thickness: 16pt
   Printing: "[Front.pdf](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera_Calibration_Card_Rev_A_front.pdf?v=1596066432)<br>[Back.pdf](https://cdn.shopify.com/s/files/1/2040/0289/files/Camera_Calibration_Card_Rev_A_back.pdf?v=1596066431)"
 internal-specs:
-  internal part name: Camera Calibration Card
+  internal-part-name: Camera Calibration Card
   cost: $0.25
   notes: 2-sided print
 ---

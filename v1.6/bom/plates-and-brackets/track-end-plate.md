@@ -12,7 +12,7 @@ specs:
   material: 6061 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Track End Plate
+  internal-part-name: Track End Plate
   rev: B
   vendor: LDO
   cost: $2.05

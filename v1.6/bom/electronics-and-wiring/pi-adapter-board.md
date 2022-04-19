@@ -13,7 +13,7 @@ specs:
   battery: CR1220
   source files: <a href="https://drive.google.com/drive/folders/1P8Pdpv2Jrlygh-WBlnO5RMSocQVUQCna?usp=sharing">Click here to download</a>.
 internal-specs:
-  internal part name: Pi Adapter Board w/ RTC
+  internal-part-name: Pi Adapter Board w/ RTC
   vendor: LDO
   cost: $4.90
 ---

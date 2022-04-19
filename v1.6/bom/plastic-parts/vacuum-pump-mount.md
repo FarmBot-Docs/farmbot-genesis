@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Vacuum Pump Mount
+  internal-part-name: Vacuum Pump Mount
   rev: B
   vendor: LDO
   cost: $2.09

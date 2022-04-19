@@ -11,7 +11,7 @@ specs:
   pre-assembled?: Yes
   color: Matte black
 internal-specs:
-  internal part name: UTM PCB
+  internal-part-name: UTM PCB
   rev: A
   vendor: LDO
   cost: $9.90

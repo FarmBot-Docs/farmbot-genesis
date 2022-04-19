@@ -12,7 +12,7 @@ specs:
   material: 6061 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Genesis Gantry Wheel Plate
+  internal-part-name: Genesis Gantry Wheel Plate
   rev: B
   vendor: LDO
   cost: $4.35

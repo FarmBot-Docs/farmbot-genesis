@@ -17,7 +17,7 @@ specs:
   head diameter: 9.5mm
   drive size: 3mm hex
 internal-specs:
-  internal part name: M5 x 10mm Screw|M5 x 16mm Screw|M5 x 30mm Screw
+  internal-part-name: M5 x 10mm Screw|M5 x 16mm Screw|M5 x 30mm Screw
   cost: $0.026|$0.033|$0.056
   notes: ---|12 Pre-assembled in UTM and Tools, 15 in bag|3 pre-assembled in Tools, 40 in bag
 component tests: Fasteners and hardware tests

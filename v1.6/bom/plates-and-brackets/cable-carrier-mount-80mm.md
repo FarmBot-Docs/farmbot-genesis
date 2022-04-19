@@ -11,7 +11,7 @@ specs:
   material: Machined 6061 Aluminum
   surface treatments: Tumble polished<br>Sandblasted<br>Clear anodized
 internal-specs:
-  internal part name: 80mm CC Mount
+  internal-part-name: 80mm CC Mount
   rev: A
   vendor: LDO
   cost: $2.30

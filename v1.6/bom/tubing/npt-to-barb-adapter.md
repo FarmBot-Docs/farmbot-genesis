@@ -14,7 +14,7 @@ specs:
   engraving: NPT
   rubber gasket?: Included
 internal-specs:
-  internal part name: NPT to Barb Adapter
+  internal-part-name: NPT to Barb Adapter
   rev: A
   vendor: LDO
   cost: $3.50

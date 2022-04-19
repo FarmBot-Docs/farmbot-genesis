@@ -11,7 +11,7 @@ specs:
   amperage: 7.5
   type: Blade fuse
 internal-specs:
-  internal part name: Fuse - 7.5A
+  internal-part-name: Fuse - 7.5A
   cost: $0.25
   notes: Pre-inserted into Farmduino
 ---

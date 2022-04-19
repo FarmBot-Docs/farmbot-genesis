@@ -19,7 +19,7 @@ specs:
   encoder resolution: 360 lines/revolution
   encoder output: Differential
 internal-specs:
-  internal part name: NEMA 17 Stepper Motor w/ Rotary Encoder
+  internal-part-name: NEMA 17 Stepper Motor w/ Rotary Encoder
   vendor: Motor - LDO<br>Encoder - Honest Sensor
   cost: $33.90
   notes: "<span style='font-weight: bold; color: red;'>Logo engraving must NOT be stretched.</span> Please send photo of first samples to verify.<br>Insert into motor box with FarmBot logo facing DOWN."

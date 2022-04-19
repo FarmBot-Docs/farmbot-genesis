@@ -15,7 +15,7 @@ specs:
   O-Ring?: Included
   Wiring?: Included
 internal-specs:
-  internal part name: LED Indicator - Blue|LED Indicator - Green|LED Indicator - White|LED Indicator - Wiring Harness|LED Indicator - Nut|LED Indicator - O-Ring
+  internal-part-name: LED Indicator - Blue|LED Indicator - Green|LED Indicator - White|LED Indicator - Wiring Harness|LED Indicator - Nut|LED Indicator - O-Ring
   cost: $1.15|$1.15|$1.15|$0.50|$0.00|$0.00
 ---
 

@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: UTM
+  internal-part-name: UTM
   rev: B
   vendor: LDO
   cost: $2.31

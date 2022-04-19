@@ -19,7 +19,7 @@ specs:
   3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|3-pin waterproof screw together 90 degree plug"
   end 2: '3-pin waterproof screw together receptacle|3-pin waterproof screw together receptacle|Three 3/16" insulated quick-connect terminals'
 internal-specs:
-  internal part name: Vacuum Pump Cable - Y, 2.6m (Genesis)|Vacuum Pump Cable - Y, 4.1m (Genesis XL)|Vacuum Pump Cable - Z, 1.0m
+  internal-part-name: Vacuum Pump Cable - Y, 2.6m (Genesis)|Vacuum Pump Cable - Y, 4.1m (Genesis XL)|Vacuum Pump Cable - Z, 1.0m
   rev: B|B|B
   cost: $4.70|$6.20|$4.50
   notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"

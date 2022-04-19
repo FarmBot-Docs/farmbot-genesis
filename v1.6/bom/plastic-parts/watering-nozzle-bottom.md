@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Watering Nozzle Bottom
+  internal-part-name: Watering Nozzle Bottom
   rev: A
   vendor: LDO
   cost: $1.10

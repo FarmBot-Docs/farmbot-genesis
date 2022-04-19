@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Motor Housing - Vertical, 80mm
+  internal-part-name: Motor Housing - Vertical, 80mm
   rev: A
   vendor: LDO
   cost: $2.12

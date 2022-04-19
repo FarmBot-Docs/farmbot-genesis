@@ -15,7 +15,7 @@ specs:
   screw material: Stainless steel
   screw drive size: "<span style='color: red; font-weight: bold;'>2mm hex</span>"
 internal-specs:
-  internal part name: Shaft Coupler - 5mm to 8mm
+  internal-part-name: Shaft Coupler - 5mm to 8mm
   cost: $1.85
   notes: "v1.5 Production Run 2 and v1.6 Production Run 1 screws had 2.5mm drive instead of 2mm, requiring an extra allen key to be added to the kit. Screws must be stainless steel and have <span style='color: red; font-weight: bold;'>2mm hex drive.</span>"
 ---

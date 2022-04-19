@@ -12,7 +12,7 @@ quantity:
   standard: 8
   xl: 8
 internal-specs:
-  internal part name: Jumper Wire
+  internal-part-name: Jumper Wire
   cost: $0.15
   notes: New quantity
 ---

@@ -14,7 +14,7 @@ specs:
   Hex Width: 5.5mm
   material: Stainless Steel
 internal-specs:
-  internal part name: M3 Locknut
+  internal-part-name: M3 Locknut
   cost: $0.016
   notes: 4 pieces are pre-assembled in electronics box, 20 pieces packed in bag
 component tests: Fasteners and hardware tests

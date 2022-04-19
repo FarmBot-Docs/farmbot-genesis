@@ -18,7 +18,7 @@ specs:
   connector: 4-pin male 90 degree waterproof connector
   label: CAM
 internal-specs:
-  internal part name: Camera
+  internal-part-name: Camera
   rev: B
   vendor: Shibang
   cost: $19.90

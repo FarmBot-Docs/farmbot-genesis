@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Cable Carrier Support - Horizontal, 30mm
+  internal-part-name: Cable Carrier Support - Horizontal, 30mm
   rev: A
   vendor: LDO
   cost: $0.88

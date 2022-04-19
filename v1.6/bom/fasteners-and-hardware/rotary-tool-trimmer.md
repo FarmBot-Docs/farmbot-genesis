@@ -13,7 +13,7 @@ specs:
   length: 60mm
   width: 3mm
 internal-specs:
-  internal part name: Rotary Tool Trimmer
+  internal-part-name: Rotary Tool Trimmer
   cost: $0.005
   notes: Included in press-to-seal bag in Rotary Tool Box
 ---

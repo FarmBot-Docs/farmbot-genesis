@@ -12,7 +12,7 @@ specs:
   material: 6061 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
-  internal part name: Gantry Joining Bracket
+  internal-part-name: Gantry Joining Bracket
   rev: B
   vendor: LDO
   cost: $5.50

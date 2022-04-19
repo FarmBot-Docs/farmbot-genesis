@@ -12,7 +12,7 @@ quantity:
   standard: 8
   xl: 8
 internal-specs:
-  internal part name: Shunt - 1x2, 2.54mm
+  internal-part-name: Shunt - 1x2, 2.54mm
   cost: $0.01
   notes: Pre-assembled with Farmduino
 ---

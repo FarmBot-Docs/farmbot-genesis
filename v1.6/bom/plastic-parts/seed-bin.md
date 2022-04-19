@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Seed Bin
+  internal-part-name: Seed Bin
   rev: A
   vendor: LDO
   cost: $1.38

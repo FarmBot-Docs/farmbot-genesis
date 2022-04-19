@@ -11,7 +11,7 @@ specs:
   material: Machined 6061 Aluminum
   surface treatments: Tumble polished<br>Sandblasted<br>Clear anodized
 internal-specs:
-  internal part name: Genesis Z-Axis Motor Mount
+  internal-part-name: Genesis Z-Axis Motor Mount
   rev: D
   vendor: LDO
   cost: $5.80

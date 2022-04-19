@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Cable Carrier Spacer Block - 60mm
+  internal-part-name: Cable Carrier Spacer Block - 60mm
   rev: A
   vendor: LDO
   cost: $1.32

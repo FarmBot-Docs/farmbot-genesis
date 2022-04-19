@@ -10,7 +10,7 @@ quantity:
 specs:
   size: CR1220
 internal-specs:
-  internal part name: Battery - CR1220
+  internal-part-name: Battery - CR1220
   vendor: LDO
   cost: $0.20
 ---

@@ -10,7 +10,7 @@ quantity:
 specs:
   material: Gray UV stabilized ABS
 internal-specs:
-  internal part name: Motor Housing - Horizontal, 75mm
+  internal-part-name: Motor Housing - Horizontal, 75mm
   rev: A
   vendor: LDO
   cost: $1.52

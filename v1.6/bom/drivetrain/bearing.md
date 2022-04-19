@@ -15,7 +15,7 @@ specs:
   thickness: 5mm
   seal: Rubber sealed
 internal-specs:
-  internal part name: Bearing - SS-625-2RS
+  internal-part-name: Bearing - SS-625-2RS
   cost: $0.00
   notes: Pre-assembled in V-wheels.
 ---

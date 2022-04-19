@@ -12,7 +12,7 @@ specs:
   thickness: 1mm
   hole sizes: M3
 internal-specs:
-  internal part name: Jumper Link
+  internal-part-name: Jumper Link
   rev: A
   vendor: LDO
   cost: $0.25

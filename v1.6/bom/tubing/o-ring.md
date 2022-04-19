@@ -16,7 +16,7 @@ specs:
   temperature range: -30° to 212° F
   color: Black
 internal-specs:
-  internal part name: O-Ring - X Profile
+  internal-part-name: O-Ring - X Profile
   vendor: LDO
   cost: $0.33
 ---

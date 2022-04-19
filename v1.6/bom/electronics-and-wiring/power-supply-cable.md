@@ -15,7 +15,7 @@ specs:
   connector 2: 3-pin black connector (<a href="https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213">Molex Part 2004561213</a>)
   length: 3m|4.5m
 internal-specs:
-  internal part name: Power Supply Cable - 3m|Power Supply Cable - 4.5m
+  internal-part-name: Power Supply Cable - 3m|Power Supply Cable - 4.5m
   rev: B|B
   cost: $6.70|$8.50
 ---

@@ -13,7 +13,7 @@ specs:
   material: 6063-T5 Aluminum
   surface treatment: Sand blasted and clear anodized
 internal-specs:
-  internal part name: Extrusion - 20mm x 60mm x 1500mm (Gantry Main Beam)
+  internal-part-name: Extrusion - 20mm x 60mm x 1500mm (Gantry Main Beam)
   vendor: LDO
   cost: $11.60
   component tests: Extrusion tests

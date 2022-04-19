@@ -14,7 +14,7 @@ specs:
   engraving: GHT
   rubber gasket?: Included
 internal-specs:
-  internal part name: Garden Hose to Barb Adapter (3/4" female GHT to Barb for 6mm ID tubing)
+  internal-part-name: Garden Hose to Barb Adapter (3/4" female GHT to Barb for 6mm ID tubing)
   vendor: LDO
   cost: $3.50
   notes: Includes pre-inserted rubber gasket.
