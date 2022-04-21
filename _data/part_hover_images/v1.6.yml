@@ -18,12 +18,13 @@ bom:
       - image: m2.5_screw.jpg
       - image: m3_flat_head_screw.jpg
       - image: m3_locknut.jpg
+      - image: m3_screw_6mm.jpg
+      - image: m3_screw_12mm.jpg
       - image: m3_screw_35mm.jpg
-      - image: m3_screw.jpg
       - image: m5_flange_locknut.jpeg
+      - image: m5_screw_10mm.jpg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
-      - image: m5_screw.jpg
       - image: magnet_countersunk.jpg
       - image: magnet.jpg
       - image: nut_bar_100mm.jpg
