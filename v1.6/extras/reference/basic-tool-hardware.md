@@ -25,7 +25,7 @@ content="For tools to correctly mount to the UTM, all magnets on the tool must b
 To find the correct orientation for a tool magnet, hold it near the mounting side of the UTM. Flip it around in your hand until you feel it attracting to the UTM's magnets. This is the correct orientation for mounting to the top of a tool."
 %}
 
-Secure the three **ring magnets** to the top of the **tool** using three **M5 x 16mm** screws and [[M5 flange locknuts]]. Use the 3mm hex driver and 8mm wrench to tighten the components. *Note: the watering nozzle will require **M5 x 30mm screws***.
+Secure the three **ring magnets** to the top of the **tool** using three **M5 x 16mm** screws and [[M5 flange locknuts]]. Use the 3mm hex driver and 8mm wrench to tighten the components. *Note: the watering nozzle will require [[M5 x 30mm screws]]*.
 
 {%
 include callout.html

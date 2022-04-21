@@ -18,7 +18,7 @@ content="You need to assemble a left-hand and right-hand version of the gantry w
 
 # Step 1: Attach the upper V-wheels
 
-Insert an **M5 x 30mm screw** through a [[V-wheel]] and a standard [[spacer]]. Then insert this into the [[gantry wheel plate]] as shown and add an [[M5 flange locknut]] on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**, then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
+Insert an [[M5 x 30mm screw]] through a [[V-wheel]] and a standard [[spacer]]. Then insert this into the [[gantry wheel plate]] as shown and add an [[M5 flange locknut]] on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**, then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
 
 {% include gallery.html images="
 ![gantry wheel plate with one wheel](_images/gantry_wheel_plate_with_one_wheel.png)
@@ -28,7 +28,7 @@ Insert an **M5 x 30mm screw** through a [[V-wheel]] and a standard [[spacer]]. T
 
 # Step 2: Attach the lower V-wheels
 
-Insert an [[eccentric spacer]] into the [[gantry wheel plate]]. Then insert an **M5 x 30mm screw** with a [[V-wheel]] through the spacer and secure the assembly with an [[M5 flange locknut]] on the other side of the plate. Repeat for the remaining V-wheels attached with the eccentric spacers.
+Insert an [[eccentric spacer]] into the [[gantry wheel plate]]. Then insert an [[M5 x 30mm screw]] with a [[V-wheel]] through the spacer and secure the assembly with an [[M5 flange locknut]] on the other side of the plate. Repeat for the remaining V-wheels attached with the eccentric spacers.
 
 {% include gallery.html images="
 ![gantry wheel plate with one eccentric spacer](_images/gantry_wheel_plate_with_one_eccentric_spacer.png)
@@ -38,7 +38,7 @@ Insert an [[eccentric spacer]] into the [[gantry wheel plate]]. Then insert an *
 
 # Step 3: Attach the nut bars
 
-Loosely attach two [[60mm nut bars]] to the plate using four **M5 x 10mm screws**. The nut bars should reside on the same side of the plate as the V-wheels.
+Loosely attach two [[60mm nut bars]] to the plate using four [[M5 x 10mm screws]]. The nut bars should reside on the same side of the plate as the V-wheels.
 
 ![gantry wheel plate with nut bars](_images/gantry_wheel_plate_with_nut_bars.png)
 

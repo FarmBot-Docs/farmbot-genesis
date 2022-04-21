@@ -60,7 +60,7 @@ content="Check out the [tool spec](../../extras/mods/tool-spec.md) to learn how 
 
 # Step 1: Install the UTM onto the Z-axis
 
-Insert two **M5 x 16mm screws** and **tee nuts** into the **UTM**, and then position the UTM onto the [[z-axis extrusion]]. The mounting flanges should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion. Tighten the two screws with the **3mm hex driver**.
+Insert two [[M5 x 16mm screws]] and **tee nuts** into the **UTM**, and then position the UTM onto the [[z-axis extrusion]]. The mounting flanges should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion. Tighten the two screws with the **3mm hex driver**.
 
 ![utm mounted on z-axis](_images/utm_mounted_on_z-axis.png)
 

@@ -19,7 +19,7 @@ Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmB
 
 # Step 1: Attach the electronics box to the gantry
 
-Attach the pre-assembled **electronics box** to the **left gantry column** using six **M5 x 10mm screws** and **drop-in tee nuts**. The top flange of the box should be butted against the bottom edge of the [[gantry corner bracket]].
+Attach the pre-assembled **electronics box** to the **left gantry column** using six [[M5 x 10mm screws]] and **drop-in tee nuts**. The top flange of the box should be butted against the bottom edge of the [[gantry corner bracket]].
 
 ![electronics box attached to gantry](_images/electronics_box_attached_to_gantry.png)
 

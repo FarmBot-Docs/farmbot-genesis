@@ -57,7 +57,7 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 # Step 2: Attach the horizontal cable carrier supports
 
-Attach six [[30mm horizontal cable carrier supports]] to the *lower slot* of a [[track extrusion]] using [[40mm nut bars]] and **M5 x 10mm screws**. The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
+Attach six [[30mm horizontal cable carrier supports]] to the *lower slot* of a [[track extrusion]] using [[40mm nut bars]] and [[M5 x 10mm screws]]. The supports should be spaced evenly along the length of the extrusion, and they should be attached to the track extrusions on the side of the bed that you intend to be the left side of the FarmBot (when looking from the front).
 
 Repeat for all of the track extrusions on the side of the bed that will eventually have the electronics box (two extrusions total for Genesis, four for Genesis <span class="fb-xl-sticker">XL</span>).
 
@@ -90,11 +90,11 @@ Position a [[track joining plate]] such that one half of it will be able to atta
 
 # Step 5: Attach the first track extrusion
 
-Attach one end of the first [[track extrusion]] to the [[track end plate]] using a [[60mm nut bar]] and two **M5 x 10mm screws**.
+Attach one end of the first [[track extrusion]] to the [[track end plate]] using a [[60mm nut bar]] and two [[M5 x 10mm screws]].
 
 ![Mount the first track extrusion](_images/first_track_extrusion_1.png)
 
-Attach the other end of the extrusion to the [[track joining plate]] using a [[100mm nut bar]] and two **M5 x 10mm screws**. Do not fully tighten the screws on the track joining plate yet.
+Attach the other end of the extrusion to the [[track joining plate]] using a [[100mm nut bar]] and two [[M5 x 10mm screws]]. Do not fully tighten the screws on the track joining plate yet.
 
 {% include gallery.html images="
 ![Mount the first track extrusion](_images/first_track_extrusion_4.png)
@@ -111,7 +111,7 @@ Slide the *lower* V-slot of the **second track extrusion** onto the [[100mm nut 
 ![Mount the second track extrusion](_images/second_track_extrusion_2.png)
 " %}
 
-Push the second extrusion into place so there is no gap between the extrusions, then add two **M5 x 10mm screws**.
+Push the second extrusion into place so there is no gap between the extrusions, then add two [[M5 x 10mm screws]].
 
 {%
 include callout.html
@@ -146,7 +146,7 @@ Repeat to install subsequent [[track joining plates]] and [[track extrusions]].
 
 # Step 8: Attach the second track end plate
 
-Position the second [[track end plate]] and secure it to the **supporting infrastructure** with three [[wood screws]]. Then fasten the final [[track extrusion]] to the plate using a [[60mm nut bar]] and **M5 x 10mm screws**.
+Position the second [[track end plate]] and secure it to the **supporting infrastructure** with three [[wood screws]]. Then fasten the final [[track extrusion]] to the plate using a [[60mm nut bar]] and [[M5 x 10mm screws]].
 
 ![Completed single track](_images/completed_single_track.png)
 

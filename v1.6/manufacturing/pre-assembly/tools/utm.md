@@ -36,7 +36,7 @@ Insert the **UTM PCB** into the **UTM**. It is keyed, and should only fit in one
 
 ![utm with pcb inserted](_images/utm_with_pcb_inserted.png)
 
-Slide a **ring magnet** onto an **M5 x 16mm screw**. The magnet's `South` face should be butted against the screw head.
+Slide a **ring magnet** onto an [[M5 x 16mm screw]]. The magnet's `South` face should be butted against the screw head.
 
 ![magnet and screw](_images/magnet_and_screw.png)
 
