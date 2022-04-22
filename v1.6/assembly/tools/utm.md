@@ -60,13 +60,13 @@ content="Check out the [tool spec](../../extras/mods/tool-spec.md) to learn how 
 
 # Step 1: Install the UTM onto the Z-axis
 
-Insert two **M5 x 16mm screws** and **tee nuts** into the **UTM**, and then position the UTM onto the [[z-axis extrusion]]. The mounting flanges should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion. Tighten the two screws with the **3mm hex driver**.
+Insert two [[M5 x 16mm screws]] and [[tee nuts]] into the [[UTM]], and then position the UTM onto the [[z-axis extrusion]]. The mounting flanges should be positioned on the backside of the extrusion. The bottom of the UTM should be flush with the bottom of the extrusion. Tighten the two screws with the **3mm hex driver**.
 
 ![utm mounted on z-axis](_images/utm_mounted_on_z-axis.png)
 
 # Step 2: Connect the UTM Cable
 
-Insert the two UTM Cable Connectors into the top of the UTM. Note: The black and yellow connectors of the cable correspond to the black and yellow pin headers inside the UTM. Then slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the **UTM**.
+Insert the two UTM Cable Connectors into the top of the UTM. Note: The black and yellow connectors of the cable correspond to the black and yellow pin headers inside the UTM. Then slide the **UTM cable's shroud** down such that it fully covers the opening in the top of the [[UTM]].
 
 {%
 include callout.html
@@ -93,7 +93,7 @@ content="You will connect the other end of the cable to the Farmduino in a few s
 
 # Step 3: Connect the Water Tube
 
-Push the **water tube** onto the **barb** on top of the **UTM** that is closest to the [[z-axis extrusion]].
+Push the **water tube** onto the [[M5 barb]] on top of the [[UTM]] that is closest to the [[z-axis extrusion]].
 
 ![utm water tube connection](_images/utm_water_tube_connection.png)
 

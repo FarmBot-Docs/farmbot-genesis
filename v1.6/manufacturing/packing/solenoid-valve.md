@@ -16,7 +16,7 @@ description: "Packing details for the solenoid valve"
 
 # Step 1: Pack the solenoid valve
 
-Pack the **solenoid valve** into the box.
+Pack the [[solenoid valve]] into the box.
 
 {% include gallery.html images="
 ![pack the solenoid valve](_images/solenoid_valve_packed_1.png)

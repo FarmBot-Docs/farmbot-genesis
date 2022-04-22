@@ -17,7 +17,7 @@ Check the **eccentric spacers** on the **cross-slide** that are used to adjust t
 
 # 3. Lubricate the leadscrew
 
-It is possible that dust and debris can build up on the **leadscrew** causing additional friction between the leadscrew and the **leadscrew block**. Clean the leadscrew with a rag and then add some lubricant which can be purchased from a local hardware store.
+It is possible that dust and debris can build up on the [[leadscrew]] causing additional friction between the leadscrew and the [[leadscrew block]]. Clean the leadscrew with a rag and then add some lubricant which can be purchased from a local hardware store.
 
 We recommend using a dry graphite lubricant spray which will coat the surface with a fast drying coating of graphite to create a slippery surface that reduces the resistance of movement through the leadscrew block and also may decrease any noise from the leadscrew.
 

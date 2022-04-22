@@ -21,7 +21,7 @@ content="This is the estimated time it will take to assemble the cross-slide."
 
 # Step 1: Add the gantry V-wheels
 
-Attach four [[V-wheels]] with **[standard spacers](../bom/fasteners-and-hardware/spacer.md)** to the **cross-slide plate** using **M5 x 30mm screws** and [[M5 flange locknuts]].
+Attach four [[V-wheels]] with **[standard spacers](../bom/fasteners-and-hardware/spacer.md)** to the [[cross-slide plate]] using [[M5 x 30mm screws]] and [[M5 flange locknuts]].
 
 {%
 include callout.html
@@ -31,7 +31,7 @@ content="Make sure you attach the V-wheels to the correct side of the cross-slid
 
 ![Add the gantry v-wheels with normal spacers](_images/gantry_v-wheels_with_normal_spacers.jpg)
 
-Attach three [[V-wheels]] with **[eccentric spacer](../bom/fasteners-and-hardware/eccentric-spacer.md)** to the holes shown using **M5 x 30mm screws** and [[M5 flange locknuts]].
+Attach three [[V-wheels]] with **[eccentric spacer](../bom/fasteners-and-hardware/eccentric-spacer.md)** to the holes shown using [[M5 x 30mm screws]] and [[M5 flange locknuts]].
 
 ![Add the gantry v-wheels with eccentric spacers](_images/cross_slide_with_gantry_v_wheels.jpg)
 
@@ -41,23 +41,23 @@ Flip the cross-slide over so that all of the V-wheels you have added so far are 
 
 ![Flip the cross-slide over](_images/flip_the_cross-slide_over.jpg)
 
-Attach two [[V-wheels]] with **[standard spacers](../bom/fasteners-and-hardware/spacer.md)** to the holes shown using **M5 x 30mm screws** and [[M5 flange locknuts]].
+Attach two [[V-wheels]] with **[standard spacers](../bom/fasteners-and-hardware/spacer.md)** to the holes shown using [[M5 x 30mm screws]] and [[M5 flange locknuts]].
 
 ![Add the z-axis v-wheels with normal spacers](_images/cross_slide_with_z_axis_v_wheels_with_normal_spacers.jpg)
 
-Attach three [[V-wheels]] with [[eccentric spacers]] to the holes shown using **M5 x 30mm screws** and [[M5 flange locknuts]].
+Attach three [[V-wheels]] with [[eccentric spacers]] to the holes shown using [[M5 x 30mm screws]] and [[M5 flange locknuts]].
 
 ![Add the z-axis v-wheels with eccentric spacers](_images/cross_slide_with_z_axis_v_wheels.jpg)
 
 # Step 3: Add the leadscrew block
 
-Attach the **leadscrew block** to the **cross-slide plate** using **M5 x 30mm screws** and [[M5 flange locknuts]].
+Attach the [[leadscrew block]] to the [[cross-slide plate]] using [[M5 x 30mm screws]] and [[M5 flange locknuts]].
 
 ![Attach the leadscrew block](_images/attach_the_leadscrew_block.png)
 
 # Step 4: Add the stepper motor
 
-Insert a [[motor]] into a [[horizontal motor housing]] such that the motor and encoder connectors are facing down, out the open face of the housing. Then attach the motor and housing to the **cross-slide plate** with four **M3 x 12mm screws**.
+Insert a [[motor]] into a [[horizontal motor housing]] such that the motor and encoder connectors are facing down, out the open face of the housing. Then attach the motor and housing to the [[cross-slide plate]] with four [[M3 x 12mm screws]].
 
 {%
 include callout.html
@@ -84,7 +84,7 @@ content="There should be a small gap (about 1mm) between the pulley and the plat
 
 # Step 5: Add the cable carrier mount
 
-Attach the [[80mm cable carrier mount]] to the **cross-slide plate** using **M5 x 16mm screws** and [[M5 flange locknuts]]. The bracket should be on the opposite side of the plate as the motor.
+Attach the [[80mm cable carrier mount]] to the [[cross-slide plate]] using [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The bracket should be on the opposite side of the plate as the motor.
 
 ![Add the cable carrier mount](_images/cross_slide_with_cc_mount.jpg)
 
@@ -100,7 +100,7 @@ The cross-slide should move easily across the full width of the gantry. If you f
 
 # Step 7: Feed and secure the belt
 
-Attach a [[belt clip]] to the end of the gantry main beam using two **M5 x 10mm screws** and a [[20mm nut bar]]. Then secure one end of the **y-axis GT2 timing belt** (2m long for Genesis, 3.5m long for XL) to the belt clip using the [belt installation](../extras/reference/belt-installation.md) reference guide.
+Attach a [[belt clip]] to the end of the gantry main beam using two [[M5 x 10mm screws]] and a [[20mm nut bar]]. Then secure one end of the **y-axis GT2 timing belt** (2m long for Genesis, 3.5m long for XL) to the belt clip using the [belt installation](../extras/reference/belt-installation.md) reference guide.
 
 ![Secure one end of the belt](_images/y_axis_belt_beginning.png)
 
@@ -115,7 +115,7 @@ content="Make sure that the belt is not twisted anywhere."
 
 ![Feed the belt](_images/y_axis_belt_around_pulley.png)
 
-Secure the belt at the other end of the gantry with another [[belt clip]], **20 mm nut bar**, and two **M5 x 10mm screws**. Ensure there is a small amount of tension on the belt once everything is in place.
+Secure the belt at the other end of the gantry with another [[belt clip]], **20 mm nut bar**, and two [[M5 x 10mm screws]]. Ensure there is a small amount of tension on the belt once everything is in place.
 
 ![Secure the other end of the belt](_images/y_axis_belt_end.png)
 

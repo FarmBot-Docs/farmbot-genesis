@@ -28,7 +28,7 @@ There is only one orientation that the **y-axis cable carrier** mounts to the **
 
 # Step 3: Add the y-axis motor and encoder cables
 
-Feed the **y-axis motor and encoder cables** through the slot in the **cross-slide plate** such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
+Feed the **y-axis motor and encoder cables** through the slot in the [[cross-slide plate]] such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
 
 {% include gallery.html images="
 ![Connect the y-axis motor and encoder cables](_images/feed_y_cables_1.png)
@@ -37,7 +37,7 @@ Feed the **y-axis motor and encoder cables** through the slot in the **cross-sli
 
 # Step 4: Connect the tubing
 
-Push the **90 degree barb** onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
+Push the [[90 degree barb]] onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
 
 {% include gallery.html images="
 ![Connect the 90 degree barb](_images/90_degree_barb.png)
@@ -52,7 +52,7 @@ Connect the z-axis and y-axis sections of the following cables together:
   * **ZZ encoder cable** to **ZY encoder cable** with the 7-pin connector
   * **ZZ motor cable** to **ZY motor cable** with the 4-pin connector
   * **UTM cable (Z)** to **UTM cable (Y)** with the 12-pin connector
-  * **Camera** to [[camera cable]] with the 4-pin connector
+  * [[Camera]] to [[camera cable]] with the 4-pin connector
 
 {%
 include callout.html
@@ -110,7 +110,7 @@ Snap in three **cable carrier tabs** at both ends of the cable carrier, and ten 
 
 # Step 8: Mount the cable carrier
 
-Attach the **y-axis cable carrier** to the [[80mm cable carrier mount]] using two **M5 x 16mm screws** and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Attach the **y-axis cable carrier** to the [[80mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc_1.png)
 
@@ -125,7 +125,7 @@ content="Never pull any cables by their connectors."
 
 ![Remove slack](_images/remove_y_z_slack.png)
 
-Attach the **y-axis cable carrier** to the [[60mm horizontal cable carrier support]] nearest the left gantry column using two **M5 x 16mm screws** and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Attach the **y-axis cable carrier** to the [[60mm horizontal cable carrier support]] nearest the left gantry column using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc_2.png)
 

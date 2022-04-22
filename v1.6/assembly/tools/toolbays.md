@@ -22,7 +22,7 @@ content="This is the estimated time it will take to install both toolbays"
 
 # Step 1: Attach a toolbay to the supporting infrastructure
 
-Position and attach a **toolbay** to your **supporting infrastructure** using six **25mm wood screws**.
+Position and attach a **toolbay** to your **supporting infrastructure** using six [[wood screws]].
 
 {%
 include callout.html

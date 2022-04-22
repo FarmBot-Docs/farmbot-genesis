@@ -32,13 +32,13 @@ Install *only* the **magnets** using the instructions in the [basic tool hardwar
 
 # Step 2: Install the soil sensor PCB
 
-Attach the **soil sensor PCB** to the **soil sensor** using two **M3 x 12mm screws** and **M3 locknuts**. The sensor should be on the front side of the base's mounting tabs. The heads of the screws should be on the PCB's front side while the locknuts should be on the mounting tabs' back side. Do not over tighten the screws as this could damage the circuit board.
+Attach the [[soil sensor PCB]] to the **soil sensor** using two [[M3 x 12mm screws]] and [[M3 locknuts]]. The sensor should be on the front side of the base's mounting tabs. The heads of the screws should be on the PCB's front side while the locknuts should be on the mounting tabs' back side. Do not over tighten the screws as this could damage the circuit board.
 
 ![soil sensor with pcb](_images/soil_sensor_with_pcb.png)
 
 # Step 3: Install the electronic screws
 
-Use the **2mm hex driver** and **5.5mm box wrench** to secure the following **ring terminals** to the **soil sensor** with **M3 x 12mm screws** and **M3 locknuts**. The screw heads should be on the same side as the magnets.
+Use the **2mm hex driver** and **5.5mm box wrench** to secure the following **ring terminals** to the **soil sensor** with [[M3 x 12mm screws]] and [[M3 locknuts]]. The screw heads should be on the same side as the magnets.
 
 |Soil Sensor Position|Wire Color                                    |Connected to|
 |--------------------|----------------------------------------------|------------|
@@ -60,7 +60,7 @@ _The screws and nuts are highlighted orange_
 
 # Step 4: Install the jumper link
 
-Attach a **jumper link** to positions **B** and **C** using two **M3 x 12mm screws** and **M3 locknuts**. The screw in the **B** position should hold the ring terminal of the **<span class="cable-color black">black</span> (GND) wire**.
+Attach a **jumper link** to positions **B** and **C** using two [[M3 x 12mm screws]] and [[M3 locknuts]]. The screw in the **B** position should hold the ring terminal of the **<span class="cable-color black">black</span> (GND) wire**.
 
 ![soil sensor with jumper link](_images/soil_sensor_with_jumper_link.png)
 

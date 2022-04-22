@@ -22,7 +22,7 @@ content="As of the v1.6 hardware release, the seeder tool comes pre-assembled. I
 
 # Step 1: Selecting a luer lock needle
 
-FarmBot comes with different **luer lock needle** sizes so that you can experiment and find the best needle for your needs.
+FarmBot comes with different [[luer lock needle]] sizes so that you can experiment and find the best needle for your needs.
 
 |Size  |Gauge|Inner Diameter |Good for                 |
 |------|-----|---------------|-------------------------|
@@ -30,7 +30,7 @@ FarmBot comes with different **luer lock needle** sizes so that you can experime
 |Medium|19   |0.83mm (0.032")|Most seeds
 |Small |22   |0.48mm (0.019")|Small seeds (eg: lettuce)
 
-Once you've selected a needle, attach it to the **luer lock adapter** with a quarter turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
+Once you've selected a needle, attach it to the [[luer lock adapter]] with a quarter turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
 
 ![seeder with needle](_images/seeder_with_needle.png)
 
@@ -44,7 +44,7 @@ content="For the next two steps, it can be helpful to temporarily unscrew the [[
 
 Slide one of the **vacuum tubes** onto the _inlet barb_ of the [[vacuum pump]]. The inlet will be marked with an arrow pointing into the pump. The inlet may be on the left or the right side of the pump depending on when your kit was purchased. Please refer to the arrows on your pump to ensure the tube is connected correctly.
 
-Then slide the **inline air filter** onto the end of the first tube and connect the second vacuum tube between the air filter and the **barb** on top of the **UTM** closest to the FarmBot logo.
+Then slide the [[inline air filter]] onto the end of the first tube and connect the second vacuum tube between the air filter and the [[M5 barb]] on top of the [[UTM]] closest to the FarmBot logo.
 
 {% include gallery.html images="
 ![Connect the first vacuum pump tube](_images/vacuum_tube_1.png)
@@ -61,7 +61,7 @@ content="If you find during testing that there is air blowing out of the seeder 
 
 # Step 3: Wire up the vacuum pump
 
-Connect the **vacuum pump cable** to the **vacuum pump's** terminals. The black wire should be connected to `GND` (the terminal on the right), the white wire should be connect to `24V` (the middle terminal), and the clear wire should be connected to `PE` (the terminal on the left at a 90-degree angle from the others). In a few steps from now, you will connect the other end of the cable to the Farmduino.
+Connect the [[vacuum pump cable]] to the [[vacuum pump]] terminals. The black wire should be connected to `GND` (the terminal on the right), the white wire should be connect to `24V` (the middle terminal), and the clear wire should be connected to `PE` (the terminal on the left at a 90-degree angle from the others). In a few steps from now, you will connect the other end of the cable to the Farmduino.
 
 {% include gallery.html images="
 ![Wire up the vacuum pump](_images/wire_up_vacuum_pump.png)
@@ -70,9 +70,9 @@ Connect the **vacuum pump cable** to the **vacuum pump's** terminals. The black 
 
 # Step 4: Attach the seed trough holder
 
-Attach the **seed trough holder** to the **seed trough holder mount plate** using two **M5 x 30mm screws** and [[M5 flange locknuts]]. Then mount the assembly to the **left gantry column** using a [[40mm nut bar]] and two **M5 x 10mm screws**.
+Attach the [[seed trough holder]] to the [[seed trough holder mount plate]] using two [[M5 x 30mm screws]] and [[M5 flange locknuts]]. Then mount the assembly to the **left gantry column** using a [[40mm nut bar]] and two [[M5 x 10mm screws]].
 
-Place the two **seed troughs** into the holder. Optionally, you may store up to three **luer lock needles** in the holder as well.
+Place the two [[seed troughs]] into the holder. Optionally, you may store up to three [[luer lock needles]] in the holder as well.
 
 {% include gallery.html images="
 ![Attach the seed trough holder to the mount](_images/seed_trough_mount_plate.png)
@@ -87,7 +87,7 @@ We offer the following types of seed containers, each optimized for different pu
 
 ## Seed bins
 
-The **seed bins** are for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply slide it into the **toolbay** and fill it with seeds. Then run a planting sequence from the web app with the corresponding seed bin sequence and location.
+The [[seed bins]] are for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply slide it into the **toolbay** and fill it with seeds. Then run a planting sequence from the web app with the corresponding seed bin sequence and location.
 
 ![seed bin](_images/seed_bin.jpg)
 
@@ -95,13 +95,13 @@ If desired, you can mix a variety of seed types into one seed bin and have FarmB
 
 ## Seed trays
 
-The **seed trays** have 16 small area for holding seeds. They are best used when planting many different crops, and when the number of seeds per hole needs to be strictly controlled.
+The [[seed trays]] have 16 small area for holding seeds. They are best used when planting many different crops, and when the number of seeds per hole needs to be strictly controlled.
 
 ![seed trays](_images/seed_trays.jpg)
 
 ## Seed troughs
 
-The **seed troughs** are small seed containers that are stored in the **seed trough holder**, which is mounted on the gantry. This allows FarmBot to bring seeds with it along the x-axis, reducing the time to sow an entire bed.
+The [[seed troughs]] are small seed containers that are stored in the [[seed trough holder]], which is mounted on the gantry. This allows FarmBot to bring seeds with it along the x-axis, reducing the time to sow an entire bed.
 
 ![seed troughs](_images/seed_troughs.jpeg)
 

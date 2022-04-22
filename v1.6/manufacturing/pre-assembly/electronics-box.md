@@ -76,12 +76,12 @@ Insert the **lid gasket** into the **lid**, ensuring it is fully seated into the
 
 # Step 11: Attach the lid
 
-Attach the **lid** to the **electronic box** using two **M3 x 35mm screws** and **M3 locknuts**. The nuts should be tightened enough so that the screws do not rattle, but they should not be so tight that the lid’s tabs are compressing and rubbing against the electronics box. The lid should open and close freely with no resistance.
+Attach the **lid** to the **electronic box** using two [[M3 x 35mm screws]] and [[M3 locknuts]]. The nuts should be tightened enough so that the screws do not rattle, but they should not be so tight that the lid’s tabs are compressing and rubbing against the electronics box. The lid should open and close freely with no resistance.
 
 ![attach lid](_images/electronics_box_pre_assembly_attach_lid.jpg)
 
 # Step 12: Attach the latches
 
-Attach the **latches** to the **lid** using two **M3 x 35mm screws** and **M3 locknuts**. The nuts should be tightened enough so that the screws do not rattle, but they should not be so tight that the lid’s tabs are compressing and rubbing against the latches. The latches should be able to rotate with no resistance.
+Attach the **latches** to the **lid** using two [[M3 x 35mm screws]] and [[M3 locknuts]]. The nuts should be tightened enough so that the screws do not rattle, but they should not be so tight that the lid’s tabs are compressing and rubbing against the latches. The latches should be able to rotate with no resistance.
 
 ![lid latches](_images/electronics_box_pre_assembly_lid_latches.jpg)
