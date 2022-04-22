@@ -34,7 +34,7 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 # Step 2: Install the implements
 
-Attach the four **medium weeder blades** to the **weeder** using **M3 x 6mm screws**.
+Attach the four **medium weeder blades** to the **weeder** using [[M3 x 6mm screws]].
 
 ![weeder with implements](_images/weeder_with_implements.png)
 

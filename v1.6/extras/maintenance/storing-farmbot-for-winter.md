@@ -27,7 +27,7 @@ For v1.4+ kits, disconnect the **power supply** from the [[power supply cable]].
 Remove the **screws** that hold the **x-axis cable carrier** to the **cable carrier support**. You may want to coil up the x-axis cable carrier, and secure the coil with a strap.
 
 # Step 5: Remove the x-axis belts
-Remove the **screws** and **tee nuts** that hold the four [[belt clips]] located at the track ends. Then remove the belt clips from the tracks and coil up the loose belt length. Use twist ties or rubber bands to keep the belts coiled.
+Remove the **screws** and [[tee nuts]] that hold the four [[belt clips]] located at the track ends. Then remove the belt clips from the tracks and coil up the loose belt length. Use twist ties or rubber bands to keep the belts coiled.
 
 # Step 6: Remove the gantry from the tracks
 For Genesis sized devices, pull on the *center* of the [[gantry main beam]] to slowly slide the **gantry** off of the **tracks**.

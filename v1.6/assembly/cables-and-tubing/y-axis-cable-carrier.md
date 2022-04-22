@@ -28,7 +28,7 @@ There is only one orientation that the **y-axis cable carrier** mounts to the **
 
 # Step 3: Add the y-axis motor and encoder cables
 
-Feed the **y-axis motor and encoder cables** through the slot in the **cross-slide plate** such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
+Feed the **y-axis motor and encoder cables** through the slot in the [[cross-slide plate]] such that there is enough cable length so that they can be comfortably connected to the motor and encoder. Ensure you feed the correct end of the cables through the slot by checking the connection with the y-axis motor and encoder. However, do not keep them plugged in at this time as they can be damaged if pulled on.
 
 {% include gallery.html images="
 ![Connect the y-axis motor and encoder cables](_images/feed_y_cables_1.png)

@@ -8,7 +8,7 @@ slug: "attach-the-drivetrain"
 
 # Step 1: Attach the gantry motors
 
-Slide a [[motor]] into a [[horizontal motor housing]], ensuring that the shaft of the motor is coming out of the housing and that the motor and encoder connectors are facing down through the open bottom of the housing. Then attach the motor and housing to a [[gantry corner bracket]] with four **M3 x 12mm screws**. Repeat for the second motor on the other gantry corner bracket.
+Slide a [[motor]] into a [[horizontal motor housing]], ensuring that the shaft of the motor is coming out of the housing and that the motor and encoder connectors are facing down through the open bottom of the housing. Then attach the motor and housing to a [[gantry corner bracket]] with four [[M3 x 12mm screws]]. Repeat for the second motor on the other gantry corner bracket.
 
 {% include gallery.html images="
 ![motor in housing](_images/motor_in_housing.png)

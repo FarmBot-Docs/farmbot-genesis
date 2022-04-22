@@ -41,10 +41,10 @@ content="Make sure you do not accidentally mount the magnets using the liquid/ga
 
 # Step 2: Install the tool verification jumper link
 
-Insert two **M3 x 12mm screws** into the holes labelled **B** and **C** on the top of the **tool**.
+Insert two [[M3 x 12mm screws]] into the holes labelled **B** and **C** on the top of the **tool**.
 
 ![jumper link installed top view](_images/jumper_link_installed_top_view.png)
 
-Secure the **jumper link** to the bottom of the screws with two **M3 locknuts**.
+Secure the **jumper link** to the bottom of the screws with two [[M3 locknuts]].
 
 ![jumper link installed bottom view](_images/jumper_link_installed_bottom_view.png)

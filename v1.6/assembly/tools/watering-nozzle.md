@@ -38,7 +38,7 @@ content="Note that the **garden hose to barb adapter** and **NPT to barb adapter
 " %}
 
 # Step 2: Attach the solenoid valve
-Attach the **solenoid valve** to the **solenoid valve mount** using two **200mm zip ties**. Then attach the **solenoid valve mount** to the **left gantry column** using two [[M5 x 10mm screws]] and **M5 drop-in tee nuts**. Cables should be routed between the mount and the box.
+Attach the **solenoid valve** to the **solenoid valve mount** using two [[200mm zip ties]]. Then attach the **solenoid valve mount** to the **left gantry column** using two [[M5 x 10mm screws]] and **M5 drop-in tee nuts**. Cables should be routed between the mount and the box.
 
 {% include gallery.html images="
 ![solenoid valve attached to mount](_images/solenoid_valve_attached_to_mount.jpeg)
