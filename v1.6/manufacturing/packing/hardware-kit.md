@@ -32,8 +32,8 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |[100mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-100mm.md)|Press-to-seal bag|2|6
 |[140mm Nut Bar](../../bom/fasteners-and-hardware/nut-bar-140mm.md)|Press-to-seal bag|-|2
 |[M5 x 6mm Eccentric Spacer](../../bom/fasteners-and-hardware/eccentric-spacer.md)|Press-to-seal bag|15|15
-|[100mm Zip Ties](../../bom/fasteners-and-hardware/zip-tie.md)|Press-to-seal bag|25|25
-|[200mm Zip Ties](../../bom/fasteners-and-hardware/zip-tie.md)|Press-to-seal bag|4|4
+|[100mm Zip Ties](../../bom/fasteners-and-hardware/zip-tie-100mm.md)|Press-to-seal bag|25|25
+|[200mm Zip Ties](../../bom/fasteners-and-hardware/zip-tie-200mm.md)|Press-to-seal bag|4|4
 |[Rubber Gasket](../../bom/tubing/rubber-gasket.md)|Press-to-seal bag|4|4
 |[Teflon Tape](../../bom/tubing/teflon-tape.md)|Factory packaging|1|1
 |[Power Cord Protector](../../bom/electronics-and-wiring/power-cord-protector.md)|None|1|1
