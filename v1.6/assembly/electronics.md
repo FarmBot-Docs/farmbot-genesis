@@ -19,7 +19,7 @@ Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmB
 
 # Step 1: Attach the electronics box to the gantry
 
-Attach the pre-assembled **electronics box** to the **left gantry column** using six [[M5 x 10mm screws]] and **drop-in tee nuts**. The top flange of the box should be butted against the bottom edge of the [[gantry corner bracket]].
+Attach the pre-assembled **electronics box** to the **left gantry column** using six [[M5 x 10mm screws]] and [[tee nuts]]. The top flange of the box should be butted against the bottom edge of the [[gantry corner bracket]].
 
 ![electronics box attached to gantry](_images/electronics_box_attached_to_gantry.png)
 
@@ -41,9 +41,9 @@ content="Before proceeding with plugging everything in, remove the black rubber 
 When plugging in cables in the following steps, ensure that you pass **every cable** through the slot in the bottom of the electronics box. Once everything is connected to the electronics, you will organize all of the cables into the supergland, and then push the supergland back into the slot."
 %}
 
-* Connect the **vacuum pump cable** (with gray heat shrink) to the [[Farmduino]] peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
-* Connect the **solenoid valve cable** (with blue heat shrink) to the [[Farmduino]] peripheral connector labelled `WATER` (directly underneath the vacuum connector). The connector will only fit in one direction.
-* Connect the **LED lights** to the [[Farmduino]] peripheral connector labelled `LIGHTING` (directly underneath the water connector). The connector will only fit in one direction.
+* Connect the [[vacuum pump cable]] (with gray heat shrink) to the [[Farmduino]] peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
+* Connect the [[solenoid valve cable]] (with blue heat shrink) to the [[Farmduino]] peripheral connector labelled `WATER` (directly underneath the vacuum connector). The connector will only fit in one direction.
+* Connect the [[LED strip]] to the [[Farmduino]] peripheral connector labelled `LIGHTING` (directly underneath the water connector). The connector will only fit in one direction.
 
 {% include gallery.html images="
 ![farmduino vacuum connector](_images/farmduino_vacuum.png)
@@ -112,7 +112,7 @@ Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the so
 
 # Step 9: Mount the power supply
 
-Mount the **power supply** to your **supporting infrastructure** using four **25mm wood screws**. The power supply is IP67 rated, so it can withstand rain and the elements.
+Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]]. The power supply is IP67 rated, so it can withstand rain and the elements.
 
 ![mounted power supply](_images/mounted_power_supply.jpg)
 

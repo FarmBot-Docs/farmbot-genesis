@@ -33,7 +33,7 @@ Install the **magnets** and tool verification **jumper link** using the instruct
 
 # Step 2: Add the luer lock adapter
 
-Screw the **luer lock adapter** into the brass insert on the bottom of the **seeder**.
+Screw the [[luer lock adapter]] into the brass insert on the bottom of the **seeder**.
 
 ![seeder with luer lock adapter](_images/seeder_with_luer_lock_adapter.png)
 

@@ -37,7 +37,7 @@ Feed the **y-axis motor and encoder cables** through the slot in the [[cross-sli
 
 # Step 4: Connect the tubing
 
-Push the **90 degree barb** onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
+Push the [[90 degree barb]] onto the **z-axis water tube**. Then push the **y-axis water tube** onto the other end of the barb.
 
 {% include gallery.html images="
 ![Connect the 90 degree barb](_images/90_degree_barb.png)
@@ -52,7 +52,7 @@ Connect the z-axis and y-axis sections of the following cables together:
   * **ZZ encoder cable** to **ZY encoder cable** with the 7-pin connector
   * **ZZ motor cable** to **ZY motor cable** with the 4-pin connector
   * **UTM cable (Z)** to **UTM cable (Y)** with the 12-pin connector
-  * **Camera** to [[camera cable]] with the 4-pin connector
+  * [[Camera]] to [[camera cable]] with the 4-pin connector
 
 {%
 include callout.html

@@ -101,7 +101,7 @@ _This image is from the front of FarmBot_
 
 # Step 7:  Attach the x-axis cable carrier mount
 
-Use two [[M5 x 10mm screws]] and **drop-in tee nuts** to attach the aluminum [[35mm cable carrier mount]] to the bottom of the **left gantry column**.
+Use two [[M5 x 10mm screws]] and [[tee nuts]] to attach the aluminum [[35mm cable carrier mount]] to the bottom of the **left gantry column**.
 
 ![Attach the x-axis cable carrier mount](_images/attach_the_x-axis_cable_carrier_mount.png)
 

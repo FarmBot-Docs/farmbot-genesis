@@ -16,7 +16,7 @@ bom:
       - image: assembly_tools_8mm_wrench.jpg
       - image: eccentric_spacer.jpg
       - image: m2.5_screw.jpg
-      - image: m3_flat_head_screw.jpg
+      - image: m3_flat_head_screw_16mm.jpg
       - image: m3_locknut.jpg
       - image: m3_screw_6mm.jpg
       - image: m3_screw_12mm.jpg

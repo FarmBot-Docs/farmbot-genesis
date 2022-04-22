@@ -57,7 +57,7 @@ Attach three [[vertical cable carrier supports]] to the [[z-axis extrusion]] usi
 
 # Step 5: Attach the vacuum pump cover
 
-Attach the [[vacuum pump cover]] to the [[z-axis extrusion]] using two **M5 drop-in tee nuts** and [[M5 x 10mm screws]]. The cover should be butted up against the lowest **cable carrier support**.
+Attach the [[vacuum pump cover]] to the [[z-axis extrusion]] using two [[tee nuts]] and [[M5 x 10mm screws]]. The cover should be butted up against the lowest **cable carrier support**.
 
 ![z-axis with motor cc supports and vacuum pump cover](_images/z-axis_with_motor_cc_supports_and_vacuum_pump_cover.png)
 

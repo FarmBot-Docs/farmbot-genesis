@@ -32,7 +32,7 @@ Install *only* the **magnets** using the instructions in the [basic tool hardwar
 
 # Step 2: Install the soil sensor PCB
 
-Attach the **soil sensor PCB** to the **soil sensor** using two [[M3 x 12mm screws]] and [[M3 locknuts]]. The sensor should be on the front side of the base's mounting tabs. The heads of the screws should be on the PCB's front side while the locknuts should be on the mounting tabs' back side. Do not over tighten the screws as this could damage the circuit board.
+Attach the [[soil sensor PCB]] to the **soil sensor** using two [[M3 x 12mm screws]] and [[M3 locknuts]]. The sensor should be on the front side of the base's mounting tabs. The heads of the screws should be on the PCB's front side while the locknuts should be on the mounting tabs' back side. Do not over tighten the screws as this could damage the circuit board.
 
 ![soil sensor with pcb](_images/soil_sensor_with_pcb.png)
 

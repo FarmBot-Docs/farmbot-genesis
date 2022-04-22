@@ -16,7 +16,7 @@ description: "Packing details for the power supply inside each main carton"
 
 # Step 1: Pack the power supply
 
-Pack the **power supply** into the box.
+Pack the [[power supply]] into the box.
 
 {% include gallery.html images="
 ![pack the power supply](_images/power_supply_packed_1.png)

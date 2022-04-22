@@ -32,7 +32,7 @@ Attach 12 **pogo pins** to the **UTM PCB** using 24 **jam nuts** (2 per pogo pin
 
 # Step 2: Mount the PCB and magnets
 
-Insert the **UTM PCB** into the **UTM**. It is keyed, and should only fit in one orientation.
+Insert the **UTM PCB** into the [[UTM]]. It is keyed, and should only fit in one orientation.
 
 ![utm with pcb inserted](_images/utm_with_pcb_inserted.png)
 
@@ -53,13 +53,13 @@ content="All magnets must be mounted in the same magnetic orientation. The `Nort
 
 # Step 3: Add o-rings
 
-Slide three **x-profile o-rings** onto the **UTM**.
+Slide three **x-profile o-rings** onto the [[UTM]].
 
 ![utm with o-rings](_images/utm_with_o-rings.png)
 
 # Step 4: Add barbs
 
-Screw three **barbs** into the top of the **UTM**.
+Screw three **barbs** into the top of the [[UTM]].
 
 ![utm with barbs](_images/utm_with_barbs.png)
 

@@ -19,9 +19,9 @@ Turn off the water supply to your FarmBot. Then unscrew the **garden hose adapte
 Using the web app, turn ON the water peripheral to open up the solenoid valve, allowing any remaining water in FarmBot's tubing to drain.
 
 # Step 3: Unplug FarmBot
-Using the web app, shutdown the FarmBot. Then unplug the **power supply** from the **power source**.
+Using the web app, shutdown the FarmBot. Then unplug the [[power supply]] from the **power source**.
 
-For v1.4+ kits, disconnect the **power supply** from the [[power supply cable]].
+For v1.4+ kits, disconnect the [[power supply]] from the [[power supply cable]].
 
 # Step 4: Disconnect the x-axis cable carrier
 Remove the **screws** that hold the **x-axis cable carrier** to the **cable carrier support**. You may want to coil up the x-axis cable carrier, and secure the coil with a strap.
