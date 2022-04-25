@@ -3,9 +3,6 @@ title: "Track Maintenance"
 slug: "track-maintenance"
 ---
 
-* toc
-{:toc}
-
 FarmBot's tracks need to be very straight and parallel with each other in order for the gantry to move smoothly across them. With time, your FarmBot's tracks may move and twist due to a variety of factors such as:
 * Screws becoming loose
 * Thermal expansion and contraction due to large temperature swings

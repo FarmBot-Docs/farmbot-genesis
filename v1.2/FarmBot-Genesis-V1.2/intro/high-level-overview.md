@@ -4,9 +4,6 @@ slug: "high-level-overview"
 description: "Bird's eye view of what FarmBot is all about"
 ---
 
-* toc
-{:toc}
-
 Genesis is a small scale FarmBot primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. Genesis is driven by NEMA 17 stepper motors, an Arduino MEGA with a RAMPS shield, and a Raspberry Pi 3 computer. These electronics were chosen for their great availability, support, and usage in the DIY 3D printer world. Genesis can vary in size from a planting area as little as 1m<sup>2</sup> to a maximum of 4.5m<sup>2</sup>, while accommodating a maximum plant height of about 1m. With additional hardware and modifications we anticipate the Genesis concept to be able to scale to approximately 50m<sup>2</sup> and a maximum plant height of 1.5m.
 
 ![FarmBot Genesis v1.2.JPG](_images/FarmBot_Genesis_v1.2.JPG)

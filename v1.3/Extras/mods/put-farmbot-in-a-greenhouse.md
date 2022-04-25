@@ -4,9 +4,6 @@ slug: "put-farmbot-in-a-greenhouse"
 description: "Combine FarmBot with an affordable greenhouse for year-round food production"
 ---
 
-* toc
-{:toc}
-
 If you live somewhere that gets cold enough to prevent growing during certain times of the year then consider putting FarmBot in an inexpensive greenhouse to extend your growing season. We recommend purchasing a greenhouse that is at least 12' x 7' x 7' (3.65m x 2.15m x 2.15m) in size. [This greenhouse](https://smile.amazon.com/gp/product/B0098R8GES) from Amazon is only $100 and is shown in the photos below.
 
 {%

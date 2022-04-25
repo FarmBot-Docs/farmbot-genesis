@@ -3,9 +3,6 @@ title: "Troubleshooting"
 slug: "troubleshooting"
 ---
 
-* toc
-{:toc}
-
 Having issues with your FarmBot's hardware? Try looking through our troubleshooting guides below. If you have software related issues, please see the [Software Troubleshooting Guide](https://software.farm.bot/docs/troubleshooting).
 
 {%

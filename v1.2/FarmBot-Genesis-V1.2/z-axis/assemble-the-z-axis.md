@@ -3,9 +3,6 @@ title: "Assemble the Z-Axis"
 slug: "assemble-the-z-axis"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

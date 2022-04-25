@@ -3,9 +3,6 @@ title: "Gantry"
 slug: "gantry"
 ---
 
-* toc
-{:toc}
-
 ## Gantry Change Log
   * A syringe pump and leadscrew-stepper motor have been added to the Gantry column as part of the Liquid Amendment Tool
   * A servo valve has been added to the Gantry column to control the Watering Nozzle Tool

@@ -3,9 +3,6 @@ title: "Replacing Stepper Drivers"
 slug: "replacing-stepper-drivers"
 ---
 
-* toc
-{:toc}
-
 
 ![A4988_STEPPER_DRIVER.jpg](_images/A4988_STEPPER_DRIVER.jpg)
 

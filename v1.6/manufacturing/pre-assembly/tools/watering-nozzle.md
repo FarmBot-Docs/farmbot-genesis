@@ -4,9 +4,6 @@ slug: "watering-nozzle"
 description: "Pre-assembly and packing instructions for the watering nozzle"
 ---
 
-* toc
-{:toc}
-
 ![watering nozzle with basic tool hardware](_images/watering_nozzle_with_basic_tool_hardware_2.png)
 
 # Component list

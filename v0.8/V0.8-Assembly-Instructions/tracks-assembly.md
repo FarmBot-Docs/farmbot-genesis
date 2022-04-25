@@ -4,9 +4,6 @@ slug: "tracks-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.8 Tracks"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

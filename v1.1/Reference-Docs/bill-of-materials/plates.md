@@ -4,9 +4,6 @@ slug: "plates"
 description: "Tech specs, prices, quantities, and recommended suppliers for the plates in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |kg/Unit                       |kg Subtotal                   |$/Unit                        |$ Subtotal                    |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

@@ -4,9 +4,6 @@ slug: "universal-tool-hardware"
 description: "This reference guide applies to all of FarmBot's tools"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Install the magnets
 

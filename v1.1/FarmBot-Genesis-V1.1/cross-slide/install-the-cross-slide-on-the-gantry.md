@@ -3,9 +3,6 @@ title: "Install the Cross-Slide on the Gantry"
 slug: "install-the-cross-slide-on-the-gantry"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Slide the cross-slide onto the gantry main beam
 
 ![install_cross-slide.png](_images/install_cross-slide.png)

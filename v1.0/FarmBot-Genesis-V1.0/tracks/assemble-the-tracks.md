@@ -4,9 +4,6 @@ slug: "assemble-the-tracks"
 description: "Step-by-step instructions for assembling FarmBot's tracks"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

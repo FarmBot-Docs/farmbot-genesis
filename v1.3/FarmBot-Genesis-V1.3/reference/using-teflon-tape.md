@@ -3,9 +3,6 @@ title: "Using Teflon Tape"
 slug: "using-teflon-tape"
 ---
 
-* toc
-{:toc}
-
 All of the male pipe threads in FarmBot need to be sealed with teflon tape (also known as PTFE tape and plumber's tape). The locations where this tape needs to be applied include:
 * Both ends of the solenoid valve
 * The outlet of the pressure regulator

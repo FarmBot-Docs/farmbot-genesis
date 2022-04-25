@@ -4,9 +4,6 @@ slug: "tool-bay"
 description: "Documentation and assembly instructions for the FarmBot Genesis Tool Bay"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis comes with two tool bays. These simple hardware components act as holsters for your tools and are shaped in such a way that FarmBot can automatically mount and dismount tools from the bay.
 
 <div></div>

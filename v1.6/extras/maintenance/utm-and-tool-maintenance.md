@@ -3,9 +3,6 @@ title: "UTM and Tool Maintenance"
 slug: "utm-and-tool-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Inspect the UTM o-rings
 It is possible that intense temperature and adverse weather cycles could degrade the rubber o-rings on the bottom of the UTM.
 

@@ -4,9 +4,6 @@ slug: "setting-up-wooden-posts-only"
 description: "Step-by-step instructions for setting up wooden posts for your FarmBot"
 ---
 
-* toc
-{:toc}
-
 As an alternative to [building a full raised bed](building-a-raised-bed.md), you may consider mounting your FarmBot to wooden posts only. However, this will make track alignment trickier and the structure may be less stable without the additional support of the bed boards. Care will need to be exercised to install posts in a sturdy fashion.
 
 {%

@@ -4,9 +4,6 @@ slug: "power-farmbot-with-solar"
 description: "DIY instructions for powering your FarmBot with a dedicated, off-grid solar energy system"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

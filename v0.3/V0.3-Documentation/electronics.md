@@ -3,9 +3,6 @@ title: "Electronics"
 slug: "electronics"
 ---
 
-* toc
-{:toc}
-
 * The power supply used in Genesis V0.1 through V0.3 is very large in size. A smaller form factor supply might suit the project better.
   * Electronics enclosures or housings need to be added to weatherproof everything.
 

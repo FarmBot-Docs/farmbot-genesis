@@ -4,9 +4,6 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
-* toc
-{:toc}
-
 # FarmBot Genesis MAX
 The most notable change from v1.4 is that v1.5 devices are now available in the FarmBot Genesis MAX size, covering an area 3m wide and 18m in length (3x larger than XL and 12x larger than the smallest size). The additional hardware needed for the MAX version includes more track extrusions and track joining plates, a longer power cable, water tube, belts, and cable carrier, and additional screws, tee nuts, and dowel pins.
 

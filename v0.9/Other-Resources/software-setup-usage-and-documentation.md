@@ -6,9 +6,6 @@ link_url: "https://software.farm.bot"
 link_external: true
 ---
 
-* toc
-{:toc}
-
 
 # What's next?
 

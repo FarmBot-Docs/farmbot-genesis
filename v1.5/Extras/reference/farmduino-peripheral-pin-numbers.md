@@ -4,9 +4,6 @@ slug: "farmduino-peripheral-pin-numbers"
 description: "Information needed for [Web App](https://my.farmbot.io/) control of peripherals"
 ---
 
-* toc
-{:toc}
-
 Refer to this reference table to control Farmduino's peripherals from the Web App Controls page Peripherals widget or in a Sequence.
 
 |Peripheral                    |Pin Number                    |

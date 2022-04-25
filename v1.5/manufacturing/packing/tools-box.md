@@ -4,9 +4,6 @@ slug: "tools-box"
 description: "Packing details for the tools box"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item                          |Qty                           |

@@ -3,9 +3,6 @@ title: "UTM Maintenance"
 slug: "utm-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Inspect the Seals
 It is possible that intense temperature and adverse weather cycles could degrade the rubber seals between the UTM cover and the cables and tubing connected to the UTM.
 

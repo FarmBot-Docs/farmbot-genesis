@@ -3,9 +3,6 @@ title: "Frequently Asked Questions"
 slug: "faq"
 ---
 
-* toc
-{:toc}
-
 # Is FarmBot weatherproof/rainproof?
 
 Yes. All electronics are protected from rain with plastic housings and enclosures. All other parts are made from corrosion resistant materials such as aluminum, stainless steel, and UV stabilized plastic.

@@ -4,9 +4,6 @@ slug: "drivetrain"
 description: "Tech specs, prices, quantities, and recommended suppliers for the drivetrain components in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|

@@ -4,9 +4,6 @@ slug: "3d-prints"
 description: "Tech specs, prices, quantities, and recommended suppliers for the 3D prints in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|

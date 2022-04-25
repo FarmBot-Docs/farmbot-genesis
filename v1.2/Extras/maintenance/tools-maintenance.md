@@ -3,9 +3,6 @@ title: "Tools Maintenance"
 slug: "tools-maintenance"
 ---
 
-* toc
-{:toc}
-
 # All tools
 
 ## Remove magnetic debris

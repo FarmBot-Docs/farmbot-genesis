@@ -4,9 +4,6 @@ slug: "cad-models"
 description: "3D CAD models, 2D drawings, and manufacturing files for FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 ## 3D CAD Models
 You can download CAD models for every component and assembly in various formats in **[this folder](https://drive.google.com/folderview?id=0B-wExYzQcnp3UlhaYTllM1JUVjA&usp=sharing)**
 

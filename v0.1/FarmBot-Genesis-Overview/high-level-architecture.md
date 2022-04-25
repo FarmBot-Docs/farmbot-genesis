@@ -3,9 +3,6 @@ title: "High Level Architecture"
 slug: "high-level-architecture"
 ---
 
-* toc
-{:toc}
-
 ## Tracks
 FarmBot Tracks are one of the components that really differentiate FarmBot technology from traditional free-driving wheeled tractors. The tracks are what allow the system to have great precision in an efficient and simple manner. There are many reasons of why Tracks are superior, a few of which are listed below. You can also read about tracks and precision farming on this blog post.
 

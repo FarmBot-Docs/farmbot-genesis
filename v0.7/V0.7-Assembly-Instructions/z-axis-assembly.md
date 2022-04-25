@@ -4,9 +4,6 @@ slug: "z-axis-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Z-Axis"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Attach the Stepper Motor to the Z-Axis Motor Bracket
 

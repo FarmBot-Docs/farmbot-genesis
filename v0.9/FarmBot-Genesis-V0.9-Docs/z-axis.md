@@ -4,9 +4,6 @@ slug: "z-axis"
 description: "Documentation and Assembly Instructions for the FarmBot Genesis Z-Axis"
 ---
 
-* toc
-{:toc}
-
 
 <iframe width="100%" height="480" src="https://sketchfab.com/models/a5d485221e584eba91c1a538b3f2e9e7/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 

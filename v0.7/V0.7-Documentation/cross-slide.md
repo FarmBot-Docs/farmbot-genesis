@@ -4,9 +4,6 @@ slug: "cross-slide"
 description: "Documentation for the FarmBot Genesis V0.7 Cross-Slide"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
 * Endstops were removed and their functionality will be replaced by rotary encoders.
 

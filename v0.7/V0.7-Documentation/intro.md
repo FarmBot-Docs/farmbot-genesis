@@ -5,9 +5,6 @@ description: "Improvements from V0.6 hardware"
 redirect_from: /docs/v0.7/
 ---
 
-* toc
-{:toc}
-
 Genesis V0.7 was the first FarmBot device since V0.1 that was built to scale, built to remain outside, and built with mostly production quality components. For this prototype, our tracks our 3m long (2 extrusions), and the gantry spans 1.5m wide (1 extrusion). This size device will become our 'standard' size device meant for smaller spaces and people just getting started with FarmBot. With V0.8, we'll introduce an 'XL' version that will be twice as wide and twice as long.
 
 We made several improvements in V0.7, including:

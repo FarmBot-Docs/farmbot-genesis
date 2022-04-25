@@ -4,9 +4,6 @@ slug: "seed-injector-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Seed Injector"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

@@ -4,9 +4,6 @@ slug: "cross-slide"
 description: "Documentation for the FarmBot Genesis V0.8 Cross-Slide"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
 * Plate is now 5mm thick and screws lengthened accordingly
 * V-wheel bearings are now stainless steel

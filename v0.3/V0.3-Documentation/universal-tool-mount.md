@@ -3,9 +3,6 @@ title: "Universal Tool Mount"
 slug: "universal-tool-mount"
 ---
 
-* toc
-{:toc}
-
 The V0.3 Universal Tool mount has been vertically flipped so that the solenoid locker is on the right side and the tool is inserted on the left side. This allows for the tool to be more aligned with the z-axis leadscrew so that there is minimized induced torque from the tool’s weight. The tool mount has also been optimized for printing with a 3D printer. It no longer has any overhanging edges, and no support materials is required. Lastly, the electrical contact screws have been decreased in size to 3mm to allow for more clearance between themselves.
 
 ## Issues and Proposed Solutions

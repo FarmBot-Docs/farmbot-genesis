@@ -4,9 +4,6 @@ slug: "plastic-parts"
 description: "Tech specs, prices, and quantities for the plastic parts in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|

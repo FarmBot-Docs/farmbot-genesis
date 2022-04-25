@@ -4,9 +4,6 @@ slug: "high-level-overview"
 description: "Bird's eye view of what FarmBot is all about"
 ---
 
-* toc
-{:toc}
-
 
 ![v1.1.png](_images/v1.1.png)
 

@@ -3,9 +3,6 @@ title: "Attach the Drivetrain"
 slug: "attach-the-drivetrain"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the gantry motor
 For this step you will need:
 * One NEMA 17 stepper motor and rotary encoder

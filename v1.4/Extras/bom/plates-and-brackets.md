@@ -4,9 +4,6 @@ slug: "plates-and-brackets"
 description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 
 |Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

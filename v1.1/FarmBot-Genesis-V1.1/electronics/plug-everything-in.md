@@ -3,9 +3,6 @@ title: "Plug Everything In"
 slug: "plug-everything-in"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the RAMPS Shield to the Power Supply
 Attach the wire from the negative/ground input on the RAMPS shield to the ground output of the power supply, and the wire from the positive input on the RAMPS shield other wire to the +12V output of the power supply.
 

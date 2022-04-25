@@ -6,6 +6,3 @@ link_url: "http://wiki.farmbot.cc"
 link_external: true
 ---
 
-* toc
-{:toc}
-

@@ -3,9 +3,6 @@ title: "Install the UTM and Cover"
 slug: "install-the-utm-and-cover"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Feed the Tubes and Cable
 Push the **UTM cable** through the center hole in the **UTM cover** so that there is about 10cm of cabling beneath the cover. It may be difficult to do this because of the friction and tight seal created between the rubber seal and the cable. Be gentle and take your time. Some soapy water can facilitate the cable to slide through more easily, and will dry up within a day.
 

@@ -3,9 +3,6 @@ title: "Tracks"
 slug: "tracks"
 ---
 
-* toc
-{:toc}
-
 Genesis Tracks are built using V-Slot aluminum extrusions and hardware. They provide great strength and precision and are easy to construct. The V-Slot extrusions function as the linear guides for the Genesis Gantry to move across, and the design intention allows for easy scaling in the X direction. The tracks may be fixed to the ground by attaching them to concrete pilings, burying them in the ground, fastening them with large stakes, bolting them to a raised bed, or other methods. Once installed, it will be very cost effective to scale in the X-direction by simply adding more track sections. If scaling in the Y or Z direction is desired, it may require upgrading the main track beam to a larger size in order to reduce flex under the increased loads.
 
 ![Genesis_V1_Tracks_Render.jpg](_images/Genesis_V1_Tracks_Render.jpg)

@@ -3,9 +3,6 @@ title: "Drivetrain Tests"
 slug: "drivetrain"
 ---
 
-* toc
-{:toc}
-
 Each component in the drivetrain category has its own unique tests.
 
 # V-wheel

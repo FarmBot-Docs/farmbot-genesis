@@ -4,9 +4,6 @@ slug: "utm-box"
 description: "Packing details for the UTM box"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item                          |Qty                           |

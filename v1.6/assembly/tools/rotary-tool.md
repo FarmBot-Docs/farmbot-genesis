@@ -4,9 +4,6 @@ slug: "rotary-tool"
 description: "Documentation for the FarmBot Genesis rotary tool"
 ---
 
-* toc
-{:toc}
-
 
 The **rotary tool** features a 24 volt DC motor, interchangeable implements, and an adjustable motor angle allowing FarmBot to perform light duty weed whacking, soil surface milling, and drilling operations.
 

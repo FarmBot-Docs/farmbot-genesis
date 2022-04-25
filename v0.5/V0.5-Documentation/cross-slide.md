@@ -3,9 +3,6 @@ title: "Cross-Slide"
 slug: "cross-slide"
 ---
 
-* toc
-{:toc}
-
 There were no changes to the V0.5 cross-slide from the V0.4 one.
 
 {% include gallery.html images="

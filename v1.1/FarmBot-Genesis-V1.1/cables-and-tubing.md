@@ -3,9 +3,6 @@ title: "Cables and Tubing"
 slug: "cables-and-tubing"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Feed the x-axis cable carrier
 Feed the three **liquid/gas tubes**, two **RAMPS power cables**, **solenoid valve cable**, and **vacuum pump cable** through the **x-axis cable carrier**. Leave about 50cm of tubing and cable sticking out one of the ends for later attaching to the power supply and peripherals.
 

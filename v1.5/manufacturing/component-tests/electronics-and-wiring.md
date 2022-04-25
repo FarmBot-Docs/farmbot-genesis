@@ -3,9 +3,6 @@ title: "Electronics and Wiring Tests"
 slug: "electronics-and-wiring"
 ---
 
-* toc
-{:toc}
-
 Each component in the electronics and wiring category has its own unique tests.
 
 # Power Supply

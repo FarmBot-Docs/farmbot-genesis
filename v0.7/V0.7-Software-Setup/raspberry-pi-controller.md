@@ -4,9 +4,6 @@ slug: "raspberry-pi-controller"
 description: "Step-by-step instructions for installing the necessary FarmBot software onto the Raspberry Pi"
 ---
 
-* toc
-{:toc}
-
 The Raspberry Pi is the brain of your FarmBot and has several pieces of software installed on it that allow it to:
 
 * Communicate with the web application via meshblu over WiFi or ethernet in order to synchronize (download) the latest schedules and sequences, and upload the latest logs and sensor data.

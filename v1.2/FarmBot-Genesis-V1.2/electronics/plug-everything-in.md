@@ -3,9 +3,6 @@ title: "Plug Everything In"
 slug: "plug-everything-in"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the RAMPS power cable to the power supply
 
 {%

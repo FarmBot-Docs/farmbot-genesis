@@ -4,9 +4,6 @@ slug: "electronics-and-wiring"
 description: "Tech specs, prices, quantities, and recommended suppliers for the electronics and wiring in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|

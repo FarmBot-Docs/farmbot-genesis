@@ -3,9 +3,6 @@ title: "Assemble the Electronics Box"
 slug: "assemble-the-electronics-box"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

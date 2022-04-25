@@ -4,9 +4,6 @@ slug: "arduino-firmware"
 description: "Step-by-step instructions for installing farmbot-arduino-firmware onto the Arduino"
 ---
 
-* toc
-{:toc}
-
 The [Farmbot Arduino Firmware](https://github.com/FarmBot/farmbot-arduino-firmware) performs the following tasks:
 
  * Physically controls the FarmBot hardware by sending electrical pulses to the stepper motor drivers, reading voltages from pins, and outputting voltages and data to the Universal Tool Mount

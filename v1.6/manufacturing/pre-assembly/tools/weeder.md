@@ -4,9 +4,6 @@ slug: "weeder"
 description: "Pre-assembly and packing instructions for the weeder"
 ---
 
-* toc
-{:toc}
-
 ![weeder](_images/weeder.png)
 
 # Component list

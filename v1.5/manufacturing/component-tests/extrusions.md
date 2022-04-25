@@ -3,9 +3,6 @@ title: "Extrusion Tests"
 slug: "extrusions"
 ---
 
-* toc
-{:toc}
-
 Components subject to **extrusion tests**:
 
 * [Track Extrusion](../../Extras/bom/extrusions.md#track-extrusion)

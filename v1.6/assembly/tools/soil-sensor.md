@@ -4,9 +4,6 @@ slug: "soil-sensor"
 description: "Documentation for the FarmBot Genesis soil sensor"
 ---
 
-* toc
-{:toc}
-
 The **soil sensor** works by driving the tool vertically into the soil so that the soil properties can be read by the [[soil sensor PCB]].
 
 {% include youtube.html id="p6CPnJoHf8E" %}

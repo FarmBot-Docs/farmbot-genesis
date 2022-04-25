@@ -3,9 +3,6 @@ title: "Storing FarmBot for Winter"
 slug: "storing-farmbot-for-winter"
 ---
 
-* toc
-{:toc}
-
 While FarmBot is designed to be used and stored outdoors, you may want to bring it inside for the winter, or if an extreme weather event (such as a hurricane) is heading your way.
 
 # Step 1: Move FarmBot into a storage position

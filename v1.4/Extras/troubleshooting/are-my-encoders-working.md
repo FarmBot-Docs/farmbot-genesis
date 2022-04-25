@@ -4,9 +4,6 @@ slug: "are-my-encoders-working"
 description: "Problem description: FarmBot is having trouble with measuring movements. Learn how to interpret and diagnose common encoder issues, what causes them, and how to fix them."
 ---
 
-* toc
-{:toc}
-
 A rotary encoder, also called a shaft encoder, is an electro-mechanical device that converts the angular position or motion of a shaft or axle to analog or digital output signals.  The output of the FarmBot encoder provides information about the motion of the shaft, which is processed by the Farmduino into information such as position, speed and acceleration. The FarmBot Genesis
 
 ![NEMA_17_Stepper_Motor_w_rotary_encoder.jpg](_images/NEMA_17_Stepper_Motor_w_rotary_encoder.jpg)

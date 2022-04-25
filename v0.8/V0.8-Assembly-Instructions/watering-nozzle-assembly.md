@@ -4,9 +4,6 @@ slug: "watering-nozzle-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Watering Nozzle"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

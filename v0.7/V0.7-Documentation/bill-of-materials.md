@@ -4,9 +4,6 @@ slug: "bill-of-materials"
 description: "Descriptions, sources, quantities, and cost for every part in FarmBot Genesis V0.7"
 ---
 
-* toc
-{:toc}
-
 
 [FarmBot Genesis V0.7 Bill of Materials](https://docs.google.com/spreadsheets/d/1qRVEWzOxoqzUaQg7dh026AcnQYa9jXnil52OQLOyOe4/pubhtml?widget=true&amp;headers=false)
 

@@ -4,9 +4,6 @@ slug: "universal-tool-mount"
 description: "Documentation and assembly instructions for the FarmBot Genesis Universal Tool Mount"
 ---
 
-* toc
-{:toc}
-
 The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch tools on the z-axis to preform different operations. The UTM is necessary because it is not feasible to have all tools mounted on the z-axis at one time for several reasons:
 
   * This would be very heavy and increase stresses on all components, as well as necessitate a larger z-axis motor.

@@ -3,9 +3,6 @@ title: "Issues and Proposed Solutions"
 slug: "issues-and-proposed-solutions"
 ---
 
-* toc
-{:toc}
-
 ## Cable Management
   * Issue: There is no way to manage cables and water tubing.
   * Proposed Solution: Integrate cable carriers or another solution.

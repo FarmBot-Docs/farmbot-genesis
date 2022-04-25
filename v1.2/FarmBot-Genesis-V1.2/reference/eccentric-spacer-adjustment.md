@@ -4,9 +4,6 @@ slug: "eccentric-spacer-adjustment"
 description: "A reference guide for adjusting the spacing between FarmBot's V-wheels"
 ---
 
-* toc
-{:toc}
-
 Eccentric spacers are used for making fine adjustments to the spacing between the v-wheels on either side of an aluminum extrusion. Adjusting this spacing is key to achieving smooth and wobble-free movement of the gantry across the tracks, the cross-slide across the gantry main beam, and the z-axis up and down the cross-slide.
 
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or be tough to move. If the spacing is too great, then the connection will be wobbly and loose. Let's adjust the eccentric spacers throughout FarmBot to be just right.

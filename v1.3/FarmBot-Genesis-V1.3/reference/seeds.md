@@ -4,9 +4,6 @@ slug: "seeds"
 description: "guide to help you select seeds to plant with FarmBot"
 ---
 
-* toc
-{:toc}
-
 There are three main considerations when choosing what to plant with FarmBot:
 1. [Plant size and shape](#plant-size-and-shape)
 2. [Crop requirements](#crop-requirements)

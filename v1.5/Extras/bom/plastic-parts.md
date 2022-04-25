@@ -4,9 +4,6 @@ slug: "plastic-parts"
 description: "Tech specs for the plastic parts in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 |Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
 |---------|------|-----------|----------------|------|-----------|-------|------------|
 |[40mm Horizontal Cable Carrier Support](#40mm-horizontal-cable-carrier-support)|$3.00|12|$36.00|24|$72.00|72|$216.00

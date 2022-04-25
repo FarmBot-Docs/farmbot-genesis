@@ -3,9 +3,6 @@ title: "What's New in V0.6"
 slug: "intro"
 ---
 
-* toc
-{:toc}
-
 Genesis V0.6 was a very minor update to Genesis V0.5, in fact, the only changes are with the Universal Tool Mounting System. For this reason, you may find that this documentation page looks nearly identical to that of Genesis V0.5 and you may just want to skip down to the Universal Tool Mount Section to see what is new. Here is a summary:
 
   * Gluing in the magnets on the V0.5 Universal Tool Mount and Tools was problematic, the V0.6 design uses screws to hold the magnets in place

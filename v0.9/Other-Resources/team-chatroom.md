@@ -6,6 +6,3 @@ link_url: "https://gitter.im/FarmBot/chat"
 link_external: true
 ---
 
-* toc
-{:toc}
-

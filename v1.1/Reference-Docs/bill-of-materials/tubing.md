@@ -4,9 +4,6 @@ slug: "tubing"
 description: "Tech specs, prices, quantities, and recommended suppliers for the tubing in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|

@@ -4,9 +4,6 @@ slug: "pre-assembly"
 description: "Pre-assembly instructions for Genesis and Genesis XL sub-assemblies :wrench: :gear:"
 ---
 
-* toc
-{:toc}
-
 Some subassemblies of FarmBot Genesis come pre-assembled in the box. The following pages show how the pre-assemblies were put together at the factory, which may be useful if you need to disassemble and reassemble parts of your FarmBot.
 
 # What's next?

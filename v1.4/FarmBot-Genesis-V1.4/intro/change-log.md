@@ -4,9 +4,6 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
-* toc
-{:toc}
-
 # FarmBot Genesis XL
 The most notable change from FarmBot Genesis v1.3 is that v1.4 devices are now available in the larger FarmBot Genesis XL size, covering an area 3m wide and 6m in length (400% larger than the smaller FarmBot Genesis). In addition to including the obvious additional hardware needed for the XL version (more track extrusions, longer cables, additional screws, etc), each XL kit also includes:
 * A new machined aluminum part named the "Gantry Joining Bracket" that connects two 20mm x 60mm x 1500mm aluminum extrusions end-to-end in order to create a 3m wide gantry.

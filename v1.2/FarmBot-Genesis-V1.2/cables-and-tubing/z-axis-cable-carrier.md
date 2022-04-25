@@ -3,9 +3,6 @@ title: "Z-Axis Cable Carrier"
 slug: "z-axis-cable-carrier"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Prepare the cable carrier
 

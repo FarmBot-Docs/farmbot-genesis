@@ -3,9 +3,6 @@ title: "Z-Axis"
 slug: "z-axis"
 ---
 
-* toc
-{:toc}
-
 * The Z-axis extrusion has been changed to a 20x20mm extrusion from a 20x40mm one in order to save space and weight
   * A custom 3D printable or bent sheet metal bracket has been designed to hold the Z-axis motor
   * A 3D printable motor housing has been added

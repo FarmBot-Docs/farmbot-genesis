@@ -3,9 +3,6 @@ title: "Assemble the UTM"
 slug: "assemble-the-utm"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

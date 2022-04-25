@@ -4,9 +4,6 @@ slug: "bill-of-materials"
 description: "CAD models, prices, quatities, suppliers, and tech specs for each component in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 Use the tables below to easily order all of the parts for a FarmBot from our recommended suppliers. Clicking a component's name will jump you down the page where you can see that component's tech specs, view drawings and photos, find links to other suppliers, and download CAD models and manufacturing files in various formats.
 
 You can also **[bulk download the entire CAD library](https://drive.google.com/open?id=0B-wExYzQcnp3T2trQUNSMmhLQnM)** and **[all manufacturing files](https://drive.google.com/folderview?id=0B-wExYzQcnp3U2NPZy1QQmQxWFU&usp=sharing)**.

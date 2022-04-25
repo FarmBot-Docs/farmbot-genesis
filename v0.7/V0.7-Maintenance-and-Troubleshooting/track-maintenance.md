@@ -4,9 +4,6 @@ slug: "track-maintenance"
 description: "Keep your tracks straight and parallel for optimal FarmBot performace"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

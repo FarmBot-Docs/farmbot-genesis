@@ -3,9 +3,6 @@ title: "Attach the Electronics Box"
 slug: "attach-the-electronics-box"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Gather the parts and tools
 

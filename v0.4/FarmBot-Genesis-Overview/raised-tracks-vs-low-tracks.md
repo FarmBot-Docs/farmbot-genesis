@@ -3,9 +3,6 @@ title: "Raised Tracks vs Low Tracks"
 slug: "raised-tracks-vs-low-tracks"
 ---
 
-* toc
-{:toc}
-
 For FarmBots to properly grow taller plants, the Gantry, Cross-Slide, Z-Axis, and Tools must have adequate vertical clearance from the plants. This can generally be accomplished in two ways:
 
 1. Using raised tracks and a low-profile gantry

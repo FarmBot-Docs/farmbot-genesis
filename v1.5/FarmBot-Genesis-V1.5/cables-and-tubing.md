@@ -3,9 +3,6 @@ title: "Cables and Tubing"
 slug: "cables-and-tubing"
 ---
 
-* toc
-{:toc}
-
 Installing the cables and tubing through FarmBot's cable carriers can be a tedious process. Take your time when installing the cables to ensure you complete this part of the assembly correct the first time, otherwise it might become frustrating if you need to re-do anything.
 
 # Cable carrier reference

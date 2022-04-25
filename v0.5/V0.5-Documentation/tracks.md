@@ -3,9 +3,6 @@ title: "Tracks"
 slug: "tracks"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
   * Repositioned the cable carrier alongside the track extrusion rather than below it. This eliminates the custom bent brackets in V0.4 with long screws and tee nuts
   * The track joining plates had to be modified to have a lower profile so that they only cover half of the track extrusions. This allows the cable carrier to rest flush against the extrusions and prevent snagging on top of the plates.

@@ -4,9 +4,6 @@ slug: "electronics"
 description: "Documentation for FarmBot Genesis electronics"
 ---
 
-* toc
-{:toc}
-
 
 ![electronics.jpg](_images/electronics.jpg)
 

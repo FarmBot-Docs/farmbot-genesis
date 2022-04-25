@@ -3,9 +3,6 @@ title: "10 Month Environmental Damage"
 slug: "10-month-environmental-damage"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis V0.1 was assembled and left standing in a backyard in the Central Coast of California for 10 months, excluding a Summer/Fall portion of the year. The results of the weather damage are summarized and shown in the gallery below.
 
   * All screws from OpenBuilds (with the black finish) rusted significantly while the galvanized bolts from the hardware store showed no signs of corrosion

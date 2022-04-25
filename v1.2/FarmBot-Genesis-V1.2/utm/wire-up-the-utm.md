@@ -3,9 +3,6 @@ title: "Wire up the UTM"
 slug: "wire-up-the-utm"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Feed the UTM cable through the UTM cover
 Push the end of the **UTM cable** *without connectors* through the center **grommet** in the **UTM cover** so that the outer gray rubber of the cable extends about 5cm beneath the cover.
 

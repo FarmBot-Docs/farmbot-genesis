@@ -4,9 +4,6 @@ slug: "wifi-configurator"
 description: "Step-by-step instructions for installing and using the WiFi Configurator utility"
 ---
 
-* toc
-{:toc}
-
 The [WiFi Configurator utility](https://github.com/FarmBot/wifi-configurator) is a piece of software that makes it easy to connect a WiFi enabled device that does not have a screen and keyboard (such as your FarmBot's Raspberry Pi) to a WiFi network. With this utility installed, you will not ever need to connect a keyboard and screen to the device or SSH into the device over an ethernet connection just to connect it to a WiFi network.
 
 {%

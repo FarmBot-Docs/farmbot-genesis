@@ -4,9 +4,6 @@ slug: "pier-block-supports"
 description: "Step-by-step instructions for setting up pier block supports for FarmBot Genesis, Genesis XL, or Genesis MAX"
 ---
 
-* toc
-{:toc}
-
 As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to wooden posts only. However, this will make track alignment trickier and the structure may be less stable without the additional support of the bed boards. Care will need to be exercised to install posts in a sturdy fashion.
 
 {%

@@ -3,9 +3,6 @@ title: "Universal Tool Mount"
 slug: "universal-tool-mount"
 ---
 
-* toc
-{:toc}
-
 The V0.4 Universal Tool Mount has been completely redesigned to be actuator-less, simpler, smaller, 3D printable, and more affordable to produce. The primary mechanism for holding the tool in the mount is a pair of strong ring magnets, one on the tool and one on the mount, each held in with 5mm screws. Both the tool and the mount are tapered to allow easy coupling an de-coupling of the components.
 
 In addition to the magnet holding screws, there are three additional pairs of screws in the tool and the mount that make physical contact when the tool and mount are coupled. These three screws, along with the magnet holding screws allow for power and data to be passed from the mount to the tools, with the magnet holding screw being ground. The three screws have springs between the heads and the mount, enforcing them to make consistent electrical contact. In addition, the three screws act as keys to prevent the tool from rotating undesirably in the mount.

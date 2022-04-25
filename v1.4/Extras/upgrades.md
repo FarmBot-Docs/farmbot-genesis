@@ -3,9 +3,6 @@ title: "Upgrades"
 slug: "upgrades"
 ---
 
-* toc
-{:toc}
-
 Many people wish to upgrade their FarmBots with new hardware as new versions are released. This can be a great way to give your bot new abilities, improve reliability or performance, or even fix an issue you may be having with your setup.
 
 While there are many possible ways to upgrade a FarmBot, some ways will be inexpensive, easy, and offer great benefit, while other ways may not be worthwhile depending on your needs. In the sections below, we outline several popular upgrade paths from older versions to v1.4 hardware. This is not an exhaustive list of ways you can upgrade, but instead reflects the most worthwhile ways considering benefit, cost, and difficulty.

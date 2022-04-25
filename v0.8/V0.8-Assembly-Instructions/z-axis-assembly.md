@@ -4,9 +4,6 @@ slug: "z-axis-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Z-Axis"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

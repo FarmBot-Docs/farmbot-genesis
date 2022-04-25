@@ -4,9 +4,6 @@ slug: "z-axis"
 description: "Documentation for FarmBot Genesis V0.8 Z-Axis"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
   * Plates are now 5mm thick
   * Motor mount screws and flex coupling setscrews are now stainless steel

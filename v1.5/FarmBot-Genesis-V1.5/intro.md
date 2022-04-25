@@ -5,9 +5,6 @@ description: "100% open-source, DIY, highly customizable FarmBot\n[Order yours h
 redirect_from: /docs/v1.5/
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

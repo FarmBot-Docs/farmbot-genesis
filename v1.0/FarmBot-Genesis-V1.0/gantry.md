@@ -4,9 +4,6 @@ slug: "gantry"
 description: "Documentation and assembly instructions for the FarmBot Genesis gantry"
 ---
 
-* toc
-{:toc}
-
 
 <iframe width="100%" height="480" src="https://sketchfab.com/models/2375ad3050104c568307afc1db73d3e2/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 

@@ -4,9 +4,6 @@ slug: "building-a-mobile-raised-bed"
 description: "Step-by-step instructions for building a mobile raised bed for your FarmBot"
 ---
 
-* toc
-{:toc}
-
 Building a mobile raised bed is the recommended method for installing a FarmBot **indoors**. In these instructions we show you how to build a simple but sturdy bed suited for FarmBot Genesis. Please note, we do not recommend building a mobile raised bed for Genesis XL devices, as that would be unwieldy and prohibitively difficult to move.
 
 ![Soil.JPG](_images/Soil.JPG)

@@ -4,9 +4,6 @@ slug: "assembly-tools"
 description: "Packing details for the assembly tools"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item                          |Qty                           |

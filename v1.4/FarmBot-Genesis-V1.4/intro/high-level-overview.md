@@ -4,9 +4,6 @@ slug: "high-level-overview"
 description: "Bird's eye view of FarmBot Genesis and Genesis XL"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis and Genesis XL are small scale FarmBots primarily constructed from V-Slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino microcontroller, and a Raspberry Pi 3 computer.
 
 Current models can cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m. With additional hardware and modifications, it may be possible to scale the Genesis concept to cover approximately 50m<sup>2</sup> and a maximum plant height of 1.5m, though at this time we do not offer kits with such capacity.

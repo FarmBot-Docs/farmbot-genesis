@@ -3,9 +3,6 @@ title: "Track Maintenance"
 slug: "track-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Clean track surfaces
 Once a month, inspect your tracks for an accumulation of mud, dirt, and other debris. Because the tracks are so low to the ground, it is common for them to accumulate unwanted materials. This can create unnecessary friction for the gantry when moving across the tracks, ultimately leading it to bind up if the tracks are not cleaned.
 

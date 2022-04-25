@@ -3,9 +3,6 @@ title: "Gantry"
 slug: "gantry"
 ---
 
-* toc
-{:toc}
-
 The Gantry has seen significant change in V0.2. The most notable is the switch from a looped belt drive system that ran the full length of each track to a belt and pinion style system. Feeding the belt through the extrusions in V0.1 was hard for 1.5m length tracks and nearly impossible for 3m length tracks. The belt and pinion system uses half of the belt length and greatly simplifies installations and tightening of the belt. It also eliminates the need for pulleys and mounting plates at the end of the tracks.
 
 Genesis V0.2 prototype plates cut out of MDF with a CNC router

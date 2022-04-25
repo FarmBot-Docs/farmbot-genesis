@@ -3,9 +3,6 @@ title: "Install the Cross-Slide on the Gantry"
 slug: "install-the-cross-slide-on-the-gantry"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Adjust the eccentric spacers
 In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must first adjust the eccentric spacers of the bottom three V-wheels. Adjust the eccentric spacers using the [eccentric spacer adjustment reference guide](../reference/eccentric-spacer-adjustment.md).
 

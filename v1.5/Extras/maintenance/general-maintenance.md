@@ -3,9 +3,6 @@ title: "General Maintenance"
 slug: "general-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Keep FarmBot clean
 
 FarmBot is a farmer that works and lives all day and night outside with the rain, sun, bugs, birds, and dirt. At the same time, FarmBot is a precision CNC machine with a lot of parts that allow it to move with millimeter accuracy to grow your food. Most would say these things can't co-exist. But they can with regular cleaning of your device.

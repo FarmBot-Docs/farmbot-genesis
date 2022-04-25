@@ -3,9 +3,6 @@ title: "Gantry"
 slug: "gantry"
 ---
 
-* toc
-{:toc}
-
 The Track/Gantry plates are slightly modified from V0.2 to re-position the endstops so that they can be clicked by screws and teenuts rather than small plates.
 
 ## Issues and Proposed Solutions:

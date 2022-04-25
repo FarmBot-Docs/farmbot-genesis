@@ -3,9 +3,6 @@ title: "Versions"
 slug: "versions"
 ---
 
-* toc
-{:toc}
-
 Genesis is currently being developed and has undergone several versions. We encourage skimming through the other versions to understand how we arrived at the latest design iteration, or to see what's new in the later versions.
 
   * V0.7 – Under Construction. Major changes: removal of endstops, stronger z-axis motor mount, added z-axis cable carrier, track plates and gantry corner plates redesign, upgraded universal tool mount to support 6 liquid lines and 12 electrical connections, quick access electronics enclosure, larger cable carriers

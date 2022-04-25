@@ -3,9 +3,6 @@ title: "Gantry"
 slug: "gantry"
 ---
 
-* toc
-{:toc}
-
 There are five changes to the V0.4 gantry from V0.3:
 
   * The main beam is now attached to the front of the corner brackets rather than behind them. This change was so simple and minor but it greatly improves the design. This allows the user to slide on and off the cross-slide without detaching the main beam from the corner brackets. This is hugely important from an ease of assembly and maintenance perspective. The change also allows the gantry width to be adjusted more easily because the extrusion can be longer than necessary and hang off the edges. Lastly, this change allows the cross-slide to more fully move within the farm-able area, rather than being stopped prematurely by the corner brackets. Looking forward, the new design allows for an extended gantry to be implemented that is two extrusions wide or more.

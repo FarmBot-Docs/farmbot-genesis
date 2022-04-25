@@ -4,9 +4,6 @@ slug: "solenoid-valve"
 description: "Packing details for the solenoid valve"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item|Sub-packing|Qty|

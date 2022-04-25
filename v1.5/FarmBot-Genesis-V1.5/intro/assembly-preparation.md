@@ -4,9 +4,6 @@ slug: "assembly-preparation"
 description: "Shorten the time it takes to assemble your FarmBot by following these preliminary steps"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

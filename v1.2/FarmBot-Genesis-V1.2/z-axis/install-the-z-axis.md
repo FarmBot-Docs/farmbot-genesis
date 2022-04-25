@@ -3,9 +3,6 @@ title: "Install the Z-Axis"
 slug: "install-the-z-axis"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Attach the z-axis to the cross-slide
 

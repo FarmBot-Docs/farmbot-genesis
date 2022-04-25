@@ -4,9 +4,6 @@ slug: "complete-the-cycle-with-compost"
 description: "DIY instructions for using a dual chamber compost tumbler with FarmBot"
 ---
 
-* toc
-{:toc}
-
 No matter how well FarmBot tends to your plants, they won't do well without nutrient-rich soil. Adding compost is an easy and low-cost way to build healthy soil using yard and kitchen waste. Examples of compostable materials include food scraps, leaves, papers, grass clippings and other yard waste, and dead or otherwise unwanted plants.
 
 # Setting up a Composter

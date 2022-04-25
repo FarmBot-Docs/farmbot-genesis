@@ -4,9 +4,6 @@ slug: "high-level-software-overview"
 description: "Description of the FarmBot Software Toolchain"
 ---
 
-* toc
-{:toc}
-
 As shown below, there are six main components of the FarmBot software tool chain. Read the descriptions of each to understand the system as a whole, and then dive into setting up the necessary components for your FarmBot system.
 
 1. [The FarmBot Web Application](https://github.com/FarmBot/farmbot-web-app) allows you to program and control your FarmBot from a web browser. You can host the web application yourself on your own servers, or use the [My FarmBot](http://my.farmbot.cc) service.

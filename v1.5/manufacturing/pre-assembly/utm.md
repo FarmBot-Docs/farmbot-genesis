@@ -4,9 +4,6 @@ slug: "utm"
 description: "Pre-assembly instructions for the Genesis and Genesis XL UTM"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach pogo pins to the PCB
 
 Attach 12 **pogo pins** to the **UTM PCB** using 24 **jam nuts** (2 per pogo pin).

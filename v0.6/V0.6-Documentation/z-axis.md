@@ -3,9 +3,6 @@ title: "Z-Axis"
 slug: "z-axis"
 ---
 
-* toc
-{:toc}
-
 ## Z-Axis Change Log
   * No changes were made
 

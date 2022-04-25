@@ -4,9 +4,6 @@ slug: "z-axis"
 description: "Documentation and assembly instructions for the FarmBot Genesis z-axis"
 ---
 
-* toc
-{:toc}
-
 
 ![z-axis.JPG](_images/z-axis.JPG)
 

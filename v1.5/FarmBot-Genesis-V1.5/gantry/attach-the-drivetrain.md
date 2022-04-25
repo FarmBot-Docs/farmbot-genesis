@@ -3,9 +3,6 @@ title: "Attach the Drivetrain"
 slug: "attach-the-drivetrain"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the gantry motors
 
 Slide a **motor** into a **horizontal motor housing**, ensuring that the shaft of the motor is coming out of the housing and that the motor and encoder connectors are facing down through the open bottom of the housing.

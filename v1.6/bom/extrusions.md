@@ -4,9 +4,6 @@ slug: "extrusions"
 description: "Tech specs for the extrusions in FarmBot Genesis. Visit [our shop](http://shop.farm.bot)"
 ---
 
-* toc
-{:toc}
-
 
 {% include bom_table.html %}
 

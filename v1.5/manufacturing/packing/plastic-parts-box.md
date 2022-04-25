@@ -4,9 +4,6 @@ slug: "plastic-parts-box"
 description: "Packing details for the plastic parts box inside each main carton"
 ---
 
-* toc
-{:toc}
-
 There are two versions of the plastic parts box: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
 
 # Packing list

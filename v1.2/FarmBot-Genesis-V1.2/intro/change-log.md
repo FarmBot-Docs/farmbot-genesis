@@ -4,9 +4,6 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
-* toc
-{:toc}
-
 # New metal surface treatment
 Previous prototypes have called for the metal plates and brackets to be tumble polished. However, we have found through some experimentation that tumble polishing is not good enough. Now we are using a three step process:
   * Tumble polishing to remove burrs and sharp edges/corners

@@ -4,9 +4,6 @@ slug: "extrusion-and-leadscrew-packing"
 description: "Instructions for packing Genesis and Genesis XL extrusion and leadscrew kits"
 ---
 
-* toc
-{:toc}
-
 The tables below show the items that should be packed into the **extrusion and leadscrew kit** for each version.
 
 # Genesis packing list

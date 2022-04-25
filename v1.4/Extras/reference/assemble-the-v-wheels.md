@@ -3,9 +3,6 @@ title: "Assemble the V-Wheels"
 slug: "assemble-the-v-wheels"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

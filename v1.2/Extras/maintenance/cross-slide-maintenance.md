@@ -3,9 +3,6 @@ title: "Cross-Slide Maintenance"
 slug: "cross-slide-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Inspect the delrin leadscrew block
 Over time, it is possible for the delrin leadscrew block to wear down. This can introduce play into the system that decreases z-axis precision, which can cause issues with the mounting and dismounting of tools.
 

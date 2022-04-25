@@ -3,9 +3,6 @@ title: "Universal Tool Mount"
 slug: "universal-tool-mount"
 ---
 
-* toc
-{:toc}
-
 The Universal Tool Mount system was introduced in V0.2 hardware as a way to allow FarmBot to switch tools in an automated way so that it does not have to carry all of the tools at once. In addition, whichever tool is being used, generally has to be the “lowest” in Z-height so that it can reach the soil or plant. With all tools being mounted to the Z-Axis at the same time as in V0.1 hardware, all tools were competing to be the lowest. The Universal Tool Mount solves this issue.
 
 The Universal Tool Mount system consists of five components:

@@ -3,9 +3,6 @@ title: "Tracks"
 slug: "tracks"
 ---
 
-* toc
-{:toc}
-
 V0.4 tracks feature simplified connecting plates that are about half the size of V0.3 plates and use half the number of screws for each connection. This simplifiction reduces the number of components and assembly time significantly. Additionally the plates are flat on the top and flush with the track extrusions, creating a cleaner aesthetic for tracks mounted to short posts as seen in the renderings. Also different from V0.3 is that the mounting holes for attaching to the post are 20mm apart rather than 40mm, allowing the plates to attach to 20x40mm extrusion posts.
 
 Also new in V0.4 tracks is the use of a cable carrier/drag chain for cable management along the tracks. This is less visually and spatially impactful than the wire and trolley system introduced in V0.3 hardware. Though it will be more expensive, it is more suited to smaller FarmBots such as Genesis. A series of light duty bent metal brackets are in place along the tracks to support the cable carrier.

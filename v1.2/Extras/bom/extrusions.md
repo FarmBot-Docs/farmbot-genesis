@@ -4,9 +4,6 @@ slug: "extrusions"
 description: "Tech specs for the extrusions in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |$ Subtotal                    |
 |------------------------------|------------------------------|------------------------------|------------------------------|

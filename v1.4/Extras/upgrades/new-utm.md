@@ -3,9 +3,6 @@ title: "New UTM"
 slug: "new-utm"
 ---
 
-* toc
-{:toc}
-
 This upgrade involves replacing the UTM, UTM cover, and UTM cable with the v1.4 injection molded UTM featuring an integrated PCB with gold-plated pogo pins, as well as a v1.4 UTM cable with unified connectors and rubber cover. This upgrade may improve the reliability of the electrical connections between the UTM and the tools. If you haven't finished building your FarmBot, the v1.4 hardware is also much easier to assemble/install than the v1.2 or v1.3 hardware.
 
 |                              |                              |
