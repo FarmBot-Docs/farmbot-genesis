@@ -4,9 +4,6 @@ slug: "v-wheels"
 description: "Pre-assembly instructions for the V-wheels"
 ---
 
-* toc
-{:toc}
-
 Each V-Wheel consists of four components:
 * One [V-wheel](../../bom/drivetrain/v-wheel.md)
 * Two [bearings](../../bom/drivetrain/v-wheel.md)

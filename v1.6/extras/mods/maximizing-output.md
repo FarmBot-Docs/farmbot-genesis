@@ -4,9 +4,6 @@ slug: "maximizing-output"
 description: "Techniques for getting the most out of your FarmBot"
 ---
 
-* toc
-{:toc}
-
 FarmBot is primarily designed for servicing the area defined by the tracks and gantry (ie: within reach of the tool head). However, there are many ways in which FarmBot can take care of plants that are beyond the confines of the tracks and gantry. By using the techniques outlined below, you can maximize output and increase the value you get from your FarmBot.
 
 # Place vining crops at the ends of the bed

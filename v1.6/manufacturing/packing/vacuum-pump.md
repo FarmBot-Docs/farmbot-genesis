@@ -4,9 +4,6 @@ slug: "vacuum-pump"
 description: "Packing details for the vacuum pump"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item|Sub-packing|Qty|

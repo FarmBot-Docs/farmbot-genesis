@@ -3,9 +3,6 @@ title: "What's New in V0.5"
 slug: "intro"
 ---
 
-* toc
-{:toc}
-
 Genesis V0.5 exhibits the following changes from Genesis V0.4
 
   * The Tracks cable carrier is repositioned and now supported with teenuts and long M5 screws, just like on the Gantry

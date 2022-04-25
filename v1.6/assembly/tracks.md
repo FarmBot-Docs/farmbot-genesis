@@ -4,9 +4,6 @@ slug: "tracks"
 description: "Documentation and assembly instructions for the FarmBot Genesis tracks"
 ---
 
-* toc
-{:toc}
-
 FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models and 6m for Genesis <span class="fb-xl-sticker">XL</span>.
 
 ![Completed tracks](_images/completed_tracks.png)

@@ -4,9 +4,6 @@ slug: "packing"
 description: "Instructions for packing Genesis and Genesis XL kits at the factory :building_construction: :package:"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

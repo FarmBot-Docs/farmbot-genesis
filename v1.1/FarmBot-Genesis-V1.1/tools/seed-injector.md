@@ -4,9 +4,6 @@ slug: "seed-injector"
 description: "Documentation and assembly instructions for the FarmBot Genesis Seed Injector"
 ---
 
-* toc
-{:toc}
-
 The seed injector works by using a strong vacuum pump to suction-hold a single seed onto the plastic tip. It is made of a single 3D printed plastic piece with a few other components screwed onto it for magnetic coupling and electronic verification with the UTM.
 
 ![Screen Shot 2016-11-26 at 4.59.37 PM.png](_images/Screen_Shot_2016-11-26_at_4.59.37_PM.png)

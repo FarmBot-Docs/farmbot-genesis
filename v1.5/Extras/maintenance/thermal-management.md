@@ -4,9 +4,6 @@ slug: "thermal-management"
 description: "Learn more about FarmBot's thermal operating limits"
 ---
 
-* toc
-{:toc}
-
 FarmBot has been designed to operate in challenging environments including in hot weather conditions and in greenhouses. FarmBot is also able to withstand cold weather conditions provided that proper care has been taken to winterize the machine.
 
 # Checking the temperature

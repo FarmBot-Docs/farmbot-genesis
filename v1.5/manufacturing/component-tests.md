@@ -4,9 +4,6 @@ slug: "component-tests"
 description: "Functional and quality assurance tests for each component in FarmBot Genesis and Genesis XL"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

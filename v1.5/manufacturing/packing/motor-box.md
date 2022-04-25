@@ -4,9 +4,6 @@ slug: "motor-box"
 description: "Packing details for the motor box inside each main carton"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item                          |Qty                           |

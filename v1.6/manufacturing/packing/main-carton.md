@@ -4,9 +4,6 @@ slug: "main-carton"
 description: "Instructions for packing Genesis and Genesis XL main cartons"
 ---
 
-* toc
-{:toc}
-
 The tables below show the items that should be packed into the **main carton** for each version of the kit.
 
 # Genesis packing list

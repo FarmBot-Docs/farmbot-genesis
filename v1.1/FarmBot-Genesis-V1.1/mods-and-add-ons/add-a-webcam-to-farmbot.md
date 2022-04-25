@@ -4,9 +4,6 @@ slug: "add-a-webcam-to-farmbot"
 description: "DIY instructions for adding a webcam to your FarmBot + usage examples"
 ---
 
-* toc
-{:toc}
-
 There are many reasons you might want to add a webcam to your FarmBot. Here are a few:
 * To watch FarmBot move from work, inside your house, or across the world
 * To show FarmBot off to your friends

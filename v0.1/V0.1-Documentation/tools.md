@@ -3,9 +3,6 @@ title: "Tools"
 slug: "tools"
 ---
 
-* toc
-{:toc}
-
 ## Watering Nozzle
 The Genesis Watering Nozzle shown to the left and below the seed injector, consists of a spray nozzle, a solenoid valve, and tubing. Not pictured is additional tubing that will need to run along the tool mount, gantry, and tracks in order to connect to a water source such as a garden hose. Future watering nozzles may feature flow meters, different spray nozzles, or even the addition of a peristaltic pump and tank that would allow for the precise addition of liquid fertilizer or pesticide to the water spray.
 

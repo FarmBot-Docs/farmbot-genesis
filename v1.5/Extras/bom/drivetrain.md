@@ -4,9 +4,6 @@ slug: "drivetrain"
 description: "Tech specs for the drivetrain components in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 |Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|MAX Qty|MAX Subtotal|
 |---------|------|-----------|----------------|------|-----------|-------|--------|
 |[V-Wheel](#v-wheel)|$6.00|30|$180.00|30|$180.00|30|$180.00

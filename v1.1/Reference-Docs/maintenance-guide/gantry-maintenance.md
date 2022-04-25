@@ -3,9 +3,6 @@ title: "Gantry Maintenance"
 slug: "gantry-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Re-Equalize and Synchronize the Gantry
 It is possible for the gantry to become twisted such that is not perpendicular to the tracks. This is usually caused by an obstruction on one track that stalls that side of the gantry and mis-aligns the system, or a loose belt on one track.
 

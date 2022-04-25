@@ -4,9 +4,6 @@ slug: "toolbays"
 description: "Documentation and assembly instructions for the FarmBot Genesis toolbays"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or seed trays each. These simple hardware components act as holsters for your tools and are shaped in such a way that FarmBot can automatically mount and dismount tools for the task at hand.
 
 {% include youtube.html id="vjvIB5wXmRo" %}

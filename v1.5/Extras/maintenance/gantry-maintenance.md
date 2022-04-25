@@ -3,9 +3,6 @@ title: "Gantry Maintenance"
 slug: "gantry-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Gantry
 
 ## Equalize and synchronize the gantry

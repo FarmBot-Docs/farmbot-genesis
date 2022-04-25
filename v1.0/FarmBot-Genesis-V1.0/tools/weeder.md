@@ -4,9 +4,6 @@ slug: "weeder"
 description: "Documentation and assembly instructions for the FarmBot Genesis Weeder"
 ---
 
-* toc
-{:toc}
-
 The weeding tool is a single 3D printable component magnetically mounts onto FarmBot's UTM like any other tool. It works by driving the tool vertically into the soil in order to push any small weeds under the soil, and disrupt their young fragile root systems.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fsketchfab.com%2Fmodels%2Fec9a1a4b27a743d98c51bc78307937e0%2Fembed&url=https%3A%2F%2Fsketchfab.com%2Fmodels%2Fec9a1a4b27a743d98c51bc78307937e0&image=https%3A%2F%2Fd35krx4ujqgbcr.cloudfront.net%2Furls%2Fec9a1a4b27a743d98c51bc78307937e0%2Fdist%2Fthumbnails%2F16a6dad6cc7f48b0b01cbff5d6b09a98%2F640x360.jpeg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=sketchfab" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>

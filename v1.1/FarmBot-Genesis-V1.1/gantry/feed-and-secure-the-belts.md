@@ -3,9 +3,6 @@ title: "Feed and Secure the Belts"
 slug: "feed-and-secure-the-belts"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Feed the Belts
 Feed GT2 timing belt down the center of your gantry column, ensuring the orientation is correct so that the belt teeth will engage the motor pulley properly.
 

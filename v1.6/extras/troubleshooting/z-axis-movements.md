@@ -4,9 +4,6 @@ slug: "z-axis-movements"
 description: "The z-axis frequently stalls when moving upwards. Movements may fail to complete, and in some cases the z-axis may even stall and then begin moving in the opposite direction."
 ---
 
-* toc
-{:toc}
-
 # 1. Adjust the z-axis speed and acceleration
 
 Try lowering the z-axis **[MAX SPEED](https://my.farm.bot/app/designer/settings?highlight=max_speed)** and **[ACCELERATE FOR](https://my.farm.bot/app/designer/settings?highlight=accelerate_for)** a longer distance. You may try halving the default max speed and doubling the default acceleration distance as a starting point, but because every FarmBot installation is a bit different, you will need to experiment to find the best values for you.

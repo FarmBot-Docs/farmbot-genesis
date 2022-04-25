@@ -4,9 +4,6 @@ slug: "lighting"
 description: "Add the LED light strip to the Gantry"
 ---
 
-* toc
-{:toc}
-
 
 # Install the light strip
 

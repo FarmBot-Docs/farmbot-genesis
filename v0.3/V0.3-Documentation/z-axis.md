@@ -3,9 +3,6 @@ title: "Z-Axis"
 slug: "z-axis"
 ---
 
-* toc
-{:toc}
-
 The Z-axis motor mount has remained the same since V0.2.
 
 ## Issues and Proposed Solutions

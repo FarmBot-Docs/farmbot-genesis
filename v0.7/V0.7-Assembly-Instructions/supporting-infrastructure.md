@@ -4,9 +4,6 @@ slug: "supporting-infrastructure"
 description: "Step-by-step instructions for setting up supporting infrastructure for FarmBot Genesis V0.7"
 ---
 
-* toc
-{:toc}
-
 FarmBot Tracks need to be attached to supporting infrastructure. Where you decide to install your FarmBot will determine how you setup your Tracks and therefor what supporting infrastructure you need. You might attach your track plates to 2x4 wood posts, aluminum extrusion posts, or to existing infrastructure such as a raised bed or greenhouse walls. The choice is up to you how you set this up.
 
 {%

@@ -3,9 +3,6 @@ title: "Z-Axis Maintenance"
 slug: "z-axis-maintenance"
 ---
 
-* toc
-{:toc}
-
 ## Clean and lubricate the Leadscrew
 The z-axis leadscrew will become dirty after being outside for a prolonged period of time. Excessive dirt and grime on the leadscrew can cause premature wear, a loss of precision, and missed steps if not addressed.
 

@@ -4,9 +4,6 @@ slug: "tracks"
 description: "Documentation and assembly instructions for the FarmBot Genesis tracks"
 ---
 
-* toc
-{:toc}
-
 FarmBot's tracks allow the gantry to move precisely along the x-axis. They are designed to attach to a raised bed or similar supporting infrastructure.
 
 ![v1.3 Tracks.JPG](_images/v1.3_Tracks.JPG)

@@ -4,9 +4,6 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
-* toc
-{:toc}
-
 # Plastic Parts
 With v1.3 we built many more injection mold tools that allow us to manufacture plastic parts more quickly, at a lower cost, and at a higher quality than machining. The new injection molded parts include:
 * Horizontal Cable Carrier Supports

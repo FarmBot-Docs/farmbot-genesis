@@ -4,9 +4,6 @@ slug: "camera"
 description: "Documentation and assembly instructions for the FarmBot Genesis camera"
 ---
 
-* toc
-{:toc}
-
 The camera is not a typical FarmBot tool in the sense that it does not mount onto the universal tool mount and it is not stored in a toolbay. Instead, it remains fixed in place on the z-axis next to the UTM and can be used at any time, even when other tools are mounted.
 
 The camera itself is a borescope style camera that is fully waterproof. It can be used to take photos for weed detection, [time lapse photography](../../Extras/mods/take-time-lapse-plant-photography.md) of your plants growing, and video for live streaming what is happening at the UTM. Note: video streaming support is coming soon.

@@ -4,9 +4,6 @@ slug: "bill-of-materials"
 description: "List of all materials used in FarmBot Genesis V0.8"
 ---
 
-* toc
-{:toc}
-
 The table below combines the bills of materials for each subassembly so that it is more convenient for you to place orders.
 
 Also, check out this spreadsheet: https://docs.google.com/spreadsheets/d/1C5f-NefcbTMRIdFK7lGw6RA2jhmCn76w1I1Y099sMKQ/edit#gid=0

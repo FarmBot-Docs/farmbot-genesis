@@ -3,9 +3,6 @@ title: "Cross-Slide"
 slug: "cross-slide"
 ---
 
-* toc
-{:toc}
-
 There are three changes to the V0.4 cross-slide from V0.3:
 
   * The motor is slightly re-positioned to support the 3D printed housing

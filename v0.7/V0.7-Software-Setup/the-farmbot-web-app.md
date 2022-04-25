@@ -4,9 +4,6 @@ slug: "the-farmbot-web-app"
 description: "Step-by-step instructions for setting up the FarmBot Web App"
 ---
 
-* toc
-{:toc}
-
 The [Farmbot Web App](https://github.com/FarmBot/farmbot-web-app) is a cloud based web service that performs the following functions:
 
  * Storage of device info and calibration settings

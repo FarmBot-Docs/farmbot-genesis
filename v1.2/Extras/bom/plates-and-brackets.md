@@ -4,9 +4,6 @@ slug: "plates-and-brackets"
 description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 ![All Plates.JPG](_images/All_Plates.JPG)
 

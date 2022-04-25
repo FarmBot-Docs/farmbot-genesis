@@ -4,9 +4,6 @@ slug: "assembly-preparation"
 description: "Preliminary steps to take before assembling the major components of your FarmBot"
 ---
 
-* toc
-{:toc}
-
 In order to shorten the time it takes for you to assemble your FarmBot hardware, follow these preliminary steps.
 
 {%

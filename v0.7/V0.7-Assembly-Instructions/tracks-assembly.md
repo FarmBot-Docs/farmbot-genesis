@@ -4,9 +4,6 @@ slug: "tracks-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Tracks"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Attach the Track Plates
 

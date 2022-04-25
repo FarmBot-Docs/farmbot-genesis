@@ -4,9 +4,6 @@ slug: "cross-slide-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.8 Cross-Slide"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

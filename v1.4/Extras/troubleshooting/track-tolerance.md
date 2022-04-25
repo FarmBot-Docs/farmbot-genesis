@@ -3,9 +3,6 @@ title: "Track Tolerance"
 slug: "track-tolerance"
 ---
 
-* toc
-{:toc}
-
 If you are trying to install your FarmBot on an uneven raised bed or with tracks that are out of alignment, you may run into issues.
 
 At this time we have not done testing to determine the tolerance of track misalignment or slope that the machines will accommodate. It would be very difficult to make any such recommendations/specifications because of how many factors are at play (eccentric spacer adjustment, temperature, flexibility of joints as assembled, flexibility of supporting infrastructure, FarmBot weight, stepper driver tuning/power delivery, belt tension, cleanliness of the extrusions, exact FarmBot model, location along an axis, wind, etc).

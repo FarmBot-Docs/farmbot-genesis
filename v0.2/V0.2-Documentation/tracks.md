@@ -3,9 +3,6 @@ title: "Tracks"
 slug: "tracks"
 ---
 
-* toc
-{:toc}
-
 There were two major issues with V0.1 tracks:
 
   * Buckling and shifting at the track joints

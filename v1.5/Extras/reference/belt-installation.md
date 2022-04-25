@@ -4,9 +4,6 @@ slug: "belt-installation"
 description: "Secure the ends of your belts"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Slide on a belt sleeve
 Slide a **belt sleeve** onto the **belt**.
 

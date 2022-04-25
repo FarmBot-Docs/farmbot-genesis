@@ -3,9 +3,6 @@ title: "Tracks"
 slug: "tracks"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
 * No changes were made
 

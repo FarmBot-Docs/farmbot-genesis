@@ -4,9 +4,6 @@ slug: "miscellaneous"
 description: "Tech specs for the miscellaneous components in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
 ---
 
-* toc
-{:toc}
-
 
 |Component                     |$/Unit                        |Genesis Qty                   |Genesis Subtotal              |XL Qty                        |XL Subtotal                   |
 |------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|------------------------------|

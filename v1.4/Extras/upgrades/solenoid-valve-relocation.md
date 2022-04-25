@@ -3,9 +3,6 @@ title: "Solenoid Valve Relocation"
 slug: "solenoid-valve-relocation"
 ---
 
-* toc
-{:toc}
-
 This upgrade involves relocating the solenoid valve from the ground/raised bed to the left gantry column. This eliminates the need for the solenoid valve cable to be routed through the x-axis cable carrier, which can slightly improve the reliability of movements along the x-axis. It also provides a "break point" in the water tube between the x-axis and y-axis cable carriers, which can be useful when removing the FarmBot gantry from the tracks for winter storage, transportation, or maintenance.
 
 |                              |                              |

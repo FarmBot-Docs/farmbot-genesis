@@ -4,9 +4,6 @@ slug: "soil-sensor"
 description: "Documentation and assembly instructions for the FarmBot Genesis Soil Sensor"
 ---
 
-* toc
-{:toc}
-
 With V1.0 hardware we introduced our first soil sensor tool. This single 3D printable component magnetically mounts onto FarmBot's UTM like any other tool. It works by driving the tool vertically into the soil so that the soil properties can be accurately read.
 
 <iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fsketchfab.com%2Fmodels%2Fea1104dce75f4a84b5986a6c48ae46e9%2Fembed&url=https%3A%2F%2Fsketchfab.com%2Fmodels%2Fea1104dce75f4a84b5986a6c48ae46e9&image=https%3A%2F%2Fd35krx4ujqgbcr.cloudfront.net%2Furls%2Fea1104dce75f4a84b5986a6c48ae46e9%2Fdist%2Fthumbnails%2Fbecc82bb06254aa5a683d8e982ebe49e%2Fblob.jpeg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=sketchfab" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen></iframe>

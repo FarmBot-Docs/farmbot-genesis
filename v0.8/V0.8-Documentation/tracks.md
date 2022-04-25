@@ -4,9 +4,6 @@ slug: "tracks"
 description: "Documentation for the FarmBot Genesis V0.8 Tracks"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
 * The track plates are now 5mm thick
 * 3D printed cable carrier brackets have an added gusset to prevent deformation due to cable carrier weight, residual internal tension from the printing process, and day/night heat cycling

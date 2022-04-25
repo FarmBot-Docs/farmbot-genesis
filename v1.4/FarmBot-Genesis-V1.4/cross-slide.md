@@ -4,9 +4,6 @@ slug: "cross-slide"
 description: "Documentation and assembly instructions for the FarmBot Genesis cross-slide"
 ---
 
-* toc
-{:toc}
-
 
 ![cross-slide1.JPG](_images/cross-slide1.JPG)
 

@@ -3,9 +3,6 @@ title: "CAD Models"
 slug: "cad"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis was designed in **Onshape**, allowing you to have full access to **view**, **copy**, **edit**, and **export** all of the source 3D CAD models for *free* from any computer or mobile device! Simply click the links below to access the various assemblies and other resources.
 
 |Category                      |Link                          |

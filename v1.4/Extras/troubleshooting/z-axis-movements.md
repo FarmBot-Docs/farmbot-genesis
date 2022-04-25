@@ -4,9 +4,6 @@ slug: "z-axis-movements"
 description: "The z-axis frequently stalls when moving upwards. Movements may fail to complete, and in some cases the z-axis may even stall and then begin moving in the opposite direction."
 ---
 
-* toc
-{:toc}
-
 # 1. Adjust the z-axis speed and acceleration
 Try lowering the maximum z-axis speed and accelerating over a longer distance. You can adjust these settings from within the web application on the **device page** > **hardware widget**.
 

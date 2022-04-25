@@ -4,9 +4,6 @@ slug: "electronics-box"
 description: "Pre-assembly instructions for the Genesis and Genesis XL electronics box"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Insert the supergland
 
 Insert the **supergland** into the slot in the bottom of the **electronics box**.

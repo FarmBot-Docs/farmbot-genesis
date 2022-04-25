@@ -4,9 +4,6 @@ slug: "maintenance"
 description: "Use these techniques to keep your FarmBot running smooth for years to come"
 ---
 
-* toc
-{:toc}
-
 In this section we'll go over maintenance tips and techniques that can keep your FarmBot operating like the day you installed it.
 
 # Keep FarmBot clean

@@ -3,9 +3,6 @@ title: "Tracks"
 slug: "tracks"
 ---
 
-* toc
-{:toc}
-
 The tracks brackets of Genesis V0.3 are slightly smaller than those of V0.2. The are generally the same design though.
 
 ## Issues and Proposed Solutions:

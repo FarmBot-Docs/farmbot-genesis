@@ -4,9 +4,6 @@ slug: "cross-slide"
 description: "Documentation and Assembly Instructions for the FarmBot Genesis Cross-Slide"
 ---
 
-* toc
-{:toc}
-
 
 <iframe width="100%" height="480" src="https://sketchfab.com/models/542d1041c50744e8b727630e25e35e5a/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
 

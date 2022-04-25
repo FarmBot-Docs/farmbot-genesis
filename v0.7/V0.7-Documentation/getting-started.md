@@ -4,9 +4,6 @@ slug: "getting-started"
 description: "DIY hardware platform optimized for small-scale soil-based food production"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis is the first FarmBot to be designed, prototyped, and manufactured. Genesis is designed to be a flexible FarmBot foundation for experimentation, prototyping, and hacking. The driving factors behind the design are simplicity, manufacturability, scalability, and hackability.
 
 ![20150305_145838.jpg](_images/20150305_145838.jpg)

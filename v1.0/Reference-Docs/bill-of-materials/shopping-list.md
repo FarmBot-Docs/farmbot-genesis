@@ -4,9 +4,6 @@ slug: "shopping-list"
 description: "Building your own FarmBot? Here is a shopping list, organized by supplier."
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

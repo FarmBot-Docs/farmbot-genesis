@@ -3,9 +3,6 @@ title: "Cross-Slide Assembly"
 slug: "cross-slide-assembly"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

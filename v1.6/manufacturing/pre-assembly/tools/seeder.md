@@ -4,9 +4,6 @@ slug: "seeder"
 description: "Pre-assembly and packing instructions for the seeder tool"
 ---
 
-* toc
-{:toc}
-
 ![seeder](_images/seeder.png)
 
 # Component list

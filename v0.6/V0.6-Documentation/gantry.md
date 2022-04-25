@@ -3,9 +3,6 @@ title: "Gantry"
 slug: "gantry"
 ---
 
-* toc
-{:toc}
-
 ## Gantry Change Log
   * No changes were made
 

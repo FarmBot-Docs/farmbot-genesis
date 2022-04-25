@@ -3,9 +3,6 @@ title: "Vacuum Pump Relocation"
 slug: "vacuum-pump-relocation"
 ---
 
-* toc
-{:toc}
-
 This upgrade involves relocating the vacuum pump from the v1.2 rainproof box to the z-axis extrusion. This can improve suction power at the needle tip by significantly shortening the length of tubing needed. This will be of greater benefit if you experience issues picking up and holding seeds.
 
 |                              |                              |

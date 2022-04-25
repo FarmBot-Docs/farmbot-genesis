@@ -4,9 +4,6 @@ slug: "packaging"
 description: "Tech specs for the packaging of FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 |Component|$/Unit|Genesis Qty|Genesis Subtotal|XL Qty|XL Subtotal|
 |---------|------|-----------|----------------|------|-----------|
 |Main Carton - Genesis|

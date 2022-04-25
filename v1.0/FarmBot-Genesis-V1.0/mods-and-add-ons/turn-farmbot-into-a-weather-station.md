@@ -4,9 +4,6 @@ slug: "turn-farmbot-into-a-weather-station"
 description: "DIY instructions for adding weather station capabilities to your FarmBot"
 ---
 
-* toc
-{:toc}
-
 FarmBot and the web application are a great hardware and software foundation that can be extended into a local weather station. In a nutshell, you simply need to add whatever sensors you want, wire them up to FarmBot's Arduino or Raspberry Pi, and then pipe the data to the FarmBot web app and/or to a service such as [Weather Underground](https://www.wunderground.com/).
 
 ![IMG_20160304_160627 (1).jpg](_images/IMG_20160304_160627_(1).jpg)

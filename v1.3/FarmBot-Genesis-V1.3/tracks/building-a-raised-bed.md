@@ -4,9 +4,6 @@ slug: "building-a-raised-bed"
 description: "Step-by-step instructions for building a raised bed for your FarmBot"
 ---
 
-* toc
-{:toc}
-
 Building a raised bed is the recommended method for installing a FarmBot. In these instructions we show you how to build a simple but sturdy raised bed suited for FarmBot Genesis. This design will fit into most yards, look great, and last a lifetime.
 
 <iframe width="100%" height="480" src="https://sketchfab.com/models/5002768ae94f4013a7dad664bdfc42ad/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>

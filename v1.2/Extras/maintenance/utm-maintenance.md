@@ -3,9 +3,6 @@ title: "UTM Maintenance"
 slug: "utm-maintenance"
 ---
 
-* toc
-{:toc}
-
 # Inspect the grommets and o-rings
 It is possible that intense temperature and adverse weather cycles could degrade the rubber grommets in the UTM cover and the o-rings on the bottom of the UTM.
 

@@ -3,9 +3,6 @@ title: "Plastic Part Tests"
 slug: "plastic-parts"
 ---
 
-* toc
-{:toc}
-
 Components subject to **plastic part tests**: All parts listed [here](../../Extras/bom/plastic-parts.md).
 
 # Size and shape

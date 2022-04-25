@@ -6,6 +6,3 @@ link_url: "https://farmbot.io/pre-order"
 link_external: true
 ---
 
-* toc
-{:toc}
-

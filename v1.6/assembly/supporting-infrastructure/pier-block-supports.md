@@ -4,9 +4,6 @@ slug: "pier-block-supports"
 description: "Step-by-step instructions for setting up pier block supports for FarmBot Genesis or Genesis XL"
 ---
 
-* toc
-{:toc}
-
 As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to **pier block supports**.
 
 {% include gallery.html images="

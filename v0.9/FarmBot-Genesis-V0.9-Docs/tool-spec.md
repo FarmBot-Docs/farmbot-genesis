@@ -4,9 +4,6 @@ slug: "tool-spec"
 description: "Specifications for creating tools that are compatible with FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 Want to design and make your own tools for FarmBot? Follow these instructions to ensure compatibility with the universal tool mount (UTM), the tool bay, and your FarmBot's electronics.
 
 {%

@@ -4,9 +4,6 @@ slug: "monitor-resource-usage"
 description: "DIY instructions for monitoring the water and electricity your FarmBot uses"
 ---
 
-* toc
-{:toc}
-
 Interested in how many liters of water your FarmBot uses? How about how many kWh? Use these guides to help you monitor the exact amount of each of these resources your FarmBot uses.
 
 # Electricity

@@ -4,9 +4,6 @@ slug: "fasteners-and-hardware"
 description: "Tech specs, prices, quantities, and recommended suppliers for the fasteners and hardware in FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 |Qty.                          |Component                     |$/Unit                        |Subtotal                      |
 |------------------------------|------------------------------|------------------------------|------------------------------|

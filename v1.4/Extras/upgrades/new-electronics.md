@@ -3,9 +3,6 @@ title: "New Electronics"
 slug: "new-electronics"
 ---
 
-* toc
-{:toc}
-
 Upgrading to the v1.4 electronics can provide significant benefit to your v1.2 device, and a modest benefit when upgrading from v1.3 FarmBot. Perhaps the most notable benefit is that the v1.4 Farmduino electronics board features an STM32 co-processor that allows the board to keep much better track of the rotary encoder signals than was possible with just the Atmega 2560 chip featured in the v1.2 and v1.3 electronics boards. This allows the FarmBot to move more reliably, accurately, and at higher speeds than before.
 
 Furthermore, the v1.4 electronics feature a streamlined single power cable (better than both v1.2 and v1.3), an easier-to-use and better-sealed electronics box (since v1.2), easier-to-use unified connectors (since v1.2), an IP67 rated waterproof power supply (better than v1.2), and the system runs on 24 volts rather than 12 volts (better than both v1.2 and v1.3).

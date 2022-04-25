@@ -3,9 +3,6 @@ title: "Tools"
 slug: "tools"
 ---
 
-* toc
-{:toc}
-
 
 # Tool Spec
 

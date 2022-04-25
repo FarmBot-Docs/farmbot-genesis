@@ -4,9 +4,6 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
-* toc
-{:toc}
-
 # Rotary Tool
 
 New in this version of FarmBot Genesis is the inclusion of the **Rotary Tool** - a weed whacker style tool powered by a 24V DC motor that is designed to help abate weeds, drill holes for seeding, or even perform light milling of the soil surface. The tool is powered by a stall detecting motor driver and is compatible with the Genesis UTM like all other tools. Users can change out the Rotary Tool's implement to weed trimmer line or a drill chuck compatible with standard dremel tool bits. The axis of the motor can be adjusted +/- 70 degrees, allowing for a wide range of use cases.

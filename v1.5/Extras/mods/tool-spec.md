@@ -3,9 +3,6 @@ title: "Tool Spec"
 slug: "tool-spec"
 ---
 
-* toc
-{:toc}
-
 Want to design and make your own tools for FarmBot? Follow these instructions to ensure compatibility with the universal tool mount (UTM), the tool bay, and your FarmBot's electronics.
 
 {%

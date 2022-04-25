@@ -4,9 +4,6 @@ slug: "setting-up-wooden-posts-only"
 description: "Step-by-step instructions for setting up wooden posts for your FarmBot"
 ---
 
-* toc
-{:toc}
-
 Alternatively, you may use only the posts for FarmBot mounting. However, with this method alignment will be trickier and the structure may be less stable without the additional support of the bed boards. Care will need to be exercised to install posts in a sturdy fashion.
 
 {%

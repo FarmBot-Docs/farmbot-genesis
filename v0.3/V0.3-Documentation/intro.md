@@ -3,9 +3,6 @@ title: "What's New in V0.3"
 slug: "intro"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis V0.3 exhibits the following changes from Genesis V0.2:
 
   * Updated bracket design to minimize the number screws needed, making assembly easier and faster and decreasing the number of parts

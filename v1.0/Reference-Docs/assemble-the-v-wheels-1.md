@@ -3,9 +3,6 @@ title: "Assemble the V-Wheels"
 slug: "assemble-the-v-wheels-1"
 ---
 
-* toc
-{:toc}
-
 Each V-Wheel actually consists of four components:
 * One polycarbonate v-wheel
 * Two 16mm x 5mm x 5mm stainless steel, rubber sealed ball bearings

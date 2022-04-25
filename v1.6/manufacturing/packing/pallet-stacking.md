@@ -4,9 +4,6 @@ slug: "pallet-stacking"
 description: "Instructions for palletizing Genesis and Genesis XL kits"
 ---
 
-* toc
-{:toc}
-
 # Main cartons
 
 ## Step 1: First three layers

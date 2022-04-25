@@ -3,9 +3,6 @@ title: "Assemble the V-Wheels"
 slug: "assemble-the-v-wheels"
 ---
 
-* toc
-{:toc}
-
 Each V-Wheel actually consists of four components:
 * One [V-wheel](../../Extras/bom/drivetrain.md#v-wheels)
 * Two [bearings](../../Extras/bom/drivetrain.md#bearings)

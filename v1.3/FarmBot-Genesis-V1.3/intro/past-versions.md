@@ -4,9 +4,6 @@ slug: "past-versions"
 description: "Abbreviated descriptions of what changed from version to version of FarmBot Genesis"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

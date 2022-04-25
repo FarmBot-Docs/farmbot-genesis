@@ -3,9 +3,6 @@ title: "Fasteners and Hardware Tests"
 slug: "fasteners-and-hardware"
 ---
 
-* toc
-{:toc}
-
 Components subject to **fasteners and hardware tests**: All parts listed [here](../../Extras/bom/fasteners-and-hardware.md).
 
 # Size and shape

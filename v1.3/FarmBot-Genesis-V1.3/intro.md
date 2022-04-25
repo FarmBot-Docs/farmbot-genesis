@@ -5,9 +5,6 @@ description: "DIY open-source hardware platform optimized for small-scale soil-b
 redirect_from: /docs/v1.3/
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

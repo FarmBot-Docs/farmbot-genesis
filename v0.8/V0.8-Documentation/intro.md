@@ -5,9 +5,6 @@ description: "Improvements from V0.7 hardware"
 redirect_from: /docs/v0.8/
 ---
 
-* toc
-{:toc}
-
 Genesis V0.8 is nearly a production ready device. In this version, we sourced all corrosion resistant components (bearings, screws, etc) to make FarmBot a truly long lasting product built for harsh environments. We made small modifications to some of the 3D printed brackets so that they resist deforming, and notable changes to the Universal Tool Mount to improve reliability. The plates have been upgraded to 5mm thick, and screws lengthened to support this. This time around, we made two prototypes: a 'standard' size FarmBot that is 3m long and 1.5m wide, and an 'XL' size that is 6m long and 3m wide for four times the growing area. These two form factors will become the standardized machine sizes that we launch on Kickstarter with.
 
 # Change Log

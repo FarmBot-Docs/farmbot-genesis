@@ -3,9 +3,6 @@ title: "Construct the Gantry Structure"
 slug: "construct-the-gantry-structure"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Attach the plates to the columns
 

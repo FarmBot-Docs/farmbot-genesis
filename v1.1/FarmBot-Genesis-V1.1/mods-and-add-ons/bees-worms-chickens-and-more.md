@@ -4,9 +4,6 @@ slug: "bees-worms-chickens-and-more"
 description: "Supplement your home food system with these other open source kits"
 ---
 
-* toc
-{:toc}
-
 Our friends at the [AKER project](https://akerkits.com/) share a similar vision for the future of food as us. They have created simple garden kits that snap together without tools, which we recommend adding to your FarmBot so you can have a more complete food system right in your backyard!
 
 All of their designs are open-source and can be CNC routed at your local MakerSpace, or purchased from them directly at [akerkits.com](https://akerkits.com/).

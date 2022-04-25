@@ -3,9 +3,6 @@ title: "What's New in V0.4"
 slug: "intro"
 ---
 
-* toc
-{:toc}
-
 Genesis V0.4 exhibits the following changes from Genesis V0.3
 
   * Simplified track mounting brackets now have less screws for easier installation, less material use, and a cleaner look when attached to short wood posts or extrusions

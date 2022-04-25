@@ -4,9 +4,6 @@ slug: "power-supply-box"
 description: "Packing details for the power supply box inside each main carton"
 ---
 
-* toc
-{:toc}
-
 # Packing list
 
 |Item                          |Qty                           |

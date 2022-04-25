@@ -4,9 +4,6 @@ slug: "gantry-assembly"
 description: "Step-by-step instructions for assembling your FarmBot Genesis V0.7 Gantry"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Assemble the Gantry Plates
 

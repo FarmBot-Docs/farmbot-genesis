@@ -3,9 +3,6 @@ title: "Construct the Gantry Structure"
 slug: "construct-the-gantry-structure"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the plate to the column
 For this part of the assembly you will need:
 * The two gantry wheel plate assemblies

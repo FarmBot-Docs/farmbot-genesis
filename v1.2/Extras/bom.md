@@ -4,9 +4,6 @@ slug: "bom"
 description: "Top-level BOM for all components in FarmBot Genesis, grouped by category"
 ---
 
-* toc
-{:toc}
-
 The table below lists all of the components used in FarmBot Genesis grouped by category. To see detailed tech specs, 3D models, and 2D drawings of each component, start by clicking a category and then choosing a component from the following page.
 
 |Category                      |# of Components               |Subtotal                      |

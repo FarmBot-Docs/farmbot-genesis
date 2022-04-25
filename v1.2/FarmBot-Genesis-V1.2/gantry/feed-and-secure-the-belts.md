@@ -3,9 +3,6 @@ title: "Feed and Secure the Belts"
 slug: "feed-and-secure-the-belts"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Feed the belts
 Drop the ends of one of the **x-axis belts** down the two large openings of a **gantry column**, ensuring that the belt teeth engage the **GT2 pulley**.
 

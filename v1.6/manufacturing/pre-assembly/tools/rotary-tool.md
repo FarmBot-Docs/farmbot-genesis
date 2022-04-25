@@ -4,9 +4,6 @@ slug: "rotary-tool"
 description: "Pre-assembly and packing instructions for the rotary tool"
 ---
 
-* toc
-{:toc}
-
 # Component list
 
 |Component                     |Qty  |

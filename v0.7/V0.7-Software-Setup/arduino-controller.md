@@ -4,9 +4,6 @@ slug: "arduino-controller"
 description: "Step-by-step instructions for installing the farmbot-arduino-controller software onto the Arduino"
 ---
 
-* toc
-{:toc}
-
 [The Farmbot Arduino Firmware](https://github.com/FarmBot/farmbot-arduino-controller) performs the following tasks:
 
  * Physically controls the device by sending electrical pulses to the motor drivers, reading voltages from pins, and outputting voltages and data to the Universal Tool Mount

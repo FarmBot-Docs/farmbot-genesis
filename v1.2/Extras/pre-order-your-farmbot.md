@@ -7,6 +7,3 @@ link_external: true
 redirect_to: https://farm.bot/shop
 ---
 
-* toc
-{:toc}
-

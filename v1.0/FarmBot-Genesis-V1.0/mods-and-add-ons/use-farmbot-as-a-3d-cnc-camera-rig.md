@@ -4,9 +4,6 @@ slug: "use-farmbot-as-a-3d-cnc-camera-rig"
 description: "Use FarmBot to move a camera around in three dimensions for fun videography!"
 ---
 
-* toc
-{:toc}
-
 Want to make some awesome videos of your garden? Well lucky for you, FarmBot is a conveniently programmable 3-axis CNC machine which you can use to precisely move your camera around in 3D space! Watch the video below to see how we used FarmBot to just this for many of our official videos.
 
 (video coming soon!)

@@ -3,9 +3,6 @@ title: "Tools"
 slug: "tools"
 ---
 
-* toc
-{:toc}
-
 FarmBot Genesis kits come with four tools to cover the basics of food production, as well as two toolbays, a seed bin, and two seed trays. The following documentation pages explain how to assemble and install all of these tools and more.
 
 ![tools in toolbays](_images/tools_in_toolbays.jpg)

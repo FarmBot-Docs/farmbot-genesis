@@ -3,9 +3,6 @@ title: "Plate and Bracket Tests"
 slug: "plates-and-brackets"
 ---
 
-* toc
-{:toc}
-
 Components subject to **plate and bracket tests**:
 
 * [Track End Plate](../../Extras/bom/plates-and-brackets.md#track-end-plate)

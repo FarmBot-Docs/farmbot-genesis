@@ -3,9 +3,6 @@ title: "X-Axis Motors"
 slug: "x-axis-motors"
 ---
 
-* toc
-{:toc}
-
 
 # Step 1: Connect the X1 motor and encoder cables
 

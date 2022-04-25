@@ -4,9 +4,6 @@ slug: "soil-sensor"
 description: "Pre-assembly and packing instructions for the soil sensor"
 ---
 
-* toc
-{:toc}
-
 ![soil sensor](_images/soil_sensor.png)
 
 # Component list

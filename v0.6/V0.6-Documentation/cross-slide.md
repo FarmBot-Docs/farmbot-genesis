@@ -3,9 +3,6 @@ title: "Cross-Slide"
 slug: "cross-slide"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
 * No changes were made.
 

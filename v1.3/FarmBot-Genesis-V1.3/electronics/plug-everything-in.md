@@ -3,9 +3,6 @@ title: "Plug Everything In"
 slug: "plug-everything-in"
 ---
 
-* toc
-{:toc}
-
 
 {%
 include callout.html

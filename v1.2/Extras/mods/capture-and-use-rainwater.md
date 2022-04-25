@@ -4,9 +4,6 @@ slug: "capture-and-use-rainwater"
 description: "DIY instructions for installing and using a rain barrel in conjunction with FarmBot"
 ---
 
-* toc
-{:toc}
-
 If you live off-grid or want to save on your water bill, consider installing a rain barrel to store collected rain from your roof or other collection surface, and then using this source of water with your FarmBot.
 
 ![943962_979991568755937_6771329722782099719_n.jpg](_images/943962_979991568755937_6771329722782099719_n.jpg)

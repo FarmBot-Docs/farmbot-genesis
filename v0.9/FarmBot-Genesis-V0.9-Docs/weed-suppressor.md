@@ -4,9 +4,6 @@ slug: "weed-suppressor"
 description: "Documentation and assembly instructions for the FarmBot Genesis Weed Suppressor"
 ---
 
-* toc
-{:toc}
-
 With V0.9 hardware we introduced our first weed suppression/removal tool. This single 3D printable component magnetically mounts onto FarmBot's UTM like any other tool. It works by driving the tool vertically into the soil in order to push any small weeds under the soil, and disrupt their young fragile root systems. When the tool is retracted out of the soil, the plastic fins grab the soil and lift it up - further disrupting the roots and soil.
 
 {%

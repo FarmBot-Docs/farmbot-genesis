@@ -4,9 +4,6 @@ slug: "picking-up-seeds"
 description: "The FarmBot fails to pick up seeds entirely, frequently drops seeds when moving, or sucks seeds fully into the needle or vacuum system."
 ---
 
-* toc
-{:toc}
-
 # 1. Consider seed characteristics
 
 Seed size, weight, and shape can have considerable impact on the effectiveness and reliability of FarmBot's needle and vacuum pump based seeding mechanism. Seeds should not be excessively small or large, cannot be too heavy, and are ideally of a round, smooth shape. [Pelleted seeds](../reference/seeds.md#pelleted-seeds) are specifically designed for use with farming equipment and are an ideal choice for use with FarmBot. Consult the [seeds page](../reference/seeds.md) for more details.

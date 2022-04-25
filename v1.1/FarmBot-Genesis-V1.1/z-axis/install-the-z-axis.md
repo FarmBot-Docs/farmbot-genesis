@@ -3,9 +3,6 @@ title: "Install the Z-Axis"
 slug: "install-the-z-axis"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the z-axis to the cross-slide
 Slide the **z-axis extrusion** through the wheels on the **cross-slide** until the **leadscrew** is resting on the **leadscrew block**.
 

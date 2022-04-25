@@ -3,9 +3,6 @@ title: "Plug Everything In"
 slug: "plug-everything-in"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Attach the RAMPS Shield to the Power Supply
 Use **2-16 stranded wire** (two stranded wires of 16 gauge) to connect the **power supply** to the **RAMPS shield**. One wire should connect the ground output of the power supply to the negative/ground input on the RAMPS shield. The other wire should connect the +12V output of the power supply to the positive input on the RAMPS shield.
 

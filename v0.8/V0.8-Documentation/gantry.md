@@ -4,9 +4,6 @@ slug: "gantry"
 description: "Documentation for the FarmBot Genesis V0.8 Gantry"
 ---
 
-* toc
-{:toc}
-
 ## Change Log
   * Plates are now 5mm thick and screws lengthened appropriately
   * Addition of stainless steel washers between nuts and plates to improve connection and reduce wear on the plates.

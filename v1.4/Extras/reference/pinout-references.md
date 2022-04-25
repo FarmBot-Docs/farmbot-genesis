@@ -3,9 +3,6 @@ title: "Pinout References"
 slug: "pinout-references"
 ---
 
-* toc
-{:toc}
-
 # Pinout reference table
 
 |Mapped Pin Name               |RAMPS                         |v1.3 Farmduino                |v1.4 Farmduino                |

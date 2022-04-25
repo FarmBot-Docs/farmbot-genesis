@@ -4,9 +4,6 @@ slug: "weeder"
 description: "Documentation for the FarmBot Genesis weeder"
 ---
 
-* toc
-{:toc}
-
 The weeder tool works by pushing small weeds under the soil surface and disrupting their fragile root systems.
 
 {% include youtube.html id="NsEdALh3ZYY" %}

@@ -4,9 +4,6 @@ slug: "watering-nozzle"
 description: "Documentation and assembly instructions for the FarmBot Genesis Watering Nozzle"
 ---
 
-* toc
-{:toc}
-
 The watering nozzle is a single 3D printed component with a few extra parts for magnetic coupling and electronic verification with the UTM. It works as a simple diffuser nozzle by accepting a concentrated stream of water coming from the UTM and turning it into a gentle shower.
 
 <iframe width="100%" height="480" src="https://sketchfab.com/models/d343f37909c1491b9fba49fe39b71065/embed?ui_controls=0&amp;ui_infos=0&amp;ui_related=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>

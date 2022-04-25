@@ -3,9 +3,6 @@ title: "Assemble the Gantry Wheel Plates"
 slug: "assemble-the-gantry-wheel-plates"
 ---
 
-* toc
-{:toc}
-
 Before we start assembly, know that each completed gantry wheel plate will have nine wheel assemblies attached to it that allow it to slide along the tracks. The five wheels that ride on the top of the tracks will be attached to the plates with **[standard spacers](../../Extras/bom/fasteners-and-hardware.md#m5-spacers)**. The four wheels that ride underneath the tracks will be attached to the plates with **[eccentric spacers](../../Extras/bom/fasteners-and-hardware.md#m5-x-6mm-eccentric-spacers)**. The eccentric spacers will be used to finely adjust the spacing between the top and the bottom wheels such that the gantry will roll smoothly and snuggly along the tracks.
 
 For wheel assembly instructions, see [Assemble the V-Wheels](../reference/assemble-the-v-wheels.md).

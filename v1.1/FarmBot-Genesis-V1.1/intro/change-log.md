@@ -4,9 +4,6 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
-* toc
-{:toc}
-
 # Removed the driveshaft
 We removed the driveshaft and replaced its functionality with a second x-axis motor mounted to the second gantry column. This change allowed us to remove the driveshaft, 5mm to 5mm flex coupling, 5mm lock collar, the driveshaft bearings, and the driveshaft bearing plate. This change makes assembly easier, and also makes available double the torque to move the gantry along the tracks. This will be important for people who want to modify their FarmBots to have longer tracks or a wider gantry - both of which increase the mass that must be pulled/moved by the x-axis motors.
 

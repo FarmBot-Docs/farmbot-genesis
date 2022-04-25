@@ -4,9 +4,6 @@ slug: "gantry"
 description: "Documentation and assembly instructions for the FarmBot Genesis gantry"
 ---
 
-* toc
-{:toc}
-
 
 ![v1.3 gantry.JPG](_images/v1.3_gantry.JPG)
 

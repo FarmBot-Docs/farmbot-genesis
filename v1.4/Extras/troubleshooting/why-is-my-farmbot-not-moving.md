@@ -4,9 +4,6 @@ slug: "why-is-my-farmbot-not-moving"
 description: "Problem description: FarmBot is having trouble with movements. This Troubleshooting document has been adapted from a post that was originally written by Marc Dingena on the FarmBot Community Forum."
 ---
 
-* toc
-{:toc}
-
 This troubleshooting document guides you through a checklist of FarmBot settings, diagnostic tools, and hardware checks to help you get your FarmBot moving reliably. You will start out troubleshooting with simple actions. If these don’t work for you, you should continue through this guide and perform additional actions to troubleshoot your problem. Test your setup after completing each step to see if your problem is solved.
 
 {%

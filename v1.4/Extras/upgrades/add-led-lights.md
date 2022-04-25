@@ -3,9 +3,6 @@ title: "Add LED Lights"
 slug: "add-led-lights"
 ---
 
-* toc
-{:toc}
-
 Since v1.3, all FarmBot kits have included an LED strip. If you want to add LED lights to your v1.2 kit, simply purchase a 12v light strip, cut off the connector, strip the wires, and connect it to the RAMPS shield.
 
 |                              |                              |

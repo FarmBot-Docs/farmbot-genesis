@@ -3,9 +3,6 @@ title: "Issues and Proposed Solutions"
 slug: "issues-and-proposed-solutions"
 ---
 
-* toc
-{:toc}
-
 Genesis V0.1 was an initial prototype utilizing all off-the-shelf components from [OpenBuilds](http://openbuildspartstore.com). For this reason, it was a very quick and easy starting point for hardware design, allowing us to learn as much as we could as fast as possible with minimal design and part manufacturing effort. However, it also had many flaws being the first prototype and using no custom parts. Read on to see what we learned and what design changes we want to implement in FarmBot Genesis V2
 
 ## Track Installation

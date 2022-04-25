@@ -4,9 +4,6 @@ slug: "control-lights-with-farmbot"
 description: "DIY instructions for installing and controlling LED or grow lights with FarmBot"
 ---
 
-* toc
-{:toc}
-
 Want to light up your FarmBot at night so you can more easily harvest dinner-time veggies? Or maybe you want to experiment with growth rates by using specialized grow lights? Whatever the reason you want to have lights on your FarmBot, we'll show you how to do it in this easy tutorial.
 
 ![Lights.jpg](_images/Lights.jpg)

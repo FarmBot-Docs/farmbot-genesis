@@ -3,9 +3,6 @@ title: "Install the cables and tubing"
 slug: "install-the-cables-and-tubing"
 ---
 
-* toc
-{:toc}
-
 # Step 1: Add a Power Cord to your Power Supply
 
 Attach a three pronged power cord to the power supply.

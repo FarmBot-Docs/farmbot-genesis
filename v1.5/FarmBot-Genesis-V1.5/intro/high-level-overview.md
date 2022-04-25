@@ -4,9 +4,6 @@ slug: "high-level-overview"
 description: "Bird's eye view of FarmBot Genesis, Genesis XL, and Genesis MAX"
 ---
 
-* toc
-{:toc}
-
 **FarmBot Genesis**, **Genesis XL**, and **Genesis MAX** are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 54m<sup>2</sup>, and plants as tall as 1m.
 
 ![farmbot genesis v1.5](_images/farmbot_genesis_v1.5.png)

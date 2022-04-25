@@ -4,9 +4,6 @@ slug: "watering-nozzle"
 description: "Documentation for the FarmBot Genesis watering nozzle"
 ---
 
-* toc
-{:toc}
-
 The **watering nozzle** accepts a concentrated stream of water coming from the [[UTM]] and turns it into a gentle shower for your plants.
 
 {% include youtube.html id="xh7imhENpLQ" %}

@@ -3,9 +3,6 @@ title: "What's New in V0.2"
 slug: "intro"
 ---
 
-* toc
-{:toc}
-
 There are many design changes from Genesis V0.1 to V0.2 that make this version a huge improvement:
 
   * Design and implementation of custom brackets and plates for greater strength and a more optimized design. These could be produced at home with a drill and a printout, a CNC router, waterjetting, or laser cutter

@@ -4,9 +4,6 @@ slug: "seeder"
 description: "Documentation for the FarmBot Genesis seeder tool"
 ---
 
-* toc
-{:toc}
-
 The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **needle**.
 
 {% include youtube.html id="nXFdJIQaQB4" %}

@@ -4,9 +4,6 @@ slug: "take-time-lapse-plant-photography"
 description: "DIY instructions for using FarmBot to control camera equipment for time lapse photography of your plants growing"
 ---
 
-* toc
-{:toc}
-
 Want to make cool time lapse videos of your food growing? FarmBot can help you do this in a variety of ways.
 
 # Individual plant time lapse

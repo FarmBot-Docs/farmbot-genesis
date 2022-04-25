@@ -4,9 +4,6 @@ slug: "cable-and-tubing-box"
 description: "Packing details for the cable and tubing box inside each main carton"
 ---
 
-* toc
-{:toc}
-
 There are two versions of the **cable and tubing box**: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The tables below show what items should be packed into each.
 
 # Genesis packing list
