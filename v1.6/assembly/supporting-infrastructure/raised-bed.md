@@ -18,7 +18,7 @@ title="8-12 hours"
 content="This is the estimated time it will take to build a fixed raised bed."
 %}
 
-## Maximum raised bed size
+# Maximum raised bed size
 
 The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis <span class="fb-xl-sticker">XL</span> kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
@@ -47,7 +47,7 @@ content="While FarmBot Genesis and Genesis XL kits only include enough extrusion
 
 # Step 1: Acquire materials
 
-## Genesis bed (1.48m x 3m)
+# Genesis bed (1.48m x 3m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|
@@ -61,7 +61,7 @@ content="While FarmBot Genesis and Genesis XL kits only include enough extrusion
 |1  |Sealer, stain, or polyurethane               |$20   |$20
 |   |**TOTAL**                                    |      |**$119**
 
-## Genesis XL bed (2.98m x 6m)
+# Genesis XL bed (2.98m x 6m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|

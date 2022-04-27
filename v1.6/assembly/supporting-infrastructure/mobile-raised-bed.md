@@ -22,7 +22,7 @@ title="6 hours"
 content="This is the estimated time it will take to build a mobile raised bed."
 %}
 
-## Determining bed size
+# Determining bed size
 
 We recommend building your mobile raised bed as big as it can be for your space, without exceeding the maximum assembled size of the FarmBot. This will ensure you get the most value out of your FarmBot without making the bed unnecessarily large. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 

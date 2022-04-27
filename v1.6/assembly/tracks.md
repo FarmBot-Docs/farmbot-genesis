@@ -17,11 +17,11 @@ content="This is the estimated time it will take to assemble the tracks, mostly 
 
 The two tracks must be a parallel distance apart between 0.5m and 1.5m for Genesis, and 1.5m and 3m for Genesis <span class="fb-xl-sticker">XL</span> so that the gantry may span the distance between them. Tracks may be spaced closer together than the maximum, in which case you may consider cutting the gantry main beam so that it does not inconveniently extend beyond the tracks.
 
-## Shortening the tracks
+# Shortening the tracks
 
 The easiest way to shorten the tracks is to remove extrusions. Should you want an overall track length different than the 1.5m increments the extrusions afford, then you will need to use a hacksaw or bandsaw to cut the extrusions to your desired length. You can shorten your tracks to a minimum length of around 0.5m.
 
-## Lengthening the tracks
+# Lengthening the tracks
 
 If you would like to extend your tracks, you will need additional extrusions, track joining plates, cable carrier supports, and hardware, as well as longer x-axis cable carrier, belt, wiring, and tubing.
 
