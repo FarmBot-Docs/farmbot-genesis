@@ -52,7 +52,7 @@ internal-specs:
 |Mount fit    |Connect the end pieces to the appropriate cable carrier mounts/supports using the appropriate hardware.|Should fit as expected|N/A
 |Contents fit |Inert all cables and tubing into each cable carrier according to FarmBot system design.|Should fit as expected|N/A
 
-## End piece configuration
+# End piece configuration
 
 {%
 include callout.html
@@ -61,14 +61,14 @@ title="Configuration of the end pieces"
 content="The images below labelled X-Axis, Y-Axis, and Z-Axis illustrate the configuration of the end pieces. They are not representative of the actual length of the cable carriers."
 %}
 
-### X-configuration
+## X-configuration
 
 ![End pieces configuration - X](_images/cable_carrier_end_piece_configuration_x.jpg)
 
-### Y-configuration
+## Y-configuration
 
 ![End pieces configuration - Y](_images/cable_carrier_end_piece_configuration_y.jpg)
 
-### Z-configuration
+## Z-configuration
 
 ![End pieces configuration - Z](_images/cable_carrier_end_piece_configuration_z.jpg)

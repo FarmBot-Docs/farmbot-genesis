@@ -33,7 +33,7 @@ internal-specs:
   notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span>"
 ---
 
-## Open-source
+# Open-source
 
 {%
 include callout.html
