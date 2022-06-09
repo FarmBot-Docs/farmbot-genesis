@@ -117,6 +117,7 @@ bom:
       - image: pogo_pin.jpg
       - image: power_cord_protector.jpg
       - image: power_supply.jpg
+      - image: power_supply_cable.jpg
       - image: push_button.jpg
       - image: raspberry_pi_power_cable.jpg
       - image: raspberry_pi.jpg
@@ -128,6 +129,7 @@ bom:
       - image: universal_tool_mount_cable_y.jpg
       - image: universal_tool_mount_pcb.jpg
       - image: vacuum_pump.jpg
+      - image: vacuum_pump_cable_y.jpeg
   - category: plates-and-brackets
     parts:
       - image: cable_carrier_mount_80mm.jpg
