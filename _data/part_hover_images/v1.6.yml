@@ -8,12 +8,12 @@ bom:
       - image: z-axis_extrusion.jpg
   - category: fasteners-and-hardware
     parts:
-      - image: assembly_tool_allen_key_2mm.jpg
-      - image: assembly_tool_hex_driver_2mm.jpg
-      - image: assembly_tool_hex_driver_3mm.jpg
-      - image: assembly_tool_nut_driver_5_5mm.jpg
-      - image: assembly_tool_nut_driver_8mm.jpg
-      - image: assembly_tool_wrench_8mm.jpg
+      - image: allen_key_2mm.jpg
+      - image: hex_driver_2mm.jpg
+      - image: hex_driver_3mm.jpg
+      - image: nut_driver_5_5mm.jpg
+      - image: nut_driver_8mm.jpg
+      - image: wrench_8mm.jpg
       - image: eccentric_spacer.jpg
       - image: m2.5_screw.jpg
       - image: m3_flat_head_screw_16mm.jpg
