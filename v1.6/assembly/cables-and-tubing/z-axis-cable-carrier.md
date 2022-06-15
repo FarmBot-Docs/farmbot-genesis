@@ -28,12 +28,12 @@ Keeping the mounting orientation of the cable carrier in mind, lay the following
 
 |Item|Cross-slide end description|
 |----|---------------------------|
-|[Z-axis water tube](../../bom/tubing/tube.md) (0.95m long)|Either
-|[Z-axis UTM cable](../../bom/electronics-and-wiring/universal-tool-mount-cable.md) (1.0m long)|End with the 90-degree connector
-|[Camera](../../bom/electronics-and-wiring/camera.md) (1.0m long)|End with the 90-degree connector
-|[Z-axis vacuum pump cable](../../bom/electronics-and-wiring/vacuum-pump-cable.md) (1.0m long)|End with the 90-degree connector
-|[ZZ motor cable](../../bom/electronics-and-wiring/motor-cable.md) (1.8m long)|End with the 90-degree connector
-|[ZZ encoder cable](../../bom/electronics-and-wiring/encoder-cable.md) (1.8m long)|End with the 90-degree connector
+|Z-axis [[water tube]] (0.95m long)|Either
+|Z-axis [[UTM cable]] (1.0m long)|End with the 90-degree connector
+|[[Camera]] (1.0m long)|End with the 90-degree connector
+|[[Z vacuum pump cable]] (1.0m long)|End with the 90-degree connector
+|ZZ [[motor cable]] (1.8m long)|End with the 90-degree connector
+|ZZ [[encoder cable]] (1.8m long)|End with the 90-degree connector
 
 {%
 include callout.html

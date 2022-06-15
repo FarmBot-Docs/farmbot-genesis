@@ -8,23 +8,23 @@ The tables below show the items that should be packed into the **extrusion and l
 
 # Genesis packing list
 
-|Item|Sub-packing|Genesis Qty|
-|----|-----------|-----------|
-|[Track Extrusion](../../bom/extrusions/track-extrusion.md) (20 x 40 x 1500mm)|Wrapped with recycled kraft paper|4
-|[Gantry Column](../../bom/extrusions/gantry-column.md) (20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
-|[Gantry Main Beam](../../bom/extrusions/gantry-main-beam.md) (20 x 60 x 1500mm)|Wrapped with recycled kraft paper|1
-|[Z-Axis Extrusion](../../bom/extrusions/z-axis-extrusion.md) (20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
-|[Leadscrew](../../bom/drivetrain/leadscrew.md)|Clear plastic tube with end caps|1
+|Item|Sub-packing|Qty|
+|----|-----------|---|
+|[[Track Extrusion]]<br>(20 x 40 x 1500mm)|Wrapped with recycled kraft paper|4
+|[[Gantry Column]]<br>(20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
+|[[Gantry Main Beam]]<br>(20 x 60 x 1500mm)|Wrapped with recycled kraft paper|1
+|[[Z-Axis Extrusion]]<br>(20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
+|[[Leadscrew]]|Clear plastic tube with end caps|1
 
-# Genesis XL packing list
+# Genesis <span class="fb-xl-sticker">XL</span> packing list
 
-|Item|Sub-packing|Genesis <span class="fb-xl-sticker">XL</span> Qty|
-|----|-----------|--------------|
-|[Track Extrusion](../../bom/extrusions/track-extrusion.md) (20 x 40 x 1500mm)|Wrapped with recycled kraft paper|8
-|[Gantry Column](../../bom/extrusions/gantry-column.md) (20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
-|[Gantry Main Beam](../../bom/extrusions/gantry-main-beam.md) (20 x 60 x 1500mm)|Wrapped with recycled kraft paper|2
-|[Z-Axis Extrusion](../../bom/extrusions/z-axis-extrusion.md) (20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
-|[Leadscrew](../../bom/drivetrain/leadscrew.md)|Clear plastic tube with end caps|1
+|Item|Sub-packing|Qty|
+|----|-----------|---|
+|[[Track Extrusion]]<br>(20 x 40 x 1500mm)|Wrapped with recycled kraft paper|8
+|[[Gantry Column]]<br>(20 x 60 x 500mm)|Wrapped with recycled kraft paper|2
+|[[Gantry Main Beam]]<br>(20 x 60 x 1500mm)|Wrapped with recycled kraft paper|2
+|[[Z-Axis Extrusion]]<br>(20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
+|[[Leadscrew]]|Clear plastic tube with end caps|1
 
 # Edge protectors and straps
 

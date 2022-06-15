@@ -1,27 +1,27 @@
 ---
-title: "Vacuum Pump Cable"
-slug: "vacuum-pump-cable"
-description: "This cable connects the vacuum pump to the Farmduino. It comes in two pieces, a Y-axis section labelled Y and a Z-axis section labelled Z that connect with a 90-degree screw-together waterproof connection at the cross-slide."
+title: "Y Vacuum Pump Cable"
+slug: "vacuum-pump-cable-y"
+description: "This cable is the Y-axis portion of a 2-part cable that connects the vacuum pump to the Farmduino."
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3d148d0ea29c59a3d910e93f?renderMode=0&uiState=6255dd87582c8d091a1f75ba
-variants: Y, 2.6m|Y, 4.1m|Z, 1.0m
-price: $15.00|$20.00|$12.00
+variants: 2.6m|4.1m
+price: $15.00|$20.00
 quantity:
-  standard: 1|0|1
-  xl: 0|1|1
+  standard: 1|0
+  xl: 0|1
 specs:
   cable: Shielded 18AWG-2C
-  lengths: 2.6m|4.1m|1.0m
+  lengths: 2.6m|4.1m
   rated voltage: 300V
   inner colors: Red and black
   outer color: Black
   heat shrink color: Gray
   end 1: "3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|
-  3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|3-pin waterproof screw together 90 degree plug"
-  end 2: '3-pin waterproof screw together receptacle|3-pin waterproof screw together receptacle|Three 3/16" insulated quick-connect terminals'
+  3-pin black connector <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>"
+  end 2: '3-pin waterproof screw together receptacle|3-pin waterproof screw together receptacle'
 internal-specs:
-  internal-part-name: Vacuum Pump Cable - Y, 2.6m (Genesis)|Vacuum Pump Cable - Y, 4.1m (Genesis XL)|Vacuum Pump Cable - Z, 1.0m
-  rev: B|B|B
-  cost: $4.70|$6.20|$4.50
+  internal-part-name: Vacuum Pump Cable - Y, 2.6m (Genesis)|Vacuum Pump Cable - Y, 4.1m (Genesis XL)
+  rev: B|B
+  cost: $4.70|$6.20
   notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
 ---
 

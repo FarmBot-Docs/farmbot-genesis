@@ -8,7 +8,8 @@ description: "Packing details for the vacuum pump"
 
 |Item|Sub-packing|Qty|
 |----|-----------|---|
-|Vacuum Pump|none|1
+|Vacuum Pump Box|-|1
+|[[Vacuum Pump]]|none|1
 
 # Step 1: Pack the vacuum pump
 

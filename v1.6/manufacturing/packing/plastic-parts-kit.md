@@ -10,20 +10,26 @@ There are two versions of the plastic parts kit: one for **Genesis** kits and on
 
 |Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
 |----|-----------|-----------|--------------|
-|[Cable Carrier Support - Horizontal, 30mm](../../bom/plastic-parts/cable-carrier-support-horizontal-30mm.md)|None|12|24
-|[Cable Carrier Support - Horizontal, 60mm](../../bom/plastic-parts/cable-carrier-support-horizontal-60mm.md)|None|6|12
-|[Cable Carrier Support - Vertical, 60mm](../../bom/plastic-parts/cable-carrier-support-vertical-60mm.md)|None|4|4
-|[Cable Carrier Spacer Block - 60mm](../../bom/plastic-parts/cable-carrier-spacer-block-60mm.md)|None|1|1
-|[Motor Housing - Horizontal, 75mm](../../bom/plastic-parts/motor-housing-horizontal-75mm.md)|None|3|3
-|[Motor Housing - Vertical, 80mm](../../bom/plastic-parts/motor-housing-vertical-80mm.md)|None|1|1
-|[Vacuum Pump Cover](../../bom/plastic-parts/vacuum-pump-cover.md)|None|1|1
-|[Vacuum Pump Mount](../../bom/plastic-parts/vacuum-pump-mount.md)|None|1|1
-|[Solenoid Valve Mount](../../bom/plastic-parts/solenoid-valve-mount.md)|None|1|1
-|[Seed Bin](../../bom/plastic-parts/seed-bin.md)|None|2|2
-|[Seed Tray](../../bom/plastic-parts/seed-tray.md)|None|2|2
-|[Seed Trough Holder](../../bom/plastic-parts/seed-trough-holder.md)|None|1|1
-|[Seed Troughs](../../bom/plastic-parts/seed-trough.md)|None|2|2
-|[Camera Mounts](../../bom/plastic-parts/camera-mount-half.md)|None|2|2
+|[Pre-Assembled Seeder](../pre-assembly/tools/seeder.md)|Seeder Box|1|1
+|[Pre-Assembled Watering Nozzle](../pre-assembly/tools/watering-nozzle.md)|Watering Nozzle Box|1|1
+|[Pre-Assembled Soil Sensor](../pre-assembly/tools/soil-sensor.md)|Soil Sensor Box|1|1
+|[Pre-Assembled Weeder](../pre-assembly/tools/weeder.md)|Weeder Box|1|1
+|[Pre-Assembled Rotary Tool](../pre-assembly/tools/rotary-tool.md)|Rotary Tool Box|1|1
+|[Pre-Assembled UTM](../pre-assembly/tools/utm.md)|UTM box|1|1
+|[[30mm Horizontal Cable Carrier Support]]|None|12|24
+|[[60mm Horizontal Cable Carrier Support]]|None|6|12
+|[[Vertical Cable Carrier Support]]|None|4|4
+|[[Cable Carrier Spacer Block]]|None|1|1
+|[[Horizontal Motor Housing]]|None|3|3
+|[[Vertical Motor Housing]]|None|1|1
+|[[Vacuum Pump Cover]]|None|1|1
+|[[Vacuum Pump Mount]]|None|1|1
+|[[Solenoid Valve Mount]]|None|1|1
+|[[Seed Bin]]|None|2|2
+|[[Seed Tray]]|None|2|2
+|[[Seed Trough Holder]]|None|1|1
+|[[Seed Trough]]|None|2|2
+|[[Camera Mount Half]]|None|2|2
 
 # Box specifications
 
