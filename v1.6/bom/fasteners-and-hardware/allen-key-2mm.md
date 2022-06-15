@@ -9,9 +9,6 @@ quantity:
   xl: 1
 specs:
   size: 2mm hex
-  bit coating: N/A
-  handle: None
-  label: None
 internal-specs:
   internal-part-name: 2mm Allen Key
   cost: $0.05

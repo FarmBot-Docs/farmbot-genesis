@@ -1,6 +1,6 @@
 ---
 title: "UTM Cable"
-slug: "universal-tool-mount-cable"
+slug: "utm-cable"
 description: "This 12-wire shielded cable connects the Farmduino to the UTM. It comes in two pieces, a Y-axis section and a Z-axis section that connect with a 90-degree screw-together waterproof connection at the cross-slide. It provides Ground, 5V, 24V, digital and analog I/O, with a pin mapping that can be configured at the Farmduino to support custom tools. It features connectors on both ends for easy connection to both the UTM and Farmduino, as well as a rubber shroud to protect the inside of the UTM from the elements."
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/cb72fce59341ccf9979630ab?configuration=default&renderMode=0&uiState=6255dd2f582c8d091a1f74f0
 variants: Y, 2.6m|Y, 4.1m|Z, 1.0m

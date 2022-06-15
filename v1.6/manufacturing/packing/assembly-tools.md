@@ -6,14 +6,14 @@ description: "Packing details for the assembly tools"
 
 # Packing list
 
-|Item                          |Qty                           |
-|------------------------------|------------------------------|
-|2mm Hex Driver                |1
-|3mm Hex Driver                |1
-|5.5mm Nut Driver              |1
-|8mm Nut Driver                |1
-|8mm Thin Wrench               |1
-|2mm Allen Key                 |1
+|Item                  |Qty |
+|----------------------|----|
+|[[2mm Hex Driver]]    |1
+|[[3mm Hex Driver]]    |1
+|[[5.5mm Nut Driver]]  |1
+|[[8mm Nut Driver]]    |1
+|[[8mm Wrench]]        |1
+|[[2mm Allen Key]]     |1
 
 # Step 1: Pack the items
 

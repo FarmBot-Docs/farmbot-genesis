@@ -1,29 +1,23 @@
 ---
-title: "Tube"
-slug: "tube"
-description: "These ultra flexible silicone tubes carry water and vauum air to the UTM."
+title: "Vacuum Tube"
+slug: "tube-vacuum"
+description: "These ultra flexible silicone tubes carry vacuum air from the vacuum pump to the UTM."
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/9b455c66a9509c363d73cbbb?renderMode=0&uiState=6255dedf46b4a5023f0b2d28
-variants: 0.15m (Vacuum)|0.95m (Water, Z-axis)|2.1m (Water, Y-axis)|3.0m (Water, X-axis)|3.6m (Water, Y-axis)|4.5m (Water, X-axis)
-price: $1.00|$5.00|$8.00|$10.00|$12.00|$15.00
+price: $1.00
 quantity:
-  standard: 2|1|1|1|0|0
-  xl: 2|1|0|0|1|1
+  standard: 2
+  xl: 2
 specs:
-  length: 0.15m|0.95m|2.1m|3.0m|3.6m|4.5m
+  length: 0.15m
   material: Semi-clear silicone
   Flexibility: Very flexible
   Compatible Tube Fittings: Barbs
   inner diameter: 6mm
   outer diameter: 10mm
 internal-specs:
-  Internal Part Names: "6 x 10mm Tube - 0.15m (Vacuum)|
-  6 x 10mm Tube - 0.95m (Water, Z-axis, all bots)|
-  6 x 10mm Tube - 2.1m (Water, Y-axis, Genesis)|
-  6 x 10mm Tube - 3.0m (Water, X-Axis, Genesis)|
-  6 x 10mm Tube - 3.6m (Water, Y-Axis Genesis XL)|
-  6 x 10mm Tube - 4.5m (Water, X-Axis, Genesis XL)"
+  Internal Part Names: "6 x 10mm Tube - 0.15m (Vacuum)"
   vendor: LDO
-  cost: $0.30|$0.80|$1.80|$2.70|$3.00|$3.80
+  cost: $0.30
 ---
 
 **Component tests**{:.internal}

@@ -9,7 +9,7 @@ description: "Packing details for the solenoid valve"
 |Item|Sub-packing|Qty|
 |----|-----------|---|
 |Solenoid Valve Box|-|1
-|Solenoid Valve|none|1
+|[[Solenoid Valve]]|none|1
 
 # Step 1: Pack the solenoid valve
 

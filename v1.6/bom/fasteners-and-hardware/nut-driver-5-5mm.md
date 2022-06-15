@@ -9,7 +9,6 @@ quantity:
   xl: 1
 specs:
   size: 5.5mm box
-  bit coating: N/A
   handle: Black anodized aluminum
   label: 5.5 BOX
 internal-specs:

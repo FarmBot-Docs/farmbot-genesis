@@ -9,9 +9,8 @@ quantity:
   xl: 1
 specs:
   size: 8mm box
-  bit coating: N/A
   handle: Black anodized aluminum
-  label: 8 BOX
+  label: 8.0 BOX
 internal-specs:
   internal-part-name: 8mm Nut Driver
   cost: $1.90
