@@ -4,11 +4,11 @@ slug: "plate-kit"
 description: "Packing details for the plate kit inside each main carton"
 ---
 
-There are two versions of the plate kit: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the plate kit: one for **Genesis** kits and one for **Genesis** (XL) kits (denoted by an (XL) sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
-|Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
+|Item|Sub-packing|Genesis Qty|Genesis (XL) Qty|
 |----|-----------|-----------|--------------|
 |[[Track End Plate]]|Wrapped in tissue paper|4|4
 |[[Track Joining Plate]]|Wrapped in tissue paper|2|6
@@ -33,6 +33,6 @@ There are two versions of the plate kit: one for **Genesis** kits and one for **
 |**Material**                    |Cardboard
 |**Color**                       |Brown
 |**Printing**                    |None
-|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Sticker**                     |(XL) sticker for Genesis XL kits
 |**Fill**                        |100% recycled 50lb kraft paper
 

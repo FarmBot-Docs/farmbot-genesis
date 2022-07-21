@@ -48,6 +48,6 @@ FarmBot Genesis kits are shipped in two boxes. The **Extrusions and Leadscrew Ki
 |<i></i>        |Main Carton|Extrusion and Leadscrew Kit|
 |---------------|-----------|----------------------------|
 |Genesis        |23cm x 43cm x 80cm (9 in x 17in x 31in)<br><br>19kg (42lbs)|13cm x 13cm x 154cm (5in x 5in x 61in)<br><br>10.3kg (22lbs, 11oz)
-|Genesis <span class="fb-xl-sticker">XL</span>     |23cm x 43cm x 90cm (9 in x 17in x 35in)<br><br>23.6kg (52lbs 2oz)|13cm x 15cm x 154cm (5in x 6in x 61in)<br><br>16.6kg (36lbs, 10oz)
+|Genesis (XL)     |23cm x 43cm x 90cm (9 in x 17in x 35in)<br><br>23.6kg (52lbs 2oz)|13cm x 15cm x 154cm (5in x 6in x 61in)<br><br>16.6kg (36lbs, 10oz)
 
 View our full shipping policy [here](http://shipping.farm.bot).

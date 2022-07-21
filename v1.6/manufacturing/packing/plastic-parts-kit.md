@@ -4,11 +4,11 @@ slug: "plastic-parts-kit"
 description: "Packing details for the plastic parts kit inside each main carton"
 ---
 
-There are two versions of the plastic parts kit: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the plastic parts kit: one for **Genesis** kits and one for **Genesis** (XL) kits (denoted by an (XL) sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
-|Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
+|Item|Sub-packing|Genesis Qty|Genesis (XL) Qty|
 |----|-----------|-----------|--------------|
 |[Pre-Assembled Seeder](../pre-assembly/tools/seeder.md)|Seeder Box|1|1
 |[Pre-Assembled Watering Nozzle](../pre-assembly/tools/watering-nozzle.md)|Watering Nozzle Box|1|1
@@ -41,6 +41,6 @@ There are two versions of the plastic parts kit: one for **Genesis** kits and on
 |**Material**                    |Cardboard
 |**Color**                       |Brown
 |**Printing**                    |None
-|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Sticker**                     |(XL) sticker for Genesis XL kits
 |**Fill**                        |Recycled kraft paper
 

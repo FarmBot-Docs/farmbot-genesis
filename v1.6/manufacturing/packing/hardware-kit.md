@@ -4,15 +4,15 @@ slug: "hardware-kit"
 description: "Packing details for the hardware kit inside each main carton"
 ---
 
-There are two versions of the hardware kit: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the hardware kit: one for **Genesis** kits and one for **Genesis** (XL) kits (denoted by an (XL) sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
-|Item|Sub-packing|Genesis Qty|Genesis <span class="fb-xl-sticker">XL</span> Qty|
+|Item|Sub-packing|Genesis Qty|Genesis (XL) Qty|
 |----|-----------|-----------|--------------|
 |Pack of:<br>- 3x [[Pulleys]]<br>- 1x [[Shaft Coupler]]<br>- 1x [[Leadscrew Block]]<br>- 1x [[90-Degree Barb]]<br>- 1x [[Inline Air Filter]]|Press-to-seal bag|1 pack|1 pack
 |Genesis Screw Pack:<br>- 35x [[Wood Screws]]<br>- 16x [[M3 Locknuts]]<br>- 10x [[M3 x 6mm Screws]]<br>- 40x [[M3 x 12mm Screws]]<br>- 70x [[M5 Flange Locknuts]]<br>- 150x [[M5 x 10mm Screws]]<br>- 40x [[M5 x 16mm Screws]]<br>- 40x [[M5 x 30mm Screws]]<br>- 30x [[Standard Spacers]]|Press-to-seal bag|1 pack|-
-|Genesis <span class="fb-xl-sticker">XL</span> Screw Pack:<br>- 60x [[Wood Screws]]<br>- 16x [[M3 Locknuts]]<br>- 10x [[M3 x 6mm Screws]]<br>- 40x [[M3 x 12mm Screws]]<br>- 70x [[M5 Flange Locknuts]]<br>- 225x [[M5 x 10mm Screws]]<br>- 40x [[M5 x 16mm Screws]]<br>- 40x [[M5 x 30mm Screws]]<br>- 30x [[Standard Spacers]]|Press-to-seal bag|-|1 pack
+|Genesis (XL) Screw Pack:<br>- 60x [[Wood Screws]]<br>- 16x [[M3 Locknuts]]<br>- 10x [[M3 x 6mm Screws]]<br>- 40x [[M3 x 12mm Screws]]<br>- 70x [[M5 Flange Locknuts]]<br>- 225x [[M5 x 10mm Screws]]<br>- 40x [[M5 x 16mm Screws]]<br>- 40x [[M5 x 30mm Screws]]<br>- 30x [[Standard Spacers]]|Press-to-seal bag|-|1 pack
 |[Solenoid Valve](../packing/solenoid-valve.md)|Small box|1|1
 |[Vacuum Pump](../packing/vacuum-pump.md)|Small box|1|1
 |[[Vacuum Tubes]]|None|2
@@ -50,6 +50,6 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |**Material**                    |Cardboard
 |**Color**                       |Brown
 |**Printing**                    |None
-|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Sticker**                     |(XL) sticker for Genesis XL kits
 |**Fill**                        |Recycled kraft paper
 

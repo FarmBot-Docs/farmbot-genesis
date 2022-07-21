@@ -4,7 +4,7 @@ slug: "cable-kit"
 description: "Packing details for the cable kit inside each main carton"
 ---
 
-There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis** <span class="fb-xl-sticker">XL</span> kits. The tables below show what items should be packed into each.
+There are two versions of the **cable kit**: one for **Genesis** kits and one for **Genesis** (XL) kits. The tables below show what items should be packed into each.
 
 # Genesis packing list
 
@@ -23,7 +23,7 @@ There are two versions of the **cable kit**: one for **Genesis** kits and one fo
 |[[Jumper Wires]]|Twist-tied|8
 |[[Peripheral Leads]]|Press-to-seal bag|2
 
-# Genesis <span class="fb-xl-sticker">XL</span> packing list
+# Genesis (XL) packing list
 
 |Item|Sub-packing|Qty|
 |----|-----------|---|
@@ -50,6 +50,6 @@ There are two versions of the **cable kit**: one for **Genesis** kits and one fo
 |**Material**                    |Cardboard
 |**Color**                       |Brown
 |**Printing**                    |None
-|**Sticker**                     |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Sticker**                     |(XL) sticker for Genesis XL kits
 |**Fill**                        |Recycled kraft paper
 

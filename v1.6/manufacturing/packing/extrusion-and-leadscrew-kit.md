@@ -16,7 +16,7 @@ The tables below show the items that should be packed into the **extrusion and l
 |[[Z-Axis Extrusion]]<br>(20 x 20 x 1000mm)|Wrapped with recycled kraft paper|1
 |[[Leadscrew]]|Clear plastic tube with end caps|1
 
-# Genesis <span class="fb-xl-sticker">XL</span> packing list
+# Genesis (XL) packing list
 
 |Item|Sub-packing|Qty|
 |----|-----------|---|

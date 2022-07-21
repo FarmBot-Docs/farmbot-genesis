@@ -34,7 +34,7 @@ content="If anything is missing or damaged from your box of components, let us k
 
 FarmBot Genesis is a complex machine with over 1,000 components in total. Be prepared to spend the following amount of time assembling your FarmBot. Remember, these are just assembly time estimations. Depending on your skill level you may need more or less time. Consider assembling FarmBot with a friend to significantly speed things up and help reduce mistakes.
 
-|Subassembly                   |Estimated Time (Genesis)      |Estimated Time (Genesis <span class="fb-xl-sticker">XL</span>)   |
+|Subassembly                   |Estimated Time (Genesis)      |Estimated Time (Genesis (XL))   |
 |------------------------------|------------------------------|------------------------------|
 |Supporting Infrastructure     |8 hours<br>(raised bed)       |12 hours<br>(raised bed)
 |Tracks                        |2 hours                       |4 hours
