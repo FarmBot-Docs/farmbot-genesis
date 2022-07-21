@@ -93,7 +93,7 @@ Once you have adjusted the eccentric spacers, slide the cross-slide onto the gan
 
 ![Adjust the eccentric spacers](_images/cross_slide_on_gantry.png)
 
-The cross-slide should move easily across the full width of the gantry. If you feel any significant resistance, re-adjust the eccentric spacers so that there is less resistance to movement. On Genesis <span class="fb-xl-sticker">XL</span> models, pay special attention at the connection point between the two gantry main beams. If there is any significant bump or resistance to movement at the joint, you may use sand paper to sand away the bump.
+The cross-slide should move easily across the full width of the gantry. If you feel any significant resistance, re-adjust the eccentric spacers so that there is less resistance to movement. On Genesis (XL) models, pay special attention at the connection point between the two gantry main beams. If there is any significant bump or resistance to movement at the joint, you may use sand paper to sand away the bump.
 
 # Step 7: Feed and secure the belt
 

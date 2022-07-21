@@ -26,10 +26,10 @@ The tables below show the items that should be packed into the **main carton** f
 
 |Item                          |Sub-packing                   |Genesis XL Qty                |
 |------------------------------|------------------------------|------------------------------|
-|<span class="fb-xl-sticker">XL</span> [Hardware Box](hardware-box.md)             |None                          |1
-|<span class="fb-xl-sticker">XL</span> [Plate Box](plate-box.md)                |None                          |1
-|<span class="fb-xl-sticker">XL</span> [Plastic Parts Box](plastic-parts-box.md)        |None                          |1
-|<span class="fb-xl-sticker">XL</span> [Cable and Tubing Box](cable-and-tubing-box.md)     |None                          |1
+|(XL) [Hardware Box](hardware-box.md)             |None                          |1
+|(XL) [Plate Box](plate-box.md)                |None                          |1
+|(XL) [Plastic Parts Box](plastic-parts-box.md)        |None                          |1
+|(XL) [Cable and Tubing Box](cable-and-tubing-box.md)     |None                          |1
 |[Motor Box](motor-box.md)                     |None                          |1
 |[Power Supply Box](power-supply-box.md)              |None                          |1
 |[X-Axis Cable Carrier](../../Extras/bom/electronics-and-wiring.md#cable-carrier) (15 x 30 x 3200mm)|None (no plastic bag)         |1

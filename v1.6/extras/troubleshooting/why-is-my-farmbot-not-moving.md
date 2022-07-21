@@ -104,7 +104,7 @@ If you are having trouble with the movements of the FarmBot, adjust settings and
 
 Another thing to remember when you are troubleshooting these NEMA 17 stepper motors is that the faster the step rate the lower the torque. This means that if you increase the minimum or maximum speed (mm/s) (AKA the step rate) you will decrease the torque and increase the likelihood of having the motor stall. More details on motor stalls are discussed in the next section of this document.
 
-The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the <span class="fb-tooltip"><i class='fa fa-question'></i></span> icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
+The default settings provided are the recommended settings for the motor hardware. If you wish to restore any of these settings back to their default value, you can see the default value in the setting's tooltip by hovering over the (?) icon. You can also [restore all settings](https://software.farm.bot/docs/hardware-settings#danger-zone).
 
 ![default motor settings ](_images/default_motor_settings_.bmp)
 

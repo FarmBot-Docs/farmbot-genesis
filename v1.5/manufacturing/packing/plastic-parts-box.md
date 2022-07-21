@@ -4,7 +4,7 @@ slug: "plastic-parts-box"
 description: "Packing details for the plastic parts box inside each main carton"
 ---
 
-There are two versions of the plastic parts box: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an <span class="fb-xl-sticker">XL</span> sticker). The table below shows the items that should be packed into each version.
+There are two versions of the plastic parts box: one for **Genesis** kits and one for **Genesis XL** kits (denoted by an (XL) sticker). The table below shows the items that should be packed into each version.
 
 # Packing list
 
@@ -40,6 +40,6 @@ There are two versions of the plastic parts box: one for **Genesis** kits and on
 |**Material**                  |Cardboard
 |**Color**                     |Brown
 |**Printing**                  |None
-|**Sticker**                   |<span class="fb-xl-sticker">XL</span> sticker for Genesis XL kits
+|**Sticker**                   |(XL) sticker for Genesis XL kits
 |**Fill**                      |Recycled kraft paper
 
