@@ -58,12 +58,31 @@ content="If you find during testing that there is air blowing out of the seeder 
 
 # Step 3: Wire up the vacuum pump
 
-Connect the [[vacuum pump cable]] to the [[vacuum pump]] terminals. The black wire should be connected to `GND` (the terminal on the right), the white wire should be connect to `24V` (the middle terminal), and the clear wire should be connected to `PE` (the terminal on the left at a 90-degree angle from the others). In a few steps from now, you will connect the other end of the cable to the Farmduino.
+Connect the [[vacuum pump cable]] to the [[vacuum pump]] terminals according to the images below.
+
+* Connect the **clear/silver wire** to the _terminal on the left_ labelled `PE`.
+* Connect the **white wire** to the _middle terminal_ labelled `24V`.
+* Connect the **black wire** to the _terminal on the right_ labelled `GND`.
+
+If you cannot see the colors of the wires, carefully peel back the black heatshrink covering the whole cable so that you can correctly identify the individual wire colors.
 
 {% include gallery.html images="
-![Wire up the vacuum pump](_images/wire_up_vacuum_pump.png)
 ![Wire up the vacuum pump](_images/wire_up_vacuum_pump_detail.png)
+![Wire up the vacuum pump](_images/wire_up_vacuum_pump.png)
 " %}
+
+{%
+include callout.html
+type="danger"
+title="Double check the wiring"
+content="Carefully inspect the images above and table below to ensure you have connected the wires correctly. **If you incorrectly wire up the vacuum pump, the vacuum pump's electronics will be permanently damaged as soon as your FarmBot is powered up.**
+
+|Wire color  |Should be connected to
+|------------|-----------------------|
+|Clear/silver|`PE` (Protect Earth)
+|White       |`24V` (24 Volts)
+|Black       |`GND` (Ground)"
+%}
 
 # Step 4: Attach the seed trough holder
 
