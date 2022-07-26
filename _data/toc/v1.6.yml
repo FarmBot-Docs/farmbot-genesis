@@ -113,6 +113,8 @@ contents:
             url: why-is-my-farmbot-not-moving
           - title: Are my encoders working?
             url: are-my-encoders-working
+          - title: Water Pressure
+            url: water-pressure
       - title: Mods and Add-Ons
         url: mods
         pages:

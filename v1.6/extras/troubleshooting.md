@@ -20,3 +20,4 @@ content="Still having issues? Please email support@farm.bot or consider posting 
  * [Track Tolerance](troubleshooting/track-tolerance.md)
  * [Why is my FarmBot not moving?](troubleshooting/why-is-my-farmbot-not-moving.md)
  * [Are my encoders working?](troubleshooting/are-my-encoders-working.md)
+ * [Water Pressure](troubleshooting/water-pressure.md)
