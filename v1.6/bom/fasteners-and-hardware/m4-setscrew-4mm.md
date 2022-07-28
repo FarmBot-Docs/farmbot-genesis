@@ -1,6 +1,6 @@
 ---
-title: "M4 Setscrew"
-slug: "m4-setscrew"
+title: "M4 x 4mm Setscrew"
+slug: "m4-setscrew-4mm"
 description: "This setscrew is pre-assembled in the Rotary Tool M5 Shaft Adapter."
 price: $0.25
 quantity:

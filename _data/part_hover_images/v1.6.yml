@@ -21,6 +21,8 @@ bom:
       - image: m3_screw_6mm.jpg
       - image: m3_screw_12mm.jpg
       - image: m3_screw_35mm.jpg
+      - image: m3_setscrew_4mm.jpg
+      - image: m4_setscrew_4mm.jpg
       - image: m5_flange_locknut.jpeg
       - image: m5_screw_10mm.jpg
       - image: m5_screw_16mm.jpg
@@ -104,6 +106,7 @@ bom:
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
       - image: farmduino.jpg
+      - image: fuse.jpg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
       - image: led_indicator.jpg
@@ -124,6 +127,7 @@ bom:
       - image: raspberry_pi.jpg
       - image: rotary_tool_motor.jpg
       - image: rotary_tool_pcb.jpg
+      - image: shunt.jpg
       - image: soil_sensor_pcb.jpeg
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
@@ -134,6 +138,7 @@ bom:
       - image: vacuum_pump_cable_z.jpeg
   - category: plates-and-brackets
     parts:
+      - image: cable_carrier_mount_35mm.jpg
       - image: cable_carrier_mount_80mm.jpg
       - image: belt_clip.jpeg
       - image: cross-slide_plate.jpg
