@@ -64,6 +64,15 @@ Repeat for all of the track extrusions on the side of the bed that will eventual
 ![Attach horizontal cable carrier supports](_images/attach_horizontal_cable_carrier_supports_3.png)
 " %}
 
+{%
+include callout.html
+type="info"
+title="Do your cable carrier supports look different?"
+content="Some kits shipped in August of 2022 include horizontal cable carrier supports that are 10mm wider than shown in the images above and feature a different slot. If your kit includes these slightly larger supports (shown below), please proceed to use them for this step of the assembly and ignore the inconsistency with the documentation images.
+
+![40mm horizontal cable carrier supports](_images/40mm_horizontal_cc_support.jpg)"
+%}
+
 # Step 3: Attach a track end plate
 
 Position a [[track end plate]] as shown below and screw it into the **supporting infrastructure** with three [[wood screws]].

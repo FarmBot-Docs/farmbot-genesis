@@ -52,6 +52,17 @@ Attach the other end of the **x-axis cable carrier** to the [[30mm horizontal ca
 
 ![Mount the x-axis cable carrier](_images/mount_x_cc_3.png)
 
+{%
+include callout.html
+type="info"
+title="Does your mounting slot look different?"
+content="Some kits shipped in August of 2022 included horizontal cable carrier supports that are 10mm wider than shown in the images above and feature a different slot. If your kit is like this, there should be **one more cable carrier support** in a small plastic bag (shown below) that has a narrower width and a slot compatible with your cable carrier.
+
+Replace the cable carrier support nearest the middle of the tracks with the narrower cable carrier support from the plastic bag and then mount the cable carrier as described above.
+
+![cable carrier support swap](_images/cc_support_swap.jpg)"
+%}
+
 # Step 7: Snap in the remaining tabs
 
 Once everything is situated well, snap-in the remaining **cable carrier tabs**, ensuring that you maintain organization of the cable and tube.

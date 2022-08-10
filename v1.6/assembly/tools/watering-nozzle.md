@@ -48,6 +48,17 @@ Connect the [[solenoid valve cable]] to the [[solenoid valve]] terminals. Note: 
 
 ![wired solenoid valve](_images/wired_solenoid_valve.png)
 
+{%
+include callout.html
+type="info"
+title="Do the quick-connect terminals not fit?"
+content="Regretfully, some kits that shipped in August of 2022 included a solenoid valve cable with quick-connect terminals that are too small to fit onto the electrical tabs of the solenoid valve. If your cable does not fit, there should be two **quick connect terminals** of the correct size in a small plastic bag (shown below) that you can easily attach onto the cable with just a pair of scissors and needle nose pliers. Please refer to this troubleshooting document for [how to fix the solenoid valve cable](../../extras/troubleshooting/solenoid-valve-cable-fix.md) in about 5 minutes.
+
+![quick connect terminals](_images/quick_connect_terminals.jpg)
+
+If you are not comfortable modifying the cable yourself or do not have correct tools to do so, please email us at [support@farm.bot](mailto:support@farm.bot) with your original order number to request a free replacement. We apologize for this inconvenience."
+%}
+
 # Step 4: Connect the tubing
 
 Push the **water tube** coming from the **y-axis cable carrier** onto the upper [[NPT to barb adapter]]. Then push the **water tube** coming from the **x-axis cable carrier** (where it is mounted to the gantry) onto the lower [[NPT to barb adapter]].
