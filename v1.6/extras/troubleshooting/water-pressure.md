@@ -4,7 +4,7 @@ slug: "water-pressure"
 description: "Tips for fixing problematic water systems"
 ---
 
-FarmBot is designed to work with typical **municipal water pressure between 40 PSI and 55 PSI (2.75kPa and 379kPa)**. If the water pressure supplied to the FarmBot is significantly higher or lower than this range, you may experience one of the following issues with the FarmBot watering system.
+FarmBot is designed to work with typical **municipal water pressure between 40 PSI and 55 PSI (275kPa and 379kPa)**. If the water pressure supplied to the FarmBot is significantly higher or lower than this range, you may experience one of the following issues with the FarmBot watering system.
 
 |**Symptom**|**Problem**|
 |-----------|-----------|
