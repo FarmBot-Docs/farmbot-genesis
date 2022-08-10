@@ -115,6 +115,8 @@ contents:
             url: are-my-encoders-working
           - title: Water Pressure
             url: water-pressure
+          - title: Solenoid Valve Cable Fix
+            url: solenoid-valve-cable-fix
       - title: Mods and Add-Ons
         url: mods
         pages:
