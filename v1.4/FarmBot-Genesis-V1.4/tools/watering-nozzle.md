@@ -70,7 +70,7 @@ Screw one of the **barbed adapters** onto the **solenoid valve** inlet.
 
 ![Screen Shot 2018-08-08 at 2.05.13 PM.png](_images/Screen_Shot_2018-08-08_at_2.05.13_PM.png)
 
-Screw the **pressure regulator** onto the **solenoid valve** outlet. Use **teflon tape** to seal the threads according to the [reference guide](../../Extras/reference/using-teflon-tape.md).
+Screw the **pressure regulator** onto the **solenoid valve** outlet. Use **PTFE tape** to seal the threads according to the [reference guide](../../Extras/reference/using-ptfe-tape.md).
 
 ![Screen Shot 2018-08-08 at 2.05.21 PM.png](_images/Screen_Shot_2018-08-08_at_2.05.21_PM.png)
 

@@ -96,7 +96,7 @@ Each component in the tubing category has its own unique tests.
 |-------------|-------------|-------------|-------------|
 |Size         |Insert a rubber gasket into an NPT to barb adapter and then screw the adapter onto a solenoid valve.|Gasket should insert into the adapter and seal the assembly as expected.|N/A
 
-# Teflon Tape
+# PTFE Tape
 
 |Test         |Description  |Target       |Tolerance    |
 |-------------|-------------|-------------|-------------|

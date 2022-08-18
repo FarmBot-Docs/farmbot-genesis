@@ -19,7 +19,7 @@ description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](htt
 |[O-rings](#o-rings)|$0.50|3|$1.50|3|$1.50|3|$1.50
 |[Luer Lock Adapter](#luer-lock-adapter)|$5.00|1|$5.00|1|$5.00|1|$5.00
 |[Luer Lock Needles](#luer-lock-needles)|$3.00|9|$27.00|9|$27.00|9|$27.00
-|[Teflon Tape](#teflon-tape)|$5.00|1|$5.00|1|$5.00|1|$5.00
+|[PTFE Tape](#ptfe-tape)|$5.00|1|$5.00|1|$5.00|1|$5.00
 |**TOTALS**||**26**|**$111.50**|**26**|**$120.50**|**26**|**$140.50**
 
 # Water Tube
@@ -346,7 +346,7 @@ These needles are used for seed injection.
 
 ![Luer Lock Needles](_images/luer_lock_needles.jpg)
 
-# Teflon Tape
+# PTFE Tape
 
 This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system.
 
@@ -361,11 +361,11 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 
 |                              |                              |
 |------------------------------|------------------------------|
-|**Internal Part Name**        |`Teflon Tape (1.5cm wide, 10m long)`
+|**Internal Part Name**        |`PTFE Tape (1.5cm wide, 10m long)`
 |**Vendor**                    |LDO
 |**$/pc**                      |$0.20
-|**Component Tests**           |[Teflon tape tests](../../manufacturing/component-tests/tubing.md#teflon-tape)
+|**Component Tests**           |[PTFE tape tests](../../manufacturing/component-tests/tubing.md#ptfe-tape)
 |**Notes**                     |
 {:.internal}
 
-![Teflon Tape](_images/teflon_tape.jpg)
+![PTFE Tape](_images/ptfe_tape.jpg)

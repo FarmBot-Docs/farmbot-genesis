@@ -11,7 +11,7 @@ These pages contain detailed, deep-dive information that you will need to assemb
  * [Belt Clip Installation](reference/belt-clip-installation.md)
  * [Eccentric Spacer Adjustment](reference/eccentric-spacer-adjustment.md)
  * [Basic Tool Hardware](reference/basic-tool-hardware.md)
- * [Using Teflon Tape](reference/using-teflon-tape.md)
+ * [Using PTFE Tape](reference/using-ptfe-tape.md)
  * [Seeds](reference/seeds.md)
  * [Farmduino Peripheral Pin Numbers](reference/farmduino-peripheral-pin-numbers.md)
  * [Pinout References](reference/pinout-references.md)

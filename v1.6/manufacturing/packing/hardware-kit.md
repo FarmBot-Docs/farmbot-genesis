@@ -31,7 +31,7 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |[[100mm Zip Ties]]|Press-to-seal bag|25|25
 |[[200mm Zip Ties]]|Press-to-seal bag|4|4
 |[[Rubber Gasket]]|Press-to-seal bag|4|4
-|[[Teflon Tape]]|Factory packaging|1|1
+|[[PTFE Tape]]|Factory packaging|1|1
 |[[Power Cord Protector]]|None|1|1
 |[[NPT to Barb Adapter]]|None|2|2
 |[[Garden Hose to Barb Adapter]]|None|1|1

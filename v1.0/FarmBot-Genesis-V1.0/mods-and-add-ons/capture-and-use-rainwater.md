@@ -31,7 +31,7 @@ If you decide to install a rain collection system to be used in conjunction with
 |Water Pump                    |[SparkFun](https://www.sparkfun.com/products/10455)|$14.95
 |Float                         |[Amazon](http://smile.amazon.com/gp/product/B0077RAP1I)|$8.37
 |1/2" female NPT to female Garden Hose Adapter|[McMaster](http://www.mcmaster.com/#73605t82/=11565ub)|$5.38
-|Teflon tape for pipe threads  |Home Depot                    |$3.00
+|PTFE tape for pipe threads  |Home Depot                    |$3.00
 |Garden Hose of appropriate length|Home Depot                    |$15.00
 |                              |**TOTAL**                     |**$146.70**
 
@@ -76,7 +76,7 @@ Insert the float valve's threaded end out from the inside of the rain barrel and
 ![IMG_20160225_113501.jpg](_images/IMG_20160225_113501.jpg)
 " %}
 
-Wrap 5-7 layers of **teflon tape** to the **float valve** threads. Wrap in a clockwise direction so that when you screw on the garden hose adapter, the clockwise rotation of that component does not unravel the tape.
+Wrap 5-7 layers of **PTFE tape** to the **float valve** threads. Wrap in a clockwise direction so that when you screw on the garden hose adapter, the clockwise rotation of that component does not unravel the tape.
 
 ![IMG_20160226_140515.jpg](_images/IMG_20160226_140515.jpg)
 
