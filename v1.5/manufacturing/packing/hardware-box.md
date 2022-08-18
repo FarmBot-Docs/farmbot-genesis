@@ -35,7 +35,7 @@ There are two versions of the hardware box: one for **Genesis** kits and one for
 |[200mm Zip Ties](../../Extras/bom/fasteners-and-hardware.md#200mm-zip-ties)|Press-to-seal bag|4|4
 |[Rubber Gasket](../../Extras/bom/tubing.md#rubber-gasket)|Press-to-seal bag|4|4
 |[Jumper Links](../../Extras/bom/electronics-and-wiring.md#jumper-link)|Press-to-seal bag|5|5
-|[Teflon Tape](../../Extras/bom/tubing.md#teflon-tape)|Factory packaging|1|1
+|[PTFE Tape](../../Extras/bom/tubing.md#ptfe-tape)|Factory packaging|1|1
 |[Soil Sensor PCB](../../Extras/bom/electronics-and-wiring.md#soil-sensor-pcb)|Anti-static bag|1|1
 |[Power Cord Protector](../../Extras/bom/electronics-and-wiring.md#power-cord-protector)|None|1|1
 |[NPT to Barb Adapter](../../Extras/bom/tubing.md#npt-to-barb-adapter)|None|2|2

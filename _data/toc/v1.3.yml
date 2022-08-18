@@ -110,8 +110,8 @@ contents:
             url: seeds
           - title: Belt Clip Installation
             url: belt-clip-installation
-          - title: Using Teflon Tape
-            url: using-teflon-tape
+          - title: Using PTFE Tape
+            url: using-ptfe-tape
   - title: Extras
     url: Extras
     top: true

@@ -94,8 +94,8 @@ data:
         image: Extras/bom/_images/luer_lock_adapter.jpeg
       - section: luer-lock-needles
         image: Extras/bom/_images/luer_lock_needles.jpg
-      - section: teflon-tape
-        image: Extras/bom/_images/teflon_tape.jpg
+      - section: ptfe-tape
+        image: Extras/bom/_images/ptfe_tape.jpg
   - page: plastic-parts
     data:
       - section: 40mm-horizontal-cable-carrier-support

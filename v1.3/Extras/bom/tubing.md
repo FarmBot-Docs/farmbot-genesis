@@ -18,7 +18,7 @@ description: "Tech specs for the tubing in FarmBot Genesis. Visit [our shop](htt
 |1                             |[Pressure Regulator](#pressure-regulator)|$8.00                         |$8.00
 |1                             |[Luer Lock Adapter](#luer-lock-adapter)|$5.00                         |$5.00
 |6                             |[Luer Lock Needles](#luer-lock-needles)|$3.00                         |$18.00
-|1                             |[Teflon Tape](#teflon-tape)|$5.00                         |$5.00
+|1                             |[PTFE Tape](#ptfe-tape)|$5.00                         |$5.00
 |**24**                        |**TOTALS**                    |                              |**$88.50**
 
 
@@ -205,7 +205,7 @@ This pressure regulator reduces the pressure from a municipal water supply down 
 ![Luer1.jpg](_images/Luer1.jpg)
 " %}
 
-# Teflon Tape
+# PTFE Tape
 This plumber's tape is used to seal the pipe thread connections in FarmBot's watering system.
 
 |                              |                              |
@@ -218,5 +218,5 @@ This plumber's tape is used to seal the pipe thread connections in FarmBot's wat
 
 
 
-![Teflon Tape.JPG](_images/Teflon_Tape.JPG)
+![PTFE Tape.JPG](_images/PTFE_Tape.JPG)
 

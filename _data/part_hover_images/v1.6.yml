@@ -57,7 +57,7 @@ bom:
       - image: o-ring.jpg
       - image: pressure_regulator.jpg
       - image: rubber_gasket.jpg
-      - image: teflon_tape.jpg
+      - image: ptfe_tape.jpg
       - image: tube_water.jpg
       - image: tube_vacuum.jpg
   - category: plastic-parts
