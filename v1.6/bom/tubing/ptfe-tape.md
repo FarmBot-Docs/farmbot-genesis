@@ -13,7 +13,7 @@ specs:
   length: 10m
   color: White
 internal-specs:
-  internal-part-name: PTFE Tape
+  internal-part-name: PTFE Tape - 1.5cm x 10m
   vendor: LDO
   cost: $0.20
 ---

@@ -9,8 +9,8 @@ specs:
   color: Black
 price: $0.25
 quantity:
-  standard: 8
-  xl: 8
+  standard: 5
+  xl: 5
 internal-specs:
   internal-part-name: Jumper Wire
   cost: $0.15

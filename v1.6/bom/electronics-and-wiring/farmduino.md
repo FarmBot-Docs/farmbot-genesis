@@ -14,7 +14,7 @@ specs:
   Fuse: 7.5 amp blade fuse
   Power Receptacle: Black 3-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113">Molex Part 2002411113</a>
   Vacuum Peripheral Receptacle: Black 3-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113">Molex Part 2002411113</a>)
-  Other Peripheral Receptacles: (Water, Lighting, and Peripherals 4 and 5) - Black 2-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206">Molex Part 151048-1206</a>)
+  Water, Lighting, and Peripheral 4 and 5 Receptacles: Black 2-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206">Molex Part 151048-1206</a>) (prior to July 2022)<br>Black 2-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0705430036">Molex Part 70543-0036</a>) (July 2022 and later)
   UTM Receptacle: Black 12-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212">Molex Part 430451212</a>)
   UTM shunts: 8 1x2 2.54mm shunts pre-installed on UTM pins A through H
   Motor Receptacles: Black 4-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0705430038">Molex Part 705430038</a>)
@@ -30,7 +30,7 @@ internal-specs:
   rev: A
   vendor: LDO
   cost: $89.00
-  notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span>"
+  notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span><br>Due to connector shortage, switched to smaller more readily available 2-pin connectors for peripherals (all but vacuum) via an adapter board for production 2 kits."
 ---
 
 # Open-source
