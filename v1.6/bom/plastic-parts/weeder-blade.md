@@ -23,5 +23,5 @@ internal-specs:
 include callout.html
 type="info"
 title="Quantities may vary"
-content="Genesis and Genesis XL v1.6 kits shipped in January of 2022 included different quantities of this part than kits shipped after January 2022."
+content="Genesis and Genesis XL v1.6 kits shipped before July of 2022 also included 4 wide weeder blades. Kits shipped on or after July of 2022 only include the narrow and medium blades."
 %}

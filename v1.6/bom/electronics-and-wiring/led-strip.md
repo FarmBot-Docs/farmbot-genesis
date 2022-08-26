@@ -13,10 +13,10 @@ specs:
   strip length: 1.5m|3m
   lead length: 1m
   cable color: Black
-  connector: Black 2-pin ([Molex Part Number 151049-2206](https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml))
+  connector: Black 2-pin plug (<a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml">Molex Part 151049-2206</a>) (Rev A, prior to July 2022)<br>Black 2-pin plug (<a href="https://www.molex.com/molex/products/part-detail/crimp_housings/0050579402">Molex Part 50579402</a>) (Rev B, July 2022 and later)
 internal-specs:
   internal-part-name: LED Strip - 24V, 1.5m (Genesis)|LED Strip - 24V, 3.0m (Genesis XL)
-  rev: A|A
+  rev: B|B
   cost: $6.60|$12.00
   notes: LED strip should NOT have an adhesive backing. Cut end must be dipped in silicon to seal.
 ---

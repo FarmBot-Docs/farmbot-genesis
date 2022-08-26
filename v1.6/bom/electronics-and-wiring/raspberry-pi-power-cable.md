@@ -8,14 +8,15 @@ quantity:
   standard: 1
   xl: 1
 specs:
-  connector 1: Right-angle USB 2.0 Type A Male
-  connector 2: Right-angle microUSB 2.0 Male
+  connector 1: Right-angle USB 2.0 Type A plug
+  connector 2: Right-angle microUSB 2.0 plug (prior to July 2022)<br>Right-angle USB-C plug (July 2022 and later)
   length: 300mm
-  color: Black
+  color: Black (prior to July 2022)<br>White (July 2022 and later)
+  cable: 28AWG/1p+24AWG/2c Shielded USB 2.0
 internal-specs:
-  internal-part-name: Raspberry Pi Power Cable Rev A
+  internal-part-name: Raspberry Pi Power Cable (prior to July 2022)<br>Raspberry Pi Power Cable - Type C (July 2022 and later)
+  rev: A (prior to July 2022)<br>C (July 2022 and later)
   cost: $1.19
-  notes: Samples received in July 2020
 ---
 
 **Component tests**{:.internal}
@@ -24,6 +25,14 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Cable        |Inspect the cable spec.|`Shielded 28AWG/1p + 24AWG/2c`<br><br>`1p` = 1 twisted pair (for data)<br>`2c` = 2 core (for power)|N/A
 |Connectors   |Connect the cable to a Raspberry Pi and Farmduino inside a fully assembled electronics box.|The cable should connect to both circuit boards without interference from the box or other components.|N/A
-|Length       |Measure the length using a measuring tape.|300mm|+/- 10mm
+|Length       |Measure the length using a measuring tape.|300mm|+/- 5mm
 |Voltage drop |Use USB voltage monitors to check the voltage before and after the cable.|Less than 5% voltage drop|4.9V output minimum
-|Color        |Inspect the color of the cable.|Black|N/A
+|Color        |Inspect the color of the cable.|Black or White|N/A
+
+
+{%
+include callout.html
+type="info"
+title="Some v1.6 kits include different Raspberry Pi Power Cables"
+content="Genesis and Genesis XL v1.6 kits shipped before July of 2022 included a black Raspberry Pi Power Cable with a microUSB connector to plug into the Raspberry Pi Model 3B+. v1.6 kits shipped during or after July of 2022 included a white Raspberry Pi Power Cable with a USB-C connector to plug into the Raspberry Pi Model 4B."
+%}

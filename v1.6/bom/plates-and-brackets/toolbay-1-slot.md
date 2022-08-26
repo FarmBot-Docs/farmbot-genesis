@@ -6,7 +6,7 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d91
 price: $25.00
 quantity:
   standard: 0
-  xl: 3
+  xl: 0
 specs:
   thickness: 5mm
   material: 5052 Aluminum
@@ -18,3 +18,10 @@ internal-specs:
   cost: $6.20
   component tests: Plate and Bracket Tests
 ---
+
+{%
+include callout.html
+type="info"
+title="Quantities may vary"
+content="Genesis XL v1.6 kits shipped before July of 2022 included three 1-slot toolbays and two 3-slot toolbays. XL kits shipped on or after July of 2022 included no 1-slot toolbays and three 3-slot toolbays."
+%}
