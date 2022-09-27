@@ -14,13 +14,21 @@ New in this version of FarmBot Genesis is the inclusion of the **Rotary Tool** -
 
 # v1.6 Farmduino
 
-The latest revision of our custom [[Farmduino]] electronics board includes a new 24V motor driver to power the new Rotary Tool. This new output includes load detection circuitry allowing FarmBot to detect when the Rotary Tool has stalled due to overload. We have also increased the `USB OUT` voltage that supplies the Raspberry Pi to mitigate low voltage issues that have affected CPU, WiFi, and camera performance in past versions. Last, the board now includes a more appropriately specced `7.5A` fuse instead of a `15A` fuse.
+The latest revision of our custom [[Farmduino]] electronics board includes a new 24V motor driver to power the new Rotary Tool. This new output includes load detection circuitry allowing FarmBot to detect when the Rotary Tool has stalled due to overload.
+
+We have also increased the `USB OUT` voltage that supplies the Raspberry Pi to mitigate low voltage issues that have affected CPU, WiFi, and camera performance in past versions.
+
+This revision also features a 3-pin power input with `PE` (protected earth) grounding. `PE` grounding provides additional EMI protection for the system when combined with the new shielded UTM and vacuum pump cables, as well as the new vacuum pump and rotary tool EMI filters.
+
+Last, the board now includes a more appropriately specced `7.5A` fuse instead of a `15A` fuse.
 
 ![farmduino v1.6](_images/farmduino.jpg)
 
 # Vacuum pump with EMI filter
 
-The [[vacuum pump]] now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well the potential for the pump to drop the system voltage below acceptable levels when starting up. Additionally, the vacuum pump cable is now a shielded cable, with the shielding connected via a third quick-connect terminal to the vacuum pump motor's housing. The shield is connected to `PE` (protected earth) at the Farmduino.
+The [[vacuum pump]] now features a circuit board directly soldered onto the back of the motor which performs EMI filtering and reduces the startup current draw of the motor. This circuitry will help reduce WiFi interference caused by the vacuum pump, as well the potential for the pump to drop the system voltage below acceptable levels when starting up.
+
+Additionally, the vacuum pump cable is now a shielded cable, with the shielding connected via a third quick-connect terminal to the vacuum pump motor's housing. The shielding is then connected to `PE` (protected earth) grounding at the Farmduino.
 
 ![vacuum pump with EMI filter](_images/vacuum_pump.jpg)
 
@@ -36,6 +44,8 @@ Thank you Chris for lending your expertise in electronics design to the FarmBot 
 # Modularized UTM cable
 
 Building on the progress made in v1.5, the v1.6 kit includes a two-piece modularized **UTM cable**, with one section running through the y-axis cable carrier and the other section running through the z-axis cable carrier. The two sections are joined by a 12-pin 90-degree waterproof screw-together connector. This makes assembly and disassembly of the FarmBot much easier because now all cables and tubing can be disconnected at the Y/Z cable carrier junction.
+
+Additionally, the new cables are shielded, with the shielding shunted to UTM pin and UTM cable wire `L`. The shielding is then connected to `PE` (protected earth) grounding at the Farmduino.
 
 # Smaller x-axis cable carrier
 
@@ -62,3 +72,22 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 * Updated some part quantities to reduce the number of extra pieces at the end of assembly.
 * Added numerous documented QA checks to our manufacturing processes.
 * Made improvements to the sustainability of packaging materials.
+
+# Production run 2
+
+* Due to supply chain shortages, upgraded from the [[Raspberry Pi]] model 3B+ to model 4B (1GB version). This change also required a new [[Raspberry Pi power cable]] featuring a USB Type-C plug.
+* Due to supply chain shortages, changed the [[Farmduino]]'s peripheral receptacles for the solenoid valve, LED strip, and peripherals 4 and 5 to 2-pin 2.54mm pitch locking Molex connectors via an adapter board. Changed the corresponding plugs on the mating parts as well.
+* Due to shortages, did not include any [[peripheral leads]] in the kits.
+* Increased the number of [[wood screws]] included.
+* Decreased the quantity of [[jumper wires]] included.
+* Removed the wide [[weeder blades]] from the kit.
+* Replaced the three [[1-slot toolbays]] with an additional [[3-slot toolbay]] in (XL) kits.
+* Replaced the 22 gauge [[luer lock needles]] with additional 16 and 19 gauge needles.
+
+# Production run 3
+
+* Due to supply chain shortages, upgraded from the [[Raspberry Pi]] model 4B (1GB version) to the 2GB version.
+* Changed the [[Farmduino]]'s vacuum pump peripheral receptacle to a 3-pin 2.54mm pitch locking Molex connector and permanently changed the other peripheral receptacles to the 2.54mm pitch variety by removing the need for an adapter baord.
+* Changed the [[vacuum pump]]'s three quick-connect terminals to a single 3-pin receptacle to match the Farmduino.
+* Changed the [[Y vacuum pump cable]] and [[Z vacuum pump cable]] plugs to 3-pin 2.54mm pitch plugs.
+* Included a new revision of [[peripheral leads]] with 2.54mm pitch plugs.
