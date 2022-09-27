@@ -1,22 +1,19 @@
 ---
-title: "LED Indicator"
-slug: "led-indicator"
-description: "These waterproof LED indicator lights come pre-mounted on the top of the electronics box. The blue light is reserved for connectivity status, the green light for sync status, and the two white lights are user-customizable. Each light includes a wiring harness and comes pre-connected to the Pi adapter board."
+title: "LED Indicator O-Ring"
+slug: "led-indicator-o-ring"
+description: "These O-rings make a seal between the LED indicators and the electronics box."
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/c89c7d4cbabd8ab685885b62?configuration=default&renderMode=0&uiState=6255da5c46b4a5023f0ae2ba
-variants: Blue|Green|White|Wiring Harness|Nut|O-Ring
-price: $5.00|$5.00|$5.00|$1.00|$0.00|$0.00
+price: $0.05
 quantity:
-  standard: 1|1|2|4|4|4
-  xl: 1|1|2|4|4|4
+  standard: 4
+  xl: 4
 specs:
-  color: Blue|Green|White|N/A|N/A|N/A
-  material: Stainless steel and plastic
+  color: Black
+  material: Buna-N
   Waterproof?: Yes
-  O-Ring?: Included
-  Wiring?: Included
 internal-specs:
-  internal-part-name: LED Indicator - Blue|LED Indicator - Green|LED Indicator - White|LED Indicator - Wiring Harness|LED Indicator - Nut|LED Indicator - O-Ring
-  cost: $1.15|$1.15|$1.15|$0.50|$0.00|$0.00
+  internal-part-name: LED Indicator - O-Ring
+  cost: $0.00
 ---
 
 **Component tests**{:.internal}

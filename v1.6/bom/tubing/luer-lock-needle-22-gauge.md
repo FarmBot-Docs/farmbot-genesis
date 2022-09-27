@@ -1,24 +1,23 @@
 ---
-title: "Luer Lock Needle"
-slug: "luer-lock-needle"
+title: "22 Gauge Luer Lock Needle"
+slug: "luer-lock-needle-22-gauge"
 description: "These needles are used for seed injection."
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/f1ae8443168fa01eee8f9dd1?configuration=List_gJjaHH4IIbhXvQ%3DDefault&renderMode=0&uiState=6255de7046b4a5023f0b22ce
-variants: 16 Gauge|19 Gauge|22 Gauge
-price: $3.00|$3.00|$3.00
+price: $3.00
 quantity:
-  standard: 3|3|0
-  xl: 3|3|0
+  standard: 2
+  xl: 2
 specs:
   material: Stainless steel and plastic
-  gauge: 16|19|22
+  gauge: 22
   length: 40mm
   cover: Included
   interface: 1/4 turn luer lock
 internal-specs:
-  internal-part-name: Luer Lock Needle - 16 Gauge|Luer Lock Needle - 19 Gauge|Luer Lock Needle - 22 Gauge
+  internal-part-name: Luer Lock Needle - 22 Gauge
   vendor: LDO
-  cost: $0.08|$0.08|$0.08
-  notes: Removed 22 gauge needles after July of 2022 and increase quantity for 16 and 19 gauge needles to 3 each.
+  cost: $0.08
+  notes: Removed after July of 2022 and increased quantity of 16 and 19 gauge needles to 3 each.
 ---
 
 **Component tests**{:.internal}

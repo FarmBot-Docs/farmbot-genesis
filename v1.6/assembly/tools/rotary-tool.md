@@ -2,6 +2,8 @@
 title: "Rotary Tool"
 slug: "rotary-tool"
 description: "Documentation for the FarmBot Genesis rotary tool"
+tags:
+ - new
 ---
 
 
