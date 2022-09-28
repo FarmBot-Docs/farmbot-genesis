@@ -68,7 +68,6 @@ The rotary tool can be configured with the included **drill chuck** to perform l
 
 ![rotary tool drill chuck](_images/rotary_tool_drill_chuck.png)
 
-
 # What's next?
 
- * [Soil Sensor](soil-sensor.md)
+ * [Weeder](weeder.md)

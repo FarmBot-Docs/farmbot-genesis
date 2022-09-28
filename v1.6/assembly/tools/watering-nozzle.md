@@ -76,4 +76,4 @@ Screw the [[garden hose to barb adapter]] onto the **garden hose**. *Note that y
 
 # What's next?
 
- * [Weeder](weeder.md)
+ * [Rotary Tool](rotary-tool.md)
