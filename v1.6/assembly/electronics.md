@@ -113,6 +113,11 @@ type="search"
 content="The microSD card will be located either in the [[Raspberry Pi]] or in a clear plastic storage case in one of the boxes."
 %}
 
+{% include gallery.html images="
+![microSD card in raspberry pi](_images/micro_sd_card_in_pi.jpg)
+![microSD card in case](_images/micro_sd_card_in_case.jpeg)
+" %}
+
 # Step 9: Mount the power supply
 
 Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]]. The power supply is IP67 rated, so it can withstand rain and the elements.
