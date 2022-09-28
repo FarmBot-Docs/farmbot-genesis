@@ -17,6 +17,8 @@ You're now ready to move onto the software portion of setting up your FarmBot. R
 
 Now that you've got your bot assembled and connected to the web, it's time to start growing things! Most common garden veggies will work great with FarmBot, though there are some limitations and best practices. Check out our [seed selection guide](http://seeds.farm.bot) for tips and best practices.
 
+{% include what_you_can_grow.html %}
+
 # Join the community forum
 
 You're now part of a global community of FarmBot owners who are growing food at home, [using FarmBot as a teaching tool](https://www.youtube.com/watch?v=8PV0aR9Jl9A), and pushing forward the cutting edge of agriculture!
