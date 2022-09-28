@@ -78,6 +78,7 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 * Due to supply chain shortages, upgraded from the [[Raspberry Pi]] model 3B+ to model 4B (1GB version). This change also required a new [[Raspberry Pi power cable]] featuring a USB Type-C plug.
 * Due to supply chain shortages, changed the [[Farmduino]]'s peripheral receptacles for the solenoid valve, LED strip, and peripherals 4 and 5 to 2-pin 2.54mm pitch locking Molex connectors via an adapter board. Changed the corresponding plugs on the mating parts as well.
 * Due to shortages, did not include any [[peripheral leads]] in the kits.
+* The cable used for the [[camera]] is now shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
 * Increased the number of [[wood screws]] included.
 * Decreased the quantity of [[jumper wires]] included.
 * Removed the wide [[weeder blades]] from the kit.
