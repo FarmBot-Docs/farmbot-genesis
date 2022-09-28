@@ -79,6 +79,8 @@ contents:
             url: toolbays
       - title: Electronics
         url: electronics
+      - title: Final Steps
+        url: final-steps
   - title: Extras
     url: extras
     top: true

@@ -7,7 +7,7 @@ description: "Add the LED light strip to the Gantry"
 
 # Install the light strip
 
-Feed the [[LED strip]] (highlighted orange in the image below) through the horizontal cable carrier supports on the gantry.
+Feed the [[LED strip]] (highlighted orange in the image below) through the horizontal cable carrier supports on the gantry. You can secure the end of the strip to the final cable carrier support using a zip tie.
 
 ![lights](_images/lights.png)
 

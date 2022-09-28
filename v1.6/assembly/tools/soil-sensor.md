@@ -19,4 +19,4 @@ content="As of the v1.6 hardware release, the soil sensor tool comes pre-assembl
 
 # What's next?
 
- * [Camera](camera.md)
+ * [Toolbays](toolbays.md)

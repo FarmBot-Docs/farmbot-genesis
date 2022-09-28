@@ -2,6 +2,8 @@
 title: "Rotary Tool"
 slug: "rotary-tool"
 description: "Documentation for the FarmBot Genesis rotary tool"
+tags:
+ - new
 ---
 
 
@@ -66,7 +68,6 @@ The rotary tool can be configured with the included **drill chuck** to perform l
 
 ![rotary tool drill chuck](_images/rotary_tool_drill_chuck.png)
 
-
 # What's next?
 
- * [Soil Sensor](soil-sensor.md)
+ * [Weeder](weeder.md)

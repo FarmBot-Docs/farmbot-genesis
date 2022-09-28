@@ -15,7 +15,8 @@ bom:
       - image: nut_driver_8mm.jpg
       - image: wrench_8mm.jpg
       - image: eccentric_spacer.jpg
-      - image: m2.5_screw.jpg
+      - image: m2_5_screw_4mm.jpg
+      - image: m2_5_screw_6mm.jpg
       - image: m3_flat_head_screw_16mm.jpg
       - image: m3_locknut.jpg
       - image: m3_screw_6mm.jpg
@@ -28,7 +29,7 @@ bom:
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
       - image: magnet_countersunk.jpg
-      - image: magnet.jpg
+      - image: magnet_standard.jpg
       - image: nut_bar_100mm.jpg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpeg
@@ -51,7 +52,9 @@ bom:
       - image: garden_hose_to_barb_adapter.jpg
       - image: inline_air_filter.jpg
       - image: luer_lock_adapter.jpeg
-      - image: luer_lock_needle.jpg
+      - image: luer_lock_needle_16_gauge.jpg
+      - image: luer_lock_needle_19_gauge.jpg
+      - image: luer_lock_needle_22_gauge.jpg
       - image: m5_barb.jpg
       - image: npt_to_barb_adapter.jpg
       - image: o-ring.jpg
@@ -85,7 +88,8 @@ bom:
       - image: watering_nozzle.jpg
       - image: watering_nozzle.jpg
       - image: weeder_blade_narrow.jpg
-      - image: weeder_blade.jpg
+      - image: weeder_blade_medium.jpg
+      - image: weeder_blade_wide.jpg
       - image: weeder.jpg
   - category: drivetrain
     parts:
@@ -109,7 +113,12 @@ bom:
       - image: fuse.jpg
       - image: jumper_link.jpg
       - image: jumper_wire.jpg
-      - image: led_indicator.jpg
+      - image: led_indicator_white.jpg
+      - image: led_indicator_blue.jpg
+      - image: led_indicator_green.jpg
+      - image: led_indicator_nut.jpg
+      - image: led_indicator_o_ring.jpg
+      - image: led_indicator_wiring_harness.jpg
       - image: led_strip.jpg
       - image: micro_sd_card_adapter.jpg
       - image: micro_sd_card.jpg
@@ -122,7 +131,12 @@ bom:
       - image: power_cord_protector.jpg
       - image: power_supply.jpg
       - image: power_supply_cable.jpg
-      - image: push_button.jpg
+      - image: push_button_yellow.jpg
+      - image: push_button_white.jpg
+      - image: push_button_red.jpg
+      - image: push_button_nut.jpg
+      - image: push_button_o_ring.jpg
+      - image: push_button_wiring_harness.jpg
       - image: raspberry_pi_power_cable.jpg
       - image: raspberry_pi.jpg
       - image: rotary_tool_motor.jpg
@@ -142,7 +156,8 @@ bom:
       - image: cable_carrier_mount_80mm.jpg
       - image: belt_clip.jpeg
       - image: cross-slide_plate.jpg
-      - image: gantry_corner_bracket.jpeg
+      - image: gantry_corner_bracket_left.jpeg
+      - image: gantry_corner_bracket_right.jpeg
       - image: gantry_joining_bracket.jpeg
       - image: gantry_wheel_plate.jpg
       - image: seed_trough_holder_mount.jpg
