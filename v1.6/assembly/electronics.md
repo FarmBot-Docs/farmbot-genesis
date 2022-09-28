@@ -107,6 +107,12 @@ content="Do not pull any cables away from the electronics box during this proces
 
 Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the software documentation hub to install **FarmBot OS** onto the [[micro SD card]].
 
+{%
+include callout.html
+type="search"
+content="The microSD card will be located either in the [[Raspberry Pi]] or in a clear plastic storage case in one of the boxes."
+%}
+
 # Step 9: Mount the power supply
 
 Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]]. The power supply is IP67 rated, so it can withstand rain and the elements.
@@ -154,4 +160,4 @@ content="If anything seems wrong, **immediately unplug the power supply from the
 
 # What's next?
 
- * [Tools](tools.md)
+ * [Final steps](final-steps.md)
