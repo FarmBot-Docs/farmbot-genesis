@@ -57,7 +57,7 @@ content="Check out the [tool spec](../../extras/mods/tool-spec.md) to learn how 
 
 {%
 include callout.html
-type="warn"
+type="warning"
 title="Having problems with tool verification?"
 content="Refer to the [tool verification troubleshooting guide](../../extras/troubleshooting/tool-verification.md)."
 %}
