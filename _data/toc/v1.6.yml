@@ -119,6 +119,8 @@ contents:
             url: water-pressure
           - title: Solenoid Valve Cable Fix
             url: solenoid-valve-cable-fix
+          - title: Tool Verification
+            url: tool-verification
       - title: Mods and Add-Ons
         url: mods
         pages:

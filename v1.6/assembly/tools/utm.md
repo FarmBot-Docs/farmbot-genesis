@@ -10,7 +10,7 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 
 * Passageways for water, liquid amendments (eg: fertilizer), and vacuum or compressed air to pass through from the UTM (and the rest of FarmBot) to the tool.
 
-* 12 pogo pins that make electrical connections with tools. (See: [Pin Mapping](#pin-mapping))
+* 12 [[pogo pins]] that make electrical connections with tools.
 
 {%
 include callout.html
@@ -53,6 +53,13 @@ include callout.html
 type="success"
 title="Want to make your own UTM compatible tools?"
 content="Check out the [tool spec](../../extras/mods/tool-spec.md) to learn how to design and manufacture your own custom tools. We provide examples, CAD models, tech specs, and links to purchase parts."
+%}
+
+{%
+include callout.html
+type="warn"
+title="Having problems with tool verification?"
+content="Refer to the [tool verification troubleshooting guide](../../extras/troubleshooting/tool-verification.md)."
 %}
 
 # Step 1: Install the UTM onto the Z-axis
