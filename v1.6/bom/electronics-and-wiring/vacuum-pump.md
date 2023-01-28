@@ -10,13 +10,13 @@ quantity:
 specs:
   input voltage: 24V DC
   current draw: 0.5A
-  connectors: Three 3/16" male quick-connect terminals for 24V, GND, and PE (protected earth)
+  connectors: Three 3/16" male quick-connect terminals (prior to January 2023)<br>Molex part <a href='https://www.molex.com/molex/products/part-detail/pcb_headers/0705430037'>70543-0037</a> (January 2023 and later)
   barb size: For 6mm ID tubing
   pcb: PCB with EMI filtering and soft-start circuitry soldered onto back of motor
   pcb color: Matte black with gold ENIG
 internal-specs:
   internal-part-name: Vacuum Pump - 24V with EMI Filter
-  rev: A
+  rev: B
   vendor: LDO
   cost: $16.90
 ---

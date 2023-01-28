@@ -13,7 +13,7 @@ specs:
   Input Voltage: 24V
   Fuse: 7.5 amp blade fuse
   Power Receptacle: Black 3-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113">Molex Part 2002411113</a>
-  Vacuum Peripheral Receptacle: Black 3-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113">Molex Part 2002411113</a>)
+  Vacuum Peripheral Receptacle: Black 3-pin receptacle, Molex part <a href='https://www.molex.com/molex/products/part-detail/pcb_headers/2002411113'>2002411113</a> (prior to January 2023) or <a href='https://www.molex.com/molex/products/part-detail/pcb_headers/0705430037'>705430037</a> (January 2023 and later)
   Water, Lighting, and Peripheral 4 and 5 Receptacles: Black 2-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/1510481206">Molex Part 151048-1206</a>) (prior to July 2022)<br>Black 2-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0705430036">Molex Part 70543-0036</a>) (July 2022 and later)
   UTM Receptacle: Black 12-pin receptacle (<a href="https://www.molex.com/molex/products/part-detail/pcb_headers/0430451212">Molex Part 430451212</a>)
   UTM shunts: 8 1x2 2.54mm shunts pre-installed on UTM pins A through H
@@ -30,10 +30,17 @@ internal-specs:
   rev: A
   vendor: LDO
   cost: $89.00
-  notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span><br>Due to connector shortage, switched to smaller more readily available 2-pin connectors for peripherals (all but vacuum) via an adapter board for production 2 kits."
+  notes: "<span style='color: red; font-weight: bold;'>QA check to ensure UTM Shunts are pre-installed</span><br>Due to connector shortage, switched to smaller more readily available 2-pin connectors for peripherals (all but vacuum) via an adapter board for production 2 kits. Continued using 2-pin connectors and a new 3-pin connector for the vacuum pump for production 3."
 ---
 
 # Open-source
+
+{%
+include callout.html
+type="info"
+title="Connectors may vary"
+content="Due to supply chain shortages of certain connectors, your Farmduino may have one of two connector types for the vacuum pump peripheral and all of the other peripherals. Please inspect the images above to note the differences and ensure you purchase cables with the correct connector type when ordering spare or upgrade parts."
+%}
 
 {%
 include callout.html

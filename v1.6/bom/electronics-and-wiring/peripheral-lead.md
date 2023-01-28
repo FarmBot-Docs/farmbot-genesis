@@ -5,21 +5,21 @@ description: "These extra leads make it easy to connect new, additional peripher
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/bd682ae8626349200cfd6ae8?renderMode=0&uiState=6255db3446b4a5023f0ae595
 price: $3.00
 quantity:
-  standard: 0
-  xl: 0
+  standard: 1
+  xl: 1
 specs:
   Wire Type: 18 AWG stranded copper, two core
   Outer color: Black
   Inner Colors: Red and black
   Heat Shrink color: Black
-  connector 1: Black 2-pin connector (<a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml">Molex Part Number 151049-2206</a>)
+  connector 1: Black 2-pin connector, Molex Part Number <a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml">151049-2206</a> (prior to July of 2022)<br>Black 2-pin connector, Molex Part Number <a href="https://www.molex.com/molex/products/part-detail/crimp_housings/0050579402">50579402</a> (January 2023 and later)
   connector 2: Pre-stripped wire (no connector)
   length: 10cm
 internal-specs:
   internal-part-name: Peripheral Lead
-  rev: A
+  rev: B
   cost: $1.30
-  notes: Kits from production 1 included 2 peripheral leads. Due to a connector shortage and subsequent connector change, kits from production 2 do not include any peripheral leads.
+  notes: Kits from production 1 included two Rev A peripheral leads. Due to a connector shortage and subsequent connector change on the Farmduino, kits from production 2 did not include any peripheral leads. Production 3 included Rev B peripheral leads with the new connector.
 ---
 
 **Component tests**{:.internal}
@@ -35,6 +35,6 @@ internal-specs:
 {%
 include callout.html
 type="info"
-title="Quantities may vary"
-content="Genesis and Genesis XL v1.6 kits shipped before July of 2022 included 2 of these peripheral leads. Due to global supply chain disruptions, kits shipped on or after July of 2022 did not include any peripheral leads."
+title="Quantity and connector may vary"
+content="Genesis and Genesis XL v1.6 kits shipped before July of 2022 included two peripheral leads with the larger connector. Due to global supply chain disruptions, kits shipped after July of 2022 did not include any peripheral leads. Kits shipped in January 2023 and later included a new revision of the part with a smaller connector."
 %}
