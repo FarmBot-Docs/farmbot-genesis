@@ -11,7 +11,7 @@ specs:
   connector 1: Right-angle USB 2.0 Type A plug
   connector 2: Right-angle microUSB 2.0 plug (prior to July 2022)<br>Right-angle USB-C plug (July 2022 and later)
   length: 300mm
-  color: Black (prior to July 2022)<br>White (July 2022 and later)
+  color: Black (prior to July 2022)<br>White or Black (July 2022 and later)
   cable: 28AWG/1p+24AWG/2c Shielded USB 2.0
 internal-specs:
   internal-part-name: Raspberry Pi Power Cable (prior to July 2022)<br>Raspberry Pi Power Cable - Type C (July 2022 and later)
@@ -34,5 +34,5 @@ internal-specs:
 include callout.html
 type="info"
 title="Some v1.6 kits include different Raspberry Pi Power Cables"
-content="Genesis and Genesis XL v1.6 kits shipped before July of 2022 included a black Raspberry Pi Power Cable with a microUSB connector to plug into the Raspberry Pi Model 3B+. v1.6 kits shipped during or after July of 2022 included a white Raspberry Pi Power Cable with a USB-C connector to plug into the Raspberry Pi Model 4B."
+content="Genesis and Genesis XL v1.6 kits shipped before July of 2022 included a black Raspberry Pi Power Cable with a microUSB connector to plug into the Raspberry Pi Model 3B+. v1.6 kits shipped during or after July of 2022 included a white or black Raspberry Pi Power Cable with a USB-C connector to plug into the Raspberry Pi Model 4B."
 %}

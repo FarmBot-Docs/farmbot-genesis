@@ -8,7 +8,7 @@ quantity:
   standard: 1
   xl: 1
 specs:
-  resolution: 0.3MP
+  resolution: 640 x 480, 0.3MP (prior to July 2022)<br>1920 x 1080, 2.1MP (July 2022 and later)
   waterproof?: Yes
   focal distance: 0.5m (custom set)
   outer diameter: 9mm

@@ -15,12 +15,12 @@ specs:
   inner colors: Red and black
   outer color: Black
   heat shrink color: Gray
-  end 1: "3-pin black plug <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>|
-  3-pin black plug <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>Molex Part 2004561213</a>"
+  end 1: "3-pin black plug, Molex Part <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>2004561213</a> (prior to July of 2022) or <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/0050579403'>50579403</a> (July 2022 and later)|
+  3-pin black plug, Molex Part <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213'>2004561213</a> (prior to July of 2022) or <a href='https://www.molex.com/molex/products/part-detail/crimp_housings/0050579403'>50579403</a> (July 2022 and later)"
   end 2: '3-pin waterproof screw together receptacle|3-pin waterproof screw together receptacle'
 internal-specs:
   internal-part-name: Vacuum Pump Cable - Y, 2.6m (Genesis)|Vacuum Pump Cable - Y, 4.1m (Genesis XL)
-  rev: B|B
+  rev: C|C
   cost: $4.70|$6.20
   notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
 ---

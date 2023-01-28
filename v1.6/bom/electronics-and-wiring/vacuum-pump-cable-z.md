@@ -15,10 +15,10 @@ specs:
   outer color: Black
   heat shrink color: Gray
   end 1: "3-pin waterproof screw together 90 degree plug"
-  end 2: 'Three 3/16" insulated quick-connect terminals'
+  end 2: 'Three 3/16" insulated quick-connect terminals (prior to January 2023)<br>Molex part <a href="https://www.molex.com/molex/products/part-detail/crimp_housings/0050579403">50579403</a> (January 2023 and later)'
 internal-specs:
   internal-part-name: Vacuum Pump Cable - Z, 1.0m
-  rev: B
+  rev: C
   cost: $4.50
   notes: "<span style='font-weight: bold; color: red;'>Must perform a continuity check at factory</span>"
 ---
