@@ -231,7 +231,7 @@ data:
       - section: track-joining-plate
         image: Extras/bom/_images/track_joining_plates.jpg
       - section: gantry-wheel-plate
-        image: Extras/bom/_images/gantry_wheel_plates.jpg
+        image: Extras/bom/_images/gantry_wheel_plate.jpg
       - section: gantry-corner-bracket
         image: Extras/bom/_images/gantry_corner_brackets_1.jpeg
       - section: gantry-joining-bracket

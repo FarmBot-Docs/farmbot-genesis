@@ -45,10 +45,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Notes**                     |
 {:.internal}
 
-{% include gallery.html images="
 ![track end plate](_images/track_end_plate.jpg)
-![Track End Plates](_images/track_end_plates_2.jpg)
-" %}
 
 # Track Joining Plate
 
@@ -92,7 +89,7 @@ description: "Tech specs for the aluminum plates and brackets in FarmBot Genesis
 |**Notes**                     |
 {:.internal}
 
-![Gantry Wheel Plates](_images/gantry_wheel_plates.jpg)
+![Gantry Wheel Plates](_images/gantry_wheel_plate.jpg)
 
 # Gantry Corner Bracket
 
