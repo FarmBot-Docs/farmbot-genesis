@@ -26,10 +26,6 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 
 # M3 Screws
 
-![M3 Screw.JPG](_images/M3_Screw.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Trade Name**                |M3 Low-Profile Socket Head Cap Screw
@@ -48,10 +44,6 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 # M3 Setscrews
 Two of these setscrews are used to secure each GT2 pulley to the motor's shaft. The cup edge is knurled for gripping strength so these screws resist loosening.
 
-![Knurl-Grip Cup Point Set Screw.JPG](_images/Grip_Cup_Point_Set_Screw.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Trade Name**                |Knurl Grip Cup Point Set Screw
@@ -67,11 +59,6 @@ Two of these setscrews are used to secure each GT2 pulley to the motor's shaft. 
 
 # M4 Setscrews
 These setscrews are used to secure the Z-Axis flex coupling to the lead screw and to the Z-Axis motor's primary shaft. The cup edge is knurled for gripping strength so these screws resist loosening.
-
-
-![ULqcA2bRRtqhbWN9Lo9m_Capture.JPG](_images/Capture.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -89,10 +76,6 @@ These setscrews are used to secure the Z-Axis flex coupling to the lead screw an
 # M3 Locknuts
 Twelve of these locknuts are used to secure the UTM electronic pin screws in place. The nylon insert allows them to resist loosening when subjected to vibration.
 
-![M3 Lokcnut.JPG](_images/M3_Lokcnut.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Trade Name**                |Nylon-Insert Locknut
@@ -107,10 +90,6 @@ Twelve of these locknuts are used to secure the UTM electronic pin screws in pla
 
 # M5 Screws
 M5 button-head screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually used in combination with M5 washers, and terminated with an M5 tee nut or locknut. The button head provides a wide bearing surface, a low-profile head, and a finished appearance. Length is measured from under the head.
-
-![M5 x 10mm Screws.JPG](_images/M5_x_10mm_Screws.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -129,10 +108,6 @@ M5 button-head screws of various lengths are used throughout FarmBot to attach p
 
 # M5 Washers
 These washers are used throughout FarmBot in combination with M5 screws and M5 locknuts. They allow nuts to be tightened on plastic components and plates while preventing damage and distributing load.
-
-![M5 washers.JPG](_images/M5_washers.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -183,10 +158,6 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 
 # M5 Locknuts
 These nuts resist loosening because their nylon insert grips the screw that they are attached to. They are used in combination with M5 screws throughout FarmBot.
-
-![M5 Locknuts.JPG](_images/M5_Locknuts.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
