@@ -25,10 +25,6 @@ description: "Tech specs, prices, quantities, and recommended suppliers for the 
 # Electronics Housing
 This waterproof housing protects FarmBot's electronics from rain and debris. It has a clear front cover and keeps water out with a rubber gasket.
 
-![Capture.JPG](_images/Capture.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |Polycarbonate

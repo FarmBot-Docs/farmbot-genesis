@@ -60,10 +60,7 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 # M5 Shims
 These precision shims are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
 
-{% include gallery.html images="
 ![IMG_0283.JPG](_images/IMG_0283.JPG)
-![Capture.JPG](_images/Capture.JPG)
-" %}
 
 |                              |                              |
 |------------------------------|------------------------------|

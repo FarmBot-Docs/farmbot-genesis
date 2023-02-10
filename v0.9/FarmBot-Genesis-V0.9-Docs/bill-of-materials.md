@@ -371,10 +371,6 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Screws
 
-![Capture.JPG](_images/Capture.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Trade Name**                |M3 Low-Profile Socket Head Cap Screw
@@ -390,10 +386,6 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 
 ## M3 Setscrews
 
-![Capture.JPG](_images/Capture_02.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Trade Name**                |Knurl Grip Cup Point Set Screw
@@ -406,10 +398,6 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 |**CAD Models**                |[SolidWorks](https://drive.google.com/open?id=0B-wExYzQcnp3Q1FMc0VYemVlREk), [IGS](https://drive.google.com/open?id=0B-wExYzQcnp3WWpFMV9IaUZsb3M), [STEP](https://drive.google.com/open?id=0B-wExYzQcnp3aWJMQWhXWnBtaUU)
 
 ## M3 Locknuts
-
-![Capture.JPG](_images/Capture_03.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -425,10 +413,6 @@ This aluminum extrusion serves as the gantry's primary structural element. The c
 ## M4 Setscrews
 These setscrews are used to secure the driveshaft flex coupling to the driveshaft and to the gantry motor's primary shaft.
 
-![Capture.JPG](_images/Capture_04.JPG)
-
-
-
 |                              |                              |
 |------------------------------|------------------------------|
 |**Material**                  |18-8 Stainless Steel
@@ -441,10 +425,6 @@ These setscrews are used to secure the driveshaft flex coupling to the driveshaf
 
 ## M5 Screws
 M5 screws of various lengths are used throughout FarmBot to attach plates and 3D printed parts to extrusions, V-wheels to plates, and other components together. They are usually terminated with an M5 tee nut or an M5 locknut.
-
-![Capture.JPG](_images/Capture_05.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -524,10 +504,6 @@ When rotated, eccentric spacers accurately position V-wheels on a plate such tha
 
 ## M5 Locknuts
 These nuts resist loosening because their nylon insert grips the screw that they are attached to.
-
-![Capture.JPG](_images/Capture_06.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -615,10 +591,7 @@ These stainless steel bearings resist corrosion and have rubber seals to keep de
 ## Precision Shims
 These small washers are placed in between the two bearings in every V-wheel. They keep the bearings from squishing into each other and binding when the wheel is tightened onto a plate.
 
-{% include gallery.html images="
 ![IMG_0283.JPG](_images/IMG_0283.JPG)
-![Capture.JPG](_images/Capture_07.JPG)
-" %}
 
 |                              |                              |
 |------------------------------|------------------------------|
@@ -648,10 +621,6 @@ The driveshaft is used to transfer power from the gantry motor such that both ga
 
 ## M5 Lock Collar
 The M5 lock collar is used in combination with a GT2 pulley to "capture" and hold in place the driveshaft bearing inside the driveshaft bearing plate.
-
-![Capture.JPG](_images/Capture_08.JPG)
-
-
 
 |                              |                              |
 |------------------------------|------------------------------|
