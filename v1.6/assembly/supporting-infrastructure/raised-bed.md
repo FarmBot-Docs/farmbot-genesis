@@ -54,12 +54,11 @@ content="While FarmBot Genesis and Genesis XL kits only include enough extrusion
 |6  |Posts (90mm x 90mm x 600mm)                  |$3    |$18
 |2  |Long walls (40mm x 300mm x 3000mm)           |$15   |$30
 |2  |Short walls (40mm x 300mm x 1400mm)          |$7.50 |$15
-|2  |Cable carrier supports (40mm x 60mm x 1500mm)|$4    |$8
 |20 |M10 x 100mm lag screws                       |$0.75 |$15
 |20 |M10 washers                                  |$0.25 |$5
 |1  |Box of 90mm wood screws                      |$8    |$8
 |1  |Sealer, stain, or polyurethane               |$20   |$20
-|   |**TOTAL**                                    |      |**$119**
+|   |**TOTAL**                                    |      |**$111**
 
 # Genesis XL bed (2.98m x 6m)
 
@@ -68,12 +67,11 @@ content="While FarmBot Genesis and Genesis XL kits only include enough extrusion
 |12 |Posts (90mm x 90mm x 600mm)                  |$3    |$36
 |4  |Long walls (40mm x 300mm x 3000mm)           |$15   |$60
 |2  |Short walls (40mm x 300mm x 2900mm)          |$15   |$30
-|2  |Cable carrier supports (40mm x 60mm x 3000mm)|$6    |$12
 |36 |M10 x 100mm lag screws                       |$0.75 |$27
 |36 |M10 washers                                  |$0.25 |$9
 |1  |Box of 90mm wood screws                      |$8    |$8
 |1  |Sealer, stain, or polyurethane               |$20   |$20
-|   |**TOTAL**                                    |      |**$202**
+|   |**TOTAL**                                    |      |**$190**
 
 # Step 2: Dig post holes
 
