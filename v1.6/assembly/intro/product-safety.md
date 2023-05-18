@@ -21,11 +21,11 @@ Not all hazards may apply to your specific FarmBot model or configuration, and o
 |------|-----------|-----------|
 |Heavy boxes|The FarmBot may have shipped in one or more heavy boxes.|Use proper lifting techniques when moving the boxes and ask for help if you are unable to lift the boxes safely on your own.
 |Sharp edges|The aluminum extrusions and other aluminum plates and brackets may have sharp edges that can cut skin.|Be careful when handling these parts and consider wearing light duty construction gloves during assembly. You may use a file or fine grit sandpaper to smooth out any sharp edges if desired.
-|Tripping|The power and water lines can be a tripping hazard if not properly routed.|Route the power and water lines along the raised bed or along the ground in a way that does not create a tripping hazard.
+|Tripping|The power and water lines can be a tripping hazard if not properly routed.|Route the power and water lines along the raised bed or along the ground in a way that does not create a tripping hazard. Underground electrical conduit and piping may also be used.
 |Pinch and entanglement points|There are a number of locations where fingers can be pinched and hair and clothing can become entangled in the machine during operation. These include but are not limited to the: motors, gantry wheel plates, cross-slide, leadscrew, rotary tool, and UTM.|Keep your hands, feet, clothing, hair, children, and pets away from pinch and entanglement points while the device is in operation. If you must perform maintenance on the device, E-stop the device or power it down first.
 |Rotary tool debris|When the rotary tool is in operation it can produce debris such as soil, dust, and small rocks that can get ejected from the tool at high speeds. This debris can cause injury to the eyes and skin.|Inspect the rotary tool and attached accessories for any visible signs of damage or wear that could compromise its safety. Wear safety glasses and protective clothing or keep a safe distance when operating the rotary tool, especially near children and pets.
 |Electrical shock|FarmBot operates at 24V DC and can be powered by a 120V or 240V AC power source. When the device is powered on, there is a risk of electrical shock inside the electronics box and at cable connections, the motors, peripherals, and the UTM.|Do not open the electronics box or plug or unplug cables while the device is plugged into a power source. Do not submerge FarmBot in water. Do not touch the power supply, electronics, or cabling with wet hands. Do not operate FarmBot if anything is damaged. Do not operate FarmBot if the power supply or electronics are not properly grounded. Power the device using a GFCI protected outlet.
-|Flooding|If the watering nozzle is left on for an extended period of time, the raised bed can flood and overflow.|Do not leave the water supply on for extended periods of time. Exercise caution when using custom code or 3rd party integrations to control your FarmBot's watering system.
+|Flooding|If the watering nozzle is left on for an extended period of time, the raised bed can flood and overflow.|Do not leave the water supply on for extended periods of time. Exercise caution when using custom code or 3rd party integrations to control your FarmBot's watering system. You may also connect the FarmBot's water system to a digitally scheduled irrigation timer so water is only available to the machine when personnel are present.
 
 # Certifications
 
@@ -52,4 +52,4 @@ The following **safety features** have been engineered into the FarmBot to provi
 
 # What's next?
 
- * [Supporting Infrastructure](../supporting-infrastructure.md)
+ * [Assembly Preparation](assembly-preparation.md)
