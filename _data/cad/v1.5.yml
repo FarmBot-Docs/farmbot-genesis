@@ -1,6 +1,7 @@
 version_number: 1.5
 document: 6626b842adca229e69544ad1
-workspace: 89ac2637f82d915f22c2bcd0
+workspace: d2f8602693fe1c17dfeb2b8b
+versioned: true
 part:
   - name: 40mm Horizontal Cable Carrier Support
     id: 37ed606d6a8d1cd01d7f3e1c
