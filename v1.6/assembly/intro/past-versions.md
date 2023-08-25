@@ -53,6 +53,15 @@ content="View the [FarmBot Genesis v1.5 documentation](http://genesis.farm.bot/d
 * Added laser engraved labels to the barbed adapters.
 * Frosted the FarmBot logo on the electronics box lid.
 
+**Manufacturing**
+
+|Model             |# of Kits Manufactured |Completed |
+|------------------|-----------------------|----------|
+|Genesis v1.5      |125                    |Feb, 2020
+|                  |127                    |Dec, 2020
+|Genesis (XL) v1.5 |150                    |Feb, 2020
+|                  |73                     |Dec, 2020
+
 # Genesis v1.4
 
 {% include gallery.html images="
