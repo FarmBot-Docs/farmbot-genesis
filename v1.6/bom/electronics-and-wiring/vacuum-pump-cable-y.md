@@ -9,7 +9,7 @@ quantity:
   standard: 1|0
   xl: 0|1
 specs:
-  cable: Shielded 18AWG-2C
+  cable: Shielded 18AWG-2C (prior to July of 2022) or Shielded 22AWG-2C (July 2022 and later)
   lengths: 2.6m|4.1m
   rated voltage: 300V
   inner colors: Red and black
@@ -31,6 +31,6 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Connectors and continuity|Use the cable to connect a vacuum pump to a Farmduino.|The cable's connectors should connect as expected and the vacuum pump should be operable.|N/A
 |Length       |Measure the length of the two sections of cable using a tape measure.|See BOM spec|+/- 20mm
-|Cable        |Inspect the cable's spec.|18 guage, 2 core|N/A
+|Cable        |Inspect the cable's spec.|See BOM spec|N/A
 |Shrinkwrap   |Inspect the color of the shrinkwrap.|Gray|N/A
 |Color        |Inspect the color of the cable.|Black outer, black and red inner|N/A

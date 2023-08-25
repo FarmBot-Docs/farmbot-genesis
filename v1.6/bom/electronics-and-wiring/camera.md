@@ -11,7 +11,7 @@ specs:
   resolution: 640 x 480, 0.3MP (prior to July 2022)<br>1920 x 1080, 2.1MP (July 2022 and later)
   waterproof?: Yes
   focal distance: 0.5m (custom set)
-  outer diameter: 9mm
+  outer diameter: 10mm
   camera length: 38mm
   cable: Shielded 28AWG/1p + 24AWG/2c<br><br>1p = 1 twisted pair (for data)<br>2c = 2 core (for power)
   cable length: 1m
@@ -31,7 +31,7 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Resolution   |Take a photo and inspect the resolution.|1.3MP|N/A
 |Focus        |Take a photo of an object 50cm away.|The object should appear sharp|N/A
-|Diameter     |Measure the diameter of the camera module using digital calipers.|11mm|+/- 0.5mm
+|Diameter     |Measure the diameter of the camera module using digital calipers.|10mm|+0.5mm / -0.75mm
 |Mount compatibility|Mount the camera to an extrusion using two camera mount halves.|The camera should be able to be firmly mounted in place|N/A
 |Function     |Connect the camera to a Raspberry Pi using a Genesis (XL) camera cable and take a photo from the FarmBot web app.|Photo taking should work as expected (no black images, no failures)|N/A
 |Camera module length|Measure the length of the camera module using digital calipers.|38mm|+/- 2mm

@@ -11,8 +11,8 @@ specs:
   material: Aluminum
   number of teeth: 20
   inner diameter: 5mm
-  outer diameter: 15mm
-  height: 14mm
+  outer diameter: 16mm
+  height: 16mm
   setscrew quantity: 2
   setscrew material: Stainless steel
   setscrew drive size: 2mm hex
@@ -29,8 +29,8 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Number of teeth|Count the number of teeth on the pulley.|20|+/- 0
 |Pitch        |Mate the pulley with a belt and inspect tooth engagement|The pulley should fully engage the belt's teeth at all points of contact.|N/A
-|Tooth width  |Measure the width of the teeth using digital calipers.|7mm|+/- 0.5mm
-|Overall length|Measure the overall length using digital calipers.|14mm|+/- 0.5mm
+|Tooth width  |Measure the width of the teeth using digital calipers.|8mm|+/- 0.5mm
+|Overall length|Measure the overall length using digital calipers.|16mm|+/- 0.5mm
 |Outer Diameter|Measure using digital calipers.|15mm|+/- 0.5mm
 |Hole diameter|Measure the diameter of the motor shaft hole using digital calipers.|5mm|+ 0.05mm
 |Motor shaft fit|Assemble the pulley to a NEMA 17 motor shaft and tighten the setscrews.|Pulley should fit snug and concentrically.|N/A
