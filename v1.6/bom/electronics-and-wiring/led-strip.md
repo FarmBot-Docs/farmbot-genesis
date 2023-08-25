@@ -11,7 +11,7 @@ quantity:
 specs:
   light color: White 6000K
   strip length: 1.5m|3m
-  lead length: 1m
+  lead length: 0.7m
   cable color: Black
   connector: Black 2-pin plug (<a href="https://www.molex.com/molex/products/datasheet.jsp?part=active/1510492206_CRIMP_HOUSINGS.xml">Molex Part 151049-2206</a>) (Rev A, prior to July 2022)<br>Black 2-pin plug (<a href="https://www.molex.com/molex/products/part-detail/crimp_housings/0050579402">Molex Part 50579402</a>) (Rev B, July 2022 and later)
 internal-specs:
@@ -27,7 +27,7 @@ internal-specs:
 |-------------|-------------|-------------|-------------|
 |Connector    |Connect the LED strip to a Farmduino peripheral plug.|Part should connect as expected|N/A
 |Cable color  |Inspect the color of the cable.|Black|N/A
-|Cable length |Measure the length of the cable using a measuring tape.|1m|+/- 20mm
+|Cable length |Measure the length of the cable using a measuring tape.|See BOM spec|+/- 20mm
 |LED color    |Turn on an LED strip and inspect the color of the light.|Cool white (6000K)|N/A
 |LED strip length|Measure the length of the LED strip using a measuring tape.|See BOM spec|+/- 30mm
 |LED strip cut end|Inspect the cut end of the LED strip.|Cut end should be sealed with silicon rubber|N/A

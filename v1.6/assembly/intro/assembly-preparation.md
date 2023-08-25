@@ -4,13 +4,11 @@ slug: "assembly-preparation"
 description: "Shorten the time it takes to assemble your FarmBot by following these preliminary steps"
 ---
 
+# Installation tips
 
-{%
-include callout.html
-type="info"
-title="15 minutes"
-content="This is the estimated time it will take for assembly preparation."
-%}
+Watch the short video below to understand how to provide power, water, and an internet connection to your FarmBot in a safe a reliable way.
+
+{% include youtube.html id="6Ov1Uw1KJ-0" %}
 
 # Organize your parts
 
