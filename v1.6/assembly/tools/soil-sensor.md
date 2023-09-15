@@ -14,7 +14,7 @@ The **soil sensor** works by driving the tool vertically into the soil so that t
 include callout.html
 type="success"
 title="Pre-assembled for your convenience"
-content="As of the v1.6 hardware release, the soil sensor tool comes pre-assembled."
+content="As of the v1.6 hardware release, the soil sensor tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/soil-sensor.md)."
 %}
 
 # What's next?

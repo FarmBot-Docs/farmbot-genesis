@@ -14,7 +14,7 @@ The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single se
 include callout.html
 type="success"
 title="Pre-assembled for your convenience"
-content="As of the v1.6 hardware release, the seeder tool comes pre-assembled. In the next steps we'll hook up the rest of FarmBot's vacuum system."
+content="As of the v1.6 hardware release, the seeder tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/seeder.md). In the next steps we'll hook up the rest of FarmBot's vacuum system."
 %}
 
 # Step 1: Selecting a luer lock needle

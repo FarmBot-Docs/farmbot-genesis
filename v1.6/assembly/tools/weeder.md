@@ -27,7 +27,7 @@ content="Do not expect this tool to work with larger, more established weeds. In
 include callout.html
 type="success"
 title="Pre-assembled for your convenience"
-content="As of the v1.6 hardware release, the weeder comes pre-assembled with medium sized weeder blades."
+content="As of the v1.6 hardware release, the weeder comes [pre-assembled](../../manufacturing/pre-assembly/tools/weeder.md) with medium sized weeder blades."
 %}
 
 # Customizing the weeder

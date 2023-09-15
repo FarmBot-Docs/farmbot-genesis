@@ -17,7 +17,7 @@ content="Building your own tools that utilize the electrical contacts of the UTM
 {%
 include callout.html
 type="success"
-title="Unlimited possibilites"
+title="Unlimited possibilities"
 content="These specs must be followed to ensure your tool works with a stock FarmBot. However, don't shy away from experimentation and the possibility of modifying your UTM, tool bay, or electronics to accommodate your desired tool design. FarmBot is yours to play with and modify!"
 %}
 
@@ -44,6 +44,9 @@ Design your tools to meet these hardware specifications to ensure compatibility 
 ## Size, shape, and layout
 Tools must have the correct physical dimensions and component layout on the top face so that they can correctly couple and de-couple with the UTM as well as slide in and out of the tool bay.
 
+## Electrical connections
+Tools can make electrical connections with components in the electronics box through the UTM. See [UTM pin mapping](../../assembly/tools/utm.md#pin-mapping) for existing and available connections.
+
 {%
 include callout.html
 type="success"
@@ -51,3 +54,8 @@ title="Start with a CAD model"
 content="Download a tool base CAD model from the [CAD models](../cad.md) page."
 %}
 
+# What's next?
+
+ * [Review Included Tools](../../assembly/tools.md)
+ * [Included Tool Assembly](../../manufacturing/pre-assembly/tools.md)
+ * [Basic Tool Hardware](../reference/basic-tool-hardware.md)

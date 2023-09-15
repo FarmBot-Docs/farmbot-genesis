@@ -16,7 +16,7 @@ The Universal Tool Mount (UTM) allows FarmBot Genesis to automatically switch to
 include callout.html
 type="success"
 title="Pre-assembled for your convenience"
-content="As of the v1.4 hardware release, the UTM comes pre-assembled so all you need to do is mount it and connect the cable and tubes!"
+content="As of the v1.4 hardware release, the UTM comes [pre-assembled](../../manufacturing/pre-assembly/tools/utm.md) so all you need to do is mount it and connect the cable and tubes!"
 %}
 
 {% include gallery.html images="

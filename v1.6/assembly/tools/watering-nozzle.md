@@ -14,7 +14,7 @@ The **watering nozzle** accepts a concentrated stream of water coming from the [
 include callout.html
 type="success"
 title="Pre-assembled for your convenience"
-content="As of the v1.6 hardware release, the watering nozzle tool comes pre-assembled. In the next steps we'll hook up the rest of FarmBot's watering system."
+content="As of the v1.6 hardware release, the watering nozzle tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/watering-nozzle.md). In the next steps we'll hook up the rest of FarmBot's watering system."
 %}
 
 # Step 1: Assemble the solenoid valve and pressure regulator
