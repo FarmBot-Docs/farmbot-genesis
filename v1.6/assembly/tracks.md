@@ -165,7 +165,7 @@ Repeat steps 3 through 8 for the track on the other side of the bed. Note that t
 {%
 include callout.html
 type="warning"
-title="Parellel or bust"
+title="Parallel or bust"
 content="It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks.
 
 You can use shims or other spacers to better align track plates in case your supporting infrastructure is not perfect."

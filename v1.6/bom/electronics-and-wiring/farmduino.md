@@ -63,7 +63,7 @@ title="Farmduino is open-source"
 |USB power out|Read the voltage coming from the `POWER OUT` USB connector.|5.25V|+/- 0.1V
 |UTM shunts   |Inspect for the presence of the UTM pin shunts.|Present on Pins `A`-`H`|N/A
 |Color        |Inspect the color of the PCB.|Matte black|N/A
-|Functionality|Use the factory test firmware to test motor, encoder, and periperhal functions.|All functions work|N/A
+|Functionality|Use the factory test firmware to test motor, encoder, and peripheral functions.|All functions work|N/A
 |Encoder tracking|Move all motor axes with manual controls, by hand, and with forced stalls.|Encoder positions should be accurately tracked in all scenarios.|N/A
 |Encoder tracking range|Using stock encoder scaling, move to +/- 10,000mm on the X and Y axes and +/- 2,000mm on the Z axis.|STM32 should accurately track encoder positions through the range of movement.|N/A
 |STM32 reset  |Set `pin 49` low and then high.|Encoder tracking should reset.|N/A

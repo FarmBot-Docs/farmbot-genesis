@@ -24,7 +24,7 @@ content="Inspect the UTM and Tool magnets for debris. If any is found, remove th
 %}
 
 # Remove internal needle debris
-It is possible for dust, soil, and other debris to become stuck inside of seed injector's luer loock needles. This can cause a loss of seed suction power and prevent the seed injector from working reliably.
+It is possible for dust, soil, and other debris to become stuck inside of seed injector's luer lock needles. This can cause a loss of seed suction power and prevent the seed injector from working reliably.
 
 {%
 include callout.html

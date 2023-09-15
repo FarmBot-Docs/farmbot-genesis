@@ -10,7 +10,7 @@ Each gantry wheel plate will have nine wheel assemblies attached to allow slidin
 {%
 include callout.html
 type="hand-spock-o"
-content="You need to assemble a left-hand and right-hand version of the gantry wheel plate assemblies. To reduce the liklihood of an assembly mistake, we recommend laying out the gantry wheel plates as a mirror image of each other and attaching all of the wheels facing towards you."
+content="You need to assemble a left-hand and right-hand version of the gantry wheel plate assemblies. To reduce the likelihood of an assembly mistake, we recommend laying out the gantry wheel plates as a mirror image of each other and attaching all of the wheels facing towards you."
 %}
 
 # Step 1: Attach the upper V-wheels

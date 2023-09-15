@@ -65,7 +65,7 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 
 # Miscellaneous
 
-* The [[camera cable]] is now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
+* The [[camera cable]] is now manufactured with shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce interference problems that affected some v1.5 installations.
 * Shortened the **X1 motor cable** and **X1 encoder cable** to reduce the amount of extra cabling underneath the electronics box.
 * Removed unnecessary features from the [[leadscrew block]] design.
 * Removed the **5.5mm wrench**, **2.5mm hex key**, **bladed screwdriver** and **phillips screwdriver** from the kit.
@@ -78,7 +78,7 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 * Due to supply chain shortages, upgraded from the [[Raspberry Pi]] model 3B+ to model 4B (1GB version). This change also required a new [[Raspberry Pi power cable]] featuring a USB Type-C plug.
 * Due to supply chain shortages, changed the [[Farmduino]]'s peripheral receptacles for the solenoid valve, LED strip, and peripherals 4 and 5 to 2-pin 2.54mm pitch locking Molex connectors via an adapter board. Changed the corresponding plugs on the mating parts as well.
 * Due to shortages, did not include any [[peripheral leads]] in the kits.
-* The cable used for the [[camera]] is now shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce intereference problems that affected some v1.5 installations.
+* The cable used for the [[camera]] is now shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) to reduce interference problems that affected some v1.5 installations.
 * Increased the number of [[wood screws]] included.
 * Decreased the quantity of [[jumper wires]] included.
 * Removed the wide [[weeder blades]] from the kit.
@@ -88,7 +88,7 @@ Due to low demand, **FarmBot Genesis MAX** (introduced in v1.5) was [cancelled](
 # Production run 3
 
 * Due to supply chain shortages, upgraded from the [[Raspberry Pi]] model 4B (1GB version) to the 2GB version.
-* Changed the [[Farmduino]]'s vacuum pump peripheral receptacle to a 3-pin 2.54mm pitch locking Molex connector and permanently changed the other peripheral receptacles to the 2.54mm pitch variety by removing the need for an adapter baord.
+* Changed the [[Farmduino]]'s vacuum pump peripheral receptacle to a 3-pin 2.54mm pitch locking Molex connector and permanently changed the other peripheral receptacles to the 2.54mm pitch variety by removing the need for an adapter board.
 * Changed the [[vacuum pump]]'s three quick-connect terminals to a single 3-pin receptacle to match the Farmduino.
 * Changed the [[Y vacuum pump cable]] and [[Z vacuum pump cable]] plugs to 3-pin 2.54mm pitch plugs.
 * Included a new revision of [[peripheral leads]] with 2.54mm pitch plugs.

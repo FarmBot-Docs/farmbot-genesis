@@ -29,5 +29,5 @@ internal-specs:
 |Width         |Measure the width of the v-wheel with digital calipers.|10.23mm|+/- 0.1mm
 |V-angle       |Using a digital protractor, measure the angle that the two V-sides of the wheel create.|90 degrees|+/- 2 degrees
 |Extrusion fit |Roll a V-wheel along an extrusion.|The wheel should fit properly in the V-slot of the extrusion.|N/A
-|Smoothness    |Inspect the wheel to ensure there are no eroneous grooves, cuts, or knicks|No blemishes|N/A
+|Smoothness    |Inspect the wheel to ensure there are no erroneous grooves, cuts, or nicks|No blemishes|N/A
 {:.internal}

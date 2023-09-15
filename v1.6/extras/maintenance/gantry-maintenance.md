@@ -28,7 +28,7 @@ Over time, it is possible for the delrin leadscrew block to wear down. This can 
 include callout.html
 type="success"
 title="Once per year"
-content="Inspect the delrin ledscrew block for signs of wear. You can do this by gently pushing and pulling up and down on the leadscrew to see if you can feel any looseness in the system. If you detect there to be a large amount of play, replace the leadscrew block as soon as possible."
+content="Inspect the delrin leadscrew block for signs of wear. You can do this by gently pushing and pulling up and down on the leadscrew to see if you can feel any looseness in the system. If you detect there to be a large amount of play, replace the leadscrew block as soon as possible."
 %}
 
 

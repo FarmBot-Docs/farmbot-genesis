@@ -22,7 +22,7 @@ content="Please use the following information for *inspiration* only. The instru
 {%
 include callout.html
 type="success"
-title="Use 'read pin' to collect anaolog sensor data"
+title="Use 'read pin' to collect analog sensor data"
 content="Using the **sequence builder** and **event scheduler** of the web app, you can easily configure FarmBot to read **analog inputs** on the Arduino and then have that data synchronized and saved in the web app for later viewing. This functionality can be used with a wide variety of analog sensors including some of the ones listed below.
 
 Note that our software is currently limited to raw data, so you will have to interpret it with any multiplication factors or lookup tables on your own. We're working hard on data manipulation features in the web app. Want to help out? Join us on [GitHub](http://github.com/farmbot)!"
@@ -41,7 +41,7 @@ We're working hard on supporting digital sensors. Want to help out? Join us on [
 
 
 
-# Anemometer + Wind Vane + Rain Guage
+# Anemometer + Wind Vane + Rain Gauge
 
 For about $80 you can purchase a combination [anemometer, wind vane, and rain gauge mini weather station from SparkFun](https://www.sparkfun.com/products/8942). This lightweight device can be easily hoseclamped onto your FarmBot's gantry or installed in a stationary location nearby with an extension of the wires. You can then hook the device up to FarmBot's Arduino or directly to the Pi.
 
