@@ -29,7 +29,8 @@ content="Do not expect this tool to operate like a full-blown weed whacker. It i
 {%
 include callout.html
 type="success"
-title="[Pre-assembled](../../manufacturing/pre-assembly/tools/rotary-tool.md) for your convenience"
+title="Pre-assembled for your convenience"
+content="The rotary tool comes [pre-assembled](../../manufacturing/pre-assembly/tools/rotary-tool.md)."
 %}
 
 # Safety considerations
