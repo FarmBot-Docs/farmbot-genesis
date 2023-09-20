@@ -68,7 +68,7 @@ content="The motor and housing should be on the same side of the cross-slide pla
 ![Mount the motor and housing to the plate](_images/cross_slide_with_motor.jpg)
 " %}
 
-Slide a [[pulley]] onto the **motor shaft**. Make sure that both setscrews are lined up with the flat spots of the motor shaft. Then tighten the setscrews with the **2mm driver**.
+Slide a [[pulley]] onto the **motor shaft**. Make sure that both setscrews are lined up with the flat spots of the motor shaft. Then tighten the setscrews with the [[2mm hex driver]].
 
 {%
 include callout.html
@@ -112,7 +112,7 @@ content="Make sure that the belt is not twisted anywhere."
 
 ![Feed the belt](_images/y_axis_belt_around_pulley.png)
 
-Secure the belt at the other end of the gantry with another [[belt clip]], **20 mm nut bar**, and two [[M5 x 10mm screws]]. Ensure there is a small amount of tension on the belt once everything is in place.
+Secure the belt at the other end of the gantry with another [[belt clip]], [[20mm nut bar]], and two [[M5 x 10mm screws]]. Ensure there is a small amount of tension on the belt once everything is in place.
 
 ![Secure the other end of the belt](_images/y_axis_belt_end.png)
 

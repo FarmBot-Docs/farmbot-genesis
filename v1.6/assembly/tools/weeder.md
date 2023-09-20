@@ -32,7 +32,7 @@ content="As of the v1.6 hardware release, the weeder comes [pre-assembled](../..
 
 # Customizing the weeder
 
-The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. Feel free to add, remove, and reconfigure the blades as needed.
+The weeding tool is customizable so you can optimize it for your soil conditions, the types of weeds you are up against, and also how you configure your weeding sequences. The weeder comes with three sizes of blades: [[ narrow weeder blade ]], [[ medium weeder blade ]], and [[ wide weeder blade ]]. Feel free to add, remove, and reconfigure the blades as needed.
 
 You can also create new implements of your own design with a 3D printer or out of household materials.
 

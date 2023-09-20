@@ -58,7 +58,7 @@ content="If you find during testing that there is air blowing out of the seeder 
 
 # Step 3: Wire up the vacuum pump
 
-Connect the [[vacuum pump cable]] to the [[vacuum pump]] terminals according to the images below.
+Connect the [[z vacuum pump cable]] to the [[vacuum pump]] terminals according to the images below.
 
 * Connect the **clear/silver wire** to the _terminal on the left_ labelled `PE`.
 * Connect the **white wire** to the _middle terminal_ labelled `24V`.

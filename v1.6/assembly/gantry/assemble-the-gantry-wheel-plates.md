@@ -15,7 +15,7 @@ content="You need to assemble a left-hand and right-hand version of the gantry w
 
 # Step 1: Attach the upper V-wheels
 
-Insert an [[M5 x 30mm screw]] through a [[V-wheel]] and a [[standard spacer]]. Then insert this into the [[gantry wheel plate]] as shown and add an [[M5 flange locknut]] on the other side of the plate. Tighten the wheel assembly using the **3mm hex driver** and the **8mm box wrench**, then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
+Insert an [[M5 x 30mm screw]] through a [[V-wheel]] and a [[standard spacer]]. Then insert this into the [[gantry wheel plate]] as shown and add an [[M5 flange locknut]] on the other side of the plate. Tighten the wheel assembly using the [[3mm hex driver]] and the [[8mm wrench]], then repeat for the remaining four V-wheels with standard spacers. All five of these wheels should be positioned on the plate in a straight line.
 
 {% include gallery.html images="
 ![gantry wheel plate with one wheel](_images/gantry_wheel_plate_with_one_wheel.png)

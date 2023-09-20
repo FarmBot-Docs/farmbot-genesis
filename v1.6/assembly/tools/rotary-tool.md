@@ -53,19 +53,19 @@ However, even though the tool is fairly low powered, some commonsense precaution
 
 # Changing the motor angle
 
-The angle of the rotary tool's motor can be adjusted +/- 70 degrees to allow for more aggressive weed whacking. To adjust the angle, loosen or remove the two **M3 screws** holding the motor to the upper half of the tool. Position the motor at the desired angle and retighten the screws.
+The angle of the rotary tool's motor can be adjusted +/- 70 degrees to allow for more aggressive weed whacking. To adjust the angle, loosen or remove the two [[M3 x 12mm screws]] holding the motor to the upper half of the tool. Position the motor at the desired angle and retighten the screws.
 
 ![changing the rotary tool motor angle](_images/rotary_tool_change_motor_angle.png)
 
 # Using the shaft extension
 
-In certain configurations of the rotary tool, you may need to use the **rotary tool shaft extension** to provide extra distance between the tool itself and the implement being used. To use the shaft extension, remove any implement currently being used. Screw the shaft extension onto the motor and then re-attach the implement.
+In certain configurations of the rotary tool, you may need to use the [[rotary tool shaft extension]] to provide extra distance between the tool itself and the implement being used. To use the shaft extension, remove any implement currently being used. Screw the shaft extension onto the motor and then re-attach the implement.
 
 ![rotary tool shaft extension](_images/rotary_tool_shaft_extension.png)
 
 # Using the drill chuck
 
-The rotary tool can be configured with the included **drill chuck** to perform light duty drilling operations with most standard drill bits smaller than 5mm. To use the drill chuck, set the motor angle to vertical and remove any implement currently being used. Then screw the **drill chuck adapter** onto the motor, followed by the **drill chuck**.
+The rotary tool can be configured with the included [[rotary tool chuck]] to perform light duty drilling operations with most standard drill bits smaller than 5mm. To use the drill chuck, set the motor angle to vertical and remove any implement currently being used. Then screw the [[rotary tool chuck adapter]] onto the motor, followed by the [[rotary tool chuck]].
 
 ![rotary tool drill chuck](_images/rotary_tool_drill_chuck.png)
 

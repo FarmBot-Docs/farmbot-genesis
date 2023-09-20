@@ -16,7 +16,7 @@ Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmB
 
 # Step 1: Attach the electronics box to the gantry
 
-Attach the pre-assembled **electronics box** to the **left gantry column** using six [[M5 x 10mm screws]] and [[tee nuts]]. The top flange of the box should be butted against the bottom edge of the [[gantry corner bracket]].
+Attach the pre-assembled [[electronics box]] to the **left gantry column** using six [[M5 x 10mm screws]] and [[tee nuts]]. The top flange of the box should be butted against the bottom edge of the [[left gantry corner bracket]].
 
 ![electronics box attached to gantry](_images/electronics_box_attached_to_gantry.png)
 
@@ -38,7 +38,7 @@ content="Before proceeding with plugging everything in, remove the black rubber 
 When plugging in cables in the following steps, ensure that you pass **every cable** through the slot in the bottom of the electronics box. Once everything is connected to the electronics, you will organize all of the cables into the supergland, and then push the supergland back into the slot."
 %}
 
-* Connect the [[vacuum pump cable]] (with gray heat shrink) to the [[Farmduino]] peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
+* Connect the [[y vacuum pump cable]] (with gray heat shrink) to the [[Farmduino]] peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
 * Connect the [[solenoid valve cable]] (with blue heat shrink) to the [[Farmduino]] peripheral connector labelled `WATER` (directly underneath the vacuum connector). The connector will only fit in one direction.
 * Connect the [[LED strip]] to the [[Farmduino]] peripheral connector labelled `LIGHTING` (directly underneath the water connector). The connector will only fit in one direction.
 
@@ -74,7 +74,7 @@ Plug the [[camera cable]] into the [[Raspberry Pi]]. The exact USB port chosen d
 
 # Step 5: Plug in the UTM cable
 
-Plug in the **UTM cable** to the [[Farmduino]]. The connector will only fit in one direction.
+Plug in the [[UTM cable]] to the [[Farmduino]]. The connector will only fit in one direction.
 
 ![farmduino utm connector](_images/farmduino_utm.png)
 
@@ -86,7 +86,7 @@ Connect the **3-pin power supply connector** to the **Farmduino's power input**.
 
 # Step 7: Insert the supergland
 
-Insert one half of the **supergland** into the slot in the bottom of the **electronics box**. The left-most hole in the supergland should be small (it is for the camera) while the right-most hole should be medium-sized (it is for the power supply).
+Insert one half of the **supergland** into the slot in the bottom of the [[electronics box]]. The left-most hole in the supergland should be small (it is for the camera) while the right-most hole should be medium-sized (it is for the power supply).
 
 ![supergland](_images/supergland.png)
 
