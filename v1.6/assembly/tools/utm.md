@@ -36,8 +36,8 @@ content="As of the v1.4 hardware release, the UTM comes [pre-assembled](../../ma
 |**F**  |<span class="cable-color brown">brown</span>  |---                          |---
 |**G**  |<span class="cable-color blue">blue</span>    |---                          |---
 |**H**  |<span class="cable-color grey">grey</span>    |BDC1 (GND or 24V via DRV8876)|Rotary tool motor
-|**I**  |<span class="cable-color orange">orange</span>|---                          |---
-|**J**  |<span class="cable-color purple">purple</span>|---                          |---
+|**I**  |<span class="cable-color orange">orange</span>|---                          |I2C SCL
+|**J**  |<span class="cable-color purple">purple</span>|---                          |I2C SDA
 |**K**  |<span class="cable-color pink">pink</span>    |---                          |---
 |**L**  |<span class="cable-color cyan">cyan</span><br>(shunted to shield with dark gray heatshrink)|PE|Protected Earth ground
 

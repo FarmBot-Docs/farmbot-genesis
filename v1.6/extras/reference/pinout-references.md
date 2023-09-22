@@ -196,13 +196,19 @@ _https://www.arduino.cc/en/Hacking/PinMapping2560_
 |Abbreviation  |Meaning                    |
 |--------------|---------------------------|
 |A             |Analog
+|CS            |Chip Select
 |D             |Digital
+|DIR           |Direction
+|EN            |Enable
 |GND           |Ground
-|MISO          |Master In Slave Out
-|MOSI          |Master Out Slave In
+|MISO          |Main In Sub Out (SPI)
+|MOSI          |Main Out Sub In (SPI)
 |PWM           |Pulse Width Modulation
 |RX            |Receive
-|SCK           |Serial Clock
+|SCK           |Serial Clock (SPI)
+|SCL           |Serial Clock Line (I2C)
+|SDA           |Serial Data Line (I2C)
+|SS/NSS        |Sub Select (SPI)
 |TX            |Transmit
 |VCC           |Voltage Common Collector
 
