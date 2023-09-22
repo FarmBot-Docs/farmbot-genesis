@@ -2,6 +2,7 @@
 title: "Seeder"
 slug: "seeder"
 description: "Pre-assembly and packing instructions for the seeder tool"
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/1449bd11dc3cf8a5f2563601
 ---
 
 ![seeder](_images/seeder.png)
@@ -43,9 +44,9 @@ Place the **seeder box insert** into the **seeder box**. Then insert the **seede
 |                                |                              |
 |--------------------------------|------------------------------|
 |**Box style**                   |Top flap (standard FarmBot box design)
-|**Inner dimensions (L x W x H)**|
-|**Outer dimensions (L x W x H)**|
+|**Inner dimensions (L x W x H)**|75mm x 75mm x 37mm
+|**Outer dimensions (L x W x H)**|80mm x 80mm x 42mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[SEEDER.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[SEEDER.pdf](_images/seeder_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |Cardboard insert
