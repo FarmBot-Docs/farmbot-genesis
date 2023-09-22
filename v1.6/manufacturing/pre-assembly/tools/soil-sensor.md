@@ -2,6 +2,7 @@
 title: "Soil Sensor"
 slug: "soil-sensor"
 description: "Pre-assembly and packing instructions for the soil sensor"
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/6ca8f07ff28a92ec08c70e71
 ---
 
 ![soil sensor](_images/soil_sensor.png)
@@ -70,9 +71,9 @@ Place the **soil sensor box insert** into the **soil sensor box**. Then insert t
 |                                |                              |
 |--------------------------------|------------------------------|
 |**Box style**                   |Top flap (standard FarmBot box design)
-|**Inner dimensions (L x W x H)**|
-|**Outer dimensions (L x W x H)**|
+|**Inner dimensions (L x W x H)**|75mm x 75mm x 90mm
+|**Outer dimensions (L x W x H)**|80mm x 80mm x 95mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[SOIL SENSOR.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[SOIL SENSOR.pdf](_images/soil_sensor_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |Cardboard insert

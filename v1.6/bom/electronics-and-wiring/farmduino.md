@@ -53,6 +53,7 @@ title="Farmduino is open-source"
 |Schematics, board layout, and hardware source files|[Google Drive Folder](https://drive.google.com/drive/folders/1yilyUpWPxHwNqFovOlq9ZL7B2jPNqCCX?usp=sharing)
 |Arduino MCU firmware source code|[GitHub](https://github.com/FarmBot/farmbot-arduino-firmware)
 |STM32 firmware for tracking encoder signals|[GitHub](https://github.com/MotorDynamicsLab/encoder-tracker/releases/tag/v1.0.2)
+|Pinout references|[Link](../../extras/reference/pinout-references.md)
 
 **Component tests**{:.internal}
 

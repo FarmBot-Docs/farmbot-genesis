@@ -2,6 +2,7 @@
 title: "Weeder"
 slug: "weeder"
 description: "Pre-assembly and packing instructions for the weeder"
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/d8f735e3055725dc0155a480
 ---
 
 ![weeder](_images/weeder.png)
@@ -44,9 +45,9 @@ Place the **weeder box insert** into the **weeder box**. Then insert the **weede
 |                                |                              |
 |--------------------------------|------------------------------|
 |**Box style**                   |Top flap (standard FarmBot box design)
-|**Inner dimensions (L x W x H)**|
-|**Outer dimensions (L x W x H)**|
+|**Inner dimensions (L x W x H)**|75mm x 75mm x 55mm
+|**Outer dimensions (L x W x H)**|80mm x 80mm x 60mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[WEEDER.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[WEEDER.pdf](_images/weeder_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |Cardboard insert

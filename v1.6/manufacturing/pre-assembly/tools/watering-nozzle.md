@@ -2,6 +2,7 @@
 title: "Watering Nozzle"
 slug: "watering-nozzle"
 description: "Pre-assembly and packing instructions for the watering nozzle"
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/3f379dda94032bbfb6429694
 ---
 
 ![watering nozzle with basic tool hardware](_images/watering_nozzle_with_basic_tool_hardware_2.png)
@@ -45,9 +46,9 @@ Insert the **watering nozzle box insert** in the **watering nozzle box**. Then p
 |                                |                              |
 |--------------------------------|------------------------------|
 |**Box style**                   |Top flap (standard FarmBot box design)
-|**Inner dimensions (L x W x H)**|
-|**Outer dimensions (L x W x H)**|
+|**Inner dimensions (L x W x H)**|75mm x 75mm x 33mm
+|**Outer dimensions (L x W x H)**|80mm x 80mm x 38mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[WATERING NOZZLE.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[WATERING NOZZLE.pdf](_images/watering_nozzle_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |Cardboard insert

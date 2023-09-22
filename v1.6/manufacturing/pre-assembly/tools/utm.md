@@ -2,6 +2,7 @@
 title: "UTM Pre-Assembly"
 slug: "utm"
 description: "Pre-assembly and packing instructions for the UTM"
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/5875313f78d29a5696eb9956
 ---
 
 
@@ -69,9 +70,9 @@ Pack the **pre-assembled UTM** into the **UTM box**.
 |                                |                              |
 |--------------------------------|------------------------------|
 |**Box style**                   |Top flap (standard FarmBot box design)
-|**Inner dimensions (L x W x H)**|
-|**Outer dimensions (L x W x H)**|
+|**Inner dimensions (L x W x H)**|75mm x 95mm x 52mm
+|**Outer dimensions (L x W x H)**|80mm x 100mm x 57mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[UTM.pdf](http://docs.farm.bot)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[UTM.pdf](_images/utm_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |None
