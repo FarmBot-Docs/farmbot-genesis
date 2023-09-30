@@ -31,6 +31,7 @@ content="Please note that the following pages contain *ideas* for how to modify 
  * [Complete the Cycle with Compost](mods/complete-the-cycle-with-compost.md)
  * [Monitor FarmBot with a Webcam](mods/monitor-farmbot-with-a-webcam.md)
  * [Bees, Worms, Chickens, and More!](mods/bees-worms-chickens-and-more.md)
+ * [3D Imaging with an OAK Camera](mods/3d-imaging-with-an-oak-camera.md)
  * [Take Time Lapse Plant Photography](mods/take-time-lapse-plant-photography.md)
  * [Put FarmBot in a Greenhouse](mods/put-farmbot-in-a-greenhouse.md)
  * [Control Servos](mods/control-servos.md)
