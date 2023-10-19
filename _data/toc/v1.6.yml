@@ -123,6 +123,8 @@ contents:
             url: solenoid-valve-cable-fix
           - title: Tool Verification
             url: tool-verification
+          - title: Mounting and Dismounting Tools
+            url: mounting-and-dismounting-tools
       - title: Mods and Add-Ons
         url: mods
         pages:
