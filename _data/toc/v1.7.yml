@@ -158,6 +158,8 @@ contents:
             url: control-relays
           - title: Tool Spec
             url: tool-spec
+          - title: Shorten or Lengthen the Tracks
+            url: shorten-or-lengthen-the-tracks
       - title: Reference Docs
         url: reference
         pages:

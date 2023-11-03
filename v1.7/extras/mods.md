@@ -10,8 +10,6 @@ FarmBot Genesis has been designed to be a platform for growing plants in any way
 
 _This FarmBot has been augmented with a weather station_
 
-
-
 {%
 include callout.html
 type="info"
@@ -37,3 +35,4 @@ content="Please note that the following pages contain *ideas* for how to modify 
  * [Control Servos](mods/control-servos.md)
  * [Control Relays](mods/control-relays.md)
  * [Tool Spec](mods/tool-spec.md)
+ * [Shorten or Lengthen the Tracks](mods/shorten-or-lengthen-the-tracks.md)
