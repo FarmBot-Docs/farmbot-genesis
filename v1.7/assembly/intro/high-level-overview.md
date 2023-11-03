@@ -4,7 +4,7 @@ slug: "high-level-overview"
 description: "Bird's eye view of FarmBot Genesis and Genesis XL"
 ---
 
-**FarmBot Genesis** and **Genesis** (XL) are primarily constructed from V-slot aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the Farmduino electronics board, and a Raspberry Pi 3 computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
+**FarmBot Genesis** and **Genesis** (XL) are primarily constructed from aluminum extrusions and aluminum plates and brackets. They are driven by four NEMA 17 stepper motors with rotary encoders, the [[Farmduino]] electronics board, and a [[Raspberry Pi]] computer.  Current models cover growing areas as small 1m<sup>2</sup> up to a maximum of 18m<sup>2</sup>, and plants as tall as 1m.
 
 {% include gallery.html images="
 ![farmbot genesis v1.7](_images/farmbot_genesis_v1.7.png)
@@ -59,7 +59,8 @@ img.fb {
 
 ## Tracks
 
-**Tracks** are one of the components that really differentiate FarmBot Genesis from traditional free-driving wheeled tractors. The tracks are what allow the system to have great precision in an efficient and simple manner. There are many reasons of why tracks are superior, a few of which are listed below.
+**Tracks** are one of the components that differentiate FarmBot Genesis from FarmBot Express, and traditional free-driving wheeled tractors. The tracks are what allow the system to have great precision in an efficient and simple manner. There are many reasons of why tracks are superior, a few of which are listed below.
+
 1. Tracks provide great precision and allow the FarmBot to return to the same position repeatedly
 2. Any type of packing structure of plants can be created and managed
 3. Tracks take up less area than paths for tractor wheels and do not compact the soil
@@ -94,12 +95,16 @@ The **z-axis** attaches to the cross-slide and provides the FarmBot with movemen
 
 The table below shows the cost/m<sup>2</sup> of growing area based on the size of your FarmBot. Predictably, the larger your FarmBot is, the lower the cost will be per square meter of growing area. Thus, we recommend installing the largest possible FarmBot in your space in order to get the most value out of the device.
 
-*Note that the costs below do not account for [supporting infrastructure](../supporting-infrastructure.md), which will also increase in cost as the device size increases.*
+|Model       |Track Length|Gantry Width|Growing Area     |Cost    |Cost/m<sup>2</sup>|
+|------------|------------|------------|-----------------|--------|------------------|
+|Genesis     |3m          |1.5m        |4.5m<sup>2</sup> |~$2,500 |$555
+|Genesis (XL)|6m          |3m          |18m<sup>2</sup>  |~$4,000 |$222
 
-|Model                                        |Track Length|Gantry Width|Growing Area     |Cost    |Cost/m^2|
-|---------------------------------------------|------------|------------|-----------------|--------|--------|
-|Genesis                                      |3m          |1.5m        |4.5m<sup>2</sup> |~$3,000 |$667
-|Genesis (XL)|6m          |3m          |18m<sup>2</sup>  |~$5,000 |$278
+{%
+include callout.html
+type="info"
+content="The costs above do not account for [supporting infrastructure](../supporting-infrastructure.md), which will also increase in cost as the device size increases."
+%}
 
 
 # What's next?

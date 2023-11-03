@@ -12,6 +12,55 @@ title="It's getting better all the time"
 content="FarmBot Genesis is always being improved and has undergone many iterations. We encourage skimming through the older versions to understand how we arrived at the latest design."
 %}
 
+# Genesis v1.6
+
+{% include gallery.html images="
+![farmbot genesis v1.6](_images/farmbot_genesis_v1.6.png)
+![farmbot genesis xl v1.6](_images/farmbot_genesis_xl_v1.6.png)
+" %}
+
+{%
+include callout.html
+type="bookmark"
+content="View the [FarmBot Genesis v1.6 documentation](http://genesis.farm.bot/docs/v1.6)."
+%}
+
+**Major changes**
+* Introduced the Rotary Tool - a weed whacker style tool powered by a 24V DC motor and designed to help abate weeds, drill holes for seeding, or even perform light milling of the soil surface.
+* Introduced a new version of the Farmduino, featuring an H-bridge with load detection for controlling the rotary tool's motor in forward and reverse and detecting stalls. The new board also featured new 2.54mm pitch connectors for the solenoid valve, LED strip, vacuum pump, and peripherals 4 and 5. The board includes additional EMI protection provisions, including a new `PE` grounding plane and `PE` connections for the vacuum pump and UTM. And finally, the new board increases the `USB OUT` voltage that supplies the Raspberry Pi to mitigate low voltage issues.
+* Introduced a new version of the vacuum pump, featuring a circuit board directly soldered onto the back of the motor to reduce EMI startup current draw. The new pump also features a 3-pin, 2.54mm pitch connector with `PE` grounding. Thank you Chris from [Réstep](https://www.restep.eco/emi-filter) for open-sourcing your design!
+* Introduced a modularized, two-piece UTM cable with a 12-pin 90-degree waterproof screw-together connector at the junction between the Y and Z axis cable carriers. Additionally, the new cables are shielded, with the shielding shunted to UTM pin and UTM cable wire `L`.
+* Switched to smaller `15mm x 20mm` internal dimension cable carrier for the x-axis, along with new cable carrier supports and a new mount.
+* Began pre-assembling all of the FarmBot tools (the Watering Nozzle, Seeder, Weeder, Soil Sensor, and new Rotary Tool) to reduce the burden of FarmBot assembly required by the end user.
+* Starting with the second production run, upgraded from the Raspberry Pi model 3B+ to model 4B.
+
+**Minor changes**
+* Included a new 7.5A fuse for the Farmduino.
+* Switched to a slightly smaller power supply and a new 3-core cable to provide `PE` grounding.
+* Due to the cancellation of the product, removed FarmBot Genesis MAX from the documentation.
+* Switched to shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) for the camera cable to reduce the potential for interference.
+* Shortened the X1 motor cable and X1 encoder cable slightly.
+* Removed unnecessary features from the [[leadscrew block]] design.
+* Removed the 5.5mm wrench, 2.5mm hex key, bladed screwdriver and phillips screwdriver from the kit.
+* Updated some part quantities to reduce the number of extra pieces at the end of assembly.
+* Added numerous documented QA checks to our manufacturing processes.
+* Made improvements to the sustainability of packaging materials.
+* Replaced the three 1-slot toolbays in (XL) kits with an additional 3-slot toolbay.
+* Replaced the 22 gauge luer lock needles with additional 16 and 19 gauge needles.
+* Removed the wide weeder blades from the kit.
+
+**Manufacturing**
+
+|Model             |# of Kits Manufactured |Completed |
+|------------------|-----------------------|----------|
+|Genesis v1.6      |127                    |May, 2022
+|                  |125                    |July, 2022
+|                  |175                    |January, 2023
+|Genesis (XL) v1.6 |73                     |May, 2022
+|                  |125                    |July, 2022
+|                  |75                     |January, 2023
+|**TOTAL**         |**700**                |
+
 # Genesis v1.5
 
 {% include gallery.html images="
@@ -61,6 +110,7 @@ content="View the [FarmBot Genesis v1.5 documentation](http://genesis.farm.bot/d
 |                  |127                    |Dec, 2020
 |Genesis (XL) v1.5 |150                    |Feb, 2020
 |                  |73                     |Dec, 2020
+|**TOTAL**         |**475**                |
 
 # Genesis v1.4
 
@@ -96,10 +146,11 @@ content="View the [FarmBot Genesis v1.4 documentation](http://genesis.farm.bot/d
 
 **Manufacturing**
 
-|Model                         |# of Kits Manufactured        |Selling Period                |First Shipped                 |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|Genesis v1.4                  |300                           |Dec '17 to Nov '19            |Oct '18
-|Genesis (XL) v1.4               |200                           |Dec '17 to Mar '19            |Oct '18
+|Model             |# of Kits Manufactured |Selling Period     |First Shipped |
+|------------------|-----------------------|-------------------|--------------|
+|Genesis v1.4      |300                    |Dec '17 to Nov '19 |Oct '18
+|Genesis (XL) v1.4 |200                    |Dec '17 to Mar '19 |Oct '18
+|**TOTAL**         |**500**                |                   |
 
 # Genesis v1.3
 
@@ -129,9 +180,9 @@ content="View the [FarmBot Genesis v1.3 documentation](http://genesis.farm.bot/d
 
 **Manufacturing**
 
-|Model                         |# of Kits Manufactured        |Selling Period                |First Shipped                 |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|Genesis v1.3                  |300                           |Jan '17 to May '18            |Oct '17
+|Model        |# of Kits Manufactured |Selling Period     |First Shipped |
+|-------------|-----------------------|-------------------|--------------|
+|Genesis v1.3 |300                    |Jan '17 to May '18 |Oct '17
 
 # Genesis v1.2
 
@@ -161,9 +212,9 @@ content="View the [FarmBot Genesis v1.2 documentation](http://genesis.farm.bot/d
 
 **Manufacturing**
 
-|Model                         |# of Kits Manufactured        |Selling Period                |First Shipped                 |
-|------------------------------|------------------------------|------------------------------|------------------------------|
-|Genesis v1.2                  |350                           |Jun '16 to Jan '17            |March '17
+|Model        |# of Kits Manufactured |Selling Period     |First Shipped |
+|-------------|-----------------------|-------------------|--------------|
+|Genesis v1.2 |350                    |Jun '16 to Jan '17 |March '17
 
 # Genesis v1.1
 

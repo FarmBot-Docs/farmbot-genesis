@@ -10,16 +10,16 @@ redirect_from: /docs/v1.7/
 include callout.html
 type="info"
 title="Announcing: FarmBot Genesis v1.7 documentation!"
-content="As of December 22, 2021, the default version of the Genesis documentation is for v1.7. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
+content="As of November 10, 2023, the default version of the Genesis documentation is for v1.7. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
 %}
 
 **FarmBot Genesis** is our top-of-the-line FarmBot model designed with the most features and flexibility. It is suitable for growing food with the highest level of precision, running complex experiments, and capable of being easily modified and extended to do more.
 
 Genesis is available in two sizes: **Genesis** and **Genesis** (XL) as shown in the table below.
 
-|Model                                        |Gantry Width|Track Length|Area            |Max Plant Height|
-|---------------------------------------------|------------|------------|----------------|----------------|
-|Genesis                                      |1.5m        |3m          |4.5m<sup>2</sup>|0.5m
+|Model       |Gantry Width|Track Length|Area            |Max Plant Height|
+|------------|------------|------------|----------------|----------------|
+|Genesis     |1.5m        |3m          |4.5m<sup>2</sup>|0.5m
 |Genesis (XL)|3m          |6m          |18m<sup>2</sup> |0.5m
 
 {% include youtube.html id="60htrqei_U0" %}
