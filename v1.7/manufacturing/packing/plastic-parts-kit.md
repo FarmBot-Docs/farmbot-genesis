@@ -13,7 +13,6 @@ There are two versions of the plastic parts kit: one for **Genesis** kits and on
 |[Pre-Assembled Seeder](../pre-assembly/tools/seeder.md)|Seeder Box|1|1
 |[Pre-Assembled Watering Nozzle](../pre-assembly/tools/watering-nozzle.md)|Watering Nozzle Box|1|1
 |[Pre-Assembled Soil Sensor](../pre-assembly/tools/soil-sensor.md)|Soil Sensor Box|1|1
-|[Pre-Assembled Weeder](../pre-assembly/tools/weeder.md)|Weeder Box|1|1
 |[Pre-Assembled Rotary Tool](../pre-assembly/tools/rotary-tool.md)|Rotary Tool Box|1|1
 |[Pre-Assembled UTM](../pre-assembly/tools/utm.md)|UTM box|1|1
 |[[30mm Horizontal Cable Carrier Support]]|None|12|24

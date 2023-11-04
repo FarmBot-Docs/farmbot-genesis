@@ -4,6 +4,7 @@ slug: "track-maintenance"
 ---
 
 # Clean track surfaces
+
 Once a month, inspect your tracks for an accumulation of mud, dirt, and other debris. Because the tracks are so low to the ground, it is common for them to accumulate unwanted materials. This can create unnecessary friction for the gantry when moving across the tracks, ultimately leading it to bind up if the tracks are not cleaned.
 
 {%
@@ -13,8 +14,6 @@ title="Regularly"
 content="Use a brush, broom, sponge, compressed air, and/or hose to clean the surfaces of your tracks."
 %}
 
-
-
 {%
 include callout.html
 type="warning"
@@ -23,6 +22,7 @@ content="Do not apply excessive force in order to avoid misaligning extrusions o
 %}
 
 # Maintain track alignment
+
 FarmBot's tracks need to be very straight and parallel with each other in order for the gantry to move smoothly across them. With time, the tracks may move and twist due to a variety of factors such as:
 * Screws becoming loose
 * Thermal expansion and contraction due to large temperature swings
@@ -33,6 +33,7 @@ FarmBot's tracks need to be very straight and parallel with each other in order 
 Misaligned tracks can cause the system to creak and ultimately bind as the gantry attempts to move across the tracks. This can prevent FarmBot from working and even cause damage to other components. If you notice your tracks have become misaligned, work to fix them as soon as possible with the following suggestions.
 
 ## Realigning track plates
+
 Signs of a misaligned track plate include misaligned track extrusions (see below), twisted track extrusions, difficulty in the gantry moving across extrusion joints, and even visual misalignment.
 
 {%
@@ -43,6 +44,7 @@ content="Try loosing their screws and re-tightening them. You may need to insert
 %}
 
 ## Realigning track extrusions
+
 It is possible for a track extrusion to loosen and then become misaligned with an adjacent extrusion. Even small misalignments can prevent the gantry from smoothly moving across joints. Inspect for misalignment by running your fingers across track joints.
 
 {%

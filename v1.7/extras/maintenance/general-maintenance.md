@@ -48,16 +48,12 @@ title="Every three months"
 content="Check belts for proper tension. If you notice extra slack, loosen the [[belt clip]] that holds the belt in place, pull the clip to tension the belt, and then re-tighten the clip. Make sure to check all three belts: the two along the tracks and the one across the gantry main beam."
 %}
 
-
-
 {%
 include callout.html
 type="danger"
 title="Do not over-tension"
 content="The belts should not be under extreme tension. If they are, FarmBot's motors will have difficulty in moving and will miss steps. Use a small amount of tension - just enough so that there is no slack in the system."
 %}
-
-
 
 {%
 include callout.html
@@ -66,13 +62,11 @@ title="Never lubricate the belts and pulleys"
 content="Applying a lubricant to the belts may cause a chemical reaction that rapidly degrades the belt material. Furthermore, a lubricant between the belts and pulleys may cause the teeth engagement to slip."
 %}
 
-
-
 {%
 include callout.html
 type="warning"
 title="Not done yet"
-content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../../assembly/gantry/attach-the-drivetrain.md#step-4-equalize-the-gantry) to prevent binding."
+content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../../assembly/gantry.md#step-8-equalize-the-gantry) to prevent binding."
 %}
 
 # Inspect for damage

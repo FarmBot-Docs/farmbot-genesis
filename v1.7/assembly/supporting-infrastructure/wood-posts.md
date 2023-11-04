@@ -13,7 +13,7 @@ As an alternative to [building a full raised bed](raised-bed.md), you may consid
 
 {%
 include callout.html
-type="info"
+type="clock-o"
 title="2-4 hours"
 content="This is the estimated time it will take to setup wood posts."
 %}

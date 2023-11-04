@@ -13,7 +13,7 @@ Building a **fixed raised bed** is the recommended method for installing FarmBot
 
 {%
 include callout.html
-type="info"
+type="clock-o"
 title="8-12 hours"
 content="This is the estimated time it will take to build a fixed raised bed."
 %}
@@ -26,7 +26,7 @@ We recommend building your raised bed as large as possible to get the most value
 
 # Step 1: Acquire materials
 
-# Genesis bed (1.48m x 3m)
+## Genesis bed (1.48m x 3m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|
@@ -39,7 +39,7 @@ We recommend building your raised bed as large as possible to get the most value
 |1  |Sealer, stain, or polyurethane               |$20   |$20
 |   |**TOTAL**                                    |      |**$111**
 
-# Genesis XL bed (2.98m x 6m)
+## Genesis XL bed (2.98m x 6m)
 
 |Qty|Component                                    |$/Unit|Subtotal|
 |---|---------------------------------------------|------|--------|

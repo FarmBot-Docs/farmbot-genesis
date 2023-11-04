@@ -40,4 +40,4 @@ content="All of FarmBot's motor and encoder cables are labelled with a small whi
 
 # What's next?
 
- * [Z-Axis Cable Carrier](cables-and-tubing/z-axis-cable-carrier.md)
+ * [Y-Axis Cable Carrier](cables-and-tubing/y-axis-cable-carrier.md)

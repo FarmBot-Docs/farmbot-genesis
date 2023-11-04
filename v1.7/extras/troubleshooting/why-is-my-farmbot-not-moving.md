@@ -94,7 +94,7 @@ Eccentric spacers are used for making fine adjustments to the spacing between th
 
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or there will be significant friction when moving. If the spacing is too great, then the connection will be wobbly and loose.
 
-Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry/attach-the-drivetrain.md), and secure the belts back into place for normal operation.
+Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry.md#step-6-feed-the-belts), and secure the belts back into place for normal operation.
 
 ![gantry wheel plate eccentric spacers](_images/gantry_wheel_plate_eccentric_spacers.png)
 
@@ -110,11 +110,11 @@ The default settings provided are the recommended settings for the motor hardwar
 
 If you are getting motor stalls the FarmBot will stop for a second and then continue. If you know that the track is dirty or there are small slopes or imperfections in the tracks the FarmBot will need more speed (power) to move through these track imperfections with ease. Increase the minimum speed in steps of 50mm/s until your FarmBot has the power to overcome these imperfections.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FxXHt3GPACh4%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DxXHt3GPACh4&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FxXHt3GPACh4%2Fhqdefault.jpg&key=02466f963b9b4bb8845a05b53d3235d7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+{% include youtube.html id="xXHt3GPACh4" %}
 
 This is the same FarmBot with the minimum increased the speed to 200 mm/s. There is no stalling because the motors have the power to overcome the track imperfections.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FIMosnfJEi8A%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DIMosnfJEi8A&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FIMosnfJEi8A%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+{% include youtube.html id="IMosnfJEi8A" %}
 
 If increasing the minimum speed does not solve the problem, you can attempt the alternative strategy of decreasing the minimum speed and increase the number of "Accelerate for" steps.
 
@@ -124,7 +124,7 @@ If you are having trouble with motor stalls adjust settings in the software and 
 
 When the motor stalls its because the motor does not have enough additional torque to overcome the mechanical resistance. When the motor stalls it will make a buzzing sound. The default motor max retries is 3 and this setting is adjustable but we recommend keeping it at 3 tries. The video below shows that the motor quickly tried to move three times and failed each time. If you listen carefully to the video, 6 seconds into the video you can hear the motor stall out three times in a row.  Then at the 12 second mark the operators attempt to move the Z-axis again and you can hear buzz of motor stalls.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F70PIuRYVZjk%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D70PIuRYVZjk&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F70PIuRYVZjk%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+{% include youtube.html id="70PIuRYVZjk" %}
 
 This issue stall issue on the z-axis was solved by decreasing the minimum speed value and increasing the number of "Accelerate for" steps.
 
@@ -132,7 +132,7 @@ The video below shows the motor accelerating and then stalling out. The FarmBot 
 
 The recommended corrective action was to take out any slack from the belts and lower the maximum speed. These actions fixed the stalling.
 
-<iframe class="embedly-embed" src="//cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvgtzimwKmGc%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvgtzimwKmGc&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FvgtzimwKmGc%2Fhqdefault.jpg&key=f2aa6fc3595946d0afc3d76cbbd25dc3&type=text%2Fhtml&schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe>
+{% include youtube.html id="vgtzimwKmGc" %}
 
 # 9. Troubleshooting encoders
 
