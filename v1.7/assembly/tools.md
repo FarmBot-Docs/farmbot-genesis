@@ -21,6 +21,5 @@ content="Follow the guidelines in our [Tool Spec](../extras/mods/tool-spec.md) t
  * [Seeder](tools/seeder.md)
  * [Watering Nozzle](tools/watering-nozzle.md)
  * [Rotary Tool](tools/rotary-tool.md)
- * [Weeder](tools/weeder.md)
  * [Soil Sensor](tools/soil-sensor.md)
  * [Toolbays](tools/toolbays.md)

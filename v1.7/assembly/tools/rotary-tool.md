@@ -71,4 +71,4 @@ The rotary tool can be configured with the included [[rotary tool chuck]] to per
 
 # What's next?
 
- * [Weeder](weeder.md)
+ * [Soil Sensor](soil-sensor.md)

@@ -64,8 +64,6 @@ contents:
             url: watering-nozzle
           - title: Rotary Tool
             url: rotary-tool
-          - title: Weeder
-            url: weeder
           - title: Soil Sensor
             url: soil-sensor
           - title: Toolbays
@@ -204,8 +202,6 @@ contents:
                 url: watering-nozzle
               - title: Rotary Tool
                 url: rotary-tool
-              - title: Weeder
-                url: weeder
               - title: Soil Sensor
                 url: soil-sensor
           - title: V-Wheels
