@@ -36,10 +36,8 @@ contents:
         url: tracks
       - title: Gantry
         url: gantry
-      - title: Cross-Slide
-        url: cross-slide
-      - title: Z-Axis
-        url: z-axis
+      - title: Cross-Slide and Z-Axis
+        url: cross-slide-and-z-axis
       - title: Cables and Tubing
         url: cables-and-tubing
         pages:
