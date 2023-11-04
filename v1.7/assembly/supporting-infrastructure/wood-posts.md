@@ -4,7 +4,7 @@ slug: "wood-posts"
 description: "Step-by-step instructions for setting up wood posts for FarmBot Genesis or Genesis XL"
 ---
 
-As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to simple **wood posts** buried or cemented in the ground.
+As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to simple **wood posts** buried or cemented in the ground and topped with wood beams.
 
 {% include gallery.html images="
 ![wood posts for FarmBot Genesis](_images/wood_posts_genesis.png)
@@ -20,7 +20,7 @@ content="This is the estimated time it will take to setup wood posts."
 
 # Step 1: Dig post holes
 
-Dig post holes approximately 400mm deep using a shovel, auger, post hole digger, pick axe, and/or other appropriate gardening tools according to the spacing diagram shown below. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum bed size](raised-bed.md#maximum-raised-bed-size) for your FarmBot**.
+Dig post holes approximately 400mm deep using a shovel, auger, post hole digger, pick axe, and/or other appropriate gardening tools according to the spacing diagram shown below. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed the [maximum size limit](../supporting-infrastructure.md#maximum-size) for your FarmBot**.
 
 {%
 include callout.html

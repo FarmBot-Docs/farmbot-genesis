@@ -18,7 +18,7 @@ content="This is the estimated time it will take to assemble the gantry."
 
 The [[eccentric spacers]] on the lower wheels of each gantry wheel plate assembly are used for making fine adjustments to the spacing between the lower wheels and the upper wheels. Adjusting this spacing is the key to having your gantry move smoothly and wobble-free across the tracks.
 
-If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the [[eccentric spacers]] using the [eccentric spacer adjustment reference guide](../../extras/reference/eccentric-spacer-adjustment.md).
+If the spacing is too little, then the gantry will not fit onto the tracks at all or be tough to move. If the spacing is too great, then the gantry will be wobbly and loose. Adjust the [[eccentric spacers]] using the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md).
 
 # Step 2: Slide onto the tracks
 
@@ -26,7 +26,7 @@ If the spacing is too little, then the gantry will not fit onto the tracks at al
 include callout.html
 type="wrench"
 title="Adjust the eccentric spacers first"
-content="This step is assuming that you have already adjusted the [[eccentric spacers]] according to the [eccentric spacer adjustment guide](../../extras/reference/eccentric-spacer-adjustment.md)."
+content="This step is assuming that you have already adjusted the [[eccentric spacers]] according to the [eccentric spacer adjustment guide](../extras/reference/eccentric-spacer-adjustment.md)."
 %}
 
 Slide the [[gantry columns]] onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Ensure that the cable carrier supports (mounted to the tracks) are on the left side of the FarmBot.
@@ -39,7 +39,7 @@ Slide the [[gantry columns]] onto the **tracks**. The direction that the wheel p
 include callout.html
 type="info"
 title="This step applies to XL kits only"
-content="If you have a standard sized Genesis kit (1.5m wide), proceed to the [next step](#step-5-attach-the-cable-carrier-supports)."
+content="If you have a standard sized Genesis kit (1.5m wide), proceed to the [next step](#step-4-attach-the-cable-carrier-supports)."
 %}
 
 Place both [[gantry main beams]] on a flat surface such as a table or patio. Using two [[140mm nut bars]] and eight [[M5 x 10mm screws]], attach the [[gantry joining bracket]] to the *lower two slots* of both extrusions. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
@@ -120,4 +120,4 @@ If you were equalizing the gantry as part of routine maintenance, remember to <s
 
 # What's next?
 
- * [Cross-Slide](../cross-slide.md)
+ * [Cross-Slide and Z-Axis](cross-slide-and-z-axis.md)

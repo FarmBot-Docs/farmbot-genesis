@@ -22,28 +22,7 @@ content="This is the estimated time it will take to build a fixed raised bed."
 
 The reference designs shown on this documentation page are for a **maximally sized** fixed raised bed for the stock Genesis and Genesis (XL) kits. If you are designing a bed for a smaller installation, you will need to modify the dimensions of the lumber and post hole layouts.
 
-We recommend building your raised bed as large as possible to get the most value out of your FarmBot. See the [economies of scale](../intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
-
-If you are going to modify our reference design, use the dimension guidelines below to ensure compatibility with the FarmBot.
-
-|Model      |Outer Bed Width|Outer Bed Length|
-|-----------|---------------|----------------|
-|Genesis    |1.48m max      |3m recommended
-|Genesis (XL) |2.98m max      |6m recommended
-
-{%
-include callout.html
-type="warning"
-title="Do not exceed the max width"
-content="While you can adjust a FarmBot to accommodate smaller width beds, you cannot adjust it for beds larger than the maximum width listed."
-%}
-
-{%
-include callout.html
-type="success"
-title="Longer length beds are OK"
-content="While FarmBot Genesis and Genesis XL kits only include enough extrusions and other hardware to allow for gantry travel up to 3m and 6m respectively, creating a longer length bed will not prevent the system from being installed."
-%}
+We recommend building your raised bed as large as possible to get the most value out of your FarmBot, while making sure you do not exceed the [maximum size limit](../supporting-infrastructure.md#maximum-size).
 
 # Step 1: Acquire materials
 

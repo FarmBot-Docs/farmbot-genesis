@@ -4,7 +4,7 @@ slug: "pier-block-supports"
 description: "Step-by-step instructions for setting up pier block supports for FarmBot Genesis or Genesis XL"
 ---
 
-As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to **pier block supports**.
+As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to **pier block supports** topped with wood beams.
 
 {% include gallery.html images="
 ![pier block supports for FarmBot Genesis](_images/pier_block_supports_genesis.png)
@@ -13,7 +13,7 @@ As an alternative to [building a full raised bed](raised-bed.md), you may consid
 
 {%
 include callout.html
-type="info"
+type="clock-o"
 title="2 hours"
 content="This is the estimated time it will take to set up pier block supports."
 %}
@@ -28,7 +28,7 @@ Attach each block to a pier using [[wood screws]] compatible with the pier block
 
 # Step 2: Position the piers
 
-Position the piers according to a diagram below for a maximally sized growing area for FarmBot Genesis or Genesis XL. You may also position the two tracks closer together if you are space constrained. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum dimensions](raised-bed.md#maximum-raised-bed-size)**.
+Position the piers according to a diagram below for a maximally sized growing area for FarmBot Genesis or Genesis (XL). You may also position the two tracks closer together if you are space constrained. **Keep in mind that the outer dimensions of your supporting infrastructure must not exceed [the maximum dimensions](../supporting-infrastructure.md#maximum-size)**.
 
 {%
 include callout.html
@@ -37,17 +37,17 @@ title="Maintain access"
 content="Position your pier blocks such that you will be able to access all sides of your FarmBot and garden."
 %}
 
-{% include gallery.html images="
-![pier block position diagram for FarmBot Genesis](_images/pier_block_diagram_genesis.png)
-![pier block position diagram for FarmBot Genesis XL](_images/pier_block_diagram_genesis_xl.png)
-" %}
-
 {%
 include callout.html
 type="warning"
 title="Parallel or bust"
 content="It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks."
 %}
+
+{% include gallery.html images="
+![pier block position diagram for FarmBot Genesis](_images/pier_block_diagram_genesis.png)
+![pier block position diagram for FarmBot Genesis XL](_images/pier_block_diagram_genesis_xl.png)
+" %}
 
 {%
 include callout.html
