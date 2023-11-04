@@ -11,7 +11,8 @@ FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They a
 {%
 include callout.html
 type="clock-o"
-content="Estimated assembly time for this step is 30 to 60 minutes."
+title="30 to 60 minutes"
+content="This is the estimated time it will take to assemble the tracks."
 %}
 
 The two tracks must be a parallel distance apart such that the gantry may span the distance between them and smoothly move from end to end. Tracks may be spaced closer together than the maximum, in which case you may consider cutting the gantry main beam so that it does not inconveniently extend beyond the tracks. Refer to the [maximum supporting infrastructure size table](../assembly/supporting-infrastructure.md#maximum-size) for details on maximum track spacing.

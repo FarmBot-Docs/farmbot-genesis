@@ -36,13 +36,6 @@ contents:
         url: tracks
       - title: Gantry
         url: gantry
-        pages:
-          - title: Assemble the Gantry Wheel Plates
-            url: assemble-the-gantry-wheel-plates
-          - title: Construct the Gantry Structure
-            url: construct-the-gantry-structure
-          - title: Attach the Drivetrain
-            url: attach-the-drivetrain
       - title: Cross-Slide
         url: cross-slide
       - title: Z-Axis
