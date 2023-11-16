@@ -53,7 +53,9 @@ Position the next [[track extrusion]] on top of the supporting infrastructure an
 
 ![Mount the second track extrusion](_images/second_track_extrusion.png)
 
-Then secure the two extrusion ends together by tightening the [[M5 x 4mm setscrew]].
+Then secure the two extrusion ends together with a second [[M5 x 4mm setscrew]] in the nut bar.
+
+![Secure nut bar](_images/secure_nut_bar.png)
 
 {%
 include callout.html
@@ -85,14 +87,20 @@ Repeat steps 2 through 5 for the track on the other side of the bed.
 include callout.html
 type="warning"
 title="Parallel or bust"
-content="It is critical that the distance between the two tracks is consistent. If it is not, there will be harmful forces placed on the gantry and tracks as the gantry moves across the non-parallel tracks.
+content='It is critical that the two tracks are **parallel** throughout the full length of the bed. Measure the distance between the two tracks at various locations along the tracks to ensure the distance is consistent. Use shims or other spacers to better align the tracks in case your supporting infrastructure is not perfect.
 
-You can use shims or other spacers to better align the tracks in case your supporting infrastructure is not perfect."
+If the tracks deviate by more than about 1cm (0.5"), your FarmBot will have trouble moving throughout the full length of the tracks.'
 %}
 
 # Step 7: Sand away bumps
 
-If needed, use **150 grit sand paper** to sand away any bumps on the diagonal surfaces of the **extrusions** that the FarmBot wheels ride upon. This will ease the movements of the FarmBot and improve longevity. Make sure that both the upper surfaces and lower surfaces are smooth to the touch and that there are no bumps or uneven edges in the transition from one extrusion to another.
+If needed, use **150 grit sand paper** to sand away any bumps on the **diagonal surfaces** of the extrusions that the FarmBot wheels ride upon. This will ease the movements of the FarmBot and improve longevity.
+
+{%
+include callout.html
+type="success"
+content="Make sure both the **upper** and **lower diagonal surfaces** are smooth to the touch and that there are no bumps or uneven edges in the transition from one extrusion to another."
+%}
 
 ![sand track joints to remove bumps](_images/sanding_tracks.png)
 
