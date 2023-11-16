@@ -86,10 +86,6 @@ bom:
       - image: watering_nozzle_bottom.jpg
       - image: watering_nozzle.jpg
       - image: watering_nozzle.jpg
-      - image: weeder_blade_narrow.jpg
-      - image: weeder_blade_medium.jpg
-      - image: weeder_blade_wide.jpg
-      - image: weeder.jpg
   - category: drivetrain
     parts:
       - image: belt_sleeve.jpeg

@@ -19,4 +19,4 @@ Attach the other end of the **x-axis cable carrier** to the [[30mm horizontal ca
 
 # What's next?
 
- * [X-Axis Motors](x-axis-motors.md)
+ * [X2 Motor and Lighting](x2-motor-and-lighting.md)
