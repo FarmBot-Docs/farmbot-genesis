@@ -38,15 +38,6 @@ contents:
         url: gantry
       - title: Cross-Slide and Z-Axis
         url: cross-slide-and-z-axis
-      - title: Cables and Tubing
-        url: cables-and-tubing
-        pages:
-          - title: Y-Axis Cable Carrier
-            url: y-axis-cable-carrier
-          - title: X-Axis Cable Carrier
-            url: x-axis-cable-carrier
-          - title: X2 Motor and Lighting
-            url: x2-motor-and-lighting
       - title: Tools
         url: tools
         pages:
