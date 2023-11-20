@@ -82,27 +82,27 @@ Ensure that the gantry columns are **vertical** and form a **90 degree angle** w
 
 # Step 5: Connect the X2 motor and encoder cables
 
-Connect the `X2` [[motor cable]] and `X2` [[encoder cables]] (highlighted orange in the images below) to the X2 [[motor]] and [[encoder]] on the left side of FarmBot (when looking at the device from the back) by feeding the cables through the slots in all of the [[60mm horizontal cable carrier supports]] along the [[gantry main beam]].
-
-![x2 motor cable from back](_images/x2_motor_cable_from_back.png)
+Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] (highlighted orange in the images below) to the X2 [[motor]] and [[encoder]] on the left side of FarmBot (when looking at the device from the back) by feeding the cables through the slots in all of the [[60mm horizontal cable carrier supports]] along the [[gantry main beam]].
 
 {%
 include callout.html
 type="info"
 content="You will plug the LED light strip into the Farmduino in a few steps from now."
 %}
+
+![x2 motor cable from back](_images/x2_motor_cable_from_back.png)
 
 # Step 6: Install the LED light strip
 
 Feed the [[LED strip]] (highlighted orange in the image below) through the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]]. You can secure the end of the strip to the final cable carrier support using a [[100mm zip tie]].
 
-![lights](_images/lights.png)
-
 {%
 include callout.html
 type="info"
 content="You will plug the LED light strip into the Farmduino in a few steps from now."
 %}
+
+![lights](_images/lights.png)
 
 # Step 7: Feed the belts
 
@@ -144,15 +144,42 @@ Lay the **x-axis cable carrier** onto the supporting infrastructure's cable carr
 
 {%
 include callout.html
-type="info"
-content="It is easier to connect the cable carrier to the end piece by pushing it into the end piece at an angle, engaging the first circular hinge point, and then straightening the cable carrier to engage the second hinge point. Ensure both hinge points are snapped all the way in place."
+type="success"
+content="It is easier to connect the cable carrier by pushing it into the end piece at an angle, engaging the first circular hinge point, and then straightening the cable carrier to engage the second hinge point. Ensure both hinge points are snapped in all the way."
 %}
 
 Fasten the cable carrier to the wood cable carrier support using two [[T10 wood screws]].
 
 ![Mount the x-axis cable carrier](_images/mount_x_cc.png)
 
-# Step 10: Equalize the gantry
+# Step 10: Connect the tubing
+
+Push the [[water tube]] coming from the [[x-axis cable carrier]] onto the lower [[NPT to barb adapter]].
+
+![solenoid valve x-axis tubing](_images/solenoid_valve_x-axis_tubing.png)
+
+Screw the [[garden hose to barb adapter]] onto the **garden hose**. Then push the [[water tube]] coming from the bottom of the [[x-axis cable carrier]] onto the barb.
+
+{%
+include callout.html
+type="info"
+content="You will need to provide a garden hose of the appropriate length to connect FarmBot to your municipal water source - one is not provided with the FarmBot kits."
+%}
+
+![Connect to the water source](_images/connect_to_the_water_source.png)
+
+# Step 10: Attach the seed trough holder
+
+Attach the [[seed trough holder]] to the [[seed trough holder mount]] using two [[M5 x 30mm screws]] and [[M5 flange locknuts]].
+
+Place the two [[seed troughs]] into the holder. Optionally, you may store up to three luer lock needles in the holder as well.
+
+{% include gallery.html images="
+![Attach the seed trough holder to the mount](_images/seed_trough_mount_plate.png)
+![Mounted seed trough holder](_images/mounted_seed_trough_holder.png)
+" %}
+
+# Step 11: Equalize the gantry
 
 {%
 include callout.html

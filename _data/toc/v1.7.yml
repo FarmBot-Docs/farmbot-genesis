@@ -38,23 +38,10 @@ contents:
         url: gantry
       - title: Cross-Slide and Z-Axis
         url: cross-slide-and-z-axis
+      - title: Toolbays
+        url: toolbays
       - title: Tools
         url: tools
-        pages:
-          - title: Universal Tool Mount
-            url: utm
-          - title: Camera
-            url: camera
-          - title: Seeder
-            url: seeder
-          - title: Watering Nozzle
-            url: watering-nozzle
-          - title: Rotary Tool
-            url: rotary-tool
-          - title: Soil Sensor
-            url: soil-sensor
-          - title: Toolbays
-            url: toolbays
       - title: Electronics
         url: electronics
       - title: Final Steps

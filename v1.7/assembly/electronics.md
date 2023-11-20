@@ -14,18 +14,11 @@ Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmB
 
 ![Raspberry Pi electrical diagram](_images/raspberry_pi_electrical_diagram.png)
 
-# Step 1: Attach the electronics box to the gantry
-
-Attach the pre-assembled [[electronics box]] to the **left gantry column** using six [[M5 x 10mm screws]] and [[tee nuts]]. The top flange of the box should be butted against the bottom edge of the [[left gantry corner bracket]].
-
-![electronics box attached to gantry](_images/electronics_box_attached_to_gantry.png)
-
-# Step 2: Connect the peripherals
+# Step 1: Connect the peripherals
 
 {%
 include callout.html
 type="danger"
-title=""
 content="The power supply should still be **unplugged** at this time."
 %}
 
@@ -48,7 +41,7 @@ When plugging in cables in the following steps, ensure that you pass **every cab
 ![farmduino lighting connector](_images/farmduino_lighting.png)
 " %}
 
-# Step 3: Plug in the stepper motors and rotary encoders
+# Step 2: Plug in the stepper motors and rotary encoders
 
 Plug in the **motor and encoder cables** to the [[Farmduino]]. Each cable is labelled with a white sleeve, which corresponds to the connectors on the Farmduino. From left to right, the connectors on Farmduino are `X1`, `X2`, `Y`, and `Z`. Each connector can only be inserted in one direction, and has a locking tab to prevent it from falling out.
 
@@ -66,25 +59,25 @@ content="Each connector has a locking tab which must be pressed in before a cabl
 We recommend slightly pushing the connector away from the locking tab (while you are pressing the locking tab in) to facilitate the tab and connector coming free."
 %}
 
-# Step 4: Plug in the camera
+# Step 3: Plug in the camera
 
 Plug the [[camera cable]] into the [[Raspberry Pi]]. The exact USB port chosen does not matter.
 
 ![pi usb port](_images/pi_usb_port.png)
 
-# Step 5: Plug in the UTM cable
+# Step 4: Plug in the UTM cable
 
 Plug in the [[UTM cable]] to the [[Farmduino]]. The connector will only fit in one direction.
 
 ![farmduino utm connector](_images/farmduino_utm.png)
 
-# Step 6: Plug the power supply into the Farmduino
+# Step 5: Plug the power supply into the Farmduino
 
 Connect the **3-pin power supply connector** to the **Farmduino's power input**. The connector will only fit in one direction.
 
 ![farmduino power connector](_images/farmduino_power.png)
 
-# Step 7: Insert the supergland
+# Step 6: Insert the supergland
 
 Insert one half of the **supergland** into the slot in the bottom of the [[electronics box]]. The left-most hole in the supergland should be small (it is for the camera) while the right-most hole should be medium-sized (it is for the power supply).
 
@@ -103,28 +96,19 @@ content="Do not pull any cables away from the electronics box during this proces
 
 ![supergland with cables installed](_images/supergland_with_cables_installed.jpg)
 
-# Step 8: Install FarmBot OS onto the microSD card
+# Step 7: Mount the power supply
 
-Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the software documentation hub to install **FarmBot OS** onto the [[micro SD card]].
+Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]].
 
 {%
 include callout.html
-type="search"
-content="The microSD card will be located either in the [[Raspberry Pi]] or in a clear plastic storage case in one of the boxes."
+type="info"
+content="The power supply is **IP67 rated**, so it can withstand rain and the elements."
 %}
-
-{% include gallery.html images="
-![microSD card in raspberry pi](_images/micro_sd_card_in_pi.jpg)
-![microSD card in case](_images/micro_sd_card_in_case.jpeg)
-" %}
-
-# Step 9: Mount the power supply
-
-Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]]. The power supply is IP67 rated, so it can withstand rain and the elements.
 
 ![mounted power supply](_images/mounted_power_supply.jpg)
 
-# Step 10: Plug in the power supply
+# Step 8: Plug in the power supply
 
 Connect the [[power supply cable]] to the **power supply output**.
 
@@ -153,8 +137,7 @@ If an appropriate outlet is not close enough to plug in directly, use an extensi
 {%
 include callout.html
 type="success"
-title="The mark of success"
-content="If all has gone well, the Raspberry Pi and Farmduino should boot up and you should revel in the blinking lights!"
+content="If all has gone well, the Raspberry Pi and Farmduino should boot up and you should see blinking lights!"
 %}
 
 {%

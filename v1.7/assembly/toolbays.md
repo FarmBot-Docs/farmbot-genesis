@@ -12,14 +12,14 @@ FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or see
 
 {%
 include callout.html
-type="info"
+type="clock-o"
 title="15 minutes"
 content="This is the estimated time it will take to install both toolbays"
 %}
 
 # Step 1: Attach a toolbay to the supporting infrastructure
 
-Position and attach a **toolbay** to your **supporting infrastructure** using six [[wood screws]].
+Position and attach a [[toolbay]] to your **supporting infrastructure** using six [[wood screws]].
 
 {%
 include callout.html
@@ -52,13 +52,6 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 
 {%
 include callout.html
-type="success"
-title="Genesis XL kits also include three 1-slot toolbays"
-content="Mount them using the same method used for the 3-slot toolbays."
-%}
-
-{%
-include callout.html
 type="info"
 title="Are the included toolbays not enough?"
 content="If you are interested in using more tools and seed containers at once, you will need to purchase or make more toolbays. Check out our **[online shop](http://shop.farm.bot)** to purchase more."
@@ -66,7 +59,7 @@ content="If you are interested in using more tools and seed containers at once, 
 
 # Step 3: Insert the tools
 
-Place your tools and seed containers in any slot you want. Just remember that you will need to log in to the web app and let FarmBot know what tool is where!
+Place your tools and seed containers in any slot you want. Once you get to the software portion of the setup process, you will let your FarmBot know what is occupying each slot.
 
 ![toolbays with tools](_images/toolbays_with_tools.jpg)
 
