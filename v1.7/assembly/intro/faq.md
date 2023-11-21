@@ -71,13 +71,13 @@ FarmBot Genesis kits are shipped in two boxes. The **Extrusions Kit** is a longe
 
 |Genesis        |Dimensions                               |Weight               |
 |---------------|-----------------------------------------|---------------------|
-|Main Carton    |23cm x 43cm x 80cm<br>9 in x 17in x 31in |19kg<br>42lbs
-|Extrusion Kit  |13cm x 13cm x 154cm<br>5in x 5in x 61in  |10.3kg<br>22lbs, 11oz
+|Main Carton    |22cm x 42cm x 106cm<br>9 in x 17in x 42in|17.4kg<br>38lbs, 6oz
+|Extrusion Kit  |10cm x 6cm x 154cm<br>4in x 2in x 61in   |5.7kg<br>12lbs, 9oz
 
 |Genesis (XL)   |Dimensions                               |Weight               |
 |---------------|-----------------------------------------|---------------------|
-|Main Carton    |23cm x 43cm x 90cm<br>9 in x 17in x 35in |23.6kg<br>52lbs 2oz
-|Extrusion Kit  |13cm x 15cm x 154cm<br>5in x 6in x 61in  |16.6kg<br>36lbs, 10oz
+|Main Carton    |22cm x 42cm x 106cm<br>9 in x 17in x 42in|19.2kg<br>42lbs, 5oz
+|Extrusion Kit  |17cm x 6cm x 154cm<br>7in x 2in x 61in   |9.8kg<br>21lbs, 10oz
 
 {%
 include callout.html
