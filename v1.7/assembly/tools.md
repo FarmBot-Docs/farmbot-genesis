@@ -1,9 +1,10 @@
 ---
 title: "Tools"
 slug: "tools"
+description: "Documentation for the FarmBot Genesis tools"
 ---
 
-FarmBot Genesis kits come with a variety of **tools** to cover the basics of food production, as well as multiple [[toolbays]] and various **seed containers**. The following documentation pages explain how to use the included tools.
+FarmBot Genesis kits come with a **universal tool mounting system**, a variety of **tools** to cover the basics of food production, as well as multiple **toolbays** and various **seed containers**.
 
 ![tools in toolbays](_images/tools_in_toolbays.jpg)
 
@@ -20,35 +21,18 @@ The **Universal Tool Mount**, or **UTM**, allows FarmBot Genesis to automaticall
 ![utm side and bottom view](_images/utm_side_and_bottom_view.jpg)
 " %}
 
-## Pin mapping
-
-|UTM Pin|UTM Wire                                      |Farmduino Pin                |Use         |
-|-------|----------------------------------------------|-----------------------------|------------|
-|**A**  |<span class="cable-color red">red</span>      |+5V                          |Soil sensor power
-|**B**  |<span class="cable-color yellow">yellow</span>|GND (0V)                     |Ground
-|**C**  |<span class="cable-color green">green</span>  |D63 - Digital-In             |Tool verification
-|**D**  |<span class="cable-color black">black</span>  |D59 (A5) - Analog-In         |Soil sensor readings
-|**E**  |<span class="cable-color white">white</span>  |BDC2 (GND or 24V via DRV8876)|Rotary tool motor
-|**F**  |<span class="cable-color brown">brown</span>  |---                          |---
-|**G**  |<span class="cable-color blue">blue</span>    |---                          |---
-|**H**  |<span class="cable-color grey">grey</span>    |BDC1 (GND or 24V via DRV8876)|Rotary tool motor
-|**I**  |<span class="cable-color orange">orange</span>|---                          |I2C SCL
-|**J**  |<span class="cable-color purple">purple</span>|---                          |I2C SDA
-|**K**  |<span class="cable-color pink">pink</span>    |---                          |---
-|**L**  |<span class="cable-color cyan">cyan</span><br>(shunted to shield with dark gray heatshrink)|PE|Protected Earth ground
-
 {%
 include callout.html
 type="success"
 title="Room for expansion"
-content="The unassigned UTM pins are available for you to custom map. Dreaming of a USB, I2C, or PWM based tool? Check out the [tool spec](../extras/mods/tool-spec.md) to learn how to expand upon your FarmBot's abilities with a custom tool! We provide examples, CAD models, tech specs, and links to purchase parts."
+content="The [unassigned UTM pins](../extras/reference/utm-pin-mapping.md) are available for you to custom map. Dreaming of a USB, I2C, or PWM based tool? Check out the [tool spec](../mods/tool-spec.md) to learn how to expand upon your FarmBot's abilities with a custom tool! We provide examples, CAD models, tech specs, and links to purchase parts."
 %}
 
 {%
 include callout.html
 type="warning"
 title="Having problems with tool verification?"
-content="Refer to the [tool verification troubleshooting guide](../extras/troubleshooting/tool-verification.md)."
+content="Refer to the [tool verification troubleshooting guide](../troubleshooting/tool-verification.md)."
 %}
 
 # Seeder
@@ -61,7 +45,7 @@ The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single se
 |Medium|19   |0.83mm (0.032")|Most seeds
 |Small |22   |0.48mm (0.019")|Small seeds (eg: lettuce)
 
-Once you've selected a needle, attach it to the [[luer lock adapter]] with a quarter turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
+Once you've selected a needle, attach it to the [[luer lock adapter]] with a **quarter turn**. At any time you can quickly swap the needle out for another size or replace a damaged one.
 
 {% include gallery.html images='
 ![seeder](_images/seeder.png)

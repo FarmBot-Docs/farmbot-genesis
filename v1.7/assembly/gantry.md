@@ -156,7 +156,7 @@ Fasten the other end of the cable carrier to the wood cable carrier support usin
 
 # Step 10: Connect the tubing
 
-Push the [[water tube]] coming from the [[x-axis cable carrier]] onto the lower [[NPT to barb adapter]].
+Push the [[water tube]] coming from the [[x-axis cable carrier]] onto the lower [[NPT to barb adapter]] beneath the [[solenoid valve]].
 
 ![solenoid valve x-axis tubing](_images/solenoid_valve_x-axis_tubing.png)
 
@@ -172,14 +172,9 @@ content="You will need to provide a garden hose of the appropriate length to con
 
 # Step 10: Attach the seed trough holder
 
-Attach the [[seed trough holder]] to the [[seed trough holder mount]] using two [[M5 x 30mm screws]] and [[M5 flange locknuts]].
+Attach the [[seed trough holder]] to the [[seed trough holder mount]] using two [[M5 x 30mm screws]] and [[M5 flange locknuts]]. Then place the two [[seed troughs]] into the holder. Optionally, you may store up to three luer lock needles in the holder as well.
 
-Place the two [[seed troughs]] into the holder. Optionally, you may store up to three luer lock needles in the holder as well.
-
-{% include gallery.html images="
-![Attach the seed trough holder to the mount](_images/seed_trough_mount_plate.png)
 ![Mounted seed trough holder](_images/mounted_seed_trough_holder.png)
-" %}
 
 # Step 11: Equalize the gantry
 

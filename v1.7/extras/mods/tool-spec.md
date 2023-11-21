@@ -1,6 +1,7 @@
 ---
 title: "Tool Spec"
 slug: "tool-spec"
+description: "Design and build your own tools for FarmBot"
 ---
 
 Want to design and make your own tools for FarmBot? Follow these instructions to ensure compatibility with the universal tool mount (UTM), a toolbay, and your FarmBot's electronics.

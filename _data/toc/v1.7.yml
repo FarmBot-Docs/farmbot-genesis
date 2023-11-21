@@ -138,6 +138,8 @@ contents:
             url: pinout-references
           - title: Seeds
             url: seeds
+          - title: UTM Pin Mapping
+            url: utm-pin-mapping
   - title: Bill of Materials
     url: bom
     top: true
