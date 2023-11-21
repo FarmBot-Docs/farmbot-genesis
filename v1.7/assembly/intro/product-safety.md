@@ -45,8 +45,8 @@ The following **safety features** have been engineered into the FarmBot to provi
 
 |Feature|Description|
 |-------|-----------|
-|E-stop [[push button]]|A physical E-stop button is located on top of the electronics box and can be pressed to immediately stop and unpower all motors and peripherals. This can be used in case of being pinched or entangled in the machine, or if the machine is behaving unexpectedly.
-|Stall detection|FarmBot can detect motor stalls and will by default [E-stop if a movement error occurs](https://my.farm.bot/app/designer/settings?highlight=e-stop_on_movement_error) too many times in a row. This can prevent injury and potential damage to the machine.
+|E-stop [[red push button]]|A physical E-stop button is located on top of the electronics box and can be pressed to immediately stop and unpower all motors and peripherals. This can be used in case of being pinched or entangled in the machine, or if the machine is behaving unexpectedly.
+|[Stall detection](https://software.farm.bot/docs/stall-detection-hardware)|FarmBot can detect motor stalls and will by default [E-stop if a movement error occurs](https://my.farm.bot/app/designer/settings?highlight=e-stop_on_movement_error) too many times in a row. This can prevent injury and potential damage to the machine.
 |[[Fuse]]|A fuse is located on the Farmduino to protect the electronics from over-current conditions that may be caused by a short or other malfunction.
 |[Pin guard](https://my.farm.bot/app/designer/settings?highlight=pin_guard)|FarmBot can be configured to set a peripheral to a certain state after a timeout period. This can act as a secondary precaution in case a poorly designed sequence or custom code instructs FarmBot to leave a peripheral in an unsafe state for an extended period of time, such as leaving the solenoid valve open for too long.
 

@@ -6,22 +6,15 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d91
 price: $40.00
 quantity:
   standard: 2
-  xl: 3
+  xl: 2
 specs:
   thickness: 5mm
   material: 5052 Aluminum
   surface treatments: Tumble polished<br>Sand blasted<br>Black anodized<br>Laser engraved logo
 internal-specs:
   internal-part-name: Toolbay - 3-Slot
-  rev: B
+  rev: C
   vendor: LDO
   cost: $13.90
   component tests: Plate and Bracket Tests
 ---
-
-{%
-include callout.html
-type="info"
-title="Quantities may vary"
-content="Genesis XL v1.6 kits shipped before July of 2022 included three 1-slot toolbays and two 3-slot toolbays. XL kits shipped on or after July of 2022 included no 1-slot toolbays and three 3-slot toolbays."
-%}

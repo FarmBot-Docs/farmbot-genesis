@@ -53,14 +53,7 @@ content="Refer to the [tool verification troubleshooting guide](../extras/troubl
 
 # Seeder
 
-The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **needle**.
-
-{% include gallery.html images='
-![seeder](_images/seeder.png)
-<iframe width="100%" src="https://www.youtube.com/embed/nXFdJIQaQB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="FarmBot YouTube video"></iframe>
-' %}
-
-Different sized **luer lock needles** can be used for different sized seeds to improve performance and realibility of seeding.
+The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **needle**. Different sized **luer lock needles** can be used for different sized seeds to improve performance and realibility of seeding.
 
 |Size  |Gauge|Inner Diameter |Good for                 |
 |------|-----|---------------|-------------------------|
@@ -70,7 +63,11 @@ Different sized **luer lock needles** can be used for different sized seeds to i
 
 Once you've selected a needle, attach it to the [[luer lock adapter]] with a quarter turn. At any time you can quickly swap the needle out for another size or replace a damaged one.
 
+{% include gallery.html images='
+![seeder](_images/seeder.png)
 ![seeder with needle](_images/seeder_with_needle.png)
+<iframe width="100%" src="https://www.youtube.com/embed/nXFdJIQaQB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="FarmBot YouTube video"></iframe>
+' %}
 
 {%
 include callout.html
@@ -85,17 +82,17 @@ content="Refer to the [picking up seeds troubleshooting guide](../extras/trouble
 
 We offer the following types of seed containers, each optimized for different purposes.
 
-## Seed bins
+## Seed bin
 
-The [[seed bins]] are for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply slide it into the [[toolbay]] and fill it with seeds. Then run a planting sequence from the web app with the corresponding seed bin sequence and location.
-
-![seed bin](_images/seed_bin.jpg)
+The [[seed bin]] is for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply fill it with seeds and slide it into the toolbay.
 
 If desired, you can mix a variety of seed types into one seed bin and have FarmBot plant whatever it happens to grab. Keep in mind that FarmBot will have no way of knowing which seeds it grabs, so only use this technique when you will be taking care of all those plants identically.
 
-## Seed trays
+![seed bin](_images/seed_bin.jpg)
 
-The [[seed trays]] have 16 small cups for holding seeds. They are best used when planting many different crops, and when the number of seeds per hole needs to be strictly controlled.
+## Seed tray
+
+The [[seed tray]] has 16 small wells for holding seeds. This is best used when planting many different crops, and when the number of seeds per planting location needs to be strictly controlled.
 
 ![seed trays](_images/seed_trays.jpg)
 

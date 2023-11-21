@@ -37,7 +37,7 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 # Step 2: Attach the first track extrusion
 
-Attach the first [[track extrusion]] to the top of the supporting infrastructure using five [[wood screws]] and the provided [[T25 bit]] loaded into a drill or driver. The track extrusion should be butted up against the side and top of the supporting infrastructure.
+Attach the first [[track extrusion]] to the top of the supporting infrastructure using five [[wood screws]] and the provided [[T25 bit]] loaded into a drill or driver. The track extrusion should be flush against the side and top of the supporting infrastructure.
 
 ![Mount the first track extrusion](_images/first_track_extrusion.png)
 

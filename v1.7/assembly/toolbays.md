@@ -4,31 +4,23 @@ slug: "toolbays"
 description: "Documentation and assembly instructions for the FarmBot Genesis toolbays"
 ---
 
-FarmBot Genesis comes with two toolbays that hold three tools, seed bins, or seed trays each. These simple hardware components act as holsters for your tools and are shaped in such a way that FarmBot can automatically mount and dismount tools for the task at hand.
+FarmBot Genesis comes with two [[3-slot toolbays]] that can hold a combination of three tools or seed containers each. These simple hardware components act as holsters for your tools and are shaped in such a way that FarmBot can automatically mount and dismount tools for the task at hand.
 
-{% include youtube.html id="vjvIB5wXmRo" %}
-
+{% include gallery.html images='
 ![3-slot toolbays](_images/3-slot_toolbays.jpg)
+<iframe width="100%" src="https://www.youtube.com/embed/vjvIB5wXmRo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="FarmBot YouTube video"></iframe>
+' %}
 
 {%
 include callout.html
 type="clock-o"
 title="15 minutes"
-content="This is the estimated time it will take to install both toolbays"
+content="This is the estimated time it will take to install the included toolbays."
 %}
 
-# Step 1: Attach a toolbay to the supporting infrastructure
+# Step 1: Attach to the supporting infrastructure
 
-Position and attach a [[toolbay]] to your **supporting infrastructure** using six [[wood screws]].
-
-{%
-include callout.html
-type="warning"
-title="Orientation matters"
-content="Keep in mind that FarmBot's tools are designed to be mounted by the UTM in only one orientation so that the electrical pins and magnets match up. The text on the front of the tools should line up with the FarmBot logo on the front of the UTM cover. Because tools can only slot into the tool bay in two orientations, **you must orient your tool bay with the longer edge parallel to the gantry main beam**.
-
-Note: It is possible to orient the long edge parallel with the tracks, though that would require changing the orientation of the UTM by 90 degrees as well."
-%}
+Position and attach a [[3-slot toolbay]] to one of the _shorter edges_ of your **supporting infrastructure** using six [[wood screws]].
 
 {%
 include callout.html
@@ -53,15 +45,21 @@ Last, keep in mind the size of the tools and ensure that there is adequate room 
 {%
 include callout.html
 type="info"
-title="Are the included toolbays not enough?"
-content="If you are interested in using more tools and seed containers at once, you will need to purchase or make more toolbays. Check out our **[online shop](http://shop.farm.bot)** to purchase more."
+title="Need more slots?"
+content="If you are interested in using more tools and seed containers at once, you will need to [purchase](https://farm.bot/search?q=Toolbay) or make additional toolbays."
 %}
 
 # Step 3: Insert the tools
 
-Place your tools and seed containers in any slot you want. Once you get to the software portion of the setup process, you will let your FarmBot know what is occupying each slot.
+Place your tools and seed containers in any slot you want. The text on the front of the tools and seed containers should be facing the same direction as the FarmBot logo on the front of the UTM.
 
 ![toolbays with tools](_images/toolbays_with_tools.jpg)
+
+{%
+include callout.html
+type="info"
+content="Once you get to the software portion of the setup process, you will let your FarmBot know what is occupying each slot."
+%}
 
 
 # What's next?

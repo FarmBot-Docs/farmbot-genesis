@@ -148,9 +148,11 @@ type="success"
 content="It is easier to connect the cable carrier by pushing it into the end piece at an angle, engaging the first circular hinge point, and then straightening the cable carrier to engage the second hinge point. Ensure both hinge points are snapped in all the way."
 %}
 
-Fasten the cable carrier to the wood cable carrier support using two [[T10 wood screws]].
+![Connect the x-axis cable carrier to the gantry](_images/mount_x_cc.png)
 
-![Mount the x-axis cable carrier](_images/mount_x_cc.png)
+Fasten the other end of the cable carrier to the wood cable carrier support using two [[T10 flathead wood screws]].
+
+![Mount the x-axis cable carrier to the supporting infrastructure](_images/mount_x_cc_2.png)
 
 # Step 10: Connect the tubing
 

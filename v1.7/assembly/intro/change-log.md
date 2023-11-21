@@ -47,7 +47,7 @@ Reduced the number of wheels mounted to the [[cross-slide plate]] and added weig
 
 Switched to a 100 watt [[power supply]], still providing ample power for all of FarmBot's core capabilities while reducing cost and weight.
 
-![power supply](_images/power_supply.png)
+![power supply](_images/power_supply.jpeg)
 
 # X-axis cable carrier
 
@@ -60,8 +60,8 @@ Switched to a smaller and lighter [[X-axis cable carrier]], further improving mo
 * Added weight-saving cutouts to the [[gantry corner brackets]].
 * Made the tab on the [[belt clips]] narrower.
 * Replaced individual wrenches with a [[5.5mm/8mm combo wrench]].
-* Replaced the black oxide Phillips drive wood screws with stainless steel T-25 [[wood screws]].
-* Included a [[T-25 bit]] as an assembly tool.
+* Replaced the black oxide Phillips drive wood screws with stainless steel [[T-25 wood screws]].
+* Included a [[T-25 bit]] and [[T-10 bit]] as assembly tools.
 * Added [[M5 x 4mm setscrews]] for use with nut bars to align track extrusions end-to-end.
 * Changed the material of the [[90 degree barb]] to brass.
 * Switched to smaller and lighter cardboard edge protectors.

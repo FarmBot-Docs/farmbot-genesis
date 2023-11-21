@@ -1,6 +1,7 @@
 ---
 title: "Supporting Infrastructure"
 slug: "supporting-infrastructure"
+description: "Documentation for fixed and mobile raised beds and other supporting infrastructure options"
 ---
 
 FarmBot's tracks need to be attached to **supporting infrastructure** such as a typical raised garden bed. Where you decide to install your FarmBot will determine how you setup your tracks and therefore what type of supporting infrastructure you need.

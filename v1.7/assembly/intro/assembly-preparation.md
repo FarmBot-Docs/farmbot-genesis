@@ -6,7 +6,7 @@ description: "Shorten the time it takes to assemble your FarmBot by following th
 
 # Installation tips
 
-Watch the short video below to understand how to provide power, water, and an internet connection to your FarmBot in a safe a reliable way.
+Watch the short video below to understand how to provide **power**, **water**, and an **internet connection** to your FarmBot in a safe a reliable way.
 
 {% include youtube.html id="6Ov1Uw1KJ-0" %}
 
@@ -50,7 +50,6 @@ Be prepared to spend the following amount of time assembling your FarmBot. Remem
 {%
 include callout.html
 type="info"
-title="Don't forget about supporting infrastructure"
 content="The time estimates above assume you have already prepared [supporting infrastructure](../supporting-infrastructure.md) for your FarmBot, such as a raised bed."
 %}
 

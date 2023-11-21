@@ -40,7 +40,7 @@ content="View the [FarmBot Genesis v1.6 documentation](http://genesis.farm.bot/d
 * Due to the cancellation of the product, removed FarmBot Genesis MAX from the documentation.
 * Switched to shielded USB 2.0 cable (`28AWG/1p + 24AWG/2c`) for the camera cable to reduce the potential for interference.
 * Shortened the X1 motor cable and X1 encoder cable slightly.
-* Removed unnecessary features from the [[leadscrew block]] design.
+* Removed unnecessary features from the leadscrew block design.
 * Removed the 5.5mm wrench, 2.5mm hex key, bladed screwdriver and phillips screwdriver from the kit.
 * Updated some part quantities to reduce the number of extra pieces at the end of assembly.
 * Added numerous documented QA checks to our manufacturing processes.
