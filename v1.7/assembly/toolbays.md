@@ -20,48 +20,36 @@ content="This is the estimated time it will take to install the included toolbay
 
 # Step 1: Attach to the supporting infrastructure
 
-Position and attach a [[3-slot toolbay]] to one of the _shorter edges_ of your **supporting infrastructure** using six [[wood screws]].
+Position and attach a [[3-slot toolbay]] to one of the _shorter edges_ of your **supporting infrastructure** using six [[wood screws]]. The toolbay should be positioned such that FarmBot can:
+
+* Mount and dismount tools from above
+* Slide tools all the way into and out of the slots along the X-axis
 
 {%
 include callout.html
 type="success"
-title="Within reach and squared up"
-content="Ensure that you mount the tool bay in a location that FarmBot's UTM can get to. Keep in mind that the UTM needs to be able to slide tools **all the way into the bay**, **all the way out**, and be able to mount and dismount tools **from above**. Make sure you verify this for each of the tool bay's slots.
-
-The toolbay must also be **square** with the rest of FarmBot (all three axes) in order for tools to be properly mounted and dismounted. Use shims or extra washers to make fine adjustments to the angle of your toolbays if needed. We added small notches to the sides of the toolbays to help you line them up with your supporting infrastructure. Of course, you can only use these if your supporting infrastructure is square and properly aligned, since the toolbays need to match the alignment of the UTM rather than the supporting infrastructure.
-
-Last, keep in mind the size of the tools and ensure that there is adequate room underneath and in front of your toolbays for proper mounting and dismounting."
+content="The toolbay must also be **square** with all three of FarmBot's axes in order for tools to be properly mounted and dismounted. Use shims to make fine adjustments to the angle of your toolbays if needed."
 %}
 
-{% include gallery.html images="
-![toolbay mounted to bed](_images/toolbay_mounted_to_bed.jpg)
-![toolbay notch](_images/toolbay_notch.jpg)
-" %}
+![toolbay mounted to bed](_images/toolbay_mounted_to_bed.png)
 
 # Step 2: Repeat for the second toolbay
 
-![both toolbays mounted to bed](_images/both_toolbays_mounted_to_bed.jpg)
-
-{%
-include callout.html
-type="info"
-title="Need more slots?"
-content="If you are interested in using more tools and seed containers at once, you will need to [purchase](https://farm.bot/search?q=Toolbay) or make additional toolbays."
-%}
+![both toolbays mounted to bed](_images/both_toolbays_mounted_to_bed.png)
 
 # Step 3: Insert the tools
 
 Place your tools and seed containers in any slot you want. The text on the front of the tools and seed containers should be facing the same direction as the FarmBot logo on the front of the UTM.
 
-![toolbays with tools](_images/toolbays_with_tools.jpg)
+![toolbays with tools](_images/toolbays_with_tools.png)
 
 {%
 include callout.html
 type="info"
-content="Once you get to the software portion of the setup process, you will let your FarmBot know what is occupying each slot."
+content="You will let your FarmBot know which tool or seed container is occupying each slot during the software portion of the setup process."
 %}
 
 
 # What's next?
 
- * [Electronics](../electronics.md)
+ * [Tools](tools.md)

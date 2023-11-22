@@ -94,7 +94,7 @@ Eccentric spacers are used for making fine adjustments to the spacing between th
 
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or there will be significant friction when moving. If the spacing is too great, then the connection will be wobbly and loose.
 
-Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry.md#step-6-feed-the-belts), and secure the belts back into place for normal operation.
+Follow our guide for [adjusting the eccentric spacers](../reference/eccentric-spacer-adjustment.md). After the eccentric spacers are adjusted, put the gantry back onto the tracks, [re-feed the belts through the drivetrain](../../assembly/gantry.md#step-7-feed-the-belts), and secure the belts back into place for normal operation.
 
 ![gantry wheel plate eccentric spacers](_images/gantry_wheel_plate_eccentric_spacers.png)
 

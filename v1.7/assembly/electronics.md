@@ -10,11 +10,11 @@ The Farmduino microcontroller uses Arduino architecture and it communicates with
 
 ![farmbot electrical system diagram](_images/farmbot-electrical-system-diagram.jpg)
 
-Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmBot's plants, sequences, regimens, events, and settings. Additionally, the Raspberry Pi is responsible for taking photos with the USB camera, and monitoring and controlling the push buttons and LEDs on top of the electronics box via the Pi adapter board.
+Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmBot's plants, sequences, regimens, events, and settings. Additionally, the Raspberry Pi is responsible for taking photos with the USB camera, and monitoring and controlling the push buttons and LEDs on top of the electronics box via the [[Pi adapter board]].
 
 ![Raspberry Pi electrical diagram](_images/raspberry_pi_electrical_diagram.png)
 
-# Step 1: Connect the peripherals
+# Step 1: Prep
 
 {%
 include callout.html
@@ -22,62 +22,85 @@ type="danger"
 content="The power supply should still be **unplugged** at this time."
 %}
 
+Remove the black rubber [[supergland]] from the slot in the bottom of the [[electronics box]].
+
+![remove supergland](_images/remove_supergland.png)
+
 {%
 include callout.html
 type="info"
 title="All cables go through the slot"
-content="Before proceeding with plugging everything in, remove the black rubber **supergland** from the slot in the bottom of the **electronics box**.
-
-When plugging in cables in the following steps, ensure that you pass **every cable** through the slot in the bottom of the electronics box. Once everything is connected to the electronics, you will organize all of the cables into the supergland, and then push the supergland back into the slot."
+content="When plugging in cables in the following steps, ensure that you **pass every cable through the slot** in the bottom of the electronics box. Once everything is connected to the electronics, you will organize all of the cables into the supergland, and then push the supergland back into the slot."
 %}
 
-* Connect the [[y vacuum pump cable]] (with gray heat shrink) to the [[Farmduino]] peripheral connector labelled `VACUUM` (the top right connector on Farmduino). The connector will only fit in one direction.
-* Connect the [[solenoid valve cable]] (with blue heat shrink) to the [[Farmduino]] peripheral connector labelled `WATER` (directly underneath the vacuum connector). The connector will only fit in one direction.
-* Connect the [[LED strip]] to the [[Farmduino]] peripheral connector labelled `LIGHTING` (directly underneath the water connector). The connector will only fit in one direction.
+# Step 2: Connect the peripherals
+
+Connect the following cables to the [[Farmduino]] peripheral connectors:
+
+* [[Y vacuum pump cable]] labelled `VAC` to the connector labelled `VACUUM`.
+* [[solenoid valve cable]] labelled `H2O` to the connector labelled `WATER`.
+* [[LED strip]] labelled `LED` to the connector labelled `LIGHTING`.
+
+{%
+include callout.html
+type="success"
+content="All connectors are keyed and will only fit in one direction. If you are having trouble inserting a connector, do not force it. Instead, double check that you are inserting it in the correct orientation."
+%}
 
 {% include gallery.html images="
-![farmduino vacuum connector](_images/farmduino_vacuum.png)
-![farmduino water connector](_images/farmduino_water.png)
-![farmduino lighting connector](_images/farmduino_lighting.png)
+![farmduino vacuum connector](_images/farmduino_peripherals_1.png)
+![farmduino vacuum connector](_images/farmduino_peripherals_2.png)
 " %}
 
-# Step 2: Plug in the stepper motors and rotary encoders
+# Step 3: Plug in the stepper motors and rotary encoders
 
-Plug in the **motor and encoder cables** to the [[Farmduino]]. Each cable is labelled with a white sleeve, which corresponds to the connectors on the Farmduino. From left to right, the connectors on Farmduino are `X1`, `X2`, `Y`, and `Z`. Each connector can only be inserted in one direction, and has a locking tab to prevent it from falling out.
-
-{% include gallery.html images="
-![farmduino motor connectors](_images/farmduino_motors.png)
-![farmduino encoders connectors](_images/farmduino_encoders.png)
-" %}
+Plug in the `X2`, `Y`, and `Z` [[motor cables]] and [[encoder cables]] to the [[Farmduino]].
 
 {%
 include callout.html
 type="info"
+content="The `X1` cables will already be connected."
+%}
+
+{% include gallery.html images="
+![farmduino motor and encoder connectors](_images/farmduino_motors_and_encoders_1.png)
+![farmduino motor and encoder connectors](_images/farmduino_motors_and_encoders_2.png)
+" %}
+
+{%
+include callout.html
+type="warning"
 title="Need to remove a cable?"
 content="Each connector has a locking tab which must be pressed in before a cable can be removed from the Farmduino. Be delicate when removing cables, as excessive force could damage the Farmduino.
 
 We recommend slightly pushing the connector away from the locking tab (while you are pressing the locking tab in) to facilitate the tab and connector coming free."
 %}
 
-# Step 3: Plug in the camera
+# Step 4: Plug in the camera
 
 Plug the [[camera cable]] into the [[Raspberry Pi]]. The exact USB port chosen does not matter.
 
 ![pi usb port](_images/pi_usb_port.png)
 
-# Step 4: Plug in the UTM cable
+# Step 5: Plug in the UTM cable
 
-Plug in the [[UTM cable]] to the [[Farmduino]]. The connector will only fit in one direction.
+Plug in the [[UTM cable]] to the [[Farmduino]].
 
-![farmduino utm connector](_images/farmduino_utm.png)
+{% include gallery.html images="
+![farmduino utm connector](_images/farmduino_utm_1.png)
+![farmduino utm connector](_images/farmduino_utm_2.png)
+" %}
 
-# Step 5: Plug the power supply into the Farmduino
+# Step 6: Plug the power supply into the Farmduino
 
-Connect the **3-pin power supply connector** to the **Farmduino's power input**. The connector will only fit in one direction.
+Connect the [[power supply cable]]to the **Farmduino's power input**.
 
-![farmduino power connector](_images/farmduino_power.png)
+{% include gallery.html images="
+![farmduino power connector](_images/farmduino_power_1.png)
+![farmduino power connector](_images/farmduino_power_2.png)
+" %}
 
-# Step 6: Insert the supergland
+# Step 7: Insert the supergland
 
 Insert one half of the **supergland** into the slot in the bottom of the [[electronics box]]. The left-most hole in the supergland should be small (it is for the camera) while the right-most hole should be medium-sized (it is for the power supply).
 
@@ -91,12 +114,39 @@ Once the cables are all inserted into the first supergland half, gently insert t
 include callout.html
 type="warning"
 title="Be gentle"
-content="Do not pull any cables away from the electronics box during this process as you could damage a connector or cable."
+content="Pulling cables too aggressively away from the electronics box can cause damage."
 %}
 
-![supergland with cables installed](_images/supergland_with_cables_installed.jpg)
+![supergland with cables installed](_images/supergland_with_cables_installed.png)
 
-# Step 7: Mount the power supply
+# Step 8: Install FarmBot OS
+
+Follow [these instructions](https://software.farm.bot/docs/farmbot-os) on the software documentation hub to install **FarmBot OS** onto the [[micro SD card]].
+
+{%
+include callout.html
+type="search"
+content="The [[micro SD card]] will be located in the [[Raspberry Pi]]. When installing FarmBot OS, you may need to use the [[micro SD card adapter]] located in the clear plastic storage case."
+%}
+
+{% include gallery.html images="
+![microSD card in raspberry pi](_images/micro_sd_card_in_pi.jpg)
+![microSD card in case](_images/micro_sd_card_in_case.jpeg)
+" %}
+
+# Step 9: Equalize the gantry
+
+{%
+include callout.html
+type="info"
+content="An **equalized gantry** is one that is exactly _perpendicular_ to the **tracks**. If the gantry is not equalized, it can cause creaking, extra wear on the V-wheels, and stalling when FarmBot moves along the tracks."
+%}
+
+To equalize the gantry, first ensure that the x-axis motors are unpowered. For first time installation this will always be the case. Then gently push or pull on the gantry **from the middle of the gantry main beam** such that it moves slowly along the tracks about 30cm. This process will remove any torque on the gantry, and ensure it is not crooked.
+
+If you were equalizing the gantry as part of routine maintenance, remember to <span class="fb-button fb-yellow">FIND HOME X</span> after equalization. Otherwise, proceed with the software portion of the setup.
+
+# Step 10: Mount the power supply
 
 Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]].
 
@@ -106,28 +156,26 @@ type="info"
 content="The power supply is **IP67 rated**, so it can withstand rain and the elements."
 %}
 
-![mounted power supply](_images/mounted_power_supply.jpg)
+![mounted power supply](_images/mounted_power_supply.png)
 
-# Step 8: Plug in the power supply
+# Step 11: Plug in the power supply
 
-Connect the [[power supply cable]] to the **power supply output**.
+Connect the [[power supply cable]] to the [[power supply]] **output**.
 
 ![power supply connector](_images/power_supply_connector.png)
-
-Before plugging the power supply into an outlet or an extension cord, please read the precaution below.
 
 {%
 include callout.html
 type="danger"
-title="Beware of electrical shock"
-content="Remember that once you plug in the power supply, your system will be powered. Once powered, you cannot add, remove, or change any motor cables, peripheral cables, etc, or you risk frying the electronics and/or being electrically shocked.
+title="Before plugging into an outlet..."
+content="Note that once you plug in the power supply to an outlet or extension cord, your system will be **powered**. When powered, do not add, remove, or change any motor cables, peripheral cables, etc, or you risk damaging the electronics and/or being electrically shocked.
 
-If you need to make any changes, you must first unplug the power supply from the wall. This will minimize the risk of electrical shock and the potential to permanently damage your electronics."
+If you need to make any changes, first unplug the power supply from the wall."
 %}
 
-If everything looks good, and you understand the precautions needed around powered electronics, go ahead and plug the power supply into a **GFCI outlet**.
+If everything looks good, and you understand the precautions needed around powered electronics, go ahead and plug the [[power supply]] into a **GFCI outlet**.
 
-If an appropriate outlet is not close enough to plug in directly, use an extension cord and the provided green outdoor electrical connection protector.
+If an appropriate outlet is not close enough to plug in directly, use an extension cord and the provided [[power cord protector]].
 
 {% include gallery.html images="
 ![cord protector](_images/cord_protector.jpg)

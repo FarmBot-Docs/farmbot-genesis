@@ -66,7 +66,7 @@ content="Applying a lubricant to the belts may cause a chemical reaction that ra
 include callout.html
 type="warning"
 title="Not done yet"
-content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../../assembly/gantry.md#step-8-equalize-the-gantry) to prevent binding."
+content="If you had to re-tension one or both of the belts along the tracks, the you must [re-equalize and synchronize the gantry](../../assembly/electronics.md#step-9-equalize-the-gantry) to prevent binding."
 %}
 
 # Inspect for damage

@@ -8,7 +8,7 @@ description: "The FarmBot fails to verify that a tool is mounted."
 
 Double check that the UTM cable is fully connected in all locations:
 
-- Both the [2x3 and 2x4 connectors must be plugged into the top of the UTM](../../assembly/tools/utm.md#step-2-connect-the-utm-cable). Ensure the connectors are fully seated down onto the [[UTM PCB]] before sliding the rubber shroud over the plastic. Once the shroud is positioned, make sure not to pull on the cable, or the connections may come undone.
+- Both the 2x3 and 2x4 connectors must be plugged into the top of the UTM. Ensure the connectors are fully seated down onto the [[UTM PCB]] before sliding the rubber shroud over the plastic. Once the shroud is positioned, make sure not to pull on the cable, or the connections may come undone.
 - The 90-degree connection between the Y-axis and Z-axis portions of the UTM cable must be fully pushed together and screwed tight. You may need to push the connectors together, tighten the thumbscrew, then push together some more, and then tighten the thumbscrew again.
 - The [2x6 connector of the Y-axis UTM cable must be plugged into the Farmduino](../../assembly/electronics.md#step-5-plug-in-the-utm-cable) inside the electronics box.
 - There should be eight 1x2 [[shunts]] installed on the pin headers labeled `A` through `H` on the [[Farmduino]], as shown in the image below.

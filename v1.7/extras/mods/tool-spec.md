@@ -39,7 +39,7 @@ content="[Download or copy the CAD model](../cad.md) of an existing tool as a st
 
 # Electrical
 
-In addition to tool verification, tools can make other electrical connections with components in the electronics box via the [[UTM]]. See [UTM pin mapping](../../assembly/tools/utm.md#pin-mapping) for existing and available connections.
+In addition to tool verification, tools can make other electrical connections with components in the electronics box via the [[UTM]]. See [UTM pin mapping](../reference/utm-pin-mapping.md) for existing and available connections.
 
 {%
 include callout.html
@@ -61,7 +61,7 @@ A senior design team at the Liberty University School of Engineering partnered w
 {%
 include callout.html
 type="success"
-content="This project was further developed by FarmBot Inc and commercialized in Genesis v1.6 with the introduction of the [rotary tool](../../assembly/tools/rotary-tool.md)."
+content="This project was further developed by FarmBot Inc and commercialized in Genesis v1.6 with the introduction of the [rotary tool](../../assembly/tools.md#rotary-tool)."
 %}
 
 ## Gripper tool

@@ -27,7 +27,7 @@ title="Adjust the eccentric spacers"
 content="Adjust the [[eccentric spacers]] according to the [eccentric spacer adjustment guide](../extras/reference/eccentric-spacer-adjustment.md)."
 %}
 
-Once the spacers have been adjusted, slide the [[gantry columns]] onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Meanwhile, the gantry column with the electronics box should be the left side of the supporting infrastructure that includes the wood cable carrier supports.
+Once the spacers have been adjusted, slide the [[gantry columns]] onto the **tracks**. The direction that the wheel plates extend from the column is towards the front of FarmBot. Meanwhile, the gantry column with the electronics box should be on the left side of the supporting infrastructure that includes the wood cable carrier supports.
 
 ![slide the gantry columns onto the tracks](_images/slide_the_gantry_columns_onto_the_tracks.png)
 
@@ -65,41 +65,49 @@ content="The next step requires an additional person to complete."
 
 Lift up the [[gantry main beam]] and position it onto the front of the **gantry corner brackets**. The cable carrier supports should be on the same side of the main beam as the gantry corner brackets. Slide a [[60mm nut bar]] into each end of the *lowest two extrusion slots* and use [[M5 x 10mm screws]] to loosely attach the main beam to the corner brackets.
 
-{%
-include callout.html
-type="success"
-content="The top face of the main beam should be 20mm *above* the top edges of the gantry corner brackets."
-%}
+The gantry main beam should be positioned as follows:
+
+* The top face of the main beam should be 20mm *above* the top edges of the gantry corner brackets.
+* The end of the main beam on the electronics box side should extend beyond the [[horizontal motor housing]] by at least 10mm or 0.5". If you built your supporting infrastructure to the maximum width, then the main beam should not be extended any further than this.
+* The other end of the main beam (opposite the electronics box) can extend beyond the [[right gantry corner bracket]] by any amount. If you have built your supporting infrastructure to the maximum width, then the main beam will not extend at all beyond the corner bracket.
 
 {% include gallery.html images="
 ![Attach the gantry main beam](_images/attach_the_gantry_main_beam_1.png)
 ![Attach the gantry main beam](_images/attach_the_gantry_main_beam_2.png)
+![Attach the gantry main beam](_images/attach_the_gantry_main_beam_4.png)
+![Attach the gantry main beam](_images/attach_the_gantry_main_beam_3.png)
 " %}
 
-Ensure that the gantry columns are **vertical** and form a **90 degree angle** with the main beam. Then tighten the [[M5 x 10mm screws]]. Depending on the spacing of your tracks, the gantry main beam may extend beyond the corner brackets. This is ok.
+Ensure that the gantry columns are **vertical** and form a **90 degree angle** with the main beam. Then tighten the [[M5 x 10mm screws]].
+
+{%
+include callout.html
+type="success"
+content="The main beam will not necessarily be centered on the supporting infrastructure. This is OK."
+%}
 
 ![Ensure the gantry is square](_images/ensure_the_gantry_is_square.png)
 
 # Step 5: Connect the X2 motor and encoder cables
 
-Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] (highlighted orange in the images below) to the X2 [[motor]] and [[encoder]] on the left side of FarmBot (when looking at the device from the back) by feeding the cables through the slots in all of the [[60mm horizontal cable carrier supports]] along the [[gantry main beam]].
+Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] to the X2 [[motor]] and [[encoder]] (located on the side opposite the electronics box). Then route the cables through the slots in all of the [[60mm horizontal cable carrier supports]] along the [[gantry main beam]].
 
 {%
 include callout.html
 type="info"
-content="You will plug the LED light strip into the Farmduino in a few steps from now."
+content="You will plug the cables into the electronics box in a few steps from now."
 %}
 
-![x2 motor cable from back](_images/x2_motor_cable_from_back.png)
+![x2 motor cables](_images/x2_motor_cables.png)
 
 # Step 6: Install the LED light strip
 
-Feed the [[LED strip]] (highlighted orange in the image below) through the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]]. You can secure the end of the strip to the final cable carrier support using a [[100mm zip tie]].
+Route the [[LED strip]] (highlighted orange in the image below) through the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]]. The end with the connector should be positioned near the electronics box. You can secure the strip to the first and last cable carrier supports using [[100mm zip ties]].
 
 {%
 include callout.html
 type="info"
-content="You will plug the LED light strip into the Farmduino in a few steps from now."
+content="You will plug the LED strip into the electronics box in a few steps from now."
 %}
 
 ![lights](_images/lights.png)
@@ -138,9 +146,9 @@ content="Trim any extra belt length if desired."
 
 Repeat steps 7 and 8 for the second x-axis belt on the other side of the FarmBot.
 
-# Step 9: Mount the cable carrier
+# Step 9: Attach the cable carrier
 
-Lay the **x-axis cable carrier** onto the supporting infrastructure's cable carrier support. Connect the end of the cable carrier _without an end piece_ to the **end piece** that is pre-mounted on the bottom of the left gantry column.
+Lay the **x-axis cable carrier** onto the supporting infrastructure's wood **cable carrier support**. Connect the end of the cable carrier _without an end piece_ to the **end piece** that is pre-mounted on the bottom of the left gantry column.
 
 {%
 include callout.html
@@ -175,18 +183,6 @@ content="You will need to provide a garden hose of the appropriate length to con
 Attach the [[seed trough holder]] to the [[seed trough holder mount]] using two [[M5 x 30mm screws]] and [[M5 flange locknuts]]. Then place the two [[seed troughs]] into the holder. Optionally, you may store up to three luer lock needles in the holder as well.
 
 ![Mounted seed trough holder](_images/mounted_seed_trough_holder.png)
-
-# Step 11: Equalize the gantry
-
-{%
-include callout.html
-type="info"
-content="An **equalized gantry** is one that is exactly _perpendicular_ to the **tracks**. If the gantry is not equalized, it can cause creaking, extra wear on the V-wheels, and stalling when FarmBot moves along the tracks."
-%}
-
-To equalize the gantry, first ensure that the x-axis motors are unpowered. For first time installation this will always be the case. Then gently push or pull on the gantry **from the middle of the gantry main beam** such that it moves slowly along the tracks about 30cm. This process will remove any torque on the gantry, and ensure it is not crooked.
-
-If you were equalizing the gantry as part of routine maintenance, remember to <span class="fb-button fb-yellow">FIND HOME X</span> after equalization. Otherwise, proceed with the assembly process.
 
 
 # What's next?

@@ -1,12 +1,8 @@
 ---
 title: "Tools"
 slug: "tools"
-description: "Documentation for the FarmBot Genesis tools"
+description: "Documentation for the FarmBot Genesis UTM, tools, seed containers, and camera"
 ---
-
-FarmBot Genesis kits come with a **universal tool mounting system**, a variety of **tools** to cover the basics of food production, as well as multiple **toolbays** and various **seed containers**.
-
-![tools in toolbays](_images/tools_in_toolbays.jpg)
 
 # Universal Tool Mount
 
@@ -25,19 +21,19 @@ The **Universal Tool Mount**, or **UTM**, allows FarmBot Genesis to automaticall
 include callout.html
 type="success"
 title="Room for expansion"
-content="The [unassigned UTM pins](../extras/reference/utm-pin-mapping.md) are available for you to custom map. Dreaming of a USB, I2C, or PWM based tool? Check out the [tool spec](../mods/tool-spec.md) to learn how to expand upon your FarmBot's abilities with a custom tool! We provide examples, CAD models, tech specs, and links to purchase parts."
+content="The [unassigned UTM pins](../extras/reference/utm-pin-mapping.md) are available for you to custom map. Dreaming of a USB, I2C, or PWM based tool? Check out the [tool spec](../extras/mods/tool-spec.md) to learn how to expand upon your FarmBot's abilities with a custom tool! We provide examples, CAD models, tech specs, and links to purchase parts."
 %}
 
 {%
 include callout.html
 type="warning"
 title="Having problems with tool verification?"
-content="Refer to the [tool verification troubleshooting guide](../troubleshooting/tool-verification.md)."
+content="Refer to the [tool verification troubleshooting guide](../extras/troubleshooting/tool-verification.md)."
 %}
 
 # Seeder
 
-The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **needle**. Different sized **luer lock needles** can be used for different sized seeds to improve performance and realibility of seeding.
+The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **luer lock needle**. Different sized needles can be used for different sized seeds to improve performance and realibility of seeding.
 
 |Size  |Gauge|Inner Diameter |Good for                 |
 |------|-----|---------------|-------------------------|
@@ -62,29 +58,18 @@ content="Refer to the [picking up seeds troubleshooting guide](../extras/trouble
 
 # Seed containers
 
-{% include youtube.html id="guJK9498ZA4" %}
+Complimenting the seeder are the **seed containers**, each optimized for different purposes.
 
-We offer the following types of seed containers, each optimized for different purposes.
+* The [[seed bin]] is for holding large amounts of one type of seed. This is best used when planting many plants of the same crop. You may also mix a variety of seed types into the seed bin and have FarmBot plant whatever it happens to grab. However, FarmBot will have no way of knowing which seed type it grabs, so only use this technique when taking care of all those plants identically.
+* The [[seed tray]] has 16 small wells for holding seeds. This is best used when planting many different crops, and when the number of seeds per planting location needs to be strictly controlled.
+* The [[seed troughs]] are small seed containers that are stored in the [[seed trough holder]], which is mounted on the gantry. This allows FarmBot to bring seeds with it along the x-axis, reducing the time to sow an entire bed.
 
-## Seed bin
-
-The [[seed bin]] is for holding large amounts of one type of seed. This is best used when planting many plants of the same crop, for example: when growing microgreens. To use a seed bin, simply fill it with seeds and slide it into the toolbay.
-
-If desired, you can mix a variety of seed types into one seed bin and have FarmBot plant whatever it happens to grab. Keep in mind that FarmBot will have no way of knowing which seeds it grabs, so only use this technique when you will be taking care of all those plants identically.
-
+{% include gallery.html images='
 ![seed bin](_images/seed_bin.jpg)
-
-## Seed tray
-
-The [[seed tray]] has 16 small wells for holding seeds. This is best used when planting many different crops, and when the number of seeds per planting location needs to be strictly controlled.
-
 ![seed trays](_images/seed_trays.jpg)
-
-## Seed troughs
-
-The [[seed troughs]] are small seed containers that are stored in the [[seed trough holder]], which is mounted on the gantry. This allows FarmBot to bring seeds with it along the x-axis, reducing the time to sow an entire bed.
-
 ![seed troughs](_images/seed_troughs.jpeg)
+<iframe width="100%" src="https://www.youtube.com/embed/guJK9498ZA4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="FarmBot YouTube video"></iframe>
+' %}
 
 # Watering Nozzle
 
@@ -163,7 +148,7 @@ The rotary tool can be configured with the included [[rotary tool chuck]] to per
 
 # Camera
 
-The **camera** is a borescope style USB camera that is **fully waterproof**. It can be used to take photos for weed detection, phenotyping research, or [time lapse photography](../../extras/mods/take-time-lapse-plant-photography.md) of your plants growing.
+The **camera** is a borescope style USB camera that is **fully waterproof**. It can be used to take photos for weed detection, phenotyping research, or [time lapse photography](../extras/mods/take-time-lapse-plant-photography.md) of your plants growing.
 
 {% include gallery.html images='
 ![camera mounted to z-axis](_images/camera_mounted_to_z-axis.png)

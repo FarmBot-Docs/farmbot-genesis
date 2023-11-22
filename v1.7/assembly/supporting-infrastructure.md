@@ -30,8 +30,8 @@ If you are going to modify on of our reference designs, or build supporting infr
 
 |FarmBot      |Outer Infrastructure Width|Outer Infrastructure Length|
 |-------------|--------------------------|---------------------------|
-|Genesis      |1.48m max                 |3m recommended
-|Genesis (XL) |2.98m max                 |6m recommended
+|Genesis      |1.36m (53.5") max         |3m (118") recommended
+|Genesis (XL) |2.86m (112.5") max        |6m (236") recommended
 
 {%
 include callout.html
