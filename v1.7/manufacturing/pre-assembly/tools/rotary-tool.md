@@ -5,9 +5,9 @@ description: "Pre-assembly and packing instructions for the rotary tool"
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/eaee13391d085cacba01826e
 ---
 
-# Component lists
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/rotary_tool_pre_assembly_rev_b.pdf" frameborder="0"></iframe>
 
-## Pre-assembly
+# Pre-assembly BOM
 
 |Component                         |Qty  |
 |----------------------------------|-----|
@@ -25,7 +25,7 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9
 |[[M5 x 22mm Flat Head Screw]]     |3
 |[[M5 Flange Locknut]]             |1
 
-## Accessory bag
+# Accessory bag BOM
 
 |Component                         |Qty  |
 |----------------------------------|-----|
@@ -34,18 +34,12 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9
 |[[Rotary Tool Trimmer]]           |30
 |[[Rotary Tool Shaft Extension]]   |1
 
-## Packaging
+# Packaging BOM
 
 |Component                     |Qty  |
 |------------------------------|-----|
 |Rotary Tool Box               |1
 |Rotary Tool Box Insert        |1
-
-# Step 1: Pre-assembly and packing
-
-Follow the instructions in the technical drawing below to pre-assemble and pack the **rotary tool**.
-
-<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/rotary_tool_pre_assembly_and_packing_rev_c.pdf" frameborder="0" allowfullscreen></iframe>
 
 # Box specifications
 

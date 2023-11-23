@@ -5,9 +5,9 @@ description: "Pre-assembly and packing instructions for the seeder tool"
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/1449bd11dc3cf8a5f2563601
 ---
 
-![seeder](_images/seeder.png)
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/seeder_pre_assembly_rev_a.pdf" frameborder="0"></iframe>
 
-# Component list
+# Pre-assembly BOM
 
 |Component                     |Qty  |
 |------------------------------|-----|
@@ -19,25 +19,20 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9
 |M3 x 12mm Screws              |2
 |M3 Locknuts                   |2
 |Jumper Link                   |1
-|Seeder Accessory Bag:<br>- 2x Luer Lock Needle w/ cover (16 Gauge)<br>- 2x Luer Lock Needle w/ cover (19 Gauge)<br>- 2x Luer Lock Needle w/ cover (22 Gauge)|1
+
+# Accessory bag BOM
+
+|Component                     |Qty  |
+|------------------------------|-----|
+|Luer Lock Needle w/ cover (16 Gauge)|3
+|Luer Lock Needle w/ cover (19 Gauge)|3
+
+# Packaging BOM
+
+|Component                     |Qty  |
+|------------------------------|-----|
 |Seeder Box                    |1
 |Seeder Box Insert             |1
-
-# Step 1: Install the basic tool hardware
-
-Install the **magnets** and tool verification **jumper link** using the instructions in the [basic tool hardware reference guide](../../../extras/reference/basic-tool-hardware.md).
-
-![seeder with basic tool hardware](_images/seeder_with_basic_tool_hardware.png)
-
-# Step 2: Add the luer lock adapter
-
-Screw the [[luer lock adapter]] into the brass insert on the bottom of the **seeder**.
-
-![seeder with luer lock adapter](_images/seeder_with_luer_lock_adapter.png)
-
-# Step 3: Pack
-
-Place the **seeder box insert** into the **seeder box**. Then insert the **seeder accessory bag** into the box followed by the **pre-assembled seeder tool**. Close the box.
 
 # Box specifications
 

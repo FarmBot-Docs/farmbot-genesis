@@ -35,11 +35,11 @@ Place three more layers of main cartons onto the stack.
 
 Wrap the entire stack with clear plastic.
 
-# Extrusion and leadscrew kits
+# Extrusion kits
 
 ## Step 1: First three layers
 
-Stack three layers of **extrusion and leadscrew kits** onto an **extended-length pallet**. Genesis kits should have 7 boxes per layer, while Genesis (XL) should have 6 boxes per layer.
+Stack three layers of **extrusion kits** onto an **extended-length pallet**. Genesis kits should have 7 boxes per layer, while Genesis (XL) should have 6 boxes per layer.
 
 {%
 include callout.html
@@ -62,13 +62,13 @@ _Genesis (XL) kits (6 on each layer)_
 
 Place a **cardboard separator** on top of the first three layers. This will help stabilize the stack.
 
-![extrusion and leadscrew pallet cardboard separator](_images/extrusion_and_leadscrew_pallet_cardboard_separator.png)
+![extrusion kit pallet cardboard separator](_images/extrusion_kit_pallet_cardboard_separator.png)
 
 ## Step 3: Second three layers
 
-Place three more layers of extrusion and leadscrew kits onto the stack.
+Place three more layers of extrusion kits onto the stack.
 
-![extrusion and leadscrew pallet 6 layers](_images/extrusion_and_leadscrew_pallet_6_layers.png)
+![extrusion kit pallet 6 layers](_images/extrusion_kit_pallet_6_layers.png)
 
 ## Step 5: Plastic wrap
 
@@ -78,12 +78,12 @@ Wrap the entire stack with clear plastic.
 
 ## Stacked pallet specs
 
-|Contents                                           |Qty/pallet|Dimensions (L x W x H)|Product Weight|
-|---------------------------------------------------|----------|----------------------|--------------|
-|Genesis main cartons (19kg)                        |18        |1300 x 1020 x 1570mm  |342kg
-|Genesis extrusion and leadscrew kits (10 kg)       |42        |1530 x 1020 x 970mm   |420kg
-|Genesis (XL) main cartons (23 kg)                    |18        |1300 x 1020 x 1570mm  |414kg
-|Genesis (XL) extrusion and leadscrew kits (17 kg)    |36        |1530 x 1020 x 970mm   |612kg
+|Contents                             |Qty/pallet|Dimensions (L x W x H)|Product Weight|
+|-------------------------------------|----------|----------------------|--------------|
+|Genesis main cartons (19kg)          |18        |1300 x 1020 x 1570mm  |342kg
+|Genesis extrusion kits (10 kg)       |42        |1530 x 1020 x 970mm   |420kg
+|Genesis (XL) main cartons (23 kg)    |18        |1300 x 1020 x 1570mm  |414kg
+|Genesis (XL) extrusion kits (17 kg)  |36        |1530 x 1020 x 970mm   |612kg
 
 ## Maximizing pallet efficiency
 
@@ -91,8 +91,8 @@ Kits ordered in multiples of the quantities shown below will maximize pallet sta
 
 |FarmBot     |Kit Quantity |Pallet Quantity               |Pallet Length                 |
 |------------|-------------|------------------------------|------------------------------|
-|Genesis     |126          |7 (main cartons)<br>3 (extrusion and leadscrew kits)<br>**10 total**|7 x 1.3m<br>3 x 1.53m<br>**13.69m total**
-|Genesis (XL)  |36           |2 (main cartons)<br>1 (extrusion and leadscrew kits)<br>**3 total**|2 x 1.3m<br>1 x 1.53m<br>**4.13m total**
+|Genesis     |126          |7 (main cartons)<br>3 (extrusion kits)<br>**10 total**|7 x 1.3m<br>3 x 1.53m<br>**13.69m total**
+|Genesis (XL)  |36           |2 (main cartons)<br>1 (extrusion kits)<br>**3 total**|2 x 1.3m<br>1 x 1.53m<br>**4.13m total**
 
 ## Maximizing container efficiency
 

@@ -189,8 +189,8 @@ contents:
         pages:
           - title: Pallet Stacking
             url: pallet-stacking
-          - title: Extrusion and Leadscrew Kit
-            url: extrusion-and-leadscrew-kit
+          - title: Extrusion Kit
+            url: extrusion-kit
           - title: Main Carton
             url: main-carton
           - title: Hardware Kit

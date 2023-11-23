@@ -17,12 +17,8 @@ The information is shared here as part of our commitment to 100% open-source [ha
 # What's next?
 
  * [Hardware Kit](packing/hardware-kit.md)
- * [Plate Kit](packing/plate-kit.md)
- * [Plastic Parts Kit](packing/plastic-parts-kit.md)
- * [Cable Kit](packing/cable-kit.md)
  * [Motor Kit](packing/motor-kit.md)
  * [Power Supply](packing/power-supply.md)
- * [Assembly Tools](packing/assembly-tools.md)
  * [Main Carton Packing](packing/main-carton.md)
- * [Extrusion and Leadscrew Packing](packing/extrusion-and-leadscrew-kit.md)
+ * [Extrusion Packing](packing/extrusion-kit.md)
  * [Pallet Stacking](packing/pallet-stacking.md)
