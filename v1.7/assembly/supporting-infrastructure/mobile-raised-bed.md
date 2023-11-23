@@ -4,6 +4,12 @@ slug: "mobile-raised-bed"
 description: "Step-by-step instructions for building a mobile raised bed for FarmBot Genesis"
 ---
 
+{%
+include callout.html
+type="danger"
+content="The reference design shown in this document has not yet been updated for compatibility with Genesis v1.7. Specifically, this design is too wide to accomodate a standard kit. We will be updating this document before v1.7 devices begin shipping. Thank you for your patience."
+%}
+
 Building a **mobile raised bed** is the recommended method for installing FarmBot Genesis **indoors**. In these instructions we show you how to build a simple but sturdy bed that can be easily moved around a classroom, lab, warehouse, or museum space.
 
 {%

@@ -4,6 +4,12 @@ slug: "wood-posts"
 description: "Step-by-step instructions for setting up wood posts for FarmBot Genesis or Genesis XL"
 ---
 
+{%
+include callout.html
+type="danger"
+content="The reference design shown in this document has not yet been updated for compatibility with Genesis v1.7. Specifically, this design is too wide to accomodate a standard kit and is incompatible as shown with the new track design. We will be updating this document before v1.7 devices begin shipping. Thank you for your patience."
+%}
+
 As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to simple **wood posts** buried or cemented in the ground and topped with wood beams.
 
 {% include gallery.html images="
