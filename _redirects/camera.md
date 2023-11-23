@@ -1,6 +1,6 @@
 ---
 permalink: /docs/camera
-page_path: /assembly/tools/camera
+page_path: /assembly/tools
 layout: redirect
 ---
 
