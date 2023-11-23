@@ -53,19 +53,16 @@ bom:
       - image: luer_lock_adapter.jpeg
       - image: luer_lock_needle_16_gauge.jpg
       - image: luer_lock_needle_19_gauge.jpg
-      - image: luer_lock_needle_22_gauge.jpg
       - image: m5_barb.jpg
       - image: npt_to_barb_adapter.jpg
       - image: o-ring.jpg
       - image: pressure_regulator.jpg
       - image: rubber_gasket.jpg
-      - image: ptfe_tape.jpg
       - image: tube_water.jpg
       - image: tube_vacuum.jpg
   - category: plastic-parts
     parts:
       - image: cable_carrier_spacer_block_60mm.jpg
-      - image: cable_carrier_support_horizontal_30mm.jpg
       - image: cable_carrier_support_horizontal_60mm.jpg
       - image: cable_carrier_support_vertical_60mm.jpg
       - image: camera_mount_half.jpg
@@ -84,8 +81,7 @@ bom:
       - image: vacuum_pump_cover.jpg
       - image: vacuum_pump_mount.jpeg
       - image: watering_nozzle_bottom.jpg
-      - image: watering_nozzle.jpg
-      - image: watering_nozzle.jpg
+      - image: watering_nozzle_top.jpg
   - category: drivetrain
     parts:
       - image: belt_sleeve.jpeg
@@ -107,7 +103,6 @@ bom:
       - image: farmduino.jpg
       - image: fuse.jpg
       - image: jumper_link.jpg
-      - image: jumper_wire.jpg
       - image: led_indicator_white.jpg
       - image: led_indicator_blue.jpg
       - image: led_indicator_green.jpg
@@ -119,7 +114,6 @@ bom:
       - image: micro_sd_card.jpg
       - image: motor_cable.jpg
       - image: motor.jpg
-      - image: peripheral_lead.jpg
       - image: pi_adapter_board.jpg
       - image: pogo_pin_jam_nut.jpg
       - image: pogo_pin.jpg
@@ -157,7 +151,5 @@ bom:
       - image: gantry_wheel_plate.jpg
       - image: seed_trough_holder_mount.jpg
       - image: toolbay_3-slot.jpg
-      - image: track_end_plate.jpg
-      - image: track_joining_plate.jpg
       - image: z-axis_hardstop.jpg
       - image: z-axis_motor_mount.jpg

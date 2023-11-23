@@ -195,18 +195,10 @@ contents:
             url: main-carton
           - title: Hardware Kit
             url: hardware-kit
-          - title: Plate Kit
-            url: plate-kit
-          - title: Plastic Parts Kit
-            url: plastic-parts-kit
-          - title: Cable Kit
-            url: cable-kit
           - title: Motor Kit
             url: motor-kit
           - title: Power Supply
             url: power-supply
-          - title: Assembly Tools
-            url: assembly-tools
           - title: Solenoid Valve
             url: solenoid-valve
           - title: Vacuum Pump
