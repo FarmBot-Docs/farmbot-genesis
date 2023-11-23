@@ -1,8 +1,8 @@
 ---
 title: "Gantry Column"
 slug: "gantry-column"
-description: "The gantry columns are made from aluminum extrusions. They can be scaled to be taller or shorter to satisfy your needs. The two large spaces inside the columns are used to conceal and protect the GT2 timing belts that run along the tracks and up to the gantry pulleys."
-cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/5e4be9906800472a862f2982?configuration=List_q9HBefhOmUpWt5%3D_5000&renderMode=0&uiState=6254ebce50f84e1a8d3b78d8
+description: "The gantry columns are made from aluminum extrusions. They can be scaled to be taller or shorter to satisfy your needs. The large space inside the columns is used to conceal and protect the GT2 timing belts that run along the tracks and up to the X-axis motors."
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/v/ab8f542d5dc933352c705ff8/e/c28455edd8da488c73d54566
 price: $15.00
 quantity:
   standard: 2
@@ -13,8 +13,9 @@ specs:
   material: 6063-T5 Aluminum
   surface treatment: Sand blasted and clear anodized
 internal-specs:
-  internal-part-name: Extrusion - 20mm x 60mm x 500mm (Gantry Column)
+  internal-part-name: Gantry Column - 500mm
+  rev: C
   vendor: LDO
-  cost: $3.10
+  cost: $3.40
   component tests: Extrusion tests
 ---

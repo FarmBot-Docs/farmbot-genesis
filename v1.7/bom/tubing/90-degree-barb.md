@@ -2,19 +2,19 @@
 title: "90-Degree Barb"
 slug: "90-degree-barb"
 description: "This barb is used to connect the y-axis water tube to the z-axis water tube."
-cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/bbc56fad92e5669d7a001412?renderMode=0&uiState=6255de3746b4a5023f0b0a2b
-price: $2.00
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/v/ab8f542d5dc933352c705ff8/e/8bcec3b944d6ae6baa6798a3
+price: $5.00
 quantity:
   standard: 1
   xl: 1
 specs:
-  material: Plastic
-  color: Semi-clear white
+  material: Brass
   for tube ID: 6mm
 internal-specs:
-  internal-part-name: 90 Degree Barb
+  internal-part-name: 90 Degree Barb - Brass
+  rev: A
   vendor: LDO
-  cost: $0.15
+  cost: $1.00
 ---
 
 **Component tests**{:.internal}
