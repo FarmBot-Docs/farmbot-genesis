@@ -167,6 +167,18 @@ contents:
       - title: Pre-Assembly
         url: pre-assembly
         pages:
+          - title: Gantry
+            url: gantry
+          - title: Cross-Slide
+            url: cross-slide
+          - title: Z-Axis
+            url: z-axis
+          - title: Electronics Box
+            url: electronics-box
+          - title: Cable Carrier
+            url: cable-carrier
+          - title: V-Wheels
+            url: v-wheels
           - title: Tools
             url: tools
             pages:
@@ -180,10 +192,6 @@ contents:
                 url: rotary-tool
               - title: Soil Sensor
                 url: soil-sensor
-          - title: V-Wheels
-            url: v-wheels
-          - title: Electronics Box
-            url: electronics-box
       - title: Packing
         url: packing
         pages:

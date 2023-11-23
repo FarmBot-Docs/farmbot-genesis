@@ -11,10 +11,6 @@ The tables below show the items that should be packed into the **main carton** f
 |Item|Sub-packing|Qty|
 |----|-----------|---|
 |[Hardware Kit](hardware-kit.md)|None|1
-|[Plate Kit](plate-kit.md)|None|1
-|[Plastic Parts Kit](plastic-parts-kit.md)|None|1
-|[Cable Kit](cable-kit.md)|None|1
-|[Motor Kit](motor-kit.md)|None|1
 |[Power Supply Box](power-supply.md)|None|1
 |X-Axis [[Cable Carrier]]<br>(15 x 30 x 1700mm)|None (no plastic bag)|1
 |Y-Axis [[Cable Carrier]]<br>(15 x 50 x 1700mm)|None (no plastic bag)|1
@@ -27,10 +23,6 @@ The tables below show the items that should be packed into the **main carton** f
 |Item|Sub-packing|Qty|
 |----|-----------|---|
 |(XL) [Hardware Kit](hardware-kit.md)|None|1
-|(XL) [Plate Kit](plate-kit.md)|None|1
-|(XL) [Plastic Parts Kit](plastic-parts-kit.md)|None|1
-|(XL) [Cable Kit](cable-kit.md)|None|1
-|[Motor Kit](motor-kit.md)|None|1
 |[Power Supply Box](power-supply.md)|None|1
 |X-Axis [[Cable Carrier]]<br>(15 x 30 x 3200mm)|None (no plastic bag)|1
 |Y-Axis [[Cable Carrier]]<br>(15 x 50 x 3200mm)|None (no plastic bag)|1

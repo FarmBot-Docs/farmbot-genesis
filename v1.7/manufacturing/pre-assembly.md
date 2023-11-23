@@ -4,14 +4,14 @@ slug: "pre-assembly"
 description: "Pre-assembly instructions for Genesis and Genesis XL sub-assemblies :wrench: :gear:"
 ---
 
-Some subassemblies of FarmBot Genesis come pre-assembled in the box. The following pages show how the pre-assemblies were put together at the factory, which may be useful if you need to disassemble and reassemble parts of your FarmBot.
+The following pages show how the FarmBot Genesis pre-assemblies were put together at the factory, which may be useful if you need to disassemble and reassemble parts of your FarmBot.
 
 # What's next?
 
- * [V-Wheels](pre-assembly/v-wheels.md)
+ * [Gantry](pre-assembly/gantry.md)
+ * [Cross-Slide](pre-assembly/cross-slide.md)
+ * [Z-Axis](pre-assembly/z-axis.md)
  * [Electronics Box](pre-assembly/electronics-box.md)
- * [UTM](pre-assembly/tools/utm.md)
- * [Seeder](pre-assembly/tools/seeder.md)
- * [Watering Nozzle](pre-assembly/tools/watering-nozzle.md)
- * [Rotary Tool](pre-assembly/tools/rotary-tool.md)
- * [Soil Sensor](pre-assembly/tools/soil-sensor.md)
+ * [Cable Carrier](pre-assembly/cable-carrier.md)
+ * [V-Wheels](pre-assembly/v-wheels.md)
+ * [Tools](pre-assembly/tools.md)
