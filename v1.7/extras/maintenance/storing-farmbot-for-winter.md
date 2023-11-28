@@ -21,7 +21,7 @@ Using the web app, shutdown the FarmBot. Then unplug the [[power supply]] from t
 For v1.4+ kits, disconnect the [[power supply]] from the [[power supply cable]].
 
 # Step 4: Disconnect the x-axis cable carrier
-Remove the **screws** that hold the **x-axis cable carrier** to the **cable carrier support**. You may want to coil up the x-axis cable carrier, and secure the coil with a strap.
+Remove the **screws** that hold the [[x-axis cable carrier]] to the **cable carrier support**. You may want to coil up the x-axis cable carrier, and secure the coil with a strap.
 
 # Step 5: Remove the x-axis belts
 Remove the **screws** and [[tee nuts]] that hold the four [[belt clips]] located at the track ends. Then remove the belt clips from the tracks and coil up the loose belt length. Use twist ties or rubber bands to keep the belts coiled.

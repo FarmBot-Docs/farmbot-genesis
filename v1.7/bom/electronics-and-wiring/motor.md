@@ -15,9 +15,6 @@ specs:
   shaft diameter: 5mm diameter
   mount hole pattern: 4x M3 holes, standard NEMA 17 pattern
   motor connector: 6-pin connector (only 4 pins used)
-  encoder connector: 8-pin connector
-  encoder resolution: 360 lines/revolution
-  encoder output: Differential
 internal-specs:
   internal-part-name: NEMA 17 Stepper Motor w/ Rotary Encoder
   vendor: Motor - LDO<br>Encoder - Honest Sensor

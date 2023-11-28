@@ -65,11 +65,11 @@ Secure the belt at the other end of the gantry with another [[belt clip]], [[20m
 
 # Step 4: Attach the cable carrier
 
-Lay the **y-axis cable carrier** onto the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[80mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Lay the [[y-axis cable carrier]] onto the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[80mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc_1.png)
 
-Attach the **y-axis cable carrier** to the [[60mm horizontal cable carrier support]] nearest the electronics box using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Attach the [[y-axis cable carrier]] to the [[60mm horizontal cable carrier support]] nearest the electronics box using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc_2.png)
 
@@ -133,7 +133,7 @@ content="Use zip ties and plenty of slack to ensure the motor and encoder wires 
 
 # Step 8: Remove slack
 
-Reduce the amount of extra tubing and wiring between the **y-axis cable carrier** and the **z-axis cable carrier** by gently pulling any extra cable or tubing length through the **y-axis cable carrier**. It can be difficult to coax the contents around the bend of the cable carrier, so take your time and ensure that you are not pulling anything too hard.
+Reduce the amount of extra tubing and wiring between the [[y-axis cable carrier]] and the [[z-axis cable carrier]] by gently pulling any extra cable or tubing length through the [[y-axis cable carrier]]. It can be difficult to coax the contents around the bend of the cable carrier, so take your time and ensure that you are not pulling anything too hard.
 
 {%
 include callout.html
