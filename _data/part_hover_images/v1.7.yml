@@ -10,7 +10,6 @@ bom:
     parts:
       - image: allen_key_2mm.jpg
       - image: hex_driver_3mm.jpg
-      - image: wrench-8mm-5-5mm-combo.jpg
       - image: eccentric_spacer.jpg
       - image: m2_5_screw_4mm.jpg
       - image: m2_5_screw_6mm.jpg
@@ -89,9 +88,9 @@ bom:
       - image: v_wheel.jpg
   - category: electronics-and-wiring
     parts:
-      - image: cable_carrier_x_end_piece_configuration.png
-      - image: cable_carrier_y_end_piece_configuration.jpg
-      - image: cable_carrier_z_end_piece_configuration.jpg
+      - image: cable_carrier_end_piece_configuration_x.png
+      - image: cable_carrier_end_piece_configuration_y.jpg
+      - image: cable_carrier_end_piece_configuration_z.jpg
       - image: camera_cable.jpg
       - image: camera_calibration_card.jpg
       - image: camera.jpg
