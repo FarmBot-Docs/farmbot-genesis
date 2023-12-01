@@ -9,11 +9,7 @@ bom:
   - category: fasteners-and-hardware
     parts:
       - image: allen_key_2mm.jpg
-      - image: hex_driver_2mm.jpg
       - image: hex_driver_3mm.jpg
-      - image: nut_driver_5_5mm.jpg
-      - image: nut_driver_8mm.jpg
-      - image: wrench_8mm.jpg
       - image: eccentric_spacer.jpg
       - image: m2_5_screw_4mm.jpg
       - image: m2_5_screw_6mm.jpg
@@ -41,7 +37,6 @@ bom:
       - image: rotary_tool_shaft_extension.jpg
       - image: rotary_tool_trimmer_mount.jpg
       - image: standard_spacer.jpg
-      - image: wood_screw.jpg
       - image: zip_tie_100mm.jpg
       - image: zip_tie_200mm.jpg
       - image: zip_tie_60mm.jpg
@@ -93,7 +88,9 @@ bom:
       - image: v_wheel.jpg
   - category: electronics-and-wiring
     parts:
-      - image: cable_carrier.jpg
+      - image: cable_carrier_end_piece_configuration_x.png
+      - image: cable_carrier_end_piece_configuration_y.jpg
+      - image: cable_carrier_end_piece_configuration_z.jpg
       - image: camera_cable.jpg
       - image: camera_calibration_card.jpg
       - image: camera.jpg

@@ -148,7 +148,7 @@ Repeat steps 7 and 8 for the second x-axis belt on the other side of the FarmBot
 
 # Step 9: Attach the cable carrier
 
-Lay the **x-axis cable carrier** onto the supporting infrastructure's wood **cable carrier support**. Connect the end of the cable carrier _without an end piece_ to the **end piece** that is pre-mounted on the bottom of the left gantry column.
+Lay the [[x-axis cable carrier]] onto the supporting infrastructure's wood **cable carrier support**. Connect the end of the cable carrier _without an end piece_ to the **end piece** that is pre-mounted on the bottom of the left gantry column.
 
 {%
 include callout.html
