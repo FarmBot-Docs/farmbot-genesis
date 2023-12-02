@@ -7,8 +7,8 @@ description: "Step-by-step instructions for setting up wood posts for FarmBot Ge
 As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to simple **wood posts** buried or cemented in the ground and topped with wood beams.
 
 {% include gallery.html images="
-![wood posts for FarmBot Genesis](_images/wood_posts_genesis.png)
-![wood posts for FarmBot Genesis XL](_images/wood_posts_genesis_xl.png)
+![wood posts for FarmBot Genesis](_images/wood_posts.png)
+![wood posts for FarmBot Genesis XL](_images/wood_posts_xl.png)
 " %}
 
 {%

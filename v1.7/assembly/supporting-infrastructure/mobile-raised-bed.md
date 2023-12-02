@@ -6,14 +6,14 @@ description: "Step-by-step instructions for building a mobile raised bed for Far
 
 Building a **mobile raised bed** is the recommended method for installing FarmBot Genesis **indoors**. In these instructions we show you how to build a simple but sturdy bed that can be easily moved around a classroom, lab, warehouse, or museum space.
 
+![mobile raised bed](_images/mobile_raised_bed.png)
+
 {%
 include callout.html
 type="warning"
 title="Not suitable for Genesis XL"
 content="We do not recommend building a mobile raised bed for Genesis (XL) devices because it would be extremely heavy and difficult to move."
 %}
-
-![mobile raised bed](_images/mobile_raised_bed.png)
 
 {%
 include callout.html
@@ -191,7 +191,7 @@ Unfold the **tarp** and lay it in the bed such that it wraps up the side walls. 
 
 Fill the bed with a mix of soil and compost, and keep out large rocks and branches. We recommend purchasing potting soil from your local nursery.
 
-![bed filled with soil](_images/mobile_raised_bed.png)
+![bed filled with soil](_images/mobile_raised_bed_filled.png)
 
 {%
 include callout.html

@@ -9,6 +9,7 @@ bom:
   - category: fasteners-and-hardware
     parts:
       - image: allen_key_2mm.jpg
+      - image: bit_t25.jpeg
       - image: hex_driver_3mm.jpg
       - image: eccentric_spacer.jpg
       - image: m2_5_screw_4mm.jpg
@@ -24,6 +25,7 @@ bom:
       - image: m5_screw_10mm.jpg
       - image: m5_screw_16mm.jpg
       - image: m5_screw_30mm.jpg
+      - image: m5_setscrew_4mm.jpeg
       - image: magnet_countersunk.jpg
       - image: magnet_standard.jpg
       - image: nut_bar_100mm.jpg
@@ -37,6 +39,8 @@ bom:
       - image: rotary_tool_shaft_extension.jpg
       - image: rotary_tool_trimmer_mount.jpg
       - image: standard_spacer.jpg
+      - image: wood_screw_t25.jpeg
+      - image: wrench_8mm_5_5mm_combo.jpeg
       - image: zip_tie_100mm.jpg
       - image: zip_tie_200mm.jpg
       - image: zip_tie_60mm.jpg
@@ -88,13 +92,14 @@ bom:
       - image: v_wheel.jpg
   - category: electronics-and-wiring
     parts:
-      - image: cable_carrier_end_piece_configuration_x.png
-      - image: cable_carrier_end_piece_configuration_y.jpg
-      - image: cable_carrier_end_piece_configuration_z.jpg
+      - image: cable_carrier_x_axis.jpeg
+      - image: cable_carrier_y_axis.jpeg
+      - image: cable_carrier_z_axis.jpeg
       - image: camera_cable.jpg
       - image: camera_calibration_card.jpg
       - image: camera.jpg
       - image: electronics_box.jpg
+      - image: encoder.jpeg
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
       - image: farmduino.jpg
@@ -131,6 +136,7 @@ bom:
       - image: soil_sensor_pcb.jpeg
       - image: solenoid_valve_cable.jpg
       - image: solenoid_valve.jpg
+      - image: supergland.jpeg
       - image: utm_cable_y.jpg
       - image: utm_pcb.jpg
       - image: vacuum_pump.jpg
@@ -138,7 +144,7 @@ bom:
       - image: vacuum_pump_cable_z.jpeg
   - category: plates-and-brackets
     parts:
-      - image: cable_carrier_mount_35mm.jpg
+      - image: cable_carrier_mount_30mm.jpeg
       - image: cable_carrier_mount_80mm.jpg
       - image: belt_clip.jpeg
       - image: cross-slide_plate.jpg
