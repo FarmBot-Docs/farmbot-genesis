@@ -7,8 +7,8 @@ description: "Step-by-step instructions for building a fixed raised bed for Farm
 Building a **fixed raised bed** is the recommended method for installing FarmBot Genesis or Genesis (XL) outdoors. In these instructions we show you how to build a simple but sturdy bed that will fit into most yards, look great, and last a lifetime.
 
 {% include gallery.html images="
-![genesis fixed raised bed](_images/fixed_raised_bed_fill_bed.png)
-![genesis xl fixed raised bed](_images/fixed_raised_bed_fill_bed_xl.png)
+![genesis fixed raised bed](_images/fixed_raised_bed.png)
+![genesis xl fixed raised bed](_images/fixed_raised_bed_xl.png)
 " %}
 
 {%

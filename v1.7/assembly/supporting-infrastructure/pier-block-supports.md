@@ -7,8 +7,8 @@ description: "Step-by-step instructions for setting up pier block supports for F
 As an alternative to [building a full raised bed](raised-bed.md), you may consider mounting your FarmBot to **pier block supports** topped with wood beams.
 
 {% include gallery.html images="
-![pier block supports for FarmBot Genesis](_images/pier_blocks_genesis.png)
-![pier block supports for FarmBot Genesis XL](_images/pier_blocks_genesis_xl.png)
+![pier block supports for FarmBot Genesis](_images/pier_blocks.png)
+![pier block supports for FarmBot Genesis XL](_images/pier_blocks_xl.png)
 " %}
 
 {%
