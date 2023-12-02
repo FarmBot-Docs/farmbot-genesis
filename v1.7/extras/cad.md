@@ -3,14 +3,21 @@ title: "CAD Models"
 slug: "cad"
 ---
 
-FarmBot Genesis was designed in **[Onshape](https://onshape.com)**, allowing you to have full access to **view**, **copy**, **edit**, and **export** all of the source 3D CAD models for *free* from any computer or mobile device! Simply click the links below to access the various assemblies and other resources.
+FarmBot Genesis was designed in **[Onshape](https://onshape.com)**, allowing you to have full access to **view**, **copy**, **edit**, and **export** all of the source 3D CAD models for *free* from any computer or mobile device!
 
-|Category                      |Link                          |
-|------------------------------|------------------------------|
-|Top-level assembly            |{% include cad.html type='assembly' name='FarmBot Genesis v1.7' %}
-|Major subassemblies           |{% include cad.html type='assembly' name='Tracks' %}<br>{% include cad.html type='assembly' name='Gantry' %}<br>{% include cad.html type='assembly' name='Cross-Slide' %}<br>{% include cad.html type='assembly' name='Z-Axis' %}<br>{% include cad.html type='assembly' name='UTM' %}<br>{% include cad.html type='assembly' name='Electronics Box' %}
-|Tools                         |{% include cad.html type='assembly' name='Seeder' %}<br>{% include cad.html type='assembly' name='Watering Nozzle' %}<br>{% include cad.html type='assembly' name='Rotary Tool' %}<br>{% include cad.html type='assembly' name='Weeder' %}<br>{% include cad.html type='assembly' name='Soil Sensor' %}<br>{% include cad.html type='part' name='Seed Bin' %}<br>{% include cad.html type='part' name='Seed Tray' %}<br>{% include cad.html type='assembly' name='Seed Trough' %}<br>{% include cad.html type='assembly' name='Toolbays' %}
-|Farmduino                     |<a href="https://drive.google.com/drive/folders/1mUYvzC2uOgCfWoyfXvQitavsMF2ly5H-?usp=sharing">PCB layout and schematic</a>
+{%
+include callout.html
+type="success"
+content="[Click here](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/460407715c4d7785c8d45098) to access the various assemblies and other resources."
+%}
+
+![FarmBot CAD in Onshape](_images/farmbot_cad.png)
+
+{%
+include callout.html
+type="info"
+content="For more information about Onshape and our decision to use it, read [this blog post](https://farm.bot/blogs/news/farmbot-meet-onshape)."
+%}
 
 # Copying and modifying parts
 
@@ -27,7 +34,3 @@ To export a part into another format (such as `.STL` for 3D printing), simply ri
 The FarmBot CAD models are licensed under the [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 In short, this means you are free to use the FarmBot CAD models, 2D drawings, and other supporting documents as you please, without attribution or needing to request permission. This includes viewing, copying, modifying, and redistributing the files for any purpose, even commercial purposes. These files come with no warranty, express or implied.
-
-# Why Onshape?
-
-For more information about Onshape and our decision to use it, read [this blog post](https://farm.bot/blogs/news/farmbot-meet-onshape).
