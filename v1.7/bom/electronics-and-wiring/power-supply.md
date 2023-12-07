@@ -2,7 +2,7 @@
 title: "Power Supply"
 slug: "power-supply"
 description: "This universal input IP67 waterproof power supply provides FarmBot with all the electricity it needs."
-cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/905d0658c32232ed5b826612?configuration=List_7440sy1XVCUzha%3DDefault&renderMode=0&uiState=6255db9146b4a5023f0ae958
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/8ebc8fe31214d68e6fd4de03
 price: $60.00
 quantity:
   standard: 1

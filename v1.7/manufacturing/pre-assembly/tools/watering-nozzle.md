@@ -2,7 +2,7 @@
 title: "Watering Nozzle"
 slug: "watering-nozzle"
 description: "Pre-assembly and packing instructions for the watering nozzle"
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/b5e323b6ae6cf9b43cd65f69/e/3f379dda94032bbfb6429694
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/8d4ae18bdb84419bb760fb4e
 ---
 
 <iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/watering_nozzle_pre_assembly_rev_a.pdf" frameborder="0"></iframe>

@@ -8,7 +8,7 @@ FarmBot Genesis was designed in **[Onshape](https://onshape.com)**, allowing you
 {%
 include callout.html
 type="success"
-content="[Click here](https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/460407715c4d7785c8d45098) to access the various assemblies and other resources."
+content="[Click here](https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/460407715c4d7785c8d45098) to access the various assemblies and other resources."
 %}
 
 ![FarmBot CAD in Onshape](_images/farmbot_cad.png)

@@ -2,7 +2,7 @@
 title: "Rotary Tool M5 Shaft Adapter"
 slug: "rotary-tool-m5-shaft-adapter"
 description: "This component adapts the Rotary Tool Motor Shaft to an M5 threaded shaft with a keyed boss for attaching various implements."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/bbca4b87cc7553f8834ae22c?renderMode=0&uiState=625506e41ad350015b485f65
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/64912e7d72e49cfdf972d70a
 price: $5.00
 quantity:
   standard: 1

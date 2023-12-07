@@ -4,7 +4,7 @@ slug: "eccentric-spacer-adjustment"
 description: "A reference guide for adjusting the spacing between FarmBot's V-wheels"
 ---
 
-Eccentric spacers are used for making fine adjustments to the spacing between the v-wheels on either side of an aluminum extrusion. Adjusting this spacing is key to achieving smooth and wobble-free movement of the gantry across the tracks, the cross-slide across the gantry main beam, and the z-axis up and down the cross-slide.
+[[Eccentric spacers]] are used for making fine adjustments to the spacing between the [[v-wheels]] on either side of an aluminum extrusion. Adjusting this spacing is key to achieving smooth and wobble-free movement of the gantry across the tracks, the cross-slide across the gantry main beam, and the z-axis up and down the cross-slide.
 
 If the spacing between v-wheels is too little, then the extrusions will not fit between the v-wheels at all or be tough to move. If the spacing is too great, then the connection will be wobbly and loose. Let's adjust the eccentric spacers throughout FarmBot to be just right.
 
@@ -16,21 +16,21 @@ First, see if the extrusion will easily slide in between the v-wheels. It will v
 include callout.html
 type="danger"
 title="Don't use force"
-content="If the wheel spacing is too small, do not force it on. Excessive force can cause a screw or plate to bend, introduce significant friction to the system, cause a wheel to deform, or induce other damage."
+content="If the wheel spacing is too small, **do not force it on**. Excessive force can bend a screw or plate, deform or break a wheel, or cause other damage."
 %}
 
 ![gantry wheel plate fit test](_images/gantry_wheel_plate_fit_test.png)
 
-# Adjusting the eccentric spacers
+# Adjust the eccentric spacers
 
-1. Separate the extrusion and the wheel/plate assembly
-2. Using an **8mm wrench**, turn the **eccentric spacer** that needs adjusting about 1/32 of a turn. Depending on the direction you turn the spacer, and the current orientation of the spacer, the spacing will either increase or decrease. Your goal is to adjust the spacer in the direction you need. Make the spacing smaller if the connection was loose. Make the spacing larger if the extrusion did not fit between the v-wheels or if there was a lot of friction. The notch in the side of the eccentric spacer indicates the shortest distance, so moving the notch towards the other wheels will decrease the spacing.
-3. Once you have adjusted the spacer 1/32 of a turn, do another fit test.
-4. Continue the steps above for all eccentric spacers until your connections are smooth and wobble free.
+1. Separate the extrusion and the wheel/plate assembly.
+2. Using the 8mm end of the [[5.5mm and 8mm combo wrench]], rotate the [[eccentric spacer]] that needs adjusting about 1/16 of a turn. Depending on the direction you turn the spacer, and the current orientation of the spacer, the spacing will either increase or decrease. Your goal is to adjust the spacer in the direction you need. Make the spacing smaller if the connection was loose. Make the spacing larger if the extrusion did not fit between the v-wheels or if there was a lot of friction. The side of the eccentric spacer with the `6mm` engraving indicates the shortest distance, so moving the text towards the other wheels will decrease the spacing.
+3. Do another fit test.
+4. Repeat the steps above for all eccentric spacers until the connections are smooth and wobble free.
 
 ## Gantry wheel plates
 
-These eccentric spacers on the gantry wheel plates affect the fit of the gantry wheel plates on the tracks. To set the spacers to the loosest setting, position the `6mm` engraving on the spacers facing away from the track extrusions (down).
+These eccentric spacers on the [[gantry wheel plates]] affect the fit of the gantry on the [[track extrusions]]. To set the spacers to the loosest setting, position the `6mm` engraving on the spacers facing away from the track extrusions (down).
 
 {% include gallery.html images="
 ![gantry wheel plate eccentric spacers loosest](_images/gantry_wheel_plate_eccentric_spacers_loosest.png)
@@ -59,9 +59,9 @@ These eccentric spacers on the cross-slide affect the fit of the z-axis in the c
 include callout.html
 type="info"
 title="Need just a little more space?"
-content="If the fit of the wheels on the extrusion is still too tight after adjusting all of the eccentric spacers to their loosest setting (`6mm` engraving facing away from the extrusion), you can increase the distance between the two sets of wheels slightly more by adjusting the wheels with standard spacers as well.
+content="If the fit of the wheels on the extrusion is still too tight after adjusting all of the [[eccentric spacers]] to their loosest setting (`6mm` engraving facing away from the extrusion), you can increase the distance between the two sets of wheels slightly more by adjusting the wheels with [[standard spacers]] as well.
 
-Loosen the screws attaching the wheels with standard spacers (non-eccentric) until the wheel assemblies can be moved around in the holes in the plate. Gently nudge the wheel assemblies in the holes so that they are farthest from the extrusion and re-tighten the screws."
+Loosen the screws attaching the wheels with [[standard spacers]] (non-eccentric) until the wheel assemblies can be moved around in the holes in the plate. Gently nudge the wheel assemblies in the holes so that they are farthest from the extrusion and re-tighten the screws."
 %}
 
 {%

@@ -2,7 +2,7 @@
 title: "Vacuum Pump"
 slug: "vacuum-pump"
 description: "This 24V vacuum pump sucks air through the seeder's luer lock needle in order to suction-hold a seed on the needle tip during planting. It features a PCB direct-soldered onto the back of the motor to provide EMI filtering and smooth startup current draw."
-cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/15121dfafb4b65c557b50593?renderMode=0&uiState=6255dd9846b4a5023f0aee7e
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/15121dfafb4b65c557b50593
 price: $40.00
 quantity:
   standard: 1

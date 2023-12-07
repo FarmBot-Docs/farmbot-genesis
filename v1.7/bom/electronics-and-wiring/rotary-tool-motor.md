@@ -2,7 +2,7 @@
 title: "Rotary Tool Motor"
 slug: "rotary-tool-motor"
 description: "The muscle of the rotary tool is this 24V DC motor."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/bbca4b87cc7553f8834ae22c?renderMode=0&uiState=625506e41ad350015b485f65
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/0973f1586e37e6962d81303f
 price: $15.00
 quantity:
   standard: 1

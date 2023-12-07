@@ -2,7 +2,7 @@
 title: "Seed Trough Holder Mount"
 slug: "seed-trough-holder-mount"
 description: "This component allows for the seed trough holder to be mounted offset from the gantry column so that the seeder may reach the troughs."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/d288bd5039fad6a4ab78f7f6?renderMode=0&uiState=6254fad91ad350015b485e00
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/e5bf5804e37638de62e2b287
 price: $5.00
 quantity:
   standard: 1

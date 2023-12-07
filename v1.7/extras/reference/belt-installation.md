@@ -8,7 +8,7 @@ description: "Secure the ends of your belts"
 
 Slide a [[belt sleeve]] onto the [[belt]].
 
-![belt sleeve on bel](_images/belt_sleeve_on_bel.png)
+![belt sleeve on belt](_images/belt_sleeve_on_belt.png)
 
 # Step 2: Route the belt through the clip
 
