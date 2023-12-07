@@ -2,7 +2,7 @@
 title: "Right Gantry Corner Bracket"
 slug: "gantry-corner-bracket-right"
 description: "Tech specs for the right gantry corner bracket."
-cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/v/ab8f542d5dc933352c705ff8/e/03fb82b93fa43784032056d6
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/v/fcac47a2f3efc3322f9ac0fa/e/03fb82b93fa43784032056d6
 price: $15.00
 quantity:
   standard: 1

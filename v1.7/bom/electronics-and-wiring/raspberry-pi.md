@@ -2,7 +2,7 @@
 title: "Raspberry Pi"
 slug: "raspberry-pi"
 description: "This is the host computer of FarmBot. You might also call it FarmBot's brain. The Raspberry Pi runs FarmBot OS, communicates with the web application over ethernet or WiFi, and talks to the Farmduino over a USB serial connection."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/81fec13347409043810a6020?renderMode=0&uiState=6255dbe0582c8d091a1f72a3
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/661f37ce8520518d51f10769
 price: $50.00
 quantity:
   standard: 1

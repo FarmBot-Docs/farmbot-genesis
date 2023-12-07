@@ -13,13 +13,6 @@ title="Announcing: FarmBot Genesis v1.7 documentation!"
 content="As of November 22, 2023, the default version of the Genesis documentation is for v1.7. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
 %}
 
-{%
-include callout.html
-type="warning"
-title="Still in beta"
-content="The v1.7 docs are still in **beta** and being actively worked on. That means there are missing resources and information that has not yet been updated from v1.6. The v1.7 stable release will be deployed before v1.7 devices begin shipping later this year. Thank you for your patience!"
-%}
-
 **FarmBot Genesis** is our top-of-the-line FarmBot model designed with the most features and flexibility. It is suitable for growing food with the highest level of precision, running complex experiments, and capable of being easily modified and extended to do more.
 
 Genesis is available in two sizes: **Genesis** and **Genesis** (XL) as shown in the table below.

@@ -2,7 +2,7 @@
 title: "Y Vacuum Pump Cable"
 slug: "vacuum-pump-cable-y"
 description: "This cable is the Y-axis portion of a 2-part cable that connects the vacuum pump to the Farmduino."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3d148d0ea29c59a3d910e93f?renderMode=0&uiState=6255dd87582c8d091a1f75ba
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/9896b6d47b99739be46e10e3
 variants: 2.6m|4.1m
 price: $15.00|$20.00
 quantity:

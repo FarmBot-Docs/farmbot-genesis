@@ -2,7 +2,7 @@
 title: "Seed Tray"
 slug: "seed-tray"
 description: "The seed tray features 16 small wells allowing you to load 16 precise quantities/types of seeds into your FarmBot."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/ba2cf5c1c9299c7597d773d1?renderMode=0&uiState=625507b51ad350015b485f70
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/ab33d2fb95b24deb0a05c5b0
 price: $7.00
 quantity:
   standard: 1

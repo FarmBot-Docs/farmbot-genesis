@@ -10,8 +10,10 @@ bom:
     parts:
       - image: allen_key_2mm.jpg
       - image: bit_t25.jpeg
+      - image: bit_t10.png
       - image: hex_driver_3mm.jpg
       - image: eccentric_spacer.jpg
+      - image: flathead_wood_screw_t10.png
       - image: m2_5_screw_4mm.jpg
       - image: m2_5_screw_6mm.jpg
       - image: m3_flat_head_screw_16mm.jpg
@@ -28,6 +30,7 @@ bom:
       - image: m5_setscrew_4mm.jpeg
       - image: magnet_countersunk.jpg
       - image: magnet_standard.jpg
+      - image: nut_bar_10mm.png
       - image: nut_bar_100mm.jpg
       - image: nut_bar_140mm.jpg
       - image: nut_bar_20mm.jpeg

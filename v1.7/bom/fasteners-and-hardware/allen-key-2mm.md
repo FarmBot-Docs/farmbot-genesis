@@ -2,7 +2,7 @@
 title: "2mm Allen Key"
 slug: "allen-key-2mm"
 description: "Tech specs for the 2mm allen key tool included with FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
-cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/18e761572bb1b5327e3e7374?configuration=List_1YbCkEGuphXQdz%3DDefault&renderMode=0&uiState=6255dde646b4a5023f0af00d
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/26bc18679806f7ff02757bb0
 price: $1.00
 quantity:
   standard: 1

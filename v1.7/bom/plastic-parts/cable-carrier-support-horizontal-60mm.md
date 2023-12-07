@@ -2,7 +2,7 @@
 title: "60mm Horizontal Cable Carrier Support"
 slug: "cable-carrier-support-horizontal-60mm"
 description: "These parts are used to mount and support the cable carriers. The gusset also functions as an area for cables, tubes, and the LED light strip to be routed through."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3576465d04194d337ac5e8be?renderMode=0&uiState=625db78bd22e17513bda000d
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/7eb31fb11a0f6091a5282d92
 price: $3.00
 quantity:
   standard: 6

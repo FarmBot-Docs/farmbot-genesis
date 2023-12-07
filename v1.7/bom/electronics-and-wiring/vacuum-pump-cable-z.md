@@ -2,7 +2,7 @@
 title: "Z Vacuum Pump Cable"
 slug: "vacuum-pump-cable-z"
 description: "This cable is the Z-axis portion of a 2-part cable that connects the vacuum pump to the Farmduino."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/3d148d0ea29c59a3d910e93f?renderMode=0&uiState=6255dd87582c8d091a1f75ba
+cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/7c3ca30126322235826764ac
 price: $12.00
 quantity:
   standard: 1

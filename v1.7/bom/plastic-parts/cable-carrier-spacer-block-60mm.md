@@ -2,7 +2,7 @@
 title: "Cable Carrier Spacer Block"
 slug: "cable-carrier-spacer-block-60mm"
 description: "This component offsets the z-axis cable carrier from the cross-slide plate."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/f74bae803734d8f8012c14f2?renderMode=0&uiState=625506691ad350015b485f55
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/2abb767152f872daa307b7fe
 price: $3.00
 quantity:
   standard: 1
