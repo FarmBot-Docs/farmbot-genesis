@@ -17,7 +17,7 @@ content="The following recommendations should be followed to ensure your tool wo
 
 # Hardware
 
-Design your tools to meet these hardware specifications to ensure compatibility with FarmBot. Additionally you will need to design your tool so that it can be produced with the equipment, processes, and materials availabe to you, as well as stand up to the outdoor environment and other expected stresses.
+Design your tools to meet these hardware specifications to ensure compatibility with FarmBot. Additionally you will need to design your tool so that it can be produced with the equipment, processes, and materials available to you, as well as stand up to the outdoor environment and other expected stresses.
 
 |                      |                  |
 |----------------------|------------------|

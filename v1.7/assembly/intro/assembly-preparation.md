@@ -19,7 +19,7 @@ title="90% pre-assembled in the box"
 content="Starting with FarmBot Genesis v1.7, the kit now comes 90% pre-assembled in the box, saving you significant time and effort."
 %}
 
-When you first open up your FarmBot kit, pull out all of the pre-assemblies, individual components, and part bags so that you develop a full idea of what's included. Place everything on a table or worksurface that will prevent the loss of any small parts. Ensure there are no parts remaining in the packaging before recycling.
+When you first open up your FarmBot kit, pull out all of the pre-assemblies, individual components, and part bags so that you develop a full idea of what's included. Place everything on a table or work surface that will prevent the loss of any small parts. Ensure there are no parts remaining in the packaging before recycling.
 
 {%
 include callout.html

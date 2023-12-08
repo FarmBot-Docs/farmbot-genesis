@@ -83,7 +83,7 @@ content="Note that this sensor should not be exposed to rain as it is not consid
 
 
 
-# Other temperature + humidty sensors
+# Other temperature + humidity sensors
 
 [AM2302 (wired DHT22) temperature-humidity sensor](https://www.adafruit.com/products/393) from Adafruit
 

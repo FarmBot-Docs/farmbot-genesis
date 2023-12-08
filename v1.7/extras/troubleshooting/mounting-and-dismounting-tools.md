@@ -34,6 +34,6 @@ It is possible for dust, soil, and other metallic debris to magnetically attract
 
 # 5. Install a permanent watering nozzle
 
-Because watering is the most common activity, mounting and dismounting issues can been solved for watering procedures by adding a **permanently mounted watering nozzle**. The solution shown below, contributed by FarmBot community member ClosedCircuit, can be [downloaded from Thingverse](https://www.thingiverse.com/thing:4534979) and 3D printed.
+Because watering is the most common activity, mounting and dismounting issues can been solved for watering procedures by adding a **permanently mounted watering nozzle**. The solution shown below, contributed by FarmBot community member ClosedCircuit, can be [downloaded from Thingiverse](https://www.thingiverse.com/thing:4534979) and 3D printed.
 
 ![permanent watering nozzle](_images/permanent_watering_nozzle.jpeg)

@@ -59,7 +59,7 @@ The WormHaus is a compact vermicomposting system offering a sustainable way to c
 
 The WormHaus can convert an amazing 3kg / 7lbs of food waste per week, making it perfect for small families and much more efficient than standard hot or cold composting systems. The kit comes with five stackable levels, allowing the system to expand and contract depending on how much waste is being created.
 
-Learn more and purchase a WormHause [here](http://akerkits.com).
+Learn more and purchase a WormHaus [here](http://akerkits.com).
 
 ![wormhaus vermicomposting system](_images/wormhaus_vermicomposting_system.jpg)
 

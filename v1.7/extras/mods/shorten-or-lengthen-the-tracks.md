@@ -27,4 +27,4 @@ Extending beyond 6m may introduce additional challenges such as:
 * Voltage drop in the power supply cable.
 * Pressure drop in the water supply tubing.
 * Increased cable carrier weight and drag that can cause stalls.
-* Thermal expansion and contraction of the tracks that can cuase gaps between extrusions.
+* Thermal expansion and contraction of the tracks that can cause gaps between extrusions.

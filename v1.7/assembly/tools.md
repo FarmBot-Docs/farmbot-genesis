@@ -33,7 +33,7 @@ content="Refer to the [tool verification troubleshooting guide](../extras/troubl
 
 # Seeder
 
-The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **luer lock needle**. Different sized needles can be used for different sized seeds to improve performance and realibility of seeding.
+The **seeder tool** works by using a [[vacuum pump]] to suction-hold a single seed at the end of a **luer lock needle**. Different sized needles can be used for different sized seeds to improve performance and reliability of seeding.
 
 |Size  |Gauge|Inner Diameter |Good for                 |
 |------|-----|---------------|-------------------------|

@@ -31,9 +31,9 @@ In the next sections we offer reference designs for building four types of suppo
 
 # Maximum size
 
-We recommend building your suporting infrastructure as large as possible to get the most value out of your FarmBot. See the [economies of scale](intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
+We recommend building your supporting infrastructure as large as possible to get the most value out of your FarmBot. See the [economies of scale](intro/high-level-overview.md#economies-of-scale) section for more information on maximizing FarmBot value.
 
-If you are going to modify on of our reference designs, or build supporting infrastrucutre of your own design, use the dimension guidelines below to ensure compatibility with your FarmBot.
+If you are going to modify on of our reference designs, or build supporting infrastructure of your own design, use the dimension guidelines below to ensure compatibility with your FarmBot.
 
 |FarmBot      |Outer Infrastructure Width|Outer Infrastructure Length|
 |-------------|--------------------------|---------------------------|

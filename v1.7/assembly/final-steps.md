@@ -39,7 +39,7 @@ We also have accounts on [Instagram](http://instagram.farm.bot/), [YouTube](http
 
 Your FarmBot kit included a few extra pieces of some small parts such as screws and nuts just in case we miscounted by a few or you lost anything in the grass during assembly.
 
-We recommend keeping everything that is left over in a box along with the getting started guide, camera calibration card, the microSD card adpater, and all of the assembly tools.
+We recommend keeping everything that is left over in a box along with the getting started guide, camera calibration card, the microSD card adapter, and all of the assembly tools.
 
 ![post-assembly spare parts](_images/extra_parts.png)
 
