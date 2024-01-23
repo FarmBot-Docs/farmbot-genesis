@@ -58,7 +58,20 @@ content="If you find during testing that there is air blowing out of the seeder 
 
 # Step 3: Wire up the vacuum pump
 
-Connect the [[z vacuum pump cable]] to the [[vacuum pump]] terminals according to the images below.
+Connect the [[z vacuum pump cable]] to the [[vacuum pump]] terminals according to the instructions below.
+
+{%
+include callout.html
+type="info"
+title="Your cable may be one of two designs"
+content='FarmBots shipped prior to January 2023 will have a vacuum pump cable with three 3/16" insulated quick-connect terminals (detailed below). FarmBots shipped January 2023 and later will have a single black connector that can only be installed in one orientation.'
+%}
+
+If you have the newer style cable with a single black connector, simply plug this into the vacuum pump. It will only fit in one orientation.
+
+![Wire up the vacuum pump (single connector)](_images/wire_up_vacuum_pump_detail_new.png)
+
+If you have the older style cable with three quick-connect terminals, connect them to the vacuum pump as follows:
 
 * Connect the **clear/silver wire** to the _terminal on the left_ labelled `PE`.
 * Connect the **white wire** to the _middle terminal_ labelled `24V`.

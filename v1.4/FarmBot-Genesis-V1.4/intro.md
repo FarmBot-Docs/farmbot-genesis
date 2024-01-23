@@ -45,7 +45,7 @@ All of the native 3D CAD models and 2D drawings are freely available in Onshape.
 Please always use the latest version of FarmBot OS, available at [os.farm.bot](http://os.farm.bot).
 
 ## Get involved
-Interested in helping develop FarmBot? Share your ideas on the [FarmBot forum](http://forum.farmbot.org), make suggestions to these docs, or contact us at suggestions@farm.bot.
+Interested in helping develop FarmBot? Share your ideas on the [FarmBot forum](http://forum.farmbot.org), make suggestions to these docs, or contact us at contact@farm.bot.
 
 # License
 Please see our [licensing page](https://meta.farm.bot/docs/licensing) to understand how our various works (hardware, software, documentation, etc) are licensed.

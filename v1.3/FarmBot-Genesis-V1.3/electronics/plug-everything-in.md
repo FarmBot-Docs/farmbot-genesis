@@ -142,7 +142,7 @@ content="If all has gone well, the Raspberry Pi and Farmduino should boot up and
 include callout.html
 type="info"
 title="Something wrong?"
-content="See smoke? Heard a loud *pop*? If anything seems suspicious or hazardous, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
+content="See smoke? Heard a loud *pop*? If anything seems suspicious or hazardous, **immediately unplug the power supply from the wall** and contact us at [contact@farm.bot](mailto:contact@farm.bot)."
 %}
 
 

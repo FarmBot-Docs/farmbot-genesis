@@ -15,7 +15,7 @@ content="Adhering to the recommended safety precautions can help prevent acciden
 
 # Hazards
 
-Not all hazards may apply to your specific FarmBot model or configuration, and other risks may exist that are not listed. If you have any questions or concerns about product safety, please [contact us](mailto:support@farm.bot).
+Not all hazards may apply to your specific FarmBot model or configuration, and other risks may exist that are not listed. If you have any questions or concerns about product safety, please [contact us](mailto:contact@farm.bot).
 
 |Hazard|Description|Precautions|
 |------|-----------|-----------|
