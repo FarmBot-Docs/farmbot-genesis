@@ -39,3 +39,11 @@ content="In case you are reading this document and also have issues with movemen
 # 4. Adjust the stepper driver to deliver more power
 
 For Genesis v1.5+ kits, increase the z-axis **[MOTOR CURRENT](https://my.farm.bot/app/designer/settings?highlight=motor_current)** by 100 or 200 milliamps. For v1.4 kits and below, you can adjust the **z-axis stepper driver** to deliver more power to the **z-axis motor** using the instructions at the bottom of [this post](https://forum.farmbot.org/t/why-is-my-farmbot-not-moving/2093).
+
+# 5. Check the shaft coupler for slipping
+
+The aluminum [[shaft coupler]] connects the Z-axis [[motor]] to the [[leadscrew]] to allow FarmBot to move in the Z direction up and down depending on the rotation of the motor.
+
+Check to make sure that the shaft coupler is not slipping as it transfers rotational power from the motor to the leadscrew. If there is slipping, tighten the screws on the coupler. You may optionally use blue Loctite to prevent the screws from loosening over time.
+
+![shaft coupler screws](_images/shaft_coupler_screws.png)
