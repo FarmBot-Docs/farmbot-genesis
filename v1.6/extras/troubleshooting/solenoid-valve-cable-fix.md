@@ -69,4 +69,4 @@ Repeat for the second wire and terminal. You're now finished!
 
 # Messed up?
 
-If you messed up any of this procedure, please get in touch with us at [support@farm.bot](mailto:support@farm.bot) with your original order number and we will send you a free replacement cable.
+If you messed up any of this procedure, please get in touch with us at [contact@farm.bot](mailto:contact@farm.bot) with your original order number and we will send you a free replacement cable.

@@ -9,7 +9,7 @@ Having issues with your FarmBot's hardware? Try looking through our troubleshoot
 include callout.html
 type="success"
 title="We're here to help"
-content="Still having issues? Please email support@farm.bot or consider posting in the [community forum](https://forum.farmbot.org)."
+content="Still having issues? Please email contact@farm.bot or consider posting in the [community forum](https://forum.farmbot.org)."
 %}
 
 

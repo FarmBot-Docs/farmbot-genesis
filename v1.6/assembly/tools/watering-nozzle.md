@@ -56,7 +56,7 @@ content="Regretfully, some kits that shipped in August of 2022 included a soleno
 
 ![quick connect terminals](_images/quick_connect_terminals.jpg)
 
-If you are not comfortable modifying the cable yourself or do not have correct tools to do so, please email us at [support@farm.bot](mailto:support@farm.bot) with your original order number to request a free replacement. We apologize for this inconvenience."
+If you are not comfortable modifying the cable yourself or do not have correct tools to do so, please email us at [contact@farm.bot](mailto:contact@farm.bot) with your original order number to request a free replacement. We apologize for this inconvenience."
 %}
 
 # Step 4: Connect the tubing

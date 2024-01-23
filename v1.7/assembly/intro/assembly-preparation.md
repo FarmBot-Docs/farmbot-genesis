@@ -31,7 +31,7 @@ content="The aluminum extrusions may have sharp corners and edges."
 {%
 include callout.html
 type="life-ring"
-content="If anything is missing or damaged, let us know right away at [support@farm.bot](mailto:support@farm.bot) to request replacement parts."
+content="If anything is missing or damaged, let us know right away at [contact@farm.bot](mailto:contact@farm.bot) to request replacement parts."
 %}
 
 # Plan accordingly

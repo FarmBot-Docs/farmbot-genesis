@@ -160,7 +160,7 @@ content="If all has gone well, the Raspberry Pi and Farmduino should boot up and
 {%
 include callout.html
 type="warning"
-content="If anything seems wrong, **immediately unplug the power supply from the wall** and contact us at [support@farm.bot](mailto:support@farm.bot)."
+content="If anything seems wrong, **immediately unplug the power supply from the wall** and contact us at [contact@farm.bot](mailto:contact@farm.bot)."
 %}
 
 # What's next?
