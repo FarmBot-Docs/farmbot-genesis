@@ -53,6 +53,12 @@ type="info"
 content="The time estimates above assume you have already prepared [supporting infrastructure](../supporting-infrastructure.md) for your FarmBot, such as a raised bed."
 %}
 
+# Open up the full assembly video
+
+We've prepared [a full assembly video](https://www.youtube.com/watch?v=jtPPEkz4fn4) that walks you through the entire process of assembling your FarmBot. We recommend keeping the video open in one tab and following along with the written instructions in another tab.
+
+{% include youtube.html id="jtPPEkz4fn4" %}
+
 
 # What's next?
 
