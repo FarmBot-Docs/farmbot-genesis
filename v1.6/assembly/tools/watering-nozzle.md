@@ -19,13 +19,20 @@ content="As of the v1.6 hardware release, the watering nozzle tool comes [pre-as
 
 # Step 1: Assemble the solenoid valve and pressure regulator
 
-Insert [[rubber gaskets]] into the female ends of the [[pressure regulator]], the [[garden hose to barb adapter]], and both [[NPT to barb adapters]]. Then screw one of the [[NPT to barb adapters]] onto the [[solenoid valve]] inlet, the [[pressure regulator]] onto the [[solenoid valve]] outlet, and the second [[NPT to barb adapter]] onto the [[pressure regulator]].
+Insert [[rubber gaskets]] into the female ends of the [[pressure regulator]], the [[garden hose to barb adapter]], and both [[NPT to barb adapters]]. Then screw one of the [[NPT to barb adapters]] onto the [[solenoid valve]] inlet, the [[pressure regulator]] onto the [[solenoid valve]] outlet, and the second [[NPT to barb adapter]] onto the [[pressure regulator]]. The inlet and outlet are denoted by the arrow on the solenoid valve.
 
 {%
 include callout.html
 type="info"
 title=""
 content="Note that the [[garden hose to barb adapter]] and [[NPT to barb adapters]] look very similar. If the threads don't engage correctly, you may have grabbed the wrong adapter."
+%}
+
+{%
+include callout.html
+type="info"
+title="Solenoid valve electrical terminals may vary"
+content="Depending on the prodution run of your FarmBot kit, your solenoid valve's electrical terminals may be pointed in the same direction or the opposite direction as the arrow indicating the direction of water flow. When performing the following assembly steps, the water flow arrow should point towards the [[pressure regulator]], and then up towards the sky once mounted on the gantry column. The direction of the electrical terminals does not matter and will vary from kit to kit."
 %}
 
 {% include gallery.html images="
