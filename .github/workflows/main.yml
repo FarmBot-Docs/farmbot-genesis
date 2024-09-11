@@ -6,17 +6,17 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           path: farmbot-genesis
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           repository: FarmBot-Docs/utilities
           path: utilities
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
       - run: python -m pip install -r utilities/requirements.txt
       - run: python utilities/run_all_checks.py
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v4
         with:
           name: results
           path: utilities/results/*
