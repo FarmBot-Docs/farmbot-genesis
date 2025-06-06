@@ -6,7 +6,7 @@ remote_theme: FarmBot-Docs/farmbot-theme@main
 baseurl: /
 color: '#783f04'
 oldest_stable_version: 1.2
-latest_version_number: 1.7
+latest_version_number: 1.8
 version_factor: 10.0
 plugins:
   - jemoji
@@ -51,3 +51,4 @@ algolia:
     - v1.4/**/*
     - v1.5/**/*
     - v1.6/**/*
+    - v1.7/**/*
