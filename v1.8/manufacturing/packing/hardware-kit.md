@@ -13,14 +13,11 @@ There are two versions of the hardware kit: one for **Genesis** kits and one for
 |Pack of:<br>- 3x [[Pulleys]]<br>- 1x [[Shaft Coupler]]<br>- 1x [[Leadscrew Block]]<br>- 1x [[90-Degree Barb]]<br>- 1x [[Inline Air Filter]]|Press-to-seal bag|1 pack|1 pack
 |Genesis Screw Pack:<br>- 35x [[Wood Screws]]<br>- 16x [[M3 Locknuts]]<br>- 10x [[M3 x 6mm Screws]]<br>- 40x [[M3 x 12mm Screws]]<br>- 70x [[M5 Flange Locknuts]]<br>- 150x [[M5 x 10mm Screws]]<br>- 40x [[M5 x 16mm Screws]]<br>- 40x [[M5 x 30mm Screws]]<br>- 30x [[Standard Spacers]]|Press-to-seal bag|1 pack|-
 |Genesis (XL) Screw Pack:<br>- 60x [[Wood Screws]]<br>- 16x [[M3 Locknuts]]<br>- 10x [[M3 x 6mm Screws]]<br>- 40x [[M3 x 12mm Screws]]<br>- 70x [[M5 Flange Locknuts]]<br>- 225x [[M5 x 10mm Screws]]<br>- 40x [[M5 x 16mm Screws]]<br>- 40x [[M5 x 30mm Screws]]<br>- 30x [[Standard Spacers]]|Press-to-seal bag|-|1 pack
-|[Solenoid Valve](../packing/solenoid-valve.md)|Small box|1|1
-|[Vacuum Pump](../packing/vacuum-pump.md)|Small box|1|1
 |[[Vacuum Tubes]]|None|2
 |[[Belt]] (1.7m)|Coiled|1|-
 |[[Belt]] (3.2m)|Coiled|-|1
 |[[Belt]] (4.5m)|Coiled|2|-
 |[[Belt]] (7.5m)|Coiled|-|2
-|[Pre-Assembled V-Wheels](../pre-assembly/v-wheels.md)|Press-to-seal bag|30|30
 |[[Tee Nuts]]|Press-to-seal bag|20|20
 |[[20mm Nut Bar]]|Press-to-seal bag|6|6
 |[[40mm Nut Bar]]|Press-to-seal bag|28|54
