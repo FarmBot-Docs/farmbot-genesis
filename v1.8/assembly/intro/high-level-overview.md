@@ -97,8 +97,8 @@ The table below shows the cost/m<sup>2</sup> of growing area based on the size o
 
 |Model       |Track Length|Gantry Width|Growing Area     |Cost    |Cost/m<sup>2</sup>|
 |------------|------------|------------|-----------------|--------|------------------|
-|Genesis     |3m          |1.5m        |4.5m<sup>2</sup> |~$2,500 |$555
-|Genesis (XL)|6m          |3m          |18m<sup>2</sup>  |~$4,000 |$222
+|Genesis     |3m          |1.5m        |4.5m<sup>2</sup> |~$3,500 |$777
+|Genesis (XL)|6m          |3m          |18m<sup>2</sup>  |~$4,500 |$250
 
 {%
 include callout.html

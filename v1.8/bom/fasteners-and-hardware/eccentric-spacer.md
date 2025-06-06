@@ -5,8 +5,8 @@ description: "When rotated, eccentric spacers accurately position V-wheels on a 
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/8bc57d93f35e6a3304297c1c?renderMode=0&uiState=6255c56346b4a5023f0a817f
 price: $2.00
 quantity:
-  standard: 15
-  xl: 15
+  standard: 9
+  xl: 9
 specs:
   material: Stainless Steel
   height: 6mm (not including rim)

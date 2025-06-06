@@ -5,8 +5,8 @@ description: "These M5 setscrews are used with nut bars to attach track extrusio
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/v/ab8f542d5dc933352c705ff8/e/5b0faf91f9ce6546a68544a8
 price: $0.15
 quantity:
-  standard: 4
-  xl: 12
+  standard: 25
+  xl: 55
 specs:
   threads: M5 x 0.8mm
   length: 4mm

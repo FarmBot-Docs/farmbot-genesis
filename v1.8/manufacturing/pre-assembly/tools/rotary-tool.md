@@ -2,7 +2,7 @@
 title: "Rotary Tool"
 slug: "rotary-tool"
 description: "Pre-assembly and packing instructions for the rotary tool"
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/497d45b77b41b070b9087831
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/497d45b77b41b070b9087831
 ---
 
 <iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/rotary_tool_pre_assembly_rev_b.pdf" frameborder="0"></iframe>

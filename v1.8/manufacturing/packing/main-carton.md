@@ -10,41 +10,37 @@ The tables below show the items that should be packed into the **main carton** f
 
 |Item|Sub-packing|Qty|
 |----|-----------|---|
+|[[Track Extrusion]] - 1000mm|Wrapped with recycled kraft paper|6|
+|[[Gantry Main Beam]] - 750mm|Wrapped with recycled kraft paper|2|
 |[Hardware Kit](hardware-kit.md)|None|1
-|[Power Supply Box](power-supply.md)|None|1
-|X-Axis [[Cable Carrier]]<br>(15 x 30 x 1700mm)|None (no plastic bag)|1
-|Y-Axis [[Cable Carrier]]<br>(15 x 50 x 1700mm)|None (no plastic bag)|1
-|Z-Axis [[Cable Carrier]]<br>(15 x 50 x 740mm)|None (no plastic bag)|1
-|[Pre-Assembled Electronics Box](../pre-assembly/electronics-box.md)|Thick paper wrapping (no plastic bag or foam)|1
-|[[Water Tubes]]<br>- X-Axis - 3.0m<br>- Y-Axis - 2.1m<br>- Z-Axis - 0.95m|Twist-tied|1 each
+|X-Axis [[Cable Carrier]]<br>(15 x 30 x 1600mm)|None (no plastic bag)|1
+|Y-Axis [[Cable Carrier]]<br>(15 x 30 x 1700mm)|None (no plastic bag)|1
 
 # Genesis XL packing list
 
 |Item|Sub-packing|Qty|
 |----|-----------|---|
+|[[Track Extrusion]] - 1000mm|Wrapped with recycled kraft paper|12|
+|[[Gantry Main Beam]] - 1000mm|Wrapped with recycled kraft paper|3|
 |(XL) [Hardware Kit](hardware-kit.md)|None|1
-|[Power Supply Box](power-supply.md)|None|1
-|X-Axis [[Cable Carrier]]<br>(15 x 30 x 3200mm)|None (no plastic bag)|1
-|Y-Axis [[Cable Carrier]]<br>(15 x 50 x 3200mm)|None (no plastic bag)|1
-|Z-Axis [[Cable Carrier]]<br>(15 x 50 x 740mm)|None (no plastic bag)|1
-|[Pre-Assembled Electronics Box](../pre-assembly/electronics-box.md)|Thick paper wrapping (no plastic bag or foam)|1
-|[[Water Tubes]]<br>- X-Axis - 4.5m<br>- Y-Axis - 3.6m<br>- Z-Axis - 0.95m|Twist-tied|1 each
+|X-Axis [[Cable Carrier]]<br>(15 x 30 x 3100mm)|None (no plastic bag)|1
+|Y-Axis [[Cable Carrier]]<br>(15 x 30 x 3200mm)|None (no plastic bag)|1
 
-# Edge protectors and straps
+# Straps
 
-Add four cardboard **edge protectors** on the four longest edges of the main carton. Then add three pairs of black polystraps.
+Add two pairs of black polystraps.
 
-![main carton edge protectors and straps](_images/main_carton_edge_protectors_and_straps.png)
+![main carton with straps](_images/main_carton_with_straps.png)
 
 # Box specifications
 
 |                                |                              |
 |--------------------------------|------------------------------|
 |**Box style**                   |Standard style box
-|**Inner dimensions (L x W x H)**|Genesis: 780 x 410 x 215mm<br>Genesis XL: 900 x 410 x 215mm
-|**Outer dimensions (L x W x H)**|Genesis: 790 x 420 x 225mm<br>Genesis XL: 910 x 420 x 225mm
+|**Inner dimensions (L x W x H)**|1030 x 380 x 212.5mm
+|**Outer dimensions (L x W x H)**|1040 x 390 x 222.5mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |Genesis: Genesis Main Carton.pdf<br>Genesis XL: Genesis XL Main Carton.pdf
+|**Printing**                    |<a href="https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/7a90fddf83edcfb01fd55db6">Main Carton Box Graphics</a>
 |**Fill**                        |Recycled kraft paper
 

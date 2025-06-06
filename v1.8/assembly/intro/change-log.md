@@ -4,70 +4,94 @@ slug: "change-log"
 description: "All of the changes we made to FarmBot Genesis since the last version"
 ---
 
+# Packaging
 
-# Pre-assembly
+FarmBot Genesis and Genesis (XL) v1.8 are now packaged and shipped in a single box. This consolidation, along with other weight saving changes made throughout the kit, has significantly reduced the amount of single-use materials needed to package the product, reduced overall kit volume, and lowered total shipping weight by approximately 20% compared to v1.7 kits.
 
-FarmBot Genesis and Genesis (XL) v1.7 now come 90% pre-assembled in the box, significantly reducing the setup time required by the end user to just 3 hours for a Genesis kit and 4 hours for a Genesis (XL) kit. Major pre-assemblies include: the left gantry column with solenoid valve and electronics box, the right gantry column, the cross-slide and z-axis with UTM, all of the tools, and X and Y cable carriers with pre-loaded cables and tubing.
-
-![pre-assembly](_images/pre_assembly.png)
+![packaging](_images/packaging.png)
 
 # Track extrusions
 
-New in this version of FarmBot Genesis are completely redesigned [[track extrusions]]. These new extrusions are less than half the weight of the previous track extrusions and are designed to mount directly on top of a wood raised bed without the need for track joining or end plates. The new design also removes the need for separate plastic cable carrier supports, instead relying on an integrated wooden cable carrier support attached to the side of the raised bed.
+Building on the success of the simplified track design introduced in v1.7, the v1.8 [[track extrusions]] are now even lighter, more compact, and easier to assemble. Coming in 1m lengths, the new tracks are co-packaged with the rest of the FarmBot kit, further saving cost and shipping weight. Meanwhile, they are now joined together with a nut bar in the _upper_ slot, making it easier to access the setscrews during installation and maintenance.
 
-![track extrusion](_images/track_extrusion.jpeg)
-
-This new track design is much easier and faster to assemble than previous versions of the Genesis tracks due to the significant reduction in part count. The new design also saves significantly on manufacturing cost and shipping weight and volume.
-
-# Gantry wheel plates
-
-Accompanying the new track extrusions are a new version of the [[gantry wheel plates]]. These new plates are significantly lighter than previous versions thanks to a more compact shape and the addition of two large cutouts. The new wheel plates now include holes for only 3 wheels on the top and two wheels on the bottom, allowing FarmBot to more easily move over track joints and debris, while also reducing part count, manufacturing cost, and overall weight.
-
-![gantry wheel plate](_images/gantry_wheel_plate.jpeg)
+![track extrusions](_images/track_extrusions.png)
 
 # Gantry columns
 
-The [[gantry column]] extrusions have been redesigned to save weight, provide a cleaner aesthetic, and make belt installation easier by removing the center two V slots in favor of a single, larger center cavity.
+Also building upon v1.7, the new v1.8 [[gantry column]] profiles are now lighter weight, further improving incremental machine performance and contributing to overall weight savings.
 
-![gantry column](_images/gantry_column.jpeg)
+![gantry column](_images/gantry_column.png)
 
-# Toolbays
+# Gantry main beam
 
-The [[3-slot toolbays]] have been redesigned to save weight while providing slightly improved geometry for UTM access. Both kits now include just two 3-slot toolbays.
+New [[gantry main beams]] are now significantly lighter weight without compromising on strength, while offering a refined aesthetic on the front face. The new beams are also now shorter and more numerous (two 0.75m beams for Genesis and three 1m beams for Genesis (XL)) in order to be co-packaged with the rest of the FarmBot kit.
 
-![toolbay](_images/toolbay.jpeg)
+![gantry main beam](_images/gantry_main_beam.png)
 
-# Cross-slide plate
+# Extruded cable carrier supports
 
-Reduced the number of wheels mounted to the [[cross-slide plate]] and added weight-saving cutouts.
+New extruded [[horizontal cable carrier supports]] and [[vertical cable carrier supports]] are designed to slide into the gantry main beam and z-axis extrusion slots. They are lower cost, easier and faster to assemble, reduce total part count, better support and conceal the cables routed through them, and create a diffused look for the LED strip.
 
-![cross-slide plate](_images/cross-slide_plate.jpeg)
+{% include gallery.html images="
+![horizontal cable carrier supports](_images/horizontal_cable_carrier_supports.png)
+![vertical cable carrier support](_images/vertical_cable_carrier_support.png)
+" %}
 
-# 100 watt power supply
+# Gantry joining bar
 
-Switched to a 100 watt [[power supply]], still providing ample power for all of FarmBot's core capabilities while reducing cost and weight.
+A new [[gantry joining bar]] has been introduced to connect the gantry main beams together while being compatible with the new cable carrier supports. Combined with new [[160mm nut bars]], the main beam assembly retains its needed rigidity and strength.
 
-![power supply](_images/power_supply.jpeg)
+![gantry joining bar](_images/gantry_joining_bar.png)
 
-# X-axis cable carrier
+# Relocated vacuum pump
 
-Switched to a smaller and lighter [[X-axis cable carrier]], further improving movement dynamics along the X-axis. This change also required a new [[30mm cable carrier mount]].
+The [[vacuum pump]] has been relocated to the cross-slide, reducing the weight and size of the Z-axis to improve movements. This change also resulted in the need for a new [[vacuum pump mount]] as well as the elimination of the Z-axis vacuum cable and a revision to the [[Y vacuum pump cable]].
 
-![x-axis cable carrier](_images/cable_carrier_x.jpeg)
+![vacuum pump](_images/vacuum_pump.png)
+
+# Smaller Y and Z cable carriers
+
+The Y and Z [[cable carriers]] are now 20mm narrower (15x30 internal size), incrementally improving movements, costs, and shipping weight. These changes also required a new [[cross-slide plate]], [[vertical motor housing]], [[40mm cable carrier spacer block]], [[60mm cable carrier mount]], and [[40mm vertical cable carrier support]].
+
+![smaller cable carrier](_images/cable_carrier.png)
+
+# Lighter plates and brackets
+
+The [[gantry wheel plates]], [[gantry corner brackets]], [[cross-slide plate]], and [[z-axis motor mount]] have all been optimized to be lighter weight and use smaller 40mm nut bars instead of 60mm nut bars for assembly onto extrusions.
+
+{% include gallery.html images="
+![gantry wheel plate](_images/gantry_wheel_plate.png)
+![gantry corner brackets](_images/gantry_corner_brackets.png)
+![cross-slide plate](_images/cross_slide_plate.png)
+![z-axis motor mount](_images/z_axis_motor_mount.png)
+" %}
+
+# Countersunk UTM magnets
+
+The [[UTM]] (Universal Tool Mount) now uses stronger [[countersunk magnets]] to more securely hold all tools in place. Meanwhile, the rotary tool now uses standard magnets like the other three tools.
+
+![countersunk UTM magnets](_images/countersunk_utm_magnets.png)
+
+# Belt clip dampeners
+
+The [[belt clips]] now feature small divots to hold a rubber o-ring [[belt clip dampener]] to reduce noise from homing and automatic calibration procedures.
+
+![belt clip dampener](_images/belt_clip_dampener.png)
+
+# Optimized cable and tubing lengths
+
+The following cables and tubing were shortened slightly to eliminate the need to coil and secure or trim excess length.
+
+- Reduced the length of X-axis [[cable carrier]] by 5 links.
+- Reduced the length of the [[power supply]] input by 50mm and the output by 150mm.
+- Reduced the length of the [[power supply cable]] by 0.5m.
+- Reduced the length of the Z [[UTM cable]] by 100mm.
+- Reduced the length of X-axis [[water tube]] by 0.5m.
+- Reduced the length of the LED strip by 0.3m.
 
 # Miscellaneous
 
-* Added weight-saving cutouts to the [[left gantry corner bracket]] and [[right gantry corner bracket]].
-* Made the tab on the [[belt clips]] narrower.
-* Replaced individual wrenches with a [[5.5mm and 8mm combo wrench]].
-* Replaced the black oxide Phillips drive wood screws with stainless steel [[T25 wood screws]].
-* Included a [[T25 bit]] and [[T10 bit]] as assembly tools.
-* Added [[M5 x 4mm setscrews]] for use with nut bars to align track extrusions end-to-end.
-* Changed the material of the [[90-degree barb]] to brass.
-* Switched to smaller and lighter cardboard edge protectors.
-* Reduced the number of post-assembly extra parts.
-* Switched all drop-in tee nuts to [[10mm nut bars]].
-* Reduced the number of [[60mm horizontal cable carrier supports]] on the gantry main beam to 5 per extrusion.
-* Removed the original weeder in favor of only including the powered rotary tool.
-* Removed the jumper wires, peripheral leads, PTFE tape, 2mm hex driver, 2.5mm hex key, 5.5mm nut driver, 8mm nut driver, second seed tray and bin, and crop stickers from the kit.
-* Combined the getting started guide and camera calibration cards into a single double-sided card.
+- The [[belt clips]] attached to the tracks are now fastened with [[M5 x 12mm screws]].
+- Removed the use of edge protectors from the final box packaging.
+- Reverted to providing the v1.6 [[8mm wrench]] for better durability.
+- Refined the spec of the [[v-wheels]] to reduce cracking.

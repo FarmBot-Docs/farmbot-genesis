@@ -33,26 +33,35 @@ Once the spacers have been adjusted, slide the [[gantry columns]] onto the **tra
 
 # Step 2: Assemble the main beam
 
+Position two [[gantry main beams]] end-to-end on a flat surface such as a work table or patio. Using a [[160mm nut bar]] and eight [[M5 x 16mm screws]], attach the [[gantry joining bar]] to the *lower slot* of both extrusions as shown in the image below, with the center of the bar aligning with the joint between the two beams. Ensure there is good alignment and no gap between the beams.
+
+![Attach the gantry joining bar](_images/attach_the_gantry_joining_bar.png)
+
+Slide another [[160mm nut bar]] into the *upper slot* and secure with eight [[M5 x 4mm setscrews]].
+
+![Attach the gantry nut bar 1](_images/attach_the_gantry_nut_bar_1.png)
+
+Finally, slide one more [[160mm nut bar]] into the slot around the edge from the joining bar and secure with eight more [[M5 x 4mm setscrews]].
+
+![Attach the gantry nut bar 2](_images/attach_the_gantry_nut_bar_2.png)
+
 {%
 include callout.html
 type="info"
-title="This step applies to XL kits only"
-content="If you have a standard sized Genesis kit (1.5m wide), proceed to the [next step](#step-3-attach-the-cable-carrier-supports)."
+title="XL kits only"
+content="If you have an (XL) kit (3m wide), then repeat the process above with the third **gantry main beam**, second **gantry joining bar**, and three more **160mm nut bars**."
 %}
 
-Place both [[gantry main beams]] on a flat surface such as a table or patio. Using two [[140mm nut bars]] and eight [[M5 x 10mm screws]], attach the [[gantry joining bracket]] to the *lower two slots* of both extrusions. The notch in the middle of the bracket should be aligned with the joint between the two extrusions.
+![Repeat for the XL main beam](_images/repeat_for_xl_main_beam.png)
 
-![Attach the gantry joining bracket](_images/attach_the_gantry_joining_bracket.png)
+# Step 3: Slide in the cable carrier supports
 
-# Step 3: Attach the cable carrier supports
+Slide all of the [[horizontal cable carrier supports]] into the *middle slot* of the assembled [[gantry main beam]]. Genesis kits have three supports while (XL) kits have seven supports. The supports should be roughly centered on the beam.
 
-Using [[M5 x 10mm screws]] and [[40mm nut bars]], attach five [[60mm horizontal cable carrier supports]] to the *middle slot* of the [[gantry main beam]] extrusion. For Genesis kits, there is only one main beam extrusion, so only five supports will be used.
-
+{% include gallery.html images="
 ![Cable carrier supports on a Genesis gantry](_images/cable_carrier_supports_genesis.png)
-
-For Genesis (XL) kits, there are two main beam extrusions, so 10 supports will be used, and they should be positioned on the same side of the extrusions as the [[gantry joining bracket]].
-
 ![Cable carrier supports on a Genesis XL gantry](_images/cable_carrier_supports_genesis_xl.png)
+" %}
 
 # Step 4: Attach the main beam
 
@@ -90,7 +99,7 @@ content="The main beam will not necessarily be centered on the supporting infras
 
 # Step 5: Connect the X2 motor and encoder cables
 
-Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] to the X2 [[motor]] and [[encoder]] (located on the side opposite the electronics box). Then route the cables through the slots in all of the [[60mm horizontal cable carrier supports]] along the [[gantry main beam]].
+Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] to the X2 [[motor]] and [[encoder]] (located on the side opposite the electronics box). Then route the cables through the center of the [[horizontal cable carrier supports]] along the [[gantry main beam]].
 
 {%
 include callout.html
@@ -102,7 +111,7 @@ content="You will plug the cables into the electronics box in a few steps from n
 
 # Step 6: Install the LED light strip
 
-Route the [[LED strip]] (highlighted orange in the image below) through the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]]. The end with the connector should be positioned near the electronics box. You can secure the strip to the first and last cable carrier supports using [[100mm zip ties]].
+Route the [[LED strip]] (highlighted orange in the image below) through the center of the [[horizontal cable carrier supports]] on the [[gantry main beam]]. The end with the connector should be positioned near the electronics box.
 
 {%
 include callout.html
@@ -131,7 +140,7 @@ content="When dropping the belt ends through the gantry column and feeding them 
 
 # Step 8: Secure the belts
 
-Secure one end of the belt to the tracks by using a [[belt clip]], [[belt sleeve]], [[20mm nut bar]], and two [[M5 x 10mm screws]]. The belt must be wrapped through the clip as outlined in the [belt installation guide](../extras/reference/belt-installation.md), with the tab of the belt clip extending over the outside of the bed. Repeat for the other end of the belt on the other end of the tracks.
+Secure one end of the belt to the tracks by using a [[belt clip]], [[belt sleeve]], [[20mm nut bar]], and two [[M5 x 12mm screws]]. The belt must be wrapped through the clip as outlined in the [belt installation guide](../extras/reference/belt-installation.md), with the tab of the belt clip extending over the outside of the bed. Repeat for the other end of the belt on the other end of the tracks.
 
 {%
 include callout.html

@@ -2,7 +2,7 @@
 title: "O-Ring"
 slug: "o-ring"
 description: "These O-rings fit onto the UTM's liquid/gas ports and create a solid seal when tools are mounted."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/190cb84d218603aa22f6e6ea
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/190cb84d218603aa22f6e6ea
 price: $0.50
 quantity:
   standard: 3

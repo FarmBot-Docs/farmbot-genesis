@@ -3,28 +3,28 @@ title: "X-Axis Cable Carrier"
 slug: "cable-carrier-x-axis"
 description: "These hollow plastic chains are used throughout FarmBot to manage cables and tubing along each of the three axes."
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/31059c0f0f0b27e8c6d76290
-variants: 1.7m|3.2m
+variants: 1.6m|3.1m
 price: $50.00|$80.00
 quantity:
   standard: 1|0
   xl: 0|1
 specs:
   material: Black Nylon PA66
-  length: "1.7m (85 links) + end pieces|
-  3.2m (160 links) + end pieces"
+  length: "1.6m (80 links) + end pieces|
+  3.1m (155 links) + end pieces"
   inside height: 11mm
   inside width: 16mm
   outside height: 15mm
   outside width: 22mm
   pitch: 20mm
-  bending radius: 28mm
+  bending radius: 38mm
   end piece configuration: "<a href='#end-piece-configuration'>X configuration</a>"
 internal-specs:
-  internal-part-name: "Cable Carrier - 11 x 16 x 1700mm (85 links + end pieces in X configuration)|
-  Cable Carrier - 11 x 16 x 3200mm (160 links + end pieces in X configuration)"
+  internal-part-name: "Cable Carrier - 11 x 16 x 1600mm (80 links + end pieces in X configuration)|
+  Cable Carrier - 11 x 16 x 3100mm (155 links + end pieces in X configuration)"
   vendor: JFLO
-  vendor part number: "JE10Q.1.16F R28"
-  cost: $10.90|$19.30
+  vendor part number: "JE10Q.1.16F R38"
+  cost: $15.00|$28.00
   notes: No plastic bag packaging
 ---
 

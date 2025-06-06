@@ -2,7 +2,7 @@
 title: "UTM Pre-Assembly"
 slug: "utm"
 description: "Pre-assembly and packing instructions for the UTM"
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/7706ec7678644eef42d3c677
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/7706ec7678644eef42d3c677
 ---
 
 <iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/utm_pre_assembly_rev_a.pdf" frameborder="0"></iframe>

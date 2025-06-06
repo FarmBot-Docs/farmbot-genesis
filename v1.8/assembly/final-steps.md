@@ -43,7 +43,7 @@ We recommend keeping everything that is left over in a box along with the gettin
 
 ![post-assembly spare parts](_images/extra_parts.png)
 
-_For illustrative purposes only. Not all kits will have these exact parts left over after assembly._
+_For illustrative purposes only. Not all kits will have these exact parts leftover after assembly._
 
 # Trimming belts
 

@@ -5,8 +5,8 @@ description: "These M5 button-head screws are used throughout FarmBot along with
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/2a69261d95cb8696ca29c177?configuration=List_NkP7qhj35TIq5q%3DDefault&renderMode=0&uiState=6255c5ba46b4a5023f0a8219
 price: $0.15
 quantity:
-  standard: 150
-  xl: 200
+  standard: 53
+  xl: 53
 specs:
   threads: M5 x 0.8mm
   length: 10

@@ -2,8 +2,8 @@
 title: "UTM Cable"
 slug: "utm-cable"
 description: "This 12-wire shielded cable connects the Farmduino to the UTM. It comes in two pieces, a Y-axis section and a Z-axis section that connect with a 90-degree screw-together waterproof connection at the cross-slide. It provides Ground, 5V, 24V, digital and analog I/O, with a pin mapping that can be configured at the Farmduino to support custom tools. It features connectors on both ends for easy connection to both the UTM and Farmduino, as well as a rubber shroud to protect the inside of the UTM from the elements."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/cf101361e9c8abf117ed5bca
-variants: Y, 2.6m|Y, 4.1m|Z, 1.0m
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/cf101361e9c8abf117ed5bca
+variants: Y, 2.6m|Y, 4.1m|Z, 0.9m
 price: $30.00|$40.00|$20.00
 quantity:
   standard: 1|0|1
@@ -13,7 +13,7 @@ specs:
   Wire Colors: All different
   Shielded?: Yes
   Wire Gauge: 24
-  length: 2.6m|4.1m|1.0m
+  length: 2.6m|4.1m|0.9m
   outer diameter: 8mm
   Outer color: Black
   Shroud: Included black silicone rubber
@@ -21,8 +21,8 @@ specs:
   Intermediate connectors: 12-pin waterproof screw together 90 degree connectors. (female connector on the Y-Axis sections, male connector on the Z-Axis section)
   UTM connectors: 2x3 2.54mm pitch plug (yellow shrinkwrap)|2x4 2.54mm pitch plug (black shrinkwrap)
 internal-specs:
-  internal-part-name: UTM Cable - Y, 2.6m (Genesis)|UTM Cable - Y, 4.1m (Genesis XL)|UTM Cable - Z, 1.0m (Genesis and Genesis XL)
-  rev: A|A|A
+  internal-part-name: UTM Cable - Y, 2.6m (Genesis)|UTM Cable - Y, 4.1m (Genesis XL)|UTM Cable - Z, 0.9m (Genesis and Genesis XL)
+  rev: A|A|B
   cost: $12.50|$17.10|$8.00
   notes: "<span style='font-weight: bold; color: red;'>Double check pin mapping</span>"
 ---

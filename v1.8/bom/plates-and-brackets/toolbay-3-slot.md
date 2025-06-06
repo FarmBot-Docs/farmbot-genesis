@@ -2,7 +2,7 @@
 title: "3-Slot Toolbay"
 slug: "toolbay-3-slot"
 description: "Tech specs for the 3-slot toolbays in FarmBot Genesis. Visit [our shop](http://shop.farm.bot) to purchase parts."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/b3826689e883eda18aeb18df
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/b3826689e883eda18aeb18df
 price: $40.00
 quantity:
   standard: 2

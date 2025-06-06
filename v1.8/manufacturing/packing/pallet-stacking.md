@@ -35,45 +35,6 @@ Place three more layers of main cartons onto the stack.
 
 Wrap the entire stack with clear plastic.
 
-# Extrusion kits
-
-## Step 1: First three layers
-
-Stack three layers of **extrusion kits** onto an **extended-length pallet**. Genesis kits should have 7 boxes per layer, while Genesis (XL) should have 6 boxes per layer.
-
-{%
-include callout.html
-type="warning"
-title="Center the kits"
-content="Ensure the kits are centered on the pallet. This will minimize overhang and the instability caused by an unevenly loaded pallet."
-%}
-
-![genesis extrusion pallet first 3 layers of 7](_images/genesis_extrusion_pallet_first_3_layers_of_7.png)
-
-_Genesis kits (7 on each layer)_
-
-XL kits must be stacked **horizontally** to provide better stability.
-
-![genesis xl extrusion pallet first 3 layers of 6](_images/genesis_xl_extrusion_pallet_first_3_layers_of_6.png)
-
-_Genesis (XL) kits (6 on each layer)_
-
-## Step 2: Cardboard separator
-
-Place a **cardboard separator** on top of the first three layers. This will help stabilize the stack.
-
-![extrusion kit pallet cardboard separator](_images/extrusion_kit_pallet_cardboard_separator.png)
-
-## Step 3: Second three layers
-
-Place three more layers of extrusion kits onto the stack.
-
-![extrusion kit pallet 6 layers](_images/extrusion_kit_pallet_6_layers.png)
-
-## Step 5: Plastic wrap
-
-Wrap the entire stack with clear plastic.
-
 # Reference tables
 
 ## Stacked pallet specs

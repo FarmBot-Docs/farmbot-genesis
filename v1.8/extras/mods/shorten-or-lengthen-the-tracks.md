@@ -7,7 +7,7 @@ While FarmBot kits come with tracks that are 3m long for Genesis models and 6m l
 
 # Shorten the tracks
 
-The easiest way to shorten the tracks is to remove extrusions. Should you want an overall track length different than the 1.5m increments the extrusions afford, then you will need to use a hacksaw or chopsaw to cut the extrusions to your desired length. You can shorten the tracks to a minimum length of around 0.5m.
+The easiest way to shorten the tracks is to remove extrusions. Should you want an overall track length different than the 1m increments the extrusions afford, then you will need to use a hacksaw or chopsaw to cut the extrusions to your desired length. You can shorten the tracks to a minimum length of around 0.5m.
 
 # Lengthen the tracks
 

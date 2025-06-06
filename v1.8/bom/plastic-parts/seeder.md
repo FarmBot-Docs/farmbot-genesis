@@ -2,7 +2,7 @@
 title: "Seeder"
 slug: "seeder"
 description: "The seeder, combined with the vacuum pump, allows FarmBot to pick up seeds and deposit them precisely in the ground."
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/6af0ff8180fb28302e23637d
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/6af0ff8180fb28302e23637d
 price: $7.00
 quantity:
   standard: 1

@@ -65,19 +65,23 @@ content="Though this will require your own additional hardware and effort, and m
 
 While the current kits are designed to be a certain size, there is no reason why you cannot (with additional hardware) make your gantry taller or wider, and your tracks longer. However, such work will require R&D effort on your part, and is not guaranteed to work. Furthermore, at this time we do not offer the parts that you may need to pull this off, so you gotta be ready for some DIY action if you want to do this. Good luck!
 
-# What is the size and weight of the FarmBot kit boxes?
+# Can I shorten the tracks or make the gantry narrower/shorter?
 
-FarmBot Genesis kits are shipped in two boxes. The **Extrusions Kit** is a longer, skinnier box and contains all of the track extrusions and the gantry main beam(s). The **Main Carton** contains all of the pre-assemblies and other parts such as screws, the power supply, and more.
+{%
+include callout.html
+type="success"
+title="Yes"
+content="Yes, please see the [scaling down](../../assembly/supporting-infrastructure.md#scaling-down) section on the supporting infrastructure page."
+%}
 
-|Genesis        |Dimensions                               |Weight               |
-|---------------|-----------------------------------------|---------------------|
-|Main Carton    |22cm x 42cm x 106cm<br>9 in x 17in x 42in|17.4kg<br>38lbs, 6oz
-|Extrusion Kit  |10cm x 6cm x 154cm<br>4in x 2in x 61in   |5.7kg<br>12lbs, 9oz
+# What is the size and weight of the FarmBot shipping box?
 
-|Genesis (XL)   |Dimensions                               |Weight               |
-|---------------|-----------------------------------------|---------------------|
-|Main Carton    |22cm x 42cm x 106cm<br>9 in x 17in x 42in|19.2kg<br>42lbs, 5oz
-|Extrusion Kit  |17cm x 6cm x 154cm<br>7in x 2in x 61in   |9.8kg<br>21lbs, 10oz
+FarmBot Genesis kits are shipped in one box containing all of the track extrusions, gantry main beams, pre-assemblies, and other parts such as screws, the power supply, and more.
+
+|FarmBot      |Dimensions                                |Weight          |
+|-------------|------------------------------------------|----------------|
+|Genesis      |23cm x 42cm x 106cm<br><i>9 in x 17in x 42in</i> |19.5kg<br><i>43lbs</i>
+|Genesis (XL) |23cm x 42cm x 106cm<br><i>9 in x 17in x 42in</i> |24.0kg<br><i>53lbs</i>
 
 {%
 include callout.html

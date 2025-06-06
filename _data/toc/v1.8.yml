@@ -197,17 +197,7 @@ contents:
         pages:
           - title: Pallet Stacking
             url: pallet-stacking
-          - title: Extrusion Kit
-            url: extrusion-kit
           - title: Main Carton
             url: main-carton
           - title: Hardware Kit
             url: hardware-kit
-          - title: Motor Kit
-            url: motor-kit
-          - title: Power Supply
-            url: power-supply
-          - title: Solenoid Valve
-            url: solenoid-valve
-          - title: Vacuum Pump
-            url: vacuum-pump

@@ -15,11 +15,27 @@ content="This is the estimated time it will take to assemble the cross-slide and
 
 # Step 1: Add the cable carrier mount
 
-Attach the [[80mm cable carrier mount]] to the [[cross-slide plate]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]].
+Attach the [[60mm cable carrier mount]] to the [[cross-slide plate]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]].
 
 ![Attach the cable carrier mount](_images/cross_slide_cable_carrier_mount.png)
 
-# Step 2: Slide the cross-slide onto the gantry main beam
+# Step 2: Mount the vacuum pump
+
+Attach the pre-assembled [[vacuum pump]] subassembly to the [[cross-slide plate]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]].
+
+![Mount the vacuum pump](_images/mount_the_vacuum_pump.png)
+
+Then connect the [[inline air filter]] and [[vacuum pump tube]] between the pump and the tube coming from the Z-axis cable carrier.
+
+{%
+include callout.html
+type="info"
+content="Ensure you connect the tubing to the **inlet** port of the vacuum pump, as denoted by the arrow pointing up."
+%}
+
+![Connect the inline air filter](_images/inline_air_filter.png)
+
+# Step 3: Slide the cross-slide onto the gantry main beam
 
 In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must adjust the [[eccentric spacers]] of the bottom two V-wheels. Adjust the [[eccentric spacers]] using the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md).
 
@@ -40,10 +56,10 @@ include callout.html
 type="success"
 content="The cross-slide should move easily across the full width of the gantry. If you feel any significant resistance, re-adjust the eccentric spacers so that there is less resistance to movement.
 
-On Genesis (XL) models, pay special attention to the joint between the two gantry main beams. If there is any significant bump or resistance to movement at the joint, use **150 grit sand paper** to sand away the bump."
+Pay special attention to the joint(s) between the gantry main beam extrusions. If there is any significant bump or resistance to movement at a joint, use **150 grit sand paper** to sand away the bump."
 %}
 
-# Step 3: Feed and secure the belt
+# Step 4: Feed and secure the belt
 
 Secure one end of the *short* [[belt]] to a [[belt clip]] using a [[belt sleeve]] and then attach the clip to the end of the gantry main beam using two [[M5 x 10mm screws]] and a [[20mm nut bar]]. The tab of the belt clip should be oriented towards the front of the FarmBot. Refer to the [belt installation guide](../extras/reference/belt-installation.md) for reference.
 
@@ -63,17 +79,13 @@ Secure the belt at the other end of the gantry with another [[belt clip]], [[20m
 
 ![Secure the other end of the belt](_images/y_axis_belt_end.png)
 
-# Step 4: Attach the cable carrier
+# Step 5: Attach the cable carrier
 
-Lay the [[y-axis cable carrier]] onto the [[60mm horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[80mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Lay the [[y-axis cable carrier]] onto the [[horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[60mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
-![Mount the cable carrier](_images/attach_y_cc_1.png)
+![Mount the cable carrier](_images/attach_y_cc.png)
 
-Attach the [[y-axis cable carrier]] to the [[60mm horizontal cable carrier support]] nearest the electronics box using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
-
-![Mount the cable carrier](_images/attach_y_cc_2.png)
-
-# Step 5: Connect the tubing
+# Step 6: Connect the water tubing
 
 Push the y-axis [[water tube]] onto the [[90-degree barb]] and the [[NPT to barb adapter]] on top of the [[solenoid valve]].
 
@@ -82,19 +94,20 @@ Push the y-axis [[water tube]] onto the [[90-degree barb]] and the [[NPT to barb
 ![Connect the Y water tube to the NPT adapter](_images/connect_y_water_tube_2.png)
 " %}
 
-# Step 6: Connect the cabling
+# Step 7: Connect the cabling
 
-Connect the z-axis and y-axis sections of the following cables together:
+Connect the [[Y vacuum pump cable]] (`VAC`) to the [[vacuum pump]].
 
-  * [[Z vacuum pump cable]] (`VAC`) to [[Y vacuum pump cable]] (`VAC`) with the 4-pin connectors
-  * Z [[UTM cable]] (`UTM`) to Y [[UTM cable]] (`UTM`) with the 12-pin connectors
+![Vacuum pump cable](_images/vacuum_pump_cable.png)
+
+Connect the Y-axis and Z-axis sections of the [[UTM cable]] (`UTM`) together with the 12-pin connectors.
 
 ![90 degree connectors](_images/90_degree_connectors_1.png)
 
-Connect the z-axis and y-axis sections of the following cables together:
+Connect the Y-axis and Z-axis sections of the following cables together:
 
-  * `ZZ` [[encoder cable]] to `ZY` [[encoder cable]] with the 7-pin connectors
-  * `ZZ` [[motor cable]] to `ZY` [[motor cable]] with the 4-pin connectors
+  * `ZY` [[encoder cable]] to `ZZ` [[encoder cable]] with the 7-pin connectors
+  * `ZY` [[motor cable]] to `ZZ` [[motor cable]] with the 4-pin connectors
   * [[Camera]] (`CAM`) to [[camera cable]] (`CAM`) with the 4-pin connectors
 
 {%
@@ -104,7 +117,6 @@ title="Some cables use the same 4-pin connectors"
 content="Double check you have connected:
 
 * `CAM` to `CAM`
-* `VAC` to `VAC`
 * `ZY` to `ZZ`
 
 **Take your time. A mistake here could cause damage to the electronics.**"
@@ -116,7 +128,7 @@ Ensure you fully inserted the 90-degree connectors together. This may require a 
 
 {% include youtube.html id="rPqgmoE3PbI" %}
 
-# Step 7: Connect the y-axis motor and encoder
+# Step 8: Connect the y-axis motor and encoder
 
 Connect the `Y` [[motor cable]] and `Y` [[encoder cable]] to the y-axis [[motor]] and [[encoder]].
 
@@ -131,7 +143,7 @@ content="Use zip ties and plenty of slack to ensure the motor and encoder wires 
 ![Connect the y-axis motor and encoder cables](_images/feed_y_cables_2.png)
 " %}
 
-# Step 8: Remove slack
+# Step 9: Remove slack
 
 Reduce the amount of extra tubing and wiring between the [[y-axis cable carrier]] and the [[z-axis cable carrier]] by gently pulling any extra cable or tubing length through the [[y-axis cable carrier]]. It can be difficult to coax the contents around the bend of the cable carrier, so take your time and ensure that you are not pulling anything too hard.
 

@@ -3,7 +3,7 @@ title: "Power Supply Cable"
 slug: "power-supply-cable"
 description: "This modular 3-wire cable connects the power supply to the Farmduino. It features a waterproof 3-pin connector to attach to the power supply, and a black molex connector to attach to the Farmduino."
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/w/89ac2637f82d915f22c2bcd0/e/1c336b49c31853e42b3b8acf
-variants: 3m|4.5m
+variants: 2.5m|4m
 quantity:
   standard: 1|0
   xl: 0|1
@@ -13,10 +13,10 @@ specs:
   cable color: Black
   connector 1: 3-pin waterproof screw-together connector
   connector 2: 3-pin black connector (<a href="https://www.molex.com/molex/products/part-detail/crimp_housings/2004561213">Molex Part 2004561213</a>)
-  length: 3m|4.5m
+  length: 2.5m|4m
 internal-specs:
-  internal-part-name: Power Supply Cable - 3m|Power Supply Cable - 4.5m
-  rev: B|B
+  internal-part-name: Power Supply Cable - 2.5m|Power Supply Cable - 4m
+  rev: C|C
   cost: $6.70|$8.50
 ---
 

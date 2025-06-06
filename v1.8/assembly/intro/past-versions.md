@@ -12,6 +12,51 @@ title="It's getting better all the time"
 content="FarmBot Genesis is always being improved and has undergone many iterations. We encourage skimming through the older versions to understand how we arrived at the latest design."
 %}
 
+# Genesis v1.7
+
+{% include gallery.html images="
+![farmbot genesis v1.7](_images/farmbot_genesis_v1.7.png)
+![farmbot genesis xl v1.7](_images/farmbot_genesis_xl_v1.7.png)
+" %}
+
+{%
+include callout.html
+type="bookmark"
+content="View the [FarmBot Genesis v1.7 documentation](http://genesis.farm.bot/docs/v1.7)."
+%}
+
+**Major changes**
+* FarmBot Genesis and Genesis (XL) v1.7 were the first Genesis machines to come 90% pre-assembled in the box, significantly reducing the setup time required by the end user to just 3 and 4 hours. Major pre-assemblies included: the left gantry column with solenoid valve and electronics box, the right gantry column, the cross-slide and z-axis with UTM, all of the tools, and X and Y cable carriers with pre-loaded cables and tubing.
+* Introduced completely redesigned track extrusions that mount directly on top of the raised bed without the need for track joining or end plates. The new design cuts track weight and volume in half, is much easier and faster to assemble, and removes the need for separate plastic cable carrier supports, instead relying on an integrated wooden cable carrier support attached to the side of the raised bed.
+* Optimized the gantry wheel plates and cross-slide plate to save weight and volume and reduce the number of v-wheels used.
+* Optimized toolbay geometry for improved UTM access and added cutouts to save weight. Removed the extra toolbays from (XL) kits.
+* Redesigned the gantry columns to save weight, provide a cleaner aesthetic, and make belt installation easier by removing the center two V slots in favor of a single, larger center cavity.
+* Switched to a 100 watt power supply, still providing ample power for all of FarmBot's core capabilities while reducing cost and weight.
+* Switched to a smaller and lighter X-axis cable carrier, further improving movement dynamics along the X-axis. This change also required a new 30mm cable carrier mount.
+
+**Minor changes**
+* Added weight-saving cutouts to the gantry corner brackets.
+* Made the tab on the belt clips narrower.
+* Replaced individual wrenches with a 5.5mm and 8mm combo wrench.
+* Replaced the black oxide Phillips drive wood screws with stainless steel T25 wood screws.
+* Included a T25 bit and T10 bit as assembly tools.
+* Added M5 x 4mm setscrews for use with nut bars to align track extrusions end-to-end.
+* Changed the material of the 90-degree barb to brass.
+* Reduced the number of post-assembly extra parts.
+* Switched all drop-in tee nuts to 10mm nut bars.
+* Reduced the number of 60mm horizontal cable carrier supports on the gantry main beam to 5 per extrusion.
+* Removed the original weeder in favor of only including the powered rotary tool.
+* Removed the jumper wires, peripheral leads, PTFE tape, 2mm hex driver, 2.5mm hex key, 5.5mm nut driver, 8mm nut driver, second seed tray and bin, and crop stickers from the kit.
+* Combined the getting started guide and camera calibration cards into a single double-sided card.
+
+**Manufacturing**
+
+|Model             |# of Kits Manufactured |Completed |
+|------------------|-----------------------|----------|
+|Genesis v1.7      |200                    |January, 2024
+|Genesis (XL) v1.7 |100                    |January, 2024
+|**TOTAL**         |**300**                |
+
 # Genesis v1.6
 
 {% include gallery.html images="

@@ -5,8 +5,8 @@ description: "These spacers are used to offset V-wheels from plates so that they
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/6356ba4a758163dffd3e36d5?configuration=List_UIUjCHFIdjl4WQ%3DDefault&renderMode=0&uiState=6255077850f84e1a8d3b8208
 price: $0.20
 quantity:
-  standard: 30
-  xl: 30
+  standard: 11
+  xl: 11
 specs:
   material: Aluminum
   outer diameter: 10mm

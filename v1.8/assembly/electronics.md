@@ -10,9 +10,9 @@ The Farmduino microcontroller uses Arduino architecture and it communicates with
 
 ![farmbot electrical system diagram](_images/farmbot-electrical-system-diagram.jpg)
 
-Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmBot's plants, sequences, regimens, events, and settings. Additionally, the Raspberry Pi is responsible for taking photos with the USB camera, and monitoring and controlling the push buttons and LEDs on top of the electronics box via the [[Pi adapter board]].
+Meanwhile, the Raspberry Pi is the web-connected brain that keeps track of FarmBot's plants, sequences, regimens, events, and settings. Additionally, the Raspberry Pi is responsible for taking photos with the USB camera, and monitoring the push buttons on top of the electronics box via the [[Pi adapter board]].
 
-![Raspberry Pi electrical diagram](_images/raspberry_pi_electrical_diagram.png)
+![Raspberry Pi electrical diagram](_images/raspberry_pi_electrical_diagram.jpg)
 
 # Step 1: Prep
 
@@ -130,7 +130,7 @@ content="The [[micro SD card]] will be located in the [[Raspberry Pi]]. When ins
 %}
 
 {% include gallery.html images="
-![microSD card in raspberry pi](_images/micro_sd_card_in_pi.jpg)
+![microSD card in raspberry pi](_images/micro_sd_card_in_pi.png)
 ![microSD card in case](_images/micro_sd_card_in_case.jpeg)
 " %}
 

@@ -27,3 +27,9 @@ Slide the [[belt sleeve]] over both ends of the belt. This may take a small bit 
 Mount the clip to the end of an **extrusion** with a [[20mm nut bar]] and two [[M5 x 10mm screws]].
 
 ![mounted belt clip](_images/mounted_belt_clip.png)
+
+# Step 5: Add a dampener
+
+Stretch a [[belt clip dampener]] o-ring over the small divots on the belt clip's overhanging tab.
+
+![add belt clip dampener](_images/belt_clip_dampener.png)

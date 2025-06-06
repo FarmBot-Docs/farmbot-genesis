@@ -10,7 +10,7 @@ redirect_from: /docs/v1.8/
 include callout.html
 type="info"
 title="Announcing: FarmBot Genesis v1.8 documentation!"
-content="As of November 22, 2023, the default version of the Genesis documentation is for v1.8. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
+content="As of June 5, 2025, the default version of the Genesis documentation is for v1.8. If you have an older kit, please use the version picker dropdown menu in the top left of the documentation hub's navigation to select an older version of the docs."
 %}
 
 **FarmBot Genesis** is our top-of-the-line FarmBot model designed with the most features and flexibility. It is suitable for growing food with the highest level of precision, running complex experiments, and capable of being easily modified and extended to do more.

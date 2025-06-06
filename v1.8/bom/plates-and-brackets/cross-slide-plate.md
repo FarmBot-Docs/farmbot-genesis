@@ -13,7 +13,7 @@ specs:
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
   internal-part-name: Genesis Cross-Slide Plate
-  rev: C
+  rev: D
   vendor: LDO
   cost: $5.80
   component tests: Plate and Bracket Tests

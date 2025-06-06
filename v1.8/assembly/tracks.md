@@ -4,7 +4,7 @@ slug: "tracks"
 description: "Documentation and assembly instructions for the FarmBot Genesis tracks"
 ---
 
-FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to mount directly to the top of a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1.5m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models and 6m for Genesis (XL).
+FarmBot's **tracks** allow the gantry to move precisely along the x-axis. They are designed to mount directly to the top of a raised bed or similar [supporting infrastructure](supporting-infrastructure.md). Each track is composed of 1m long aluminum extrusions positioned end-to-end to form a total track length of 3m for Genesis models and 6m for Genesis (XL).
 
 ![Completed tracks](_images/completed_tracks.png)
 
@@ -37,25 +37,23 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 # Step 2: Attach the first track extrusion
 
-Attach the first [[track extrusion]] to the top of the supporting infrastructure using five [[wood screws]] and the provided [[T25 bit]] loaded into a drill or driver. The track extrusion should be flush against the side and top of the supporting infrastructure.
+Attach the first [[track extrusion]] to the top of the supporting infrastructure using three [[wood screws]] and the provided [[T25 bit]] loaded into a drill or driver. The track extrusion should be flush against the side and top of the supporting infrastructure.
 
 ![Mount the first track extrusion](_images/first_track_extrusion.png)
 
 # Step 3: Insert a nut bar
 
-Insert a [[40mm nut bar]] halfway into the lower slot of the [[track extrusion]] and secure it with an [[M5 x 4mm setscrew]].
+Insert a [[40mm nut bar]] halfway into the slot of the [[track extrusion]] and secure it with an [[M5 x 4mm setscrew]].
 
 ![Insert a nut bar](_images/insert_nut_bar.png)
 
 # Step 4: Attach the next extrusion
 
-Position the next [[track extrusion]] on top of the supporting infrastructure and slide it towards the first extrusion such that the nut bar inserts into the lower slot. With the second extrusion butted up against the end of the first extrusion, secure it to the supporting infrastructure with five [[wood screws]].
+Position the next [[track extrusion]] on top of the supporting infrastructure and slide it towards the first extrusion such that the nut bar inserts into the slot.
+
+With the second extrusion butted up against the end of the first extrusion, secure it to the supporting infrastructure with three [[wood screws]]. Then secure the two extrusion ends together with a second [[M5 x 4mm setscrew]] in the nut bar.
 
 ![Mount the second track extrusion](_images/second_track_extrusion.png)
-
-Then secure the two extrusion ends together with a second [[M5 x 4mm setscrew]] in the nut bar.
-
-![Secure nut bar](_images/secure_nut_bar.png)
 
 {%
 include callout.html
@@ -66,16 +64,12 @@ content="Ensure the [[track extrusions]] are positioned tightly together at the 
 
 # Step 5: Attach remaining extrusions
 
-{%
-include callout.html
-type="info"
-title="This step applies to XL kits only"
-content="If you have a standard sized Genesis kit (3m long), proceed to the [next step](#step-6-install-the-other-track)."
-%}
+Repeat steps 3 and 4 to attach one more track extrusion for Genesis kits or four more for (XL) kits.
 
-Repeat steps 3 and 4 twice to attach two more track extrusions using nut bars, setscrews, and wood screws.
-
-![Mount remaining extrusions](_images/xl_track_extrusios.png)
+{% include gallery.html images="
+![Mount third extrusion](_images/third_track_extrusion.png)
+![Mount xl extrusions](_images/xl_track_extrusions.png)
+" %}
 
 # Step 6: Install the other track
 

@@ -2,7 +2,7 @@
 title: "Seeder"
 slug: "seeder"
 description: "Pre-assembly and packing instructions for the seeder tool"
-cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/bc2c49ac1a57d66286459079/e/9552b3fb35e5336384e453de
+cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/9552b3fb35e5336384e453de
 ---
 
 <iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/seeder_pre_assembly_rev_a.pdf" frameborder="0"></iframe>

@@ -13,7 +13,7 @@ specs:
   surface treatments: Tumble polished<br>Sand blasted<br>Clear anodized
 internal-specs:
   internal-part-name: Gantry Corner Bracket - Right
-  rev: B
+  rev: C
   vendor: LDO
   cost: $4.50
   component tests: Plate and Bracket Tests

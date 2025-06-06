@@ -5,8 +5,8 @@ description: "Two of these stainless steel rubber sealed ball bearings are pre-a
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/w/0435033a7c78b02e71d0f721/e/047410d776645b3a2a814655?renderMode=0&uiState=6255c66e46b4a5023f0a8386
 price: $0.00
 quantity:
-  standard: 60
-  xl: 60
+  standard: 40
+  xl: 40
 specs:
   trade name: SS-625-2RS (SS = stainless steel, 625 = bearing size, 2RS = two rubber seals)
   material: Stainless steel
