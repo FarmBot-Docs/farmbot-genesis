@@ -175,6 +175,10 @@ contents:
             url: z-axis
           - title: Electronics Box
             url: electronics-box
+          - title: Vacuum Pump Subassembly
+            url: vacuum-pump-subassembly
+          - title: Solenoid Valve Subassembly
+            url: solenoid-valve-subassembly
           - title: Cable Carrier
             url: cable-carrier
           - title: V-Wheels
@@ -195,9 +199,9 @@ contents:
       - title: Packing
         url: packing
         pages:
-          - title: Pallet Stacking
-            url: pallet-stacking
           - title: Main Carton
             url: main-carton
-          - title: Hardware Kit
-            url: hardware-kit
+          - title: Parts Box
+            url: parts-box
+          - title: Pallet Stacking
+            url: pallet-stacking

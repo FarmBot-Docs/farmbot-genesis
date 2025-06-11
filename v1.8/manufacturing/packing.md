@@ -16,6 +16,6 @@ The information is shared here as part of our commitment to 100% open-source [ha
 
 # What's next?
 
- * [Hardware Kit](packing/hardware-kit.md)
  * [Main Carton Packing](packing/main-carton.md)
+ * [Parts Box Packing](packing/parts-box.md)
  * [Pallet Stacking](packing/pallet-stacking.md)

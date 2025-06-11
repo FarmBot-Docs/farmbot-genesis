@@ -5,7 +5,7 @@ description: "Pre-assembly and packing instructions for the seeder tool"
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/9552b3fb35e5336384e453de
 ---
 
-<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/seeder_pre_assembly_rev_a.pdf" frameborder="0"></iframe>
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/pre_assembled_seeder_rev_a.pdf" frameborder="0"></iframe>
 
 # Pre-assembly BOM
 
@@ -43,5 +43,5 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028
 |**Outer dimensions (L x W x H)**|80mm x 80mm x 42mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[SEEDER.pdf](_images/seeder_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[SEEDER.pdf](_images/box_graphic_seeder.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |Cardboard insert

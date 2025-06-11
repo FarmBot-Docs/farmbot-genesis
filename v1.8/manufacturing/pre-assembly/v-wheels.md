@@ -4,7 +4,7 @@ slug: "v-wheels"
 description: "Pre-assembly instructions for the V-wheels"
 ---
 
-<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/v_wheel_pre_assembly_rev_a.pdf" frameborder="0"></iframe>
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/pre_assembled_v_wheel_rev_b.pdf" frameborder="0"></iframe>
 
 Each pre-assembled V-Wheel consists of four components:
 
@@ -24,6 +24,13 @@ include callout.html
 type="success"
 title="The sound of success"
 content="If all goes well, you should here a satisfying 'pop' each time a bearing fits into the wheel."
+%}
+
+{%
+include callout.html
+type="warning"
+title="Check for internal cracks"
+content="Check to make sure the wheel is not cracked internally after pressing in the bearings. If it is, the wheel will likely fail after several months of use and should be replaced."
 %}
 
 {%
