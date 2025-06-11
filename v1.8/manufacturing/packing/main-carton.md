@@ -4,35 +4,17 @@ slug: "main-carton"
 description: "Instructions for packing Genesis and Genesis XL main cartons"
 ---
 
-The tables below show the items that should be packed into the **main carton** for each version of the kit.
+# Genesis
 
-# Genesis packing list
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/packed_main_carton_genesis_v18_rev_a.pdf" frameborder="0"></iframe>
 
-|Item|Sub-packing|Qty|
-|----|-----------|---|
-|[[Track Extrusion]] - 1000mm|Wrapped with recycled kraft paper|6|
-|[[Gantry Main Beam]] - 750mm|Wrapped with recycled kraft paper|2|
-|[Hardware Kit](hardware-kit.md)|None|1
-|X-Axis [[Cable Carrier]]<br>(15 x 30 x 1600mm)|None (no plastic bag)|1
-|Y-Axis [[Cable Carrier]]<br>(15 x 30 x 1700mm)|None (no plastic bag)|1
+# Genesis XL
 
-# Genesis XL packing list
-
-|Item|Sub-packing|Qty|
-|----|-----------|---|
-|[[Track Extrusion]] - 1000mm|Wrapped with recycled kraft paper|12|
-|[[Gantry Main Beam]] - 1000mm|Wrapped with recycled kraft paper|3|
-|(XL) [Hardware Kit](hardware-kit.md)|None|1
-|X-Axis [[Cable Carrier]]<br>(15 x 30 x 3100mm)|None (no plastic bag)|1
-|Y-Axis [[Cable Carrier]]<br>(15 x 30 x 3200mm)|None (no plastic bag)|1
-
-# Straps
-
-Add two pairs of black polystraps.
-
-![main carton with straps](_images/main_carton_with_straps.png)
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/packed_main_carton_genesis_xl_v18_rev_a.pdf" frameborder="0"></iframe>
 
 # Box specifications
+
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/main_carton_rev_a.pdf" frameborder="0"></iframe>
 
 |                                |                              |
 |--------------------------------|------------------------------|

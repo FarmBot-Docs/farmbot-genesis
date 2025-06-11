@@ -5,7 +5,7 @@ description: "Pre-assembly and packing instructions for the rotary tool"
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/497d45b77b41b070b9087831
 ---
 
-<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/rotary_tool_pre_assembly_rev_b.pdf" frameborder="0"></iframe>
+<iframe width="100%" style="aspect-ratio: 11 / 9;" src="_images/pre_assembled_rotary_tool_rev_c.pdf" frameborder="0"></iframe>
 
 # Pre-assembly BOM
 
@@ -15,7 +15,7 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028
 |[[Rotary Tool Bottom]]            |1
 |[[Rotary Tool Motor]]             |1
 |[[Rotary Tool PCB]]               |1
-|[[Countersunk Magnet]]            |3
+|[[Standard Magnet]]               |3
 |[[Rotary Tool M5 Shaft Adapter]]  |1
 |[[Rotary Tool Trimmer Mount]]     |1
 |[[M2.5 x 6mm Screw]]              |2
@@ -50,6 +50,6 @@ cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028
 |**Outer dimensions (L x W x H)**|80mm x 80mm x 95mm
 |**Material**                    |Cardboard
 |**Color**                       |Brown
-|**Printing**                    |**[ROTARY TOOL.pdf](_images/rotary_tool_box_graphic.pdf)** <i class="fa fa-file-pdf-o">
+|**Printing**                    |**[ROTARY TOOL.pdf](_images/box_graphic_rotary_tool.pdf)** <i class="fa fa-file-pdf-o">
 |**Fill**                        |Cardboard insert
 
