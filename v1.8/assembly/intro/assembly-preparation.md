@@ -63,7 +63,7 @@ type="warning"
 content="The video below is for Genesis v1.7 machines. While we are still working on a v1.8 video, the v1.7 assembly process is largely the same and can still be generally followed with the video. However, please refer to the written documentation when encountering discrepancies, and take note of the following key changes to the v1.8 machines:
 - v1.8 machines are shipped entirely in one box
 - [[Track extrusions]] are 1m in length and there are more of them included
-- The [[horizontal cable carrier supports]] slide into the gantry main beam rather than bolt on
+- The [[extruded 40mm horizontal cable carrier supports]] slide into the gantry main beam rather than bolt on
 - The [[vacuum pump]] must be mounted to the [[cross-slide plate]]
 - Some parts will have a different appearance than those included in the v1.7 kits"
 %}

@@ -20,7 +20,7 @@ content="This is the estimated time it will take to install the included toolbay
 
 # Step 1: Attach to the supporting infrastructure
 
-Position and attach a [[3-slot toolbay]] to one of the _shorter edges_ of your **supporting infrastructure** using six [[wood screws]]. The toolbay should be positioned such that FarmBot can:
+Position and attach a [[3-slot toolbay]] to one of the _shorter edges_ of your **supporting infrastructure** using six [[T25 wood screws]]. The toolbay should be positioned such that FarmBot can:
 
 * Mount and dismount tools from above
 * Slide tools all the way into and out of the slots along the X-axis

@@ -1,5 +1,5 @@
 ---
-title: "Vertical Cable Carrier Support"
+title: "Extruded 40mm Vertical Cable Carrier Support"
 slug: "cable-carrier-support-vertical-40mm-extruded"
 description: "Used to support the Z-axis cable carrier. The internal cavity also functions as an area for the Z motor and encoder cables to be routed through."
 cad: https://cad.onshape.com/documents/6626b842adca229e69544ad1/v/29ff27176ad028c3b865f257/e/0e96e594be039d013f54d5a6

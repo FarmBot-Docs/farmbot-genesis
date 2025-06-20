@@ -1,5 +1,5 @@
 ---
-title: "Vertical Cable Carrier Support"
+title: "40mm Vertical Cable Carrier Support"
 slug: "cable-carrier-support-vertical-40mm"
 description: "Used to mount and support the Z-axis cable carrier. The gusset also functions as an area for the Z-axis motor and encoder cables to be routed through."
 cad: https://cad.onshape.com/documents/728fa8fdb342a040fe0ca4b5/v/654cb04fafc6eede48f8c04d/e/2b103973296600daab2b6486

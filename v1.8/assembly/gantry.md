@@ -56,7 +56,7 @@ content="If you have an (XL) kit (3m wide), then repeat the process above with t
 
 # Step 3: Slide in the cable carrier supports
 
-Slide all of the [[horizontal cable carrier supports]] into the *middle slot* of the assembled [[gantry main beam]]. Genesis kits have three supports while (XL) kits have seven supports. The supports should be roughly centered on the beam.
+Slide all of the [[extruded 40mm horizontal cable carrier supports]] into the *middle slot* of the assembled [[gantry main beam]]. Genesis kits have three supports while (XL) kits have seven supports. The supports should be roughly centered on the beam.
 
 {% include gallery.html images="
 ![Cable carrier supports on a Genesis gantry](_images/cable_carrier_supports_genesis.png)
@@ -99,7 +99,7 @@ content="The main beam will not necessarily be centered on the supporting infras
 
 # Step 5: Connect the X2 motor and encoder cables
 
-Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] to the X2 [[motor]] and [[encoder]] (located on the side opposite the electronics box). Then route the cables through the center of the [[horizontal cable carrier supports]] along the [[gantry main beam]].
+Connect the `X2` [[motor cable]] and `X2` [[encoder cable]] to the X2 [[motor]] and [[encoder]] (located on the side opposite the electronics box). Then route the cables through the center of the [[extruded 40mm horizontal cable carrier supports]] along the [[gantry main beam]].
 
 {%
 include callout.html
@@ -111,7 +111,7 @@ content="You will plug the cables into the electronics box in a few steps from n
 
 # Step 6: Install the LED light strip
 
-Route the [[LED strip]] (highlighted orange in the image below) through the center of the [[horizontal cable carrier supports]] on the [[gantry main beam]]. The end with the connector should be positioned near the electronics box.
+Route the [[LED strip]] (highlighted orange in the image below) through the center of the [[extruded 40mm horizontal cable carrier supports]] on the [[gantry main beam]]. The end with the connector should be positioned near the electronics box.
 
 {%
 include callout.html
