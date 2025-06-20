@@ -84,7 +84,7 @@ Plug the [[camera cable]] into the [[Raspberry Pi]]. The exact USB port chosen d
 
 # Step 5: Plug in the UTM cable
 
-Plug in the [[UTM cable]] to the [[Farmduino]].
+Plug in the [[Y UTM cable]] to the [[Farmduino]].
 
 {% include gallery.html images="
 ![farmduino utm connector](_images/farmduino_utm_1.png)
@@ -93,7 +93,7 @@ Plug in the [[UTM cable]] to the [[Farmduino]].
 
 # Step 6: Plug the power supply into the Farmduino
 
-Connect the [[power supply cable]]to the **Farmduino's power input**.
+Connect the [[power supply cable]] to the **Farmduino's power input**.
 
 {% include gallery.html images="
 ![farmduino power connector](_images/farmduino_power_1.png)
@@ -148,7 +148,7 @@ If you were equalizing the gantry as part of routine maintenance, remember to <s
 
 # Step 10: Mount the power supply
 
-Mount the [[power supply]] to your **supporting infrastructure** using four [[wood screws]].
+Mount the [[power supply]] to your **supporting infrastructure** using four [[T25 wood screws]].
 
 {%
 include callout.html

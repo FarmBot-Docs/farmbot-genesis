@@ -37,7 +37,7 @@ content="The ends of your tracks do not have to match up perfectly with the ends
 
 # Step 2: Attach the first track extrusion
 
-Attach the first [[track extrusion]] to the top of the supporting infrastructure using three [[wood screws]] and the provided [[T25 bit]] loaded into a drill or driver. The track extrusion should be flush against the side and top of the supporting infrastructure.
+Attach the first [[track extrusion]] to the top of the supporting infrastructure using three [[T25 wood screws]] and the provided [[T25 bit]] loaded into a drill or driver. The track extrusion should be flush against the side and top of the supporting infrastructure.
 
 ![Mount the first track extrusion](_images/first_track_extrusion.png)
 
@@ -51,7 +51,7 @@ Insert a [[40mm nut bar]] halfway into the slot of the [[track extrusion]] and s
 
 Position the next [[track extrusion]] on top of the supporting infrastructure and slide it towards the first extrusion such that the nut bar inserts into the slot.
 
-With the second extrusion butted up against the end of the first extrusion, secure it to the supporting infrastructure with three [[wood screws]]. Then secure the two extrusion ends together with a second [[M5 x 4mm setscrew]] in the nut bar.
+With the second extrusion butted up against the end of the first extrusion, secure it to the supporting infrastructure with three [[T25 wood screws]]. Then secure the two extrusion ends together with a second [[M5 x 4mm setscrew]] in the nut bar.
 
 ![Mount the second track extrusion](_images/second_track_extrusion.png)
 

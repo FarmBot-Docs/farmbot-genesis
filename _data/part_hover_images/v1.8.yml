@@ -2,9 +2,9 @@ version_number: 1.8
 bom:
   - category: extrusions
     parts:
-      - image: gantry_column.jpg
-      - image: gantry_main_beam.jpg
-      - image: track_extrusion.jpg
+      - image: gantry_column.png
+      - image: gantry_main_beam.png
+      - image: track_extrusion.png
       - image: z-axis_extrusion.jpg
   - category: fasteners-and-hardware
     parts:
@@ -38,6 +38,7 @@ bom:
       - image: nut_bar_20mm.jpeg
       - image: nut_bar_40mm.jpeg
       - image: nut_bar_60mm.jpeg
+      - image: nut_bar_160mm.png
       - image: rotary_tool_chuck_adapter.jpg
       - image: rotary_tool_chuck.jpg
       - image: rotary_tool_m5_shaft_adapter.jpg
@@ -46,7 +47,7 @@ bom:
       - image: rotary_tool_trimmer_mount.jpg
       - image: standard_spacer.jpg
       - image: wood_screw_t25.jpeg
-      - image: wrench_8mm_5_5mm_combo.jpeg
+      - image: wrench_8mm.jpg
       - image: zip_tie_200mm.jpg
   - category: tubing
     parts:
@@ -103,19 +104,19 @@ bom:
       - image: camera_cable.jpg
       - image: camera_calibration_card.jpg
       - image: camera.jpg
-      - image: electronics_box.jpg
+      - image: electronics_box.png
       - image: encoder.jpeg
       - image: encoder_cable.jpg
       - image: farmduino_data_cable.jpg
-      - image: farmduino.jpg
+      - image: farmduino.jpeg
       - image: fuse.jpg
       - image: jumper_link.jpg
-      - image: led_strip.jpg
+      - image: led_strip.jpeg
       - image: micro_sd_card_adapter.jpg
       - image: micro_sd_card.jpg
       - image: motor_cable.jpg
       - image: motor.jpg
-      - image: pi_adapter_board.jpg
+      - image: pi_adapter_board.png
       - image: pogo_pin_jam_nut.jpg
       - image: pogo_pin.jpg
       - image: power_cord_protector.jpg
@@ -127,31 +128,32 @@ bom:
       - image: push_button_nut.jpg
       - image: push_button_o_ring.jpg
       - image: push_button_wiring_harness.jpg
-      - image: raspberry_pi_power_cable.jpg
-      - image: raspberry_pi.jpg
+      - image: raspberry_pi_power_cable.jpeg
+      - image: raspberry_pi.jpeg
       - image: rotary_tool_motor.jpg
       - image: rotary_tool_pcb.jpg
       - image: shunt.jpg
       - image: soil_sensor_pcb.jpeg
-      - image: solenoid_valve_cable.jpg
+      - image: solenoid_valve_cable.jpeg
       - image: solenoid_valve.jpg
       - image: supergland.jpeg
       - image: utm_cable_y.jpg
+      - image: utm_cable_z.jpeg
       - image: utm_pcb.jpg
-      - image: vacuum_pump.jpg
-      - image: vacuum_pump_cable_y.jpeg
+      - image: vacuum_pump.jpeg
+      - image: vacuum_pump_cable_y.png
   - category: plates-and-brackets
     parts:
       - image: cable_carrier_mount_x_axis.jpeg
       - image: cable_carrier_mount_60mm.png
-      - image: belt_clip.jpeg
-      - image: cross-slide_plate.jpg
-      - image: gantry_corner_bracket_left.jpeg
-      - image: gantry_corner_bracket_right.jpeg
+      - image: belt_clip.png
+      - image: cross-slide_plate.png
+      - image: gantry_corner_bracket_left.png
+      - image: gantry_corner_bracket_right.png
       - image: gantry_joining_bar.png
-      - image: gantry_wheel_plate.jpg
+      - image: gantry_wheel_plate.png
       - image: seed_trough_holder_mount.jpg
       - image: toolbay_3-slot.jpg
       - image: vacuum_pump_mount.png
       - image: z-axis_hardstop.jpg
-      - image: z-axis_motor_mount.jpg
+      - image: z-axis_motor_mount.png

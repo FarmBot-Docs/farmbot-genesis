@@ -30,7 +30,7 @@ New [[gantry main beams]] are now significantly lighter weight without compromis
 
 # Extruded cable carrier supports
 
-New extruded [[horizontal cable carrier supports]] and [[vertical cable carrier supports]] are designed to slide into the gantry main beam and z-axis extrusion slots. They are lower cost, easier and faster to assemble, reduce total part count, better support and conceal the cables routed through them, and create a diffused look for the LED strip.
+New extruded [[extruded 40mm horizontal cable carrier supports]] and an [[extruded 40mm vertical cable carrier support]] are designed to slide into the gantry main beam and z-axis extrusion slots. They are lower cost, easier and faster to assemble, reduce total part count, better support and conceal the cables routed through them, and create a diffused look for the LED strip.
 
 {% include gallery.html images="
 ![horizontal cable carrier supports](_images/horizontal_cable_carrier_supports.png)
@@ -51,13 +51,13 @@ The [[vacuum pump]] has been relocated to the cross-slide, reducing the weight a
 
 # Smaller Y and Z cable carriers
 
-The Y and Z [[cable carriers]] are now 20mm narrower (15x30 internal size), incrementally improving movements, costs, and shipping weight. These changes also required a new [[cross-slide plate]], [[vertical motor housing]], [[40mm cable carrier spacer block]], [[60mm cable carrier mount]], and [[40mm vertical cable carrier support]].
+The [[Y-axis cable carrier]] and [[Z-axis cable carrier]] are now 20mm narrower (15x30 internal size), incrementally improving movements, costs, and shipping weight. These changes also required a new [[cross-slide plate]], [[vertical motor housing]], [[40mm cable carrier spacer block]], [[60mm cable carrier mount]], and [[40mm vertical cable carrier support]].
 
 ![smaller cable carrier](_images/cable_carrier.png)
 
 # Lighter plates and brackets
 
-The [[gantry wheel plates]], [[gantry corner brackets]], [[cross-slide plate]], and [[z-axis motor mount]] have all been optimized to be lighter weight and use smaller 40mm nut bars instead of 60mm nut bars for assembly onto extrusions.
+The [[gantry wheel plates]], [[left gantry corner bracket]], [[right gantry corner bracket]], [[cross-slide plate]], and [[z-axis motor mount]] have all been optimized to be lighter weight and use smaller 40mm nut bars instead of 60mm nut bars for assembly onto extrusions.
 
 {% include gallery.html images="
 ![gantry wheel plate](_images/gantry_wheel_plate.png)
@@ -82,10 +82,10 @@ The [[belt clips]] now feature small divots to hold a rubber o-ring [[belt clip 
 
 The following cables and tubing were shortened slightly to eliminate the need to coil and secure or trim excess length.
 
-- Reduced the length of X-axis [[cable carrier]] by 5 links.
+- Reduced the length of [[X-axis cable carrier]] by 5 links.
 - Reduced the length of the [[power supply]] input by 50mm and the output by 150mm.
 - Reduced the length of the [[power supply cable]] by 0.5m.
-- Reduced the length of the Z [[UTM cable]] by 100mm.
+- Reduced the length of the [[Z UTM cable]] by 100mm.
 - Reduced the length of X-axis [[water tube]] by 0.5m.
 - Reduced the length of the LED strip by 0.3m.
 

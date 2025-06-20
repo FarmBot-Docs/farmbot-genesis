@@ -61,7 +61,7 @@ If your space or supporting infrastructure do not allow for the FarmBot to be bu
 |<i></i>   |Easy Method |Harder Method |
 |----------|------------|--------------|
 |Length    |Use fewer [[track extrusions]] to scale down in increments of 1m.|Cut the track extrusions to size using a chop saw or hack saw.|
-|Width     |Use fewer [[gantry main beam]] extrusions and [[horizontal cable carrier supports]] to scale down in increments of 0.75m (Genesis) or 1m (Genesis (XL)).|Cut the gantry main beam extrusions and horizontal cable carrier supports to size using a chop saw or hack saw.|
+|Width     |Use fewer [[gantry main beam]] extrusions and [[extruded 40mm horizontal cable carrier supports]] to scale down in increments of 0.75m (Genesis) or 1m (Genesis (XL)).|Cut the gantry main beam extrusions and horizontal cable carrier supports to size using a chop saw or hack saw.|
 |Height    |Adjust the location of the [[Z-axis hardstops]] to limit the machine from moving too high.|Cut the [[gantry columns]] and [[Z-axis extrusion]] to length using a chop saw or hack saw.|
 
 If scaling the machine down significantly, you may also need to:

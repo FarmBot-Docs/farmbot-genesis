@@ -25,7 +25,7 @@ Attach the pre-assembled [[vacuum pump]] subassembly to the [[cross-slide plate]
 
 ![Mount the vacuum pump](_images/mount_the_vacuum_pump.png)
 
-Then connect the [[inline air filter]] and [[vacuum pump tube]] between the pump and the tube coming from the Z-axis cable carrier.
+Then connect the [[inline air filter]] and [[vacuum tube]] between the pump and the tube coming from the Z-axis cable carrier.
 
 {%
 include callout.html
@@ -81,7 +81,7 @@ Secure the belt at the other end of the gantry with another [[belt clip]], [[20m
 
 # Step 5: Attach the cable carrier
 
-Lay the [[y-axis cable carrier]] onto the [[horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[60mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
+Lay the [[y-axis cable carrier]] onto the [[extruded 40mm horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[60mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc.png)
 
@@ -100,7 +100,7 @@ Connect the [[Y vacuum pump cable]] (`VAC`) to the [[vacuum pump]].
 
 ![Vacuum pump cable](_images/vacuum_pump_cable.png)
 
-Connect the Y-axis and Z-axis sections of the [[UTM cable]] (`UTM`) together with the 12-pin connectors.
+Connect the [[Y UTM cable]] and [[Z UTM cable]] (`UTM`) together with the 12-pin connectors.
 
 ![90 degree connectors](_images/90_degree_connectors_1.png)
 
