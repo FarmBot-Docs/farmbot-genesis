@@ -19,23 +19,7 @@ Attach the [[60mm cable carrier mount]] to the [[cross-slide plate]] using two [
 
 ![Attach the cable carrier mount](_images/cross_slide_cable_carrier_mount.png)
 
-# Step 2: Mount the vacuum pump
-
-Attach the pre-assembled [[vacuum pump]] subassembly to the [[cross-slide plate]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]].
-
-![Mount the vacuum pump](_images/mount_the_vacuum_pump.png)
-
-Then connect the [[inline air filter]] and [[vacuum tube]] between the pump and the tube coming from the Z-axis cable carrier.
-
-{%
-include callout.html
-type="info"
-content="Ensure you connect the tubing to the **inlet** port of the vacuum pump, as denoted by the arrow pointing up."
-%}
-
-![Connect the inline air filter](_images/inline_air_filter.png)
-
-# Step 3: Slide the cross-slide onto the gantry main beam
+# Step 2: Slide the cross-slide onto the gantry main beam
 
 In order for the cross-slide to slide smoothly and wobble-free on the gantry main beam, you must adjust the [[eccentric spacers]] of the bottom two V-wheels. Adjust the [[eccentric spacers]] using the [eccentric spacer adjustment reference guide](../extras/reference/eccentric-spacer-adjustment.md).
 
@@ -59,7 +43,7 @@ content="The cross-slide should move easily across the full width of the gantry.
 Pay special attention to the joint(s) between the gantry main beam extrusions. If there is any significant bump or resistance to movement at a joint, use **150 grit sand paper** to sand away the bump."
 %}
 
-# Step 4: Feed and secure the belt
+# Step 3: Feed and secure the belt
 
 Secure one end of the *short* [[belt]] to a [[belt clip]] using a [[belt sleeve]] and then attach the clip to the end of the gantry main beam using two [[M5 x 10mm screws]] and a [[20mm nut bar]]. The tab of the belt clip should be oriented towards the front of the FarmBot. Refer to the [belt installation guide](../extras/reference/belt-installation.md) for reference.
 
@@ -79,11 +63,27 @@ Secure the belt at the other end of the gantry with another [[belt clip]], [[20m
 
 ![Secure the other end of the belt](_images/y_axis_belt_end.png)
 
-# Step 5: Attach the cable carrier
+# Step 4: Attach the cable carrier
 
 Lay the [[y-axis cable carrier]] onto the [[extruded 40mm horizontal cable carrier supports]] on the [[gantry main beam]] such that the end with the **90-degree** connectors will connect to the **cross-slide**. Attach the cable carrier to the [[60mm cable carrier mount]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]]. The screws should thread firmly through the cable carrier end piece.
 
 ![Mount the cable carrier](_images/attach_y_cc.png)
+
+# Step 5: Mount the vacuum pump
+
+Attach the pre-assembled [[vacuum pump]] subassembly to the [[cross-slide plate]] using two [[M5 x 16mm screws]] and [[M5 flange locknuts]].
+
+![Mount the vacuum pump](_images/mount_the_vacuum_pump.png)
+
+Then connect the [[inline air filter]] and [[vacuum tube]] between the pump and the tube coming from the Z-axis cable carrier.
+
+{%
+include callout.html
+type="info"
+content="Ensure you connect the tubing to the **inlet** port of the vacuum pump, as denoted by the arrow pointing up."
+%}
+
+![Connect the inline air filter](_images/inline_air_filter.png)
 
 # Step 6: Connect the water tubing
 
