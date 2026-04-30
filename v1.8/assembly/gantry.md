@@ -185,6 +185,12 @@ type="info"
 content="You will need to provide a garden hose of the appropriate length to connect FarmBot to your municipal water source - one is not provided with the FarmBot kits."
 %}
 
+{%
+include callout.html
+type="warning"
+content="FarmBot is designed to work with typical **municipal water pressure between 40 PSI and 55 PSI (275kPa and 379kPa)**. If your water pressure is too high, FarmBot's tubing or watering system may burst or leak and cause flooding. Ensure that the water pressure does not exceed 60 PSI (413kPa). Use a pressure regulator if necessary. See these additional [troubleshooting tips](../extras/troubleshooting/water-pressure.md)."
+%}
+
 ![Connect to the water source](_images/connect_to_the_water_source.png)
 
 # Step 10: Attach the seed trough holder
